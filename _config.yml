@@ -10,6 +10,13 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# Exclude README.md so index.md takes precedence
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
 # Footer content
 author: NSW Mesh Community
 email:
