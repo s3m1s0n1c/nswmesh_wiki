@@ -1,0 +1,16 @@
+title: NSW Mesh Wiki
+
+# GitHub Pages will automatically use the minima theme
+theme: minima
+
+# Jekyll serves from root, content lives in root and docs/
+
+# Basic plugins that GitHub Pages supports
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Footer content
+author: NSW Mesh Community
+email:
+description: Community-maintained knowledge base for everything Meshtastic in Sydney and throughout New South Wales
