@@ -14,4 +14,4 @@ This choice reflects Sydney's unique geography and the wide spacing of our users
 | Spreading Factor   | SF11 **(Modified from standard!)** |
 | Coverage Area      | Sydney metropolitan area           |
 | Network Type       | Mesh networking                    |
-| Sydney Channel     | #Sydney (key is auto generated)    |
+| Sydney Channel     | #sydney (key is auto generated)    |
