@@ -16,4 +16,4 @@ This choice reflects Sydney's unique geography and the wide spacing of our users
 | Network Type       | Mesh networking                    |
 | Sydney Channel     | #sydney (key is auto generated)    |
 | Nepean Channel     | #nepean (key is auto generated)    |
-| NSW Wide Channel   | *nsw (key is auto generated)       | 
+| NSW Wide Channel   | #nsw (key is auto generated)       | 
