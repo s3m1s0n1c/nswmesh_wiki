@@ -55,4 +55,6 @@ IF you can find the prioduct at Aldi it was $15, otherwise Bunnings sell them fo
 
 ## 📸 Photos
 
-*(Optional — insert build photos here)*
+![](/aldi-solar-1.png)
+
+![](/aldi-solar-2.png)
