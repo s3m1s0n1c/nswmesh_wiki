@@ -19,3 +19,4 @@ This choice reflects Sydney's unique geography and the wide spacing of our users
 | NSW Wide Channel   | #nsw (key is auto generated)       | 
 | Macarthur Channel   | #macarthur (key is auto generated)      |
 | test Channel   | #test (key is auto generated)       |
+| Central Coast Channel   | #centralcoast (key is auto generated)       |
