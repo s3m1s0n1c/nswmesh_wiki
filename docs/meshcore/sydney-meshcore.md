@@ -17,5 +17,5 @@ This choice reflects Sydney's unique geography and the wide spacing of our users
 | Sydney Channel     | #sydney (key is auto generated)    |
 | Nepean Channel     | #nepean (key is auto generated)    |
 | NSW Wide Channel   | #nsw (key is auto generated)       | 
-| Macarthur Channel   | #nsw (key is auto generated)      |
-| test Channel   | #nsw (key is auto generated)       |
+| Macarthur Channel   | #macarthur (key is auto generated)      |
+| test Channel   | #test (key is auto generated)       |
