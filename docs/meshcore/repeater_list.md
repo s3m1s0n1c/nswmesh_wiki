@@ -52,6 +52,7 @@
 | BE | 🌱nrf52 Battery Test | beede836a76e2354b16ee1e738fff607565a4dfb40d6d0ba38f0a93f05d6a880 |
 | C1 | Overkill - Roof | c1cc1f7ba116e955fb0552432570ec76a99473b6563ccd6c8231375448d86a98 |
 | C1 | Epping Repeater | c1237b61af7d13a9ee02ed377859f17bf941accea3b191c2bfe2b7a610d7b371 | 
+| C2 | 📟Mosman-Balmoral | c2a73ce3e6924b6e09ae2357fca65a6a1ebdb1245e9aba09327480ee2cf36742 |
 | C3 | JustSean Repeater 1 | c349ffeb68ed1169be0775af01085e7c0fdabd18e1e327f8b56b4499835c7645 |
 | C8 | 🛜LUX05 - Bald Hill | c84e5ab84acbd0f2e660ae5213274fb3353d2f7ce1c9d9ff3ba10ebf0e963e1c |
 | C9 | ✝️ADF OrchardHills | c994088710b5279e7e162f914d8321e73f340bf27c869a0c00feaebe4100ba3a |
