@@ -8,4 +8,4 @@
 |#macarthur | Macarthur Area |
 |#test | Test Channel |
 |#centralcoast | Central Coast Area |
-|#illawarra   | #illawarra (key is auto generated)       |
+|#illawarra   | Illawarra (key is auto generated)       |
