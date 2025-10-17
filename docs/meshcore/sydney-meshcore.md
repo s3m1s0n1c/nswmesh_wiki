@@ -8,6 +8,8 @@ This choice reflects Sydney's unique geography and the wide spacing of our users
 
 ## Configuration Details
 
+When configuring Repeaters we have a naming convention we ask you please follow. Name repeaters that are fixed by location, that can be suburb, or the name of thr hill, mountain, building or similar. This keeps it simple to pick traces out of a repeater listing. Mobile repeaters please name as mobile repeater. Please name your guest access password ' password' if you intend to allow guest access.
+
 | Option             | Value                              |
 |--------------------|------------------------------------|
 | Base Configuration | ANZ Standard                       |
