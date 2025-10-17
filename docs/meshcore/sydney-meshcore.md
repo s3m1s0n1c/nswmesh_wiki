@@ -22,3 +22,4 @@ When configuring Repeaters we have a naming convention we ask you please follow.
 | Macarthur Channel   | #macarthur (key is auto generated)      |
 | test Channel   | #test (key is auto generated)       |
 | Central Coast Channel   | #centralcoast (key is auto generated)       |
+| Discord Bridge AI bot   | #rolojr (key is auto generated)       |
