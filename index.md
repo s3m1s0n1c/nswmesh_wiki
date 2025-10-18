@@ -2,7 +2,7 @@
 title: Welcome to NSW Mesh
 ---
 
-This is the community-maintained knowledge base for everything Meshtastic in Sydney and throughout New South Wales.
+This is the community-maintained knowledge base for everything Mesh in Sydney and throughout New South Wales.
 
 We're experimenters, bushwalkers, emergency‑comms nerds and tinkerers. Jump into [our Discord](https://discord.gg/Du437Usj3K) and say hi, or explore the live tools and articles below.
 
