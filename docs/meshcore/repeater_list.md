@@ -12,13 +12,14 @@ As of October 2025, Meshcore identifies repeaters and roomservers using the firs
 | 08 | ✝️Cleric | 08c56aed8e7cb5097659bf839f7b18cc80cde8d7d837cc9c6576021b030d46e2 |
 | 08 | t1000 ✝️ | 08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8 |
 | 0C | ✝️Wst Syd Airport | 0cdb20c2f916c35e1479d663b53f9380cb236ca7de0a25195251cb909d60ca6b |
+| 0D | RobCo Industries  - Wal | 0d3fac9fc4e6e4583d26ca8748f09fc09685288dea15925d8e56d50194d82547 |
 | 11 | 🌱Chester Street | 113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642 |
 | 1A | Gym_Reps | 1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8 |
 | 20 | 2211 Padstow | 202f1356b085c24490c9bacb13c9032b95c6991f8bbf28bb856c40a50b1463e5 |
 | 22 | ✝️ Cleric Test Repe | 22e3daa55da62589ee5c93fe0313762d9268f7f5243fb20ba1d279ccf4a53524 |
 | 23 | Gregory Hills Rpt | 23fc50160778f87caf7af401d786692b74efded66d9bff5b20cf40395341d688 |
 | 27 | 🌱Ivy Desk | 27ecf222f0f7ff9628db54b0b2a492d72a2300c3c9f0430738bbca2840461b7d |
-| 28 | Mount Annan Rpt | 28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16 |
+| 28 | Mount Annan ☠️ | 28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16 |
 | 2E | 🛜LUX08 - Knights Hil | 2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05 |
 | 30 | Overkill - Asquith | 30b0840ed68aff84bab3721f956191ee51098970b429b730798e9eb01f7422ff |
 | 32 | Overkill - Staples | 32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9 |
@@ -27,6 +28,7 @@ As of October 2025, Meshcore identifies repeaters and roomservers using the firs
 | 36 | 🌱Camperdown | 36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092 |
 | 37 | Caringbah Repeater | 376925ee45a03bffcb6f37b252b6394d45f07ec488993c6c0db60d17438f6a7b |
 | 39 | Ch1cken 2220 Repeater | 39c3db1cfdab1123eff16cb8b88fc0e2b9cc1da04e5b6cb94d5f8fb73cf17ed3 |
+| 3D | Overkill - Balloon | 3d2d43f27ca9293938fa7007678348f7f6b41f7cd537c047720dd531afa30b2e |
 | 3F | SIR | 3fcd74ecde23058c3ea8afc4d74a1fec6e115be4f603f627e2f92ebab4fd38cb |
 | 41 | RR2 | 41d3de71e5690239fead4860bd14679f1f284bcbf36f2d8d87f34a491d205ad6 |
 | 47 | Battery Testing 🌱| 476d9c071c2342b5b8fdb46cdecdcef69abb4d0e11f81b3b0ef453bc67d81c53 |
@@ -43,6 +45,7 @@ As of October 2025, Meshcore identifies repeaters and roomservers using the firs
 | 6D | 🛜LUX06 - Kiama | 6d4ec1f2204fafe7f778490dbdfcf1f96553a00ca16c33f2e942eaaa022b631c |
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |
 | 6F | Overkill - Normanhurst | 6f6ce7b924327af4016e9ebd9a6a0f9591fd63461062ef3085517c5969b7ef49 |
+| 77 | 🌱Currently Balcony | 77e23abdcd640dec47ca7361a3f0dc6a492871c6ddcb0240926d97978174baf9 |
 | 78 | Waterloo 🌱 | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 |
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 |
 | 87 | 👾Sonic - Green Point | 870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046 |
