@@ -31,7 +31,7 @@ As of 19 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 3F | SIR | 3fcd74ecde23058c3ea8afc4d74a1fec6e115be4f603f627e2f92ebab4fd38cb |
 | 41 | RR2 | 41d3de71e5690239fead4860bd14679f1f284bcbf36f2d8d87f34a491d205ad6 |
 | 42 | RobCo Platinum Chip | 42b17e605d18948f668cf91e3846a11f7b34e2d03bd6ad862aba9d0ed1a4a635 |
-| 47 | Battery Testing 🌱 | 476d9c071c2342b5b8fdb46cdecdcef69abb4d0e11f81b3b0ef453bc67d81c53 |
+| 47 | Haberfield MerrMan | 4703c8e6363830fddc200d6953e5c4b902086bb6cbde2e3de7efb3555494f1e4 |
 | 49 | Overkill - St Leonards | 49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff |
 | 4B | Dingus repeater | 4ba9c51b34d518ec8f22bf3f93621d1a11b67368818ae228adc63dbff250dd6a |
 | 4C | 🛜LUX03 - Keira Nth | 4c05703c81e953185a2d4282827c3e8a3aef846749a32e7b1a215e1edc03911a |
