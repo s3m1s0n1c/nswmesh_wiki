@@ -25,7 +25,7 @@ We're experimenters, bushwalkers, emergency‑comms nerds and tinkerers. Jump in
 -Meshcore Links and Tools (primary system in use in Sydney currently)
     - [Live Map](https://meshcore.co.uk/map.html)
     - [Meshcore site](https://meshcore.co.uk/index.html).
-    - [Meshcore Wiki}(https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md).
+    - [Meshcore Wiki](https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md).
     - [How to get started with Meshcore Video](https://youtu.be/t1qne8uJBAc?si=0vyErpZz1wsbG_hJ).
     - [Meshcore Firmware Web Flasher](https://flasher.meshcore.co.uk/).
     - [Official Meshcore Youtube Channel](https://www.youtube.com/@meshcore-official).
