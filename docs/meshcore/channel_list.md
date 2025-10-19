@@ -8,4 +8,5 @@
 |#macarthur | Macarthur Area |
 |#test | Test Channel |
 |#centralcoast | Central Coast Area |
-|#illawarra   | Illawarra (key is auto generated)       |
+|#illawarra   | Illawarra |
+|#rolojnr     | Discord bridge AI Bot |
