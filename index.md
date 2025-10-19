@@ -15,7 +15,7 @@ We're experimenters, bushwalkers, emergency‑comms nerds and tinkerers. Jump in
 {% for group in grouped_pages %}
   {% assign folder_name = group.name | remove: "/docs/" | remove: "/" | replace: "-", " " | capitalize %}
   {% if folder_name == "" %}
-    {% assign folder_name = "General" %}
+    {% assign folder_name = "General Articles" %}
   {% endif %}
 - {{ folder_name }}
 {% for page in group.items %}
