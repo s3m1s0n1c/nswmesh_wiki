@@ -8,6 +8,7 @@ As of October 2025, Meshcore identifies repeaters and roomservers using the firs
 | public_key_prefix | name | public_key |
 | --- | --- | --- |
 | 01 | VK2MR Roof (ebyte) | 012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab |
+| 01 | Bradbury Repeater ☢ | 012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab |
 | 05 | Overkill - Mt Colah | 05265b086d2548b1eb1d60716f282972fd1451ff2edd124aa832c7b99fc3c3b0 |
 | 08 | ✝️Cleric | 08c56aed8e7cb5097659bf839f7b18cc80cde8d7d837cc9c6576021b030d46e2 |
 | 08 | t1000 ✝️ | 08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8 |
