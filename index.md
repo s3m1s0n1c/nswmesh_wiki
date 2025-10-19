@@ -23,7 +23,7 @@ We're experimenters, bushwalkers, emergency‑comms nerds and tinkerers. Jump in
 {% endfor %}
 {% endfor %}
 
--Meshcore Links and Tools (primary system in use in Sydney currently)
+- Meshcore Links and Tools (primary system in use in Sydney currently)
     - [Live Map](https://meshcore.co.uk/map.html)
     - [Meshcore site](https://meshcore.co.uk/index.html).
     - [Meshcore Wiki](https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md).
