@@ -1,5 +1,6 @@
 ---
 title: Meshtastic vs Meshcore
+author: David VK2FRT
 ---
 
 # Why should I switch?
