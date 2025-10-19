@@ -35,7 +35,7 @@ We're experimenters, bushwalkers, emergency‑comms nerds and tinkerers. Jump in
     - [Meshcore Repeater and Roomserver CLI Reference](https://github.com/meshcore-dev/MeshCore/wiki/Repeater-&-Room-Server-CLI-Reference).
     - [Meshcore web Client By Liam Cottle](https://meshcore.liamcottle.net/#/).
     
-- Meshtastic Tools and Link (secondary system still in use in Sydney)
+- Meshtastic Tools and Links (secondary system still in use in Sydney)
     - [Live Map](https://map.nswmesh.au/map)
     - [Node List](https://map.nswmesh.au/nodelist)
     - [Conversations / Weekly Net](https://map.nswmesh.au/net)
