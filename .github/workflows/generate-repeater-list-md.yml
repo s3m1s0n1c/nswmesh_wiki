@@ -28,13 +28,32 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Check for dependency files
+        id: depfiles
+        run: |
+          if [ -n "$(git ls-files '**/requirements.txt' '**/pyproject.toml')" ]; then
+            echo "has_deps=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_deps=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      # With cache
+      - name: Set up Python (with cache)
+        if: steps.depfiles.outputs.has_deps == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
           cache-dependency-path: |
-            scripts/requirements.txt
+            **/requirements.txt
+            **/pyproject.toml
+
+      # Without cache
+      - name: Set up Python (no cache)
+        if: steps.depfiles.outputs.has_deps == 'false'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
       - name: Install dependencies (none needed, but keep for future)
         run: |
