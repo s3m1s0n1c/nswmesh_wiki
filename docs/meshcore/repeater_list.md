@@ -50,6 +50,7 @@ As of 20th October 2025, Meshcore identifies repeaters and roomservers using the
 | 77 | 🌱Currently Balcony | 77e23abdcd640dec47ca7361a3f0dc6a492871c6ddcb0240926d97978174baf9 |
 | 78 | Waterloo 🌱 | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 |
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 |
+| 86 | Sonic - MQTT | 8637ecde56ede0c23613c3a27102d63fea3958dd67fc4b747e5aded448e115f3 |
 | 87 | 👾Sonic - Green Point | 870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046 |
 | 89 | HP Tallawong Repeater | 8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6 |
 | 8E | 🌱Tree II | 8e5df14eb7a2e7ae6da34f9b5f2013890b9c73f5b842b5558b6315b8688184d0 |
