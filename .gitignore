@@ -1,7 +1,29 @@
-vendor
-.idea
-.bundle
-.vscode
+# Jekyll
 _site
+vendor
+.bundle
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+# IDEs and editors
+.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# MCP and AI tools
 .claude
 .playwright-mcp
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
