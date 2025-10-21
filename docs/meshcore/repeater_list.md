@@ -2,7 +2,7 @@
 title: NSW Meshcore Repeater List
 ---
 
-As of 20th October 2025, Meshcore identifies repeaters and roomservers using the first two bytes of the node's key prefix. If two repeater nodes share the same key prefix, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
+As of 21th October 2025, Meshcore identifies repeaters and roomservers using the first two bytes of the node's key prefix. If two repeater nodes share the same key prefix, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
 
 
 | public_key_prefix | name | public_key |
@@ -46,11 +46,9 @@ As of 20th October 2025, Meshcore identifies repeaters and roomservers using the
 | 6D | 🛜LUX06 - Kiama | 6d4ec1f2204fafe7f778490dbdfcf1f96553a00ca16c33f2e942eaaa022b631c |
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |
 | 6F | Overkill - Normanhurst | 6f6ce7b924327af4016e9ebd9a6a0f9591fd63461062ef3085517c5969b7ef49 |
-| 71 | Breakfast Point Repeate | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 |
 | 77 | 🌱Currently Balcony | 77e23abdcd640dec47ca7361a3f0dc6a492871c6ddcb0240926d97978174baf9 |
 | 78 | Waterloo 🌱 | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 |
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 |
-| 86 | Sonic - MQTT | 8637ecde56ede0c23613c3a27102d63fea3958dd67fc4b747e5aded448e115f3 |
 | 87 | 👾Sonic - Green Point | 870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046 |
 | 89 | HP Tallawong Repeater | 8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6 |
 | 8E | 🌱Tree II | 8e5df14eb7a2e7ae6da34f9b5f2013890b9c73f5b842b5558b6315b8688184d0 |
