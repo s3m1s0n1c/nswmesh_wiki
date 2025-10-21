@@ -2,15 +2,15 @@
 title: NSW Meshcore Repeater List
 ---
 
-As of 19th October 2025, Meshcore identifies repeaters and roomservers using the first two bytes of the node's key prefix. If two repeater nodes share the same key prefix, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
+As of 20th October 2025, Meshcore identifies repeaters and roomservers using the first two bytes of the node's key prefix. If two repeater nodes share the same key prefix, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
 
 
 | public_key_prefix | name | public_key |
 | --- | --- | --- |
 | 01 | Bradbury Repeater ☢ | 012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab |
 | 05 | Overkill - Mt Colah | 05265b086d2548b1eb1d60716f282972fd1451ff2edd124aa832c7b99fc3c3b0 |
-| 08 | ✝️Cleric | 08c56aed8e7cb5097659bf839f7b18cc80cde8d7d837cc9c6576021b030d46e2 |
 | 08 | t1000 ✝️ | 08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8 |
+| 08 | ✝️Cleric | 08c56aed8e7cb5097659bf839f7b18cc80cde8d7d837cc9c6576021b030d46e2 |
 | 0C | ✝️Wst Syd Airport | 0cdb20c2f916c35e1479d663b53f9380cb236ca7de0a25195251cb909d60ca6b |
 | 11 | 🌱Chester Street | 113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642 |
 | 1A | Gym_Reps | 1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8 |
@@ -66,8 +66,8 @@ As of 19th October 2025, Meshcore identifies repeaters and roomservers using the
 | BB | ✝️Nepean River | bb18fef9928d2582f07bc4cfb77e2d057c0bbfd6873381a64f433961d0da71da |
 | BD | ☎️ Jamberoo | bd00f382f921bbd739cbd277309b104ccb58743aa62a3ea3f9fed681e54fa6a8 |
 | BE | 🌱nrf52 Battery Test | beede836a76e2354b16ee1e738fff607565a4dfb40d6d0ba38f0a93f05d6a880 |
-| C1 | Overkill - Roof | c1cc1f7ba116e955fb0552432570ec76a99473b6563ccd6c8231375448d86a98 |
 | C1 | Epping Repeater | c1237b61af7d13a9ee02ed377859f17bf941accea3b191c2bfe2b7a610d7b371 |
+| C1 | Overkill - Roof | c1cc1f7ba116e955fb0552432570ec76a99473b6563ccd6c8231375448d86a98 |
 | C2 | 📟Mosman-Balmoral | c2a73ce3e6924b6e09ae2357fca65a6a1ebdb1245e9aba09327480ee2cf36742 |
 | C3 | JustSean Repeater 1 | c349ffeb68ed1169be0775af01085e7c0fdabd18e1e327f8b56b4499835c7645 |
 | C8 | 🛜LUX05 - Bald Hill | c84e5ab84acbd0f2e660ae5213274fb3353d2f7ce1c9d9ff3ba10ebf0e963e1c |
