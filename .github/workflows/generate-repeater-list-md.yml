@@ -27,6 +27,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Show workspace layout
+        run: |
+          pwd
+          ls -la
+          echo "---- tracked files ----"
+          git ls-files
 
       - name: Check for dependency files
         id: depfiles

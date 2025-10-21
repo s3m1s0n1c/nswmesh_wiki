@@ -65,7 +65,7 @@ def format_as_of(date_str: str | None) -> str:
             return date_str
     else:
         dt = datetime.now()
-    day = str(dt.strftime("%dth"))
+    day = str(dt.strftime("%d"))
     return f"{day} {dt.strftime('%B %Y')}"
 
 def table_markdown(rows: List[Dict], wrap: int) -> str:
