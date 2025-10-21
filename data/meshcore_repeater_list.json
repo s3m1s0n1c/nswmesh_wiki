@@ -294,5 +294,13 @@
   {
     "name": "RIPPLE-SYD-ILLAWONG-RPT",
     "public_key": "fef2dcf0570fdd0d9c9dfed38c35d0e25ce0aeeb98ed6ad5533e51f57c4c05ee"
+  },
+  {
+    "name": "Breakfast Point Repeate",
+    "public_key": "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9"
+  },
+  {
+    "name": "Sonic - MQTT",
+    "public_key": "8637ecde56ede0c23613c3a27102d63fea3958dd67fc4b747e5aded448e115f3"
   }
 ]
