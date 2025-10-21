@@ -46,7 +46,7 @@ As of 19th October 2025, Meshcore identifies repeaters and roomservers using the
 | 6D | 🛜LUX06 - Kiama | 6d4ec1f2204fafe7f778490dbdfcf1f96553a00ca16c33f2e942eaaa022b631c |
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |
 | 6F | Overkill - Normanhurst | 6f6ce7b924327af4016e9ebd9a6a0f9591fd63461062ef3085517c5969b7ef49 |
-| 71 | Breakfast Poit Repeate | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 |
+| 71 | Breakfast Point Repeate | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 |
 | 77 | 🌱Currently Balcony | 77e23abdcd640dec47ca7361a3f0dc6a492871c6ddcb0240926d97978174baf9 |
 | 78 | Waterloo 🌱 | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 |
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 |
