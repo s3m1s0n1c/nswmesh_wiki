@@ -40,8 +40,8 @@
     "public_key": "23fc50160778f87caf7af401d786692b74efded66d9bff5b20cf40395341d688"
   },
   {
-    "name": "\ud83c\udf31Ivy Desk",
-    "public_key": "27ecf222f0f7ff9628db54b0b2a492d72a2300c3c9f0430738bbca2840461b7d"
+    "name": "🌱ESPNow Brdg 442.5",
+    "public_key": "26c5471dbe0f6134dc6c98004b02296346b7bf42b6df6d3607f3a1e87ecd3aca"
   },
   {
     "name": "Mount Annan \u2620\ufe0f",
@@ -96,6 +96,10 @@
     "public_key": "42b17e605d18948f668cf91e3846a11f7b34e2d03bd6ad862aba9d0ed1a4a635"
   },
   {
+    "name": "🌱ESPNow Brdg 915.8",
+    "public_key": "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280"
+  },
+  {
     "name": "Haberfield MerrMan",
     "public_key": "4703c8e6363830fddc200d6953e5c4b902086bb6cbde2e3de7efb3555494f1e4"
   },
@@ -120,8 +124,8 @@
     "public_key": "50ff816be5a008fff552a13d2b5f473d17a0988d75be9417422bef94c84e2f96"
   },
   {
-    "name": "Ultimo \ud83c\udf31",
-    "public_key": "5339913b6d4657c76a5a2ad29bf3f0f3a5a81c7564fc49be674cb69abf071345"
+    "name": "ENGADINE REPEATER",
+    "public_key": "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c"
   },
   {
     "name": "\ud83c\udf31Tree Repeater",
@@ -154,10 +158,6 @@
   {
     "name": "Overkill - Normanhurst",
     "public_key": "6f6ce7b924327af4016e9ebd9a6a0f9591fd63461062ef3085517c5969b7ef49"
-  },
-  {
-    "name": "\ud83c\udf31Currently Balcony",
-    "public_key": "77e23abdcd640dec47ca7361a3f0dc6a492871c6ddcb0240926d97978174baf9"
   },
   {
     "name": "Waterloo \ud83c\udf31",
@@ -196,7 +196,11 @@
     "public_key": "a70565285faeacff0b330779577cb25865d215fcc23664080ba5ab3c8602b89c"
   },
   {
-    "name": "Greendale Repeater",
+    "name": "🌱ESPNow Brdg Narrow",
+    "public_key": "a86575f57734a68dbe09d8a0e8d1f478b78084a041a168364a5f32d02238bb74"
+  },
+  {
+    "name": "Greendale Repeater ☠",
     "public_key": "a97b453e4f9622cd013acf59bfbf3d0eb510d2d13b3b218ba4c700780ac8e8ea"
   },
   {
@@ -268,7 +272,7 @@
     "public_key": "e4093953a6408506c962a158b65d07eac37782f4d428d23e6eb11ddc6652e4fd"
   },
   {
-    "name": "Pipehead",
+    "name": "Guildford West ",
     "public_key": "eb00c2c51c76eb233a036a75eea562681814cc391cc5cb9d42ca25e94b814181"
   },
   {
