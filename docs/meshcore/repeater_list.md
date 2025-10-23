@@ -31,6 +31,8 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 41 | RR2 | 41d3de71e5690239fead4860bd14679f1f284bcbf36f2d8d87f34a491d205ad6 |
 | 42 | RobCo Platinum Chip | 42b17e605d18948f668cf91e3846a11f7b34e2d03bd6ad862aba9d0ed1a4a635 |
 | 44 | 🌱ESPNow Brdg 915.8 | 44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280 |
+| 45 | 🌱Not Yet Deployed | 456dc49658de636807d26053da68d7ba8d17087eda281ccedd725fc49f27ae81 |
+| 46 | 🌱Not Yet Deployed | 465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90 |
 | 47 | Haberfield MerrMan | 4703c8e6363830fddc200d6953e5c4b902086bb6cbde2e3de7efb3555494f1e4 |
 | 49 | Overkill - St Leonards | 49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff |
 | 4B | Dingus repeater | 4ba9c51b34d518ec8f22bf3f93621d1a11b67368818ae228adc63dbff250dd6a |
@@ -38,7 +40,6 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 4E | Overkill - Cherrybrook | 4eddfdd6e9ccafa99ce893e5f3d0223befa7d0c9ca7b1c98572a223dd1671e6c |
 | 50 | VK2FRTS/Sonic - Green P | 50ff816be5a008fff552a13d2b5f473d17a0988d75be9417422bef94c84e2f96 |
 | 53 | ENGADINE REPEATER | 53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c |
-| 5F | 🌱Tree Repeater | 5f776a2c99246ca282123b256a14c6b2aea1e5c0b41e20b19c96f830da694acb |
 | 65 | 🐄 North Sydney | 65beef87abb2539dc4761bab7a2c7b30409b6271ad7707837c51cc2f3d722957 |
 | 67 | HangingRock Repeater | 67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a |
 | 68 | 🐄 Marsden Park | 68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763 |
@@ -47,7 +48,10 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |
 | 6F | Overkill - Normanhurst | 6f6ce7b924327af4016e9ebd9a6a0f9591fd63461062ef3085517c5969b7ef49 |
 | 71 | Breakfast Point Repeate | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 |
-| 76 | BTQ - Portable 1 | 76C3B2E48B2CAF54ADF2A9256279DAF62F8533C6BEA8E407E237F3D6D1233B40 |
+| 73 | BTQ - Portable 1 | 738460C241D09FD9891CB484B316176C929EEF2E995E31CBAF77BA6430D7722E |
+| 74 | BTQ - Portable 2 | 74AE7F4D30F0A513196477AEA65193F7AF40EDBF4B5E1A1A0D6B3251DA6CFB7A |
+| 75 | BTQ - Portable 3 | 7515BB8E333FC294DA026FB37CE962B81EB11CEE48270DD76722BF74D49C26AE |
+| 76 | BTQ - Portable 4 | 76C3B2E48B2CAF54ADF2A9256279DAF62F8533C6BEA8E407E237F3D6D1233B40 |
 | 78 | Waterloo 🌱 | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 |
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 |
 | 86 | Sonic - MQTT | 8637ff6e804652051f49597232e5d1fdf66aee02f5d1e067b5ced5f7eb68b064 |
@@ -66,7 +70,6 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 | B8 | JustSean Austinmer R1 | b8f998565f8403ee500e4e98a2cb7058ef1e8101506c21f4fd15524bc433f846 |
 | BB | ✝️Nepean River | bb18fef9928d2582f07bc4cfb77e2d057c0bbfd6873381a64f433961d0da71da |
 | BD | ☎️ Jamberoo | bd00f382f921bbd739cbd277309b104ccb58743aa62a3ea3f9fed681e54fa6a8 |
-| BE | 🌱nrf52 Battery Test | beede836a76e2354b16ee1e738fff607565a4dfb40d6d0ba38f0a93f05d6a880 |
 | C1 | Epping Repeater | c1237b61af7d13a9ee02ed377859f17bf941accea3b191c2bfe2b7a610d7b371 |
 | C1 | Overkill - Roof | c1cc1f7ba116e955fb0552432570ec76a99473b6563ccd6c8231375448d86a98 |
 | C2 | 📟Mosman-Balmoral | c2a73ce3e6924b6e09ae2357fca65a6a1ebdb1245e9aba09327480ee2cf36742 |
