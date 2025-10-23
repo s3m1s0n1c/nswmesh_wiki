@@ -17,7 +17,6 @@ As of 23 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 20 | 2211 Padstow | 202f1356b085c24490c9bacb13c9032b95c6991f8bbf28bb856c40a50b1463e5 |
 | 22 | ✝️ Cleric Test Repe | 22e3daa55da62589ee5c93fe0313762d9268f7f5243fb20ba1d279ccf4a53524 |
 | 23 | Gregory Hills Rpt | 23fc50160778f87caf7af401d786692b74efded66d9bff5b20cf40395341d688 |
-| 26 | 🌱ESPNow Brdg 442.5 | 26c5471dbe0f6134dc6c98004b02296346b7bf42b6df6d3607f3a1e87ecd3aca |
 | 28 | Mount Annan ☠️ | 28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16 |
 | 2E | 🛜LUX08 - Knights Hil | 2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05 |
 | 30 | Overkill - Asquith | 30b0840ed68aff84bab3721f956191ee51098970b429b730798e9eb01f7422ff |
