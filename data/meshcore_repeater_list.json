@@ -302,5 +302,9 @@
   {
     "name": "Sonic - MQTT",
     "public_key": "8637ff6e804652051f49597232e5d1fdf66aee02f5d1e067b5ced5f7eb68b064"
-  }
+  },
+  {
+    "name": "BTQ - Portable 1",
+    "public_key": "76C3B2E48B2CAF54ADF2A9256279DAF62F8533C6BEA8E407E237F3D6D1233B40"
+  }  
 ]

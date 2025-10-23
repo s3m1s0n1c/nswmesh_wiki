@@ -47,6 +47,7 @@ As of 23 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |
 | 6F | Overkill - Normanhurst | 6f6ce7b924327af4016e9ebd9a6a0f9591fd63461062ef3085517c5969b7ef49 |
 | 71 | Breakfast Point Repeate | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 |
+| 76 | BTQ - Portable 1 | 76C3B2E48B2CAF54ADF2A9256279DAF62F8533C6BEA8E407E237F3D6D1233B40 |
 | 78 | Waterloo 🌱 | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 |
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 |
 | 86 | Sonic - MQTT | 8637ff6e804652051f49597232e5d1fdf66aee02f5d1e067b5ced5f7eb68b064 |
