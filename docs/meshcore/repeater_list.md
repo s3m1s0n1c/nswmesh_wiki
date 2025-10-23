@@ -2,7 +2,7 @@
 title: NSW Meshcore Repeater List
 ---
 
-As of 23 October 2025, Meshcore identifies repeaters and roomservers using the first two bytes of the node's key prefix. If two repeater nodes share the same key prefix, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
+As of 24 October 2025, Meshcore identifies repeaters and roomservers using the first two bytes of the node's key prefix. If two repeater nodes share the same key prefix, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
 
 
 | public_key_prefix | name | public_key |
