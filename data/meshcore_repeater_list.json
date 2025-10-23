@@ -124,8 +124,8 @@
     "public_key": "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c"
   },
   {
-    "name": "\ud83c\udf31Tree Repeater",
-    "public_key": "5f776a2c99246ca282123b256a14c6b2aea1e5c0b41e20b19c96f830da694acb"
+    "name": "🌱Not Yet Deployed",
+    "public_key": "465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90"
   },
   {
     "name": "\ud83d\udc04 North Sydney",
@@ -224,8 +224,8 @@
     "public_key": "bd00f382f921bbd739cbd277309b104ccb58743aa62a3ea3f9fed681e54fa6a8"
   },
   {
-    "name": "\ud83c\udf31nrf52 Battery Test",
-    "public_key": "beede836a76e2354b16ee1e738fff607565a4dfb40d6d0ba38f0a93f05d6a880"
+    "name": "🌱Not Yet Deployed",
+    "public_key": "456dc49658de636807d26053da68d7ba8d17087eda281ccedd725fc49f27ae81"
   },
   {
     "name": "Overkill - Roof",
@@ -305,6 +305,22 @@
   },
   {
     "name": "BTQ - Portable 1",
+    "public_key": "738460C241D09FD9891CB484B316176C929EEF2E995E31CBAF77BA6430D7722E"
+  },
+  {
+    "name": "BTQ - Portable 2",
+    "public_key": "74AE7F4D30F0A513196477AEA65193F7AF40EDBF4B5E1A1A0D6B3251DA6CFB7A"
+  },
+  {
+    "name": "BTQ - Portable 3",
+    "public_key": "7515BB8E333FC294DA026FB37CE962B81EB11CEE48270DD76722BF74D49C26AE"
+  },
+  {
+    "name": "BTQ - Portable 4",
     "public_key": "76C3B2E48B2CAF54ADF2A9256279DAF62F8533C6BEA8E407E237F3D6D1233B40"
-  }  
+  },
+  {
+    "name": "Garth - PlaceHolder",
+    "public_key": "be..."
+  }
 ]
