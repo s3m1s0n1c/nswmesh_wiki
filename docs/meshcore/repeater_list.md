@@ -96,6 +96,7 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 
 | public_key_prefix | name | public_key | role | last_seen_utc |
 |-------------------|------|------------|------|---------------|
+| `feedface` | Seeder From Bot | `feedfacefeedfacefeedfacefeedfacefeedfacefeedfacefeedfacefeedface` | REPEATER | 2025-10-24 09:40:09 |
 | `testnode` | Demo Node | `testnode-demo` | REPEATER | 2025-10-24T06:20:00Z |
 
 ### Inactive (not heard in ≥ 7 days)
