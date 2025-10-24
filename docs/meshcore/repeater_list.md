@@ -89,3 +89,20 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 | F9 | XiaoS3 Repeater | f93549c8600ee5c7c063b66e7636d237bd49470c61dcb5ec8cc310e85ae9afab |
 | FA | Glebe 🌱 | fa292f7b7d18241d38c7a1db7ec1fccb4ec9d22201276cc062707e0ef489efad |
 | FE | RIPPLE-SYD-ILLAWONG-RPT | fef2dcf0570fdd0d9c9dfed38c35d0e25ce0aeeb98ed6ad5533e51f57c4c05ee |
+
+<!-- BEGIN: AUTO-REPEATER-TABLE -->
+
+## MeshCore Repeaters (active)
+
+| Name | Node ID | Last heard | Lat | Lon | Role |
+|---|---|---|---|---|---|
+| _No active repeaters in the last 7 days_ | | | | | |
+
+
+## Inactive (not heard in ≥ 7 days)
+
+| Name | Node ID | Last heard | Lat | Lon | Role |
+|---|---|---|---|---|---|
+| _None_ | | | | | |
+
+<!-- END: AUTO-REPEATER-TABLE -->
