@@ -3,6 +3,15 @@ layout: default
 title: NSW MeshCore Key Generator
 permalink: /docs/meshcore/key_generator
 ---
+
+<script>
+    // Redirect to HTTPS if accessed via HTTP
+    // This is necessary because the Web Crypto API (required for key generation) only works over HTTPS
+    if (window.location.protocol === 'http:' && window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
+        window.location.href = window.location.href.replace('http:', 'https:');
+    }
+</script>
+
 <style>
     /* Hide the horizontal rule / black bar */
     .main-content > hr:first-of-type,
