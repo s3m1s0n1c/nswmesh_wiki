@@ -92,17 +92,8 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 
 <!-- BEGIN: AUTO-REPEATER-TABLE -->
 
-## MeshCore Repeaters (active)
-
-| Name | Node ID | Last heard | Lat | Lon | Role |
-|---|---|---|---|---|---|
-| Demo Node | `testnode-demo` | 2025-10-24 06:20 UTC | -33.86000 | 151.21000 | REPEATER |
-
-
-## Inactive (not heard in ≥ 7 days)
-
-| Name | Node ID | Last heard | Lat | Lon | Role |
-|---|---|---|---|---|---|
-| _None_ | | | | | |
+| public_key_prefix | name | public_key | role | last_seen_utc |
+|-------------------|------|-------------|------|---------------|
+| `testnode` | Demo Node | `testnode-demo` | REPEATER | 2025-10-24T06:20:00Z |
 
 <!-- END: AUTO-REPEATER-TABLE -->
