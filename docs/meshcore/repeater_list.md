@@ -96,7 +96,7 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 
 | Name | Node ID | Last heard | Lat | Lon | Role |
 |---|---|---|---|---|---|
-| _No active repeaters in the last 7 days_ | | | | | |
+| Demo Node | `testnode-demo` | 2025-10-24 06:20 UTC | -33.86000 | 151.21000 | REPEATER |
 
 
 ## Inactive (not heard in ≥ 7 days)
