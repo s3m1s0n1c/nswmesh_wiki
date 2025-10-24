@@ -152,10 +152,6 @@
     "public_key": "6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5"
   },
   {
-    "name": "Overkill - Normanhurst",
-    "public_key": "6f6ce7b924327af4016e9ebd9a6a0f9591fd63461062ef3085517c5969b7ef49"
-  },
-  {
     "name": "Waterloo \ud83c\udf31",
     "public_key": "78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4"
   },
@@ -317,18 +313,26 @@
   },
   {
     "name": "BTQ - Portable 3",
-    "public_key": "7515BB8E333FC294DA026FB37CE962B81EB11CEE48270DD76722BF74D49C26AE"
+    "public_key": "76C3B2E48B2CAF54ADF2A9256279DAF62F8533C6BEA8E407E237F3D6D1233B40"
   },
   {
     "name": "BTQ - Portable 4",
-    "public_key": "76C3B2E48B2CAF54ADF2A9256279DAF62F8533C6BEA8E407E237F3D6D1233B40"
+    "public_key": "7515BB8E3377F5829DE4FE5DC4212408F1013D613FA98B6A32B827006ABA6E559FBDCDC01C3FC294DA026FB37CE962B81EB11CEE48270DD76722BF74D49C26AE"
   },
   {
     "name": "Garth - PlaceHolder",
     "public_key": "BEE5120A7A2A4CF17B67FC2EC984C382A90A52944FF9B1E7B47FC52CF6CDEA2D"
-  }
+  },
   {
     "name": "North Kellyville Rptr",
     "public_key": "a9d47bc084c48142afabcdbe202986ad1bd45add093c78cb7e3fe0ea9da40687"
+  },
+  {
+    "name": "Overkill - Normanhurst",
+    "public_key": "7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c"
+  },
+  {
+    "name": "Overkill - Hornsby",
+    "public_key": "5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f"
   }
 ]
