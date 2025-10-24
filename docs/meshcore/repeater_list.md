@@ -65,13 +65,14 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 | A7 | ✝️Cleric G2 🛻 | a70565285faeacff0b330779577cb25865d215fcc23664080ba5ab3c8602b89c |
 | A8 | 🌱ESPNow Brdg Narrow | a86575f57734a68dbe09d8a0e8d1f478b78084a041a168364a5f32d02238bb74 |
 | A9 | Greendale Repeater ☠ | a97b453e4f9622cd013acf59bfbf3d0eb510d2d13b3b218ba4c700780ac8e8ea |
+| A9 | North Kellyville Rptr | a9d47bc084c48142afabcdbe202986ad1bd45add093c78cb7e3fe0ea9da40687 |
 | AA | VK2BRM Repeater | aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e |
 | AB | 🛜LUX07 - Mt Gibralta | ab687e3dbbef93fbba17101f2b81e498c50ca6c1898b941586baf9f15d37d575 |
 | B7 | Kenny Hill Repeater☠️ | b745d1254f0639695fd7326c23f3a0bcb92aa4c5e08f6cfc43ba9527db88515d |
 | B8 | JustSean Austinmer R1 | b8f998565f8403ee500e4e98a2cb7058ef1e8101506c21f4fd15524bc433f846 |
 | BB | ✝️Nepean River | bb18fef9928d2582f07bc4cfb77e2d057c0bbfd6873381a64f433961d0da71da |
 | BD | ☎️ Jamberoo | bd00f382f921bbd739cbd277309b104ccb58743aa62a3ea3f9fed681e54fa6a8 |
-| BE | Garth - PlaceHolder | be... |
+| BE | Garth - PlaceHolder | BEE5120A7A2A4CF17B67FC2EC984C382A90A52944FF9B1E7B47FC52CF6CDEA2D |
 | C1 | Epping Repeater | c1237b61af7d13a9ee02ed377859f17bf941accea3b191c2bfe2b7a610d7b371 |
 | C1 | Overkill - Roof | c1cc1f7ba116e955fb0552432570ec76a99473b6563ccd6c8231375448d86a98 |
 | C2 | 📟Mosman-Balmoral | c2a73ce3e6924b6e09ae2357fca65a6a1ebdb1245e9aba09327480ee2cf36742 |
