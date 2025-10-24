@@ -91,9 +91,14 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 | FE | RIPPLE-SYD-ILLAWONG-RPT | fef2dcf0570fdd0d9c9dfed38c35d0e25ce0aeeb98ed6ad5533e51f57c4c05ee |
 
 <!-- BEGIN: AUTO-REPEATER-TABLE -->
+### MeshCore Repeaters (active)
 
 | public_key_prefix | name | public_key | role | last_seen_utc |
-|-------------------|------|-------------|------|---------------|
+|-------------------|------|------------|------|---------------|
 | `testnode` | Demo Node | `testnode-demo` | REPEATER | 2025-10-24T06:20:00Z |
 
+### Inactive (not heard in ≥ 7 days)
+
+| public_key_prefix | name | public_key | role | last_seen_utc |
+|-------------------|------|------------|------|---------------|
 <!-- END: AUTO-REPEATER-TABLE -->
