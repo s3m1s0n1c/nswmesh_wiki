@@ -2,7 +2,7 @@
 title: NSW Meshcore Repeater List
 ---
 
-As of 24 October 2025, Meshcore identifies repeaters and roomservers using the first two bytes of the node's key prefix. If two repeater nodes share the same key prefix, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
+As of 25 October 2025, Meshcore identifies repeaters and roomservers using the first two bytes of the node's key prefix. If two repeater nodes share the same key prefix, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
 
 
 | public_key_prefix | name | public_key |
@@ -40,7 +40,7 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 4E | Overkill - Cherrybrook | 4eddfdd6e9ccafa99ce893e5f3d0223befa7d0c9ca7b1c98572a223dd1671e6c |
 | 50 | VK2FRTS/Sonic - Green P | 50ff816be5a008fff552a13d2b5f473d17a0988d75be9417422bef94c84e2f96 |
 | 53 | ENGADINE REPEATER | 53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c |
-| 5E| Overkill Hornsby | 5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f |
+| 5E | Overkill - Hornsby | 5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f |
 | 65 | 🐄 North Sydney | 65beef87abb2539dc4761bab7a2c7b30409b6271ad7707837c51cc2f3d722957 |
 | 67 | HangingRock Repeater | 67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a |
 | 68 | 🐄 Marsden Park | 68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763 |
@@ -51,9 +51,9 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 72 | BTQ - Hornsby - Roof | 720433CCD90BC25D8BCBD7A8943103670902BE5D344AC845A0E0CE83637A6130 |
 | 73 | BTQ - Portable 1 | 738460C241D09FD9891CB484B316176C929EEF2E995E31CBAF77BA6430D7722E |
 | 74 | BTQ - Portable 2 | 74AE7F4D30F0A513196477AEA65193F7AF40EDBF4B5E1A1A0D6B3251DA6CFB7A |
+| 75 | BTQ - Portable 4 | 7515BB8E3377F5829DE4FE5DC4212408F1013D613FA98B6A32B827006ABA6E559FBDCDC01C3FC294DA026FB37CE962B81EB11CEE48270DD76722BF74D49C26AE |
 | 75 | Overkill - Normanhurst | 7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c |
 | 76 | BTQ - Portable 3 | 76C3B2E48B2CAF54ADF2A9256279DAF62F8533C6BEA8E407E237F3D6D1233B40 |
-| 77 | BTQ - Portable 4 | 77F5829DE4FE5DC4212408F1013D613FA98B6A32B827006ABA6E559FBDCDC01C |
 | 78 | Waterloo 🌱 | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 |
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 |
 | 86 | Sonic - MQTT | 8637ff6e804652051f49597232e5d1fdf66aee02f5d1e067b5ced5f7eb68b064 |
@@ -91,17 +91,3 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 | F9 | XiaoS3 Repeater | f93549c8600ee5c7c063b66e7636d237bd49470c61dcb5ec8cc310e85ae9afab |
 | FA | Glebe 🌱 | fa292f7b7d18241d38c7a1db7ec1fccb4ec9d22201276cc062707e0ef489efad |
 | FE | RIPPLE-SYD-ILLAWONG-RPT | fef2dcf0570fdd0d9c9dfed38c35d0e25ce0aeeb98ed6ad5533e51f57c4c05ee |
-
-<!-- BEGIN: AUTO-REPEATER-TABLE -->
-### MeshCore Repeaters (active)
-
-| public_key_prefix | name | public_key | role | last_seen_utc |
-|-------------------|------|------------|------|---------------|
-| `feedface` | Seeder From Bot | `feedfacefeedfacefeedfacefeedfacefeedfacefeedfacefeedfacefeedface` | REPEATER | 2025-10-24 09:40:09 |
-| `testnode` | Demo Node | `testnode-demo` | REPEATER | 2025-10-24T06:20:00Z |
-
-### Inactive (not heard in ≥ 7 days)
-
-| public_key_prefix | name | public_key | role | last_seen_utc |
-|-------------------|------|------------|------|---------------|
-<!-- END: AUTO-REPEATER-TABLE -->
