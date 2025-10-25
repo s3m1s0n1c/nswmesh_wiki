@@ -2,7 +2,7 @@
 title: NSW Meshcore Repeater List
 ---
 
-As of 24 October 2025, Meshcore identifies repeaters and roomservers using the first two bytes of the node's key prefix. If two repeater nodes share the same key prefix, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
+As of 25 October 2025, Meshcore identifies repeaters and roomservers using the first two bytes of the node's key prefix. If two repeater nodes share the same key prefix, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
 
 
 | public_key_prefix | name | public_key |
@@ -13,6 +13,7 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 08 | ✝️Cleric | 08c56aed8e7cb5097659bf839f7b18cc80cde8d7d837cc9c6576021b030d46e2 |
 | 0C | ✝️Wst Syd Airport | 0cdb20c2f916c35e1479d663b53f9380cb236ca7de0a25195251cb909d60ca6b |
 | 11 | 🌱Chester Street | 113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642 |
+| 15 | WallysNode - Thornleigh | 156020EC5D2FF6BD2E371B8942CF7B4B57C7FEEC5D21467E05A380DD79D287A1 |
 | 1A | Gym_Reps | 1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8 |
 | 20 | 2211 Padstow | 202f1356b085c24490c9bacb13c9032b95c6991f8bbf28bb856c40a50b1463e5 |
 | 22 | ✝️ Cleric Test Repe | 22e3daa55da62589ee5c93fe0313762d9268f7f5243fb20ba1d279ccf4a53524 |
@@ -40,7 +41,7 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 4E | Overkill - Cherrybrook | 4eddfdd6e9ccafa99ce893e5f3d0223befa7d0c9ca7b1c98572a223dd1671e6c |
 | 50 | VK2FRTS/Sonic - Green P | 50ff816be5a008fff552a13d2b5f473d17a0988d75be9417422bef94c84e2f96 |
 | 53 | ENGADINE REPEATER | 53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c |
-| 5E| Overkill Hornsby | 5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f |
+| 5E | Overkill - Hornsby | 5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f |
 | 65 | 🐄 North Sydney | 65beef87abb2539dc4761bab7a2c7b30409b6271ad7707837c51cc2f3d722957 |
 | 67 | HangingRock Repeater | 67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a |
 | 68 | 🐄 Marsden Park | 68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763 |
@@ -91,17 +92,3 @@ As of 24 October 2025, Meshcore identifies repeaters and roomservers using the f
 | F9 | XiaoS3 Repeater | f93549c8600ee5c7c063b66e7636d237bd49470c61dcb5ec8cc310e85ae9afab |
 | FA | Glebe 🌱 | fa292f7b7d18241d38c7a1db7ec1fccb4ec9d22201276cc062707e0ef489efad |
 | FE | RIPPLE-SYD-ILLAWONG-RPT | fef2dcf0570fdd0d9c9dfed38c35d0e25ce0aeeb98ed6ad5533e51f57c4c05ee |
-
-<!-- BEGIN: AUTO-REPEATER-TABLE -->
-### MeshCore Repeaters (active)
-
-| public_key_prefix | name | public_key | role | last_seen_utc |
-|-------------------|------|------------|------|---------------|
-| `feedface` | Seeder From Bot | `feedfacefeedfacefeedfacefeedfacefeedfacefeedfacefeedfacefeedface` | REPEATER | 2025-10-24 09:40:09 |
-| `testnode` | Demo Node | `testnode-demo` | REPEATER | 2025-10-24T06:20:00Z |
-
-### Inactive (not heard in ≥ 7 days)
-
-| public_key_prefix | name | public_key | role | last_seen_utc |
-|-------------------|------|------------|------|---------------|
-<!-- END: AUTO-REPEATER-TABLE -->
