@@ -2,7 +2,7 @@
 title: NSW Meshcore Repeater List
 ---
 
-As of 25 October 2025, Meshcore identifies repeaters and roomservers using the first two bytes of the node's key prefix. If two repeater nodes share the same key prefix, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
+As of 26 October 2025, Meshcore identifies repeaters and roomservers using the first two bytes of the node's key prefix. If two repeater nodes share the same key prefix, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
 
 
 | public_key_prefix | name | public_key |
@@ -52,9 +52,9 @@ As of 25 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 72 | BTQ - Hornsby - Roof | 720433CCD90BC25D8BCBD7A8943103670902BE5D344AC845A0E0CE83637A6130 |
 | 73 | BTQ - Portable 1 | 738460C241D09FD9891CB484B316176C929EEF2E995E31CBAF77BA6430D7722E |
 | 74 | BTQ - Portable 2 | 74AE7F4D30F0A513196477AEA65193F7AF40EDBF4B5E1A1A0D6B3251DA6CFB7A |
-| 75 | BTQ - Portable 4 | 7515BB8E3377F5829DE4FE5DC4212408F1013D613FA98B6A32B827006ABA6E559FBDCDC01C3FC294DA026FB37CE962B81EB11CEE48270DD76722BF74D49C26AE |
 | 75 | Overkill - Normanhurst | 7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c |
 | 76 | BTQ - Portable 3 | 76C3B2E48B2CAF54ADF2A9256279DAF62F8533C6BEA8E407E237F3D6D1233B40 |
+| 77 | BTQ - Portable 4 | 77F5829DE4FE5DC4212408F1013D613FA98B6A32B827006ABA6E559FBDCDC01C |
 | 78 | Waterloo 🌱 | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 |
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 |
 | 86 | Sonic - MQTT | 8637ff6e804652051f49597232e5d1fdf66aee02f5d1e067b5ced5f7eb68b064 |
