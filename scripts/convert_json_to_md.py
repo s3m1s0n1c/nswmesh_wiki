@@ -29,16 +29,36 @@ def wrap_hex(h: str, width: int) -> str:
         return h
     return "\n".join(textwrap.wrap(h, width=width))
 
+
+def sanitize_name(raw: str) -> str:
+    """
+    Make the repeater name safe for markdown table output.
+
+    Rule:
+    - Replace '|' with '/' so we don't break markdown table cells.
+
+    We do NOT:
+    - remove emoji or unicode
+    - collapse spaces
+    - strip anything else
+    """
+    if raw is None:
+        raw = ""
+    return raw.replace("|", "/")
+
+
 def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
     """
     Load optional height CSV mapping public_key -> height_m.
 
-    Tries to match columns (case/space tolerant):
+    We tolerate header variations by normalizing them.
+
+    Expected human headers in the CSV (case/space tolerant, BOM tolerant):
       - "Public Key"
       - "Antenna Height Above Ground (m)"
 
-    Returns:
-        { "<public_key_hex>": "<height_string>" }
+    Returns a dict:
+        { "<public_key_hex>": "<height_string or ''>" }
     """
     height_map: Dict[str, str] = {}
 
@@ -49,35 +69,31 @@ def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
         with open(csv_path, newline="") as f:
             reader = csv.DictReader(f)
 
-            # Build a map of normalized_header -> actual_header_in_file
-            # e.g. "antennaheightaboveground(m)" -> "Antenna Height Above Ground (m) "
+            # Normalise header names so we can deal with spacing/case/BOM differences.
             def norm(s: str) -> str:
                 return (
                     s.strip()
-                     .lstrip("\ufeff")          # handle BOM at start
+                     .lstrip("\ufeff")  # handle BOM if present
                      .lower()
                      .replace(" ", "")
                 )
 
-            header_map = {norm(h): h for h in reader.fieldnames or []}
+            header_map = {norm(h): h for h in (reader.fieldnames or [])}
 
-            # Find the best match for the columns we care about
-            # We'll accept slight variations like extra spaces or case differences.
-            # public key column
+            # Identify actual column names in the file.
             public_key_header = None
             for candidate in [
-                "publickey",       # "Public Key"
+                "publickey",           # "Public Key"
             ]:
                 if candidate in header_map:
                     public_key_header = header_map[candidate]
                     break
 
-            # antenna height column
             height_header = None
             for candidate in [
-                "antennaheightaboveground(m)",      # "Antenna Height Above Ground (m)"
-                "antennaheightaboveground",         # fallback if (m) missing
-                "heightaboveground",                # older naming
+                "antennaheightaboveground(m)",  # "Antenna Height Above Ground (m)"
+                "antennaheightaboveground",     # fallback if someone drops (m)
+                "heightaboveground",            # legacy naming
             ]:
                 if candidate in header_map:
                     height_header = header_map[candidate]
@@ -89,7 +105,7 @@ def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
                     reader.fieldnames,
                     file=sys.stderr,
                 )
-                return height_map  # can't join anything
+                return height_map  # cannot join heights without pubkey
 
             if height_header is None:
                 print(
@@ -97,7 +113,7 @@ def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
                     reader.fieldnames,
                     file=sys.stderr,
                 )
-                # we can still continue; we'll just leave height blank for all rows
+                # we'll continue but all heights will remain ""
 
             for row in reader:
                 pub_raw = (
@@ -106,9 +122,8 @@ def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
                     .replace(" ", "")
                     .replace("\n", "")
                 )
-
                 if not pub_raw:
-                    continue  # skip rows with no key
+                    continue
 
                 if height_header is not None:
                     height_raw = (row.get(height_header) or "").strip()
@@ -130,6 +145,7 @@ def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
 
     return height_map
 
+
 def _rows_from_list(items: List[Dict[str, Any]]) -> List[Dict[str, str]]:
     """
     Handle list format:
@@ -143,11 +159,14 @@ def _rows_from_list(items: List[Dict[str, Any]]) -> List[Dict[str, str]]:
       },
       ...
     ]
+
+    We normalize into a list of dicts with consistent keys.
     """
     rows = []
     for i, item in enumerate(items, 1):
         name = (item.get("name") or "").strip()
         pub = (item.get("public_key") or "").strip().replace(" ", "").replace("\n", "")
+
         if not name or not pub:
             print(f"Warning: skipping item {i} (missing name or public_key)", file=sys.stderr)
             continue
@@ -226,13 +245,13 @@ def load_rows(path: str) -> List[Dict[str, str]]:
       - a list of objects, OR
       - a dict keyed by public_key.
 
-    We normalize each entry to:
+    We normalize each entry into:
     {
         "public_key_prefix": "...",
         "name": "...",
         "public_key": "...",
         "last_seen": "...",
-        "height_m": ""   # will be populated from CSV join if available
+        "height_m": ""   # will be populated from CSV if available
     }
     """
     with open(path, "r") as f:
@@ -250,8 +269,8 @@ def load_rows(path: str) -> List[Dict[str, str]]:
 def apply_heights(rows: List[Dict[str, str]], height_map: Dict[str, str]) -> None:
     """
     Mutates rows in-place.
-    For each row, if its public_key is found in height_map,
-    set height_m to that value. Otherwise leave it blank.
+    For each row, if its public_key is found in height_map, set height_m.
+    If not found or height blank, height_m stays "".
     """
     for r in rows:
         pub = r["public_key"]
@@ -260,7 +279,9 @@ def apply_heights(rows: List[Dict[str, str]], height_map: Dict[str, str]) -> Non
 
 
 def load_meta(path: str) -> Dict[str, str]:
-    """Load metadata with title and preamble."""
+    """
+    Load metadata with title and preamble.
+    """
     with open(path, "r") as f:
         meta = json.load(f)
 
@@ -278,7 +299,9 @@ def load_meta(path: str) -> Dict[str, str]:
 def format_as_of(date_str: str | None) -> str:
     """
     Return date formatted as '19 October 2025'.
-    If --date was provided but isn't ISO (YYYY-MM-DD), just return it literally.
+
+    If --date is not provided, we use today's date from system time.
+    If --date is provided but isn't ISO (YYYY-MM-DD), we just return it literally.
     """
     if date_str:
         try:
@@ -293,8 +316,12 @@ def format_as_of(date_str: str | None) -> str:
 
 def table_markdown(rows: List[Dict[str, str]], wrap: int) -> str:
     """
-    Convert rows to Markdown table text, including last_seen and height_m.
-    Column header for height is now 'antenna height above ground (m)'.
+    Convert rows to Markdown table text.
+
+    Columns:
+      public_key_prefix | name | public_key | last_seen | antenna height above ground (m)
+
+    We sanitize only 'name' for '|' → '/'.
     """
     header = (
         "| public_key_prefix | name | public_key | last_seen | antenna height above ground (m) |\n"
@@ -302,21 +329,28 @@ def table_markdown(rows: List[Dict[str, str]], wrap: int) -> str:
     )
     body_lines = []
     for r in rows:
+        safe_name = sanitize_name(r["name"])
         pubkey_cell = wrap_hex(r["public_key"], wrap)
         last_seen_cell = r.get("last_seen", "")
         height_cell = r.get("height_m", "")
+
         body_lines.append(
-            f"| {r['public_key_prefix']} | {r['name']} | {pubkey_cell} | {last_seen_cell} | {height_cell} |"
+            f"| {r['public_key_prefix']} | {safe_name} | {pubkey_cell} | {last_seen_cell} | {height_cell} |"
         )
+
     return header + "\n" + "\n".join(body_lines) + "\n"
 
 
 def build_document(title: str, preamble: str, as_of: str, table_md: str) -> str:
     """
-    Assemble final markdown doc with front matter, preamble, spacing.
-    Keeps a blank line gap before the table.
+    Assemble final markdown doc with:
+    - front matter
+    - 'As of <date>, <preamble>'
+    - blank line
+    - table
     """
     front_matter = f"---\ntitle: {title}\n---\n"
+    # Two newlines after preamble = visible blank line before table
     lead = f"\nAs of {as_of}, {preamble}\n\n\n"
     return front_matter + lead + table_md
 
@@ -324,7 +358,7 @@ def build_document(title: str, preamble: str, as_of: str, table_md: str) -> str:
 def main():
     parser = argparse.ArgumentParser(
         description="Generate a Markdown file with title/preamble and a table "
-                    "from JSON and optional height CSV."
+                    "from repeater JSON and optional height CSV."
     )
     parser.add_argument(
         "data_json",
@@ -341,7 +375,7 @@ def main():
     parser.add_argument(
         "--height-csv",
         default=None,
-        help="Optional CSV file with columns 'Name,Public Key,Height above Ground'."
+        help="Optional CSV with columns like 'Public Key' and 'Antenna Height Above Ground (m)'."
     )
     parser.add_argument(
         "--no-sort",
@@ -361,10 +395,10 @@ def main():
     )
     args = parser.parse_args()
 
-    # 1. Load rows from JSON (list or dict)
+    # 1. Load repeater rows from JSON (supports list or dict form)
     rows = load_rows(args.data_json)
 
-    # 2. Load height mapping (optional) and apply it
+    # 2. Load optional height CSV and join height into rows
     height_map = load_height_map(args.height_csv)
     apply_heights(rows, height_map)
 
@@ -372,17 +406,18 @@ def main():
     if not args.no_sort:
         rows.sort(key=lambda r: (r["public_key_prefix"], r["name"].lower()))
 
-    # 4. Build Markdown doc
+    # 4. Build final Markdown
     meta = load_meta(args.meta_json)
     as_of_str = format_as_of(args.date)
     table_md = table_markdown(rows, wrap=args.wrap)
     doc = build_document(meta["title"], meta["preamble"], as_of_str, table_md)
 
-    # 5. Write output
+    # 5. Write output file
     with open(args.output_md, "w") as f:
         f.write(doc)
 
     print(f"Wrote {len(rows)} sorted rows to {args.output_md}")
+
 
 if __name__ == "__main__":
     main()
