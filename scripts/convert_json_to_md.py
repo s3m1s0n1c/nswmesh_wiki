@@ -37,7 +37,6 @@ def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
       Name,Public Key,Height above Ground
 
     Returns dict { public_key: height_above_ground_str }
-    public_key comparison is done as-is (after stripping spaces/newlines).
     """
     height_map: Dict[str, str] = {}
 
@@ -62,7 +61,7 @@ def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
 
 def _rows_from_list(items: List[Dict[str, Any]]) -> List[Dict[str, str]]:
     """
-    Handle old format:
+    Handle list format:
     [
       {
         "name": "...",
@@ -100,7 +99,7 @@ def _rows_from_list(items: List[Dict[str, Any]]) -> List[Dict[str, str]]:
 
 def _rows_from_dict(obj: Dict[str, Any]) -> List[Dict[str, str]]:
     """
-    Handle new format:
+    Handle dict format:
     {
       "<pubkey>": {
         "name": "...",
@@ -181,7 +180,7 @@ def apply_heights(rows: List[Dict[str, str]], height_map: Dict[str, str]) -> Non
     """
     Mutates rows in-place.
     For each row, if its public_key is found in height_map,
-    set height_m to that value.
+    set height_m to that value. Otherwise leave it blank.
     """
     for r in rows:
         pub = r["public_key"]
@@ -224,10 +223,10 @@ def format_as_of(date_str: str | None) -> str:
 def table_markdown(rows: List[Dict[str, str]], wrap: int) -> str:
     """
     Convert rows to Markdown table text, including last_seen and height_m.
-    Column header for height MUST be 'height above ground (m)'.
+    Column header for height is now 'antenna height above ground (m)'.
     """
     header = (
-        "| public_key_prefix | name | public_key | last_seen | height above ground (m) |\n"
+        "| public_key_prefix | name | public_key | last_seen | antenna height above ground (m) |\n"
         "| --- | --- | --- | --- | --- |"
     )
     body_lines = []
@@ -244,7 +243,7 @@ def table_markdown(rows: List[Dict[str, str]], wrap: int) -> str:
 def build_document(title: str, preamble: str, as_of: str, table_md: str) -> str:
     """
     Assemble final markdown doc with front matter, preamble, spacing.
-    Keeps the blank line gap before the table.
+    Keeps a blank line gap before the table.
     """
     front_matter = f"---\ntitle: {title}\n---\n"
     lead = f"\nAs of {as_of}, {preamble}\n\n\n"
@@ -302,7 +301,7 @@ def main():
     if not args.no_sort:
         rows.sort(key=lambda r: (r["public_key_prefix"], r["name"].lower()))
 
-    # 4. Load meta, render final Markdown
+    # 4. Build Markdown doc
     meta = load_meta(args.meta_json)
     as_of_str = format_as_of(args.date)
     table_md = table_markdown(rows, wrap=args.wrap)
