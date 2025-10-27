@@ -34,31 +34,36 @@ def sanitize_name(raw: str) -> str:
     """
     Make the repeater name safe for markdown table output.
 
-    Rule:
+    Only rule:
     - Replace '|' with '/' so we don't break markdown table cells.
 
-    We do NOT:
-    - remove emoji or unicode
-    - collapse spaces
-    - strip anything else
+    We keep emojis, unicode, spacing, etc.
     """
     if raw is None:
         raw = ""
     return raw.replace("|", "/")
 
 
+def tick_or_blank(value: Any) -> str:
+    """
+    For advert_location / internet_location:
+    - true  -> '✔'
+    - false -> ''
+    - missing/None -> ''
+    """
+    return "✔" if value is True else ""
+
+
 def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
     """
     Load optional height CSV mapping public_key -> height_m.
 
-    We tolerate header variations by normalizing them.
+    We try to match headers flexibly. Expected human headers in the CSV:
+      Public Key
+      Antenna Height Above Ground (m)
 
-    Expected human headers in the CSV (case/space tolerant, BOM tolerant):
-      - "Public Key"
-      - "Antenna Height Above Ground (m)"
-
-    Returns a dict:
-        { "<public_key_hex>": "<height_string or ''>" }
+    Returns dict like:
+      { "<public_key_hex>": "<height string or ''>" }
     """
     height_map: Dict[str, str] = {}
 
@@ -73,7 +78,7 @@ def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
             def norm(s: str) -> str:
                 return (
                     s.strip()
-                     .lstrip("\ufeff")  # handle BOM if present
+                     .lstrip("\ufeff")  # remove BOM if present
                      .lower()
                      .replace(" ", "")
                 )
@@ -83,7 +88,7 @@ def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
             # Identify actual column names in the file.
             public_key_header = None
             for candidate in [
-                "publickey",           # "Public Key"
+                "publickey",           # matches "Public Key"
             ]:
                 if candidate in header_map:
                     public_key_header = header_map[candidate]
@@ -91,8 +96,8 @@ def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
 
             height_header = None
             for candidate in [
-                "antennaheightaboveground(m)",  # "Antenna Height Above Ground (m)"
-                "antennaheightaboveground",     # fallback if someone drops (m)
+                "antennaheightaboveground(m)",  # matches "Antenna Height Above Ground (m)"
+                "antennaheightaboveground",     # fallback if "(m)" missing
                 "heightaboveground",            # legacy naming
             ]:
                 if candidate in header_map:
@@ -113,7 +118,7 @@ def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
                     reader.fieldnames,
                     file=sys.stderr,
                 )
-                # we'll continue but all heights will remain ""
+                # we'll continue but all heights will stay ""
 
             for row in reader:
                 pub_raw = (
@@ -153,8 +158,10 @@ def _rows_from_list(items: List[Dict[str, Any]]) -> List[Dict[str, str]]:
       {
         "name": "...",
         "public_key": "...",
-        "public_key_prefix": "01",         # optional
-        "last_seen": "2025-10-19T03:14Z",  # optional
+        "public_key_prefix": "01",           # optional
+        "last_seen": "2025-10-28T04:37:41+11:00",  # optional
+        "advert_location": true,             # optional
+        "internet_location": false,          # optional
         ...
       },
       ...
@@ -177,11 +184,16 @@ def _rows_from_list(items: List[Dict[str, Any]]) -> List[Dict[str, str]]:
         prefix = (item.get("public_key_prefix") or first_byte_prefix(pub)).upper()
         last_seen = (item.get("last_seen") or "").strip()
 
+        advert_location = item.get("advert_location", None)
+        internet_location = item.get("internet_location", None)
+
         rows.append({
             "public_key_prefix": prefix,
             "name": name,
             "public_key": pub,
             "last_seen": last_seen,
+            "advert_location": advert_location,
+            "internet_location": internet_location,
             "height_m": "",  # filled later from CSV
         })
     return rows
@@ -189,14 +201,16 @@ def _rows_from_list(items: List[Dict[str, Any]]) -> List[Dict[str, str]]:
 
 def _rows_from_dict(obj: Dict[str, Any]) -> List[Dict[str, str]]:
     """
-    Handle dict format:
+    Handle dict format keyed by public_key:
     {
       "<pubkey>": {
-        "name": "...",
-        "public_key": "<pubkey>",           # may be omitted, fallback to key
-        "last_seen": "2025-10-19T03:14Z",   # optional
-        "public_key_prefix": "01",          # optional
-        ...
+        "name": "BTQ - Hornsby - Roof",
+        "last_advert": 1761586661,
+        "last_seen": "2025-10-28T04:37:41+11:00",
+        "advert_location": true,
+        "internet_location": true,
+        "public_key": "720433cc...",
+        "public_key_prefix": "72"            # optional, otherwise derived
       },
       ...
     }
@@ -213,9 +227,14 @@ def _rows_from_dict(obj: Dict[str, Any]) -> List[Dict[str, str]]:
         name = ""
         last_seen = ""
         prefix = ""
+        advert_location = None
+        internet_location = None
+
         if isinstance(info, dict):
             name = (info.get("name") or "").strip()
             last_seen = (info.get("last_seen") or "").strip()
+            advert_location = info.get("advert_location", None)
+            internet_location = info.get("internet_location", None)
             if "public_key_prefix" in info:
                 prefix = str(info["public_key_prefix"]).strip().upper()
 
@@ -234,6 +253,8 @@ def _rows_from_dict(obj: Dict[str, Any]) -> List[Dict[str, str]]:
             "name": name,
             "public_key": pub,
             "last_seen": last_seen,
+            "advert_location": advert_location,
+            "internet_location": internet_location,
             "height_m": "",  # filled later from CSV
         })
     return rows
@@ -251,6 +272,8 @@ def load_rows(path: str) -> List[Dict[str, str]]:
         "name": "...",
         "public_key": "...",
         "last_seen": "...",
+        "advert_location": True/False/None,
+        "internet_location": True/False/None,
         "height_m": ""   # will be populated from CSV if available
     }
     """
@@ -319,23 +342,36 @@ def table_markdown(rows: List[Dict[str, str]], wrap: int) -> str:
     Convert rows to Markdown table text.
 
     Columns:
-      public_key_prefix | name | public_key | last_seen | antenna height above ground (m)
+      public_key_prefix |
+      name |
+      public_key |
+      last_seen |
+      advert_location |
+      internet_location |
+      antenna height above ground (m)
 
-    We sanitize only 'name' for '|' → '/'.
+    For advert_location / internet_location:
+    - true  -> '✔'
+    - false or missing -> ''
     """
     header = (
-        "| public_key_prefix | name | public_key | last_seen | antenna height above ground (m) |\n"
-        "| --- | --- | --- | --- | --- |"
+        "| public_key_prefix | name | public_key | last_seen | advert_location | internet_location | antenna height above ground (m) |\n"
+        "| --- | --- | --- | --- | --- | --- | --- |"
     )
+
     body_lines = []
     for r in rows:
         safe_name = sanitize_name(r["name"])
         pubkey_cell = wrap_hex(r["public_key"], wrap)
         last_seen_cell = r.get("last_seen", "")
+
+        advert_cell = tick_or_blank(r.get("advert_location", None))
+        internet_cell = tick_or_blank(r.get("internet_location", None))
+
         height_cell = r.get("height_m", "")
 
         body_lines.append(
-            f"| {r['public_key_prefix']} | {safe_name} | {pubkey_cell} | {last_seen_cell} | {height_cell} |"
+            f"| {r['public_key_prefix']} | {safe_name} | {pubkey_cell} | {last_seen_cell} | {advert_cell} | {internet_cell} | {height_cell} |"
         )
 
     return header + "\n" + "\n".join(body_lines) + "\n"
@@ -395,7 +431,7 @@ def main():
     )
     args = parser.parse_args()
 
-    # 1. Load repeater rows from JSON (supports list or dict form)
+    # 1. Load repeater rows from JSON (supports list or dict form, with advert_location/internet_location)
     rows = load_rows(args.data_json)
 
     # 2. Load optional height CSV and join height into rows
