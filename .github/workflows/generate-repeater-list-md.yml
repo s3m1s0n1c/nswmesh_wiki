@@ -6,6 +6,7 @@ on:
     paths:
       - "data/config_md_meshcore_repeater_list.json"
       - "data/meshcore_repeater_list.json"
+      - "--height-csv data/
       - "scripts/convert_json_to_md.py"
   # Allow manual runs with custom args
   workflow_dispatch:
@@ -79,7 +80,8 @@ jobs:
           python scripts/convert_json_to_md.py \
             data/meshcore_repeater_list.json \
             data/config_md_meshcore_repeater_list.json \
-            "${OUTPUT_MD}" 
+            "${OUTPUT_MD}" \
+            --height-csv data/meshcore_repeaters_hag.csv
 
       - name: Detect changes
         id: diff
