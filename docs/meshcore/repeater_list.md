@@ -5,7 +5,7 @@ title: NSW Meshcore Repeater List
 As of 27 October 2025, Meshcore identifies repeaters and roomservers using the first two bytes of the node's key prefix. If two repeater nodes share the same key prefix, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
 
 
-| public_key_prefix | name | public_key | last_seen | height above ground (m) |
+| public_key_prefix | name | public_key | last_seen | antenna height above ground (m) |
 | --- | --- | --- | --- | --- |
 | 01 | ☢ Bradbury Repeater | 012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab | 2025-10-27T11:00:44+11:00 |  |
 | 05 | ⚡️ - Mt Colah | 05265b086d2548b1eb1d60716f282972fd1451ff2edd124aa832c7b99fc3c3b0 | 2025-10-27T12:42:01+11:00 |  |
