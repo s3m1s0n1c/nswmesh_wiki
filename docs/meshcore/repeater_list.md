@@ -31,7 +31,7 @@ As of 27 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 3D | Overkill - Balloon | 3d2d43f27ca9293938fa7007678348f7f6b41f7cd537c047720dd531afa30b2e |  |  |
 | 3F | 🎩 SIR | 3fcd74ecde23058c3ea8afc4d74a1fec6e115be4f603f627e2f92ebab4fd38cb | 2025-10-27T16:42:53+11:00 |  |
 | 41 | RR2 | 41d3de71e5690239fead4860bd14679f1f284bcbf36f2d8d87f34a491d205ad6 |  |  |
-| 42 | RobCo | Platinum Chip | 42b17e605d18948f668cf91e3846a11f7b34e2d03bd6ad862aba9d0ed1a4a635 | 2025-10-27T04:05:28+11:00 |  |
+| 42 | RobCo / Platinum Chip | 42b17e605d18948f668cf91e3846a11f7b34e2d03bd6ad862aba9d0ed1a4a635 | 2025-10-27T04:05:28+11:00 |  |
 | 44 | 🌱Cmprdwn Brdg 915.8 | 44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280 | 2025-10-26T20:07:47+11:00 | 15 |
 | 45 | 🌱Not Yet Deployed | 456dc49658de636807d26053da68d7ba8d17087eda281ccedd725fc49f27ae81 |  |  |
 | 46 | 🌱Nelson Street Upper | 465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90 | 2025-10-27T00:17:57+11:00 | 2 |
@@ -46,7 +46,7 @@ As of 27 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 65 | 🐄 North Sydney | 65beef87abb2539dc4761bab7a2c7b30409b6271ad7707837c51cc2f3d722957 |  |  |
 | 67 | HangingRock Repeater | 67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a | 2025-10-27T16:07:16+11:00 |  |
 | 68 | 🐄 Marsden Park | 68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763 | 2025-10-27T04:47:00+11:00 |  |
-| 69 | RobCo | Darling Harbor | 6969be2bd73967a4d26a34c52744ad225d5ce94e9ef28dd8e0a295925c1bdcb8 | 2025-10-27T04:10:40+11:00 |  |
+| 69 | RobCo / Darling Harbor | 6969be2bd73967a4d26a34c52744ad225d5ce94e9ef28dd8e0a295925c1bdcb8 | 2025-10-27T04:10:40+11:00 |  |
 | 6D | 🛜LUX06 - Kiama | 6d4ec1f2204fafe7f778490dbdfcf1f96553a00ca16c33f2e942eaaa022b631c |  |  |
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |  |  |
 | 71 | Breakfast Point Repeate | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 |  |  |
