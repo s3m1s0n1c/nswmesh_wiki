@@ -29,14 +29,16 @@ def wrap_hex(h: str, width: int) -> str:
         return h
     return "\n".join(textwrap.wrap(h, width=width))
 
-
 def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
     """
     Load optional height CSV mapping public_key -> height_m.
-    CSV header:
-      Name,Public Key,Height above Ground
 
-    Returns dict { public_key: height_above_ground_str }
+    Tries to match columns (case/space tolerant):
+      - "Public Key"
+      - "Antenna Height Above Ground (m)"
+
+    Returns:
+        { "<public_key_hex>": "<height_string>" }
     """
     height_map: Dict[str, str] = {}
 
@@ -46,18 +48,87 @@ def load_height_map(csv_path: Optional[str]) -> Dict[str, str]:
     try:
         with open(csv_path, newline="") as f:
             reader = csv.DictReader(f)
+
+            # Build a map of normalized_header -> actual_header_in_file
+            # e.g. "antennaheightaboveground(m)" -> "Antenna Height Above Ground (m) "
+            def norm(s: str) -> str:
+                return (
+                    s.strip()
+                     .lstrip("\ufeff")          # handle BOM at start
+                     .lower()
+                     .replace(" ", "")
+                )
+
+            header_map = {norm(h): h for h in reader.fieldnames or []}
+
+            # Find the best match for the columns we care about
+            # We'll accept slight variations like extra spaces or case differences.
+            # public key column
+            public_key_header = None
+            for candidate in [
+                "publickey",       # "Public Key"
+            ]:
+                if candidate in header_map:
+                    public_key_header = header_map[candidate]
+                    break
+
+            # antenna height column
+            height_header = None
+            for candidate in [
+                "antennaheightaboveground(m)",      # "Antenna Height Above Ground (m)"
+                "antennaheightaboveground",         # fallback if (m) missing
+                "heightaboveground",                # older naming
+            ]:
+                if candidate in header_map:
+                    height_header = header_map[candidate]
+                    break
+
+            if public_key_header is None:
+                print(
+                    "Warning: couldn't find 'Public Key' column in height CSV headers:",
+                    reader.fieldnames,
+                    file=sys.stderr,
+                )
+                return height_map  # can't join anything
+
+            if height_header is None:
+                print(
+                    "Warning: couldn't find 'Antenna Height Above Ground (m)' column in height CSV headers:",
+                    reader.fieldnames,
+                    file=sys.stderr,
+                )
+                # we can still continue; we'll just leave height blank for all rows
+
             for row in reader:
-                pub_raw = (row.get("Public Key") or "").strip().replace(" ", "").replace("\n", "")
-                height_raw = (row.get("Height above Ground") or "").strip()
-                if pub_raw:
-                    height_map[pub_raw] = height_raw
+                pub_raw = (
+                    (row.get(public_key_header) or "")
+                    .strip()
+                    .replace(" ", "")
+                    .replace("\n", "")
+                )
+
+                if not pub_raw:
+                    continue  # skip rows with no key
+
+                if height_header is not None:
+                    height_raw = (row.get(height_header) or "").strip()
+                else:
+                    height_raw = ""
+
+                height_map[pub_raw] = height_raw
+
     except FileNotFoundError:
-        print(f"Warning: height CSV '{csv_path}' not found, continuing without heights", file=sys.stderr)
+        print(
+            f"Warning: height CSV '{csv_path}' not found, continuing without heights",
+            file=sys.stderr,
+        )
     except Exception as e:
-        print(f"Warning: could not read height CSV '{csv_path}': {e}", file=sys.stderr)
+        print(
+            f"Warning: could not read height CSV '{csv_path}': {e}",
+            file=sys.stderr,
+        )
 
     return height_map
-
 
 def _rows_from_list(items: List[Dict[str, Any]]) -> List[Dict[str, str]]:
     """
