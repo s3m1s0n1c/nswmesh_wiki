@@ -33,7 +33,7 @@ As of 28 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 41 | RR2 | 41d3de71e5690239fead4860bd14679f1f284bcbf36f2d8d87f34a491d205ad6 |  |  | ✔ |  |
 | 42 | RobCo / Platinum Chip | 42b17e605d18948f668cf91e3846a11f7b34e2d03bd6ad862aba9d0ed1a4a635 | 2025-10-28T04:05:28+11:00 | ✔ |  |  |
 | 44 | 🌱Cmprdwn Brdg 915.8 | 44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280 | 2025-10-28T08:50:32+11:00 | ✔ | ✔ | 15 |
-| 45 | 🌱Not Yet Deployed | 456dc49658de636807d26053da68d7ba8d17087eda281ccedd725fc49f27ae81 |  |  |  |  |
+| 45 | 🌱Arthur P. Gray Rsrv | 456dc49658de636807d26053da68d7ba8d17087eda281ccedd725fc49f27ae81 |  |  |  |  |
 | 46 | 🌱Nelson Street Upper | 465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90 | 2025-10-27T00:17:57+11:00 | ✔ | ✔ | 2 |
 | 47 | Haberfield MerrMan | 4703c8e6363830fddc200d6953e5c4b902086bb6cbde2e3de7efb3555494f1e4 | 2025-10-26T18:47:43+11:00 | ✔ | ✔ |  |
 | 49 | ⚡️ - St Leonards | 49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff | 2025-10-28T17:56:14+11:00 | ✔ | ✔ |  |
