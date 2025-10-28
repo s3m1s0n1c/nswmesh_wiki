@@ -8,7 +8,7 @@ As of 28 October 2025, Meshcore identifies repeaters and roomservers using the f
 | public_key_prefix | name | public_key | last_seen | advert_location | internet_location | antenna height above ground (m) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 01 | ☢ Bradbury Repeater | 012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab | 2025-10-28T11:00:44+11:00 | ✔ | ✔ |  |
-| 05 | ⚡️ - Mt Colah | 05265b086d2548b1eb1d60716f282972fd1451ff2edd124aa832c7b99fc3c3b0 | 2025-10-28T18:42:01+11:00 | ✔ | ✔ |  |
+| 05 | ⚡️ - Mt Colah | 05265b086d2548b1eb1d60716f282972fd1451ff2edd124aa832c7b99fc3c3b0 | 2025-10-28T18:42:01+11:00 | ✔ | ✔ | 5 |
 | 08 | t1000 ✝️ | 08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8 |  |  |  |  |
 | 08 | ✝️Cleric | 08c56aed8e7cb5097659bf839f7b18cc80cde8d7d837cc9c6576021b030d46e2 |  |  | ✔ |  |
 | 0C | ✝️Wst Syd Airport | 0cdb20c2f916c35e1479d663b53f9380cb236ca7de0a25195251cb909d60ca6b | 2025-10-28T14:22:03+11:00 | ✔ | ✔ |  |
@@ -20,9 +20,9 @@ As of 28 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 23 | Gregory Hills Rpt | 23fc50160778f87caf7af401d786692b74efded66d9bff5b20cf40395341d688 | 2025-10-28T17:59:10+11:00 | ✔ | ✔ |  |
 | 28 | Mount Annan ☠️ | 28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16 |  |  | ✔ |  |
 | 2E | 🛜LUX08 - Knights Hil | 2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05 | 2025-10-28T14:51:07+11:00 | ✔ | ✔ |  |
-| 30 | ⚡️ - Asquith | 30b0840ed68aff84bab3721f956191ee51098970b429b730798e9eb01f7422ff | 2025-10-28T10:41:12+11:00 | ✔ |  |  |
-| 32 | ⚡️ - Staples | 32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9 | 2025-10-28T15:57:57+11:00 | ✔ |  |  |
-| 33 | ⚡️ - Mt Colah 2 | 338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0 | 2025-10-28T15:15:08+11:00 | ✔ |  |  |
+| 30 | ⚡️ - Asquith | 30b0840ed68aff84bab3721f956191ee51098970b429b730798e9eb01f7422ff | 2025-10-28T10:41:12+11:00 | ✔ | ✔ | 2 |
+| 32 | ⚡️ - Staples | 32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9 | 2025-10-28T15:57:57+11:00 | ✔ | ✔ | 43 |
+| 33 | ⚡️ - Mt Colah 2 | 338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0 | 2025-10-28T15:15:08+11:00 | ✔ | ✔ | 30 |
 | 35 | Loftus Heights G2 | 35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d | 2025-10-28T16:56:50+11:00 | ✔ | ✔ |  |
 | 36 | 🌱Camperdown | 36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092 | 2025-10-28T15:57:50+11:00 | ✔ | ✔ | 15 |
 | 37 | Caringbah Repeater | 376925ee45a03bffcb6f37b252b6394d45f07ec488993c6c0db60d17438f6a7b |  |  | ✔ |  |
@@ -36,10 +36,10 @@ As of 28 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 45 | 🌱Arthur P. Gray Rsrv | 456dc49658de636807d26053da68d7ba8d17087eda281ccedd725fc49f27ae81 |  |  |  |  |
 | 46 | 🌱Nelson Street Upper | 465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90 | 2025-10-27T00:17:57+11:00 | ✔ | ✔ | 2 |
 | 47 | Haberfield MerrMan | 4703c8e6363830fddc200d6953e5c4b902086bb6cbde2e3de7efb3555494f1e4 | 2025-10-26T18:47:43+11:00 | ✔ | ✔ |  |
-| 49 | ⚡️ - St Leonards | 49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff | 2025-10-28T17:56:14+11:00 | ✔ | ✔ |  |
+| 49 | ⚡️ - St Leonards | 49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff | 2025-10-28T17:56:14+11:00 | ✔ | ✔ | 60 |
 | 4B | Dingus repeater | 4ba9c51b34d518ec8f22bf3f93621d1a11b67368818ae228adc63dbff250dd6a |  |  |  |  |
 | 4C | 🛜LUX03 - Keira Nth | 4c05703c81e953185a2d4282827c3e8a3aef846749a32e7b1a215e1edc03911a |  |  | ✔ |  |
-| 4E | ⚡️ - Cherrybrook | 4eddfdd6e9ccafa99ce893e5f3d0223befa7d0c9ca7b1c98572a223dd1671e6c | 2025-10-28T14:56:37+11:00 | ✔ |  |  |
+| 4E | ⚡️ - Cherrybrook | 4eddfdd6e9ccafa99ce893e5f3d0223befa7d0c9ca7b1c98572a223dd1671e6c | 2025-10-28T14:56:37+11:00 | ✔ | ✔ | 35 |
 | 53 | ENGADINE REPEATER | 53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c | 2025-10-28T14:12:59+11:00 | ✔ | ✔ |  |
 | 5E | Overkill - Hornsby | 5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f |  |  |  |  |
 | 65 | 🐄 North Sydney | 65beef87abb2539dc4761bab7a2c7b30409b6271ad7707837c51cc2f3d722957 |  |  |  |  |
@@ -52,7 +52,7 @@ As of 28 October 2025, Meshcore identifies repeaters and roomservers using the f
 | 72 | BTQ - Hornsby - Roof | 720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130 | 2025-10-28T19:37:41+11:00 | ✔ | ✔ | 1.5 |
 | 73 | BTQ Portable 1 | 738460c241d09fd9891cb484b316176c929eef2e995e31cbaf77ba6430d7722e | 2025-10-25T17:47:58+11:00 |  |  |  |
 | 74 | BTQ - Portable 2 | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a |  |  |  |  |
-| 75 | ⚡️- Normanhurst | 7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c | 2025-10-28T15:30:10+11:00 | ✔ |  |  |
+| 75 | ⚡️- Normanhurst | 7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c | 2025-10-28T15:30:10+11:00 | ✔ | ✔ | 5 |
 | 76 | BTQ - Portable 3 | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 |  |  |  |  |
 | 77 | BTQ - Portable 4 | 77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c |  |  |  |  |
 | 78 | Waterloo 🌱 | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 |  |  |  | 1 |
@@ -75,7 +75,7 @@ As of 28 October 2025, Meshcore identifies repeaters and roomservers using the f
 | BD | ☎️ Jamberoo | bd00f382f921bbd739cbd277309b104ccb58743aa62a3ea3f9fed681e54fa6a8 |  |  |  |  |
 | BE | Bee - Waratah West | bee5120a7a2a4cf17b67fc2ec984c382a90a52944ff9b1e7b47fc52cf6cdea2d |  |  | ✔ |  |
 | C1 | Epping Repeater | c1237b61af7d13a9ee02ed377859f17bf941accea3b191c2bfe2b7a610d7b371 |  |  |  |  |
-| C1 | ⚡️ - Roof | c1cc1f7ba116e955fb0552432570ec76a99473b6563ccd6c8231375448d86a98 | 2025-10-28T17:32:08+11:00 | ✔ |  |  |
+| C1 | ⚡️ - Roof | c1cc1f7ba116e955fb0552432570ec76a99473b6563ccd6c8231375448d86a98 | 2025-10-28T17:32:08+11:00 | ✔ | ✔ | 5 |
 | C2 | 📟Mosman-Balmoral | c2a73ce3e6924b6e09ae2357fca65a6a1ebdb1245e9aba09327480ee2cf36742 |  |  | ✔ |  |
 | C3 | JustSean Repeater 1 | c349ffeb68ed1169be0775af01085e7c0fdabd18e1e327f8b56b4499835c7645 |  |  |  |  |
 | C8 | 🛜LUX05 - Bald Hill | c84e5ab84acbd0f2e660ae5213274fb3353d2f7ce1c9d9ff3ba10ebf0e963e1c |  |  | ✔ |  |
