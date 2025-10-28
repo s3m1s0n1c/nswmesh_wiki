@@ -204,10 +204,6 @@
         "advert_location": true,
         "public_key": "4eddfdd6e9ccafa99ce893e5f3d0223befa7d0c9ca7b1c98572a223dd1671e6c"
     },
-    "50ff816be5a008fff552a13d2b5f473d17a0988d75be9417422bef94c84e2f96": {
-        "name": "VK2FRTS/Sonic - Green P",
-        "public_key": "50ff816be5a008fff552a13d2b5f473d17a0988d75be9417422bef94c84e2f96"
-    },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
         "last_advert": 1761567179,
@@ -300,10 +296,6 @@
         "advert_location": true,
         "internet_location": true,
         "public_key": "7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4"
-    },
-    "8637ff6e804652051f49597232e5d1fdf66aee02f5d1e067b5ced5f7eb68b064": {
-        "name": "Sonic - MQTT",
-        "public_key": "8637ff6e804652051f49597232e5d1fdf66aee02f5d1e067b5ced5f7eb68b064"
     },
     "870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046": {
         "name": "👾Sonic - Green Point",
