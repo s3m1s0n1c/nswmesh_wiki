@@ -9,9 +9,10 @@
     },
     "05265b086d2548b1eb1d60716f282972fd1451ff2edd124aa832c7b99fc3c3b0": {
         "name": "⚡️ - Mt Colah",
-        "last_advert": 1761702121,
-        "last_seen": "2025-10-29T12:42:01+11:00",
+        "last_advert": 1761723721,
+        "last_seen": "2025-10-29T18:42:01+11:00",
         "advert_location": true,
+        "internet_location": true,
         "public_key": "05265b086d2548b1eb1d60716f282972fd1451ff2edd124aa832c7b99fc3c3b0"
     },
     "08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8": {
@@ -33,6 +34,9 @@
     },
     "113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642": {
         "name": "🌱Chester Street",
+        "last_advert": 1761728565,
+        "last_seen": "2025-10-29T20:02:45+11:00",
+        "advert_location": true,
         "internet_location": true,
         "public_key": "113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642"
     },
@@ -45,8 +49,8 @@
     },
     "1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8": {
         "name": "Gym_Reps",
-        "last_advert": 1761708775,
-        "last_seen": "2025-10-29T14:32:55+11:00",
+        "last_advert": 1761719575,
+        "last_seen": "2025-10-29T17:32:55+11:00",
         "advert_location": true,
         "internet_location": true,
         "public_key": "1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8"
@@ -106,16 +110,16 @@
     },
     "338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0": {
         "name": "⚡️ - Mt Colah 2",
-        "last_advert": 1761711308,
-        "last_seen": "2025-10-29T15:15:08+11:00",
+        "last_advert": 1761727945,
+        "last_seen": "2025-10-29T19:52:25+11:00",
         "advert_location": true,
         "internet_location": true,
         "public_key": "338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0"
     },
     "35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d": {
         "name": "Loftus Heights G2",
-        "last_advert": 1761695810,
-        "last_seen": "2025-10-29T10:56:50+11:00",
+        "last_advert": 1761717410,
+        "last_seen": "2025-10-29T16:56:50+11:00",
         "advert_location": true,
         "internet_location": true,
         "public_key": "35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d"
@@ -204,9 +208,10 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1761677774,
-        "last_seen": "2025-10-29T05:56:14+11:00",
+        "last_advert": 1761720974,
+        "last_seen": "2025-10-29T17:56:14+11:00",
         "advert_location": true,
+        "internet_location": true,
         "public_key": "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff"
     },
     "4ba9c51b34d518ec8f22bf3f93621d1a11b67368818ae228adc63dbff250dd6a": {
@@ -228,16 +233,16 @@
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1761707580,
-        "last_seen": "2025-10-29T14:13:00+11:00",
+        "last_advert": 1761718380,
+        "last_seen": "2025-10-29T17:13:00+11:00",
         "advert_location": true,
         "internet_location": true,
         "public_key": "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c"
     },
     "5ae24e7d3900e968b137fd25e4b58cf95dfab5d62500dc8e24dfb87b6ad36408": {
-        "name": "🐧MeshyRPT *Nthsyd Te",
-        "last_advert": 1761716383,
-        "last_seen": "2025-10-29T16:39:43+11:00",
+        "name": "🐧MeshyRPT *AsqthTST*",
+        "last_advert": 1761720604,
+        "last_seen": "2025-10-29T17:50:04+11:00",
         "advert_location": true,
         "public_key": "5ae24e7d3900e968b137fd25e4b58cf95dfab5d62500dc8e24dfb87b6ad36408"
     },
@@ -251,8 +256,8 @@
     },
     "67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a": {
         "name": "HangingRock Repeater",
-        "last_advert": 1761703636,
-        "last_seen": "2025-10-29T13:07:16+11:00",
+        "last_advert": 1761725236,
+        "last_seen": "2025-10-29T19:07:16+11:00",
         "public_key": "67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a"
     },
     "68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763": {
@@ -284,8 +289,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1761716262,
-        "last_seen": "2025-10-29T16:37:42+11:00",
+        "last_advert": 1761727061,
+        "last_seen": "2025-10-29T19:37:41+11:00",
         "advert_location": true,
         "internet_location": true,
         "public_key": "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130"
@@ -328,6 +333,13 @@
         "internet_location": true,
         "public_key": "7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4"
     },
+    "7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f": {
+        "name": "🌱 Chester St 442.5",
+        "last_advert": 1761725133,
+        "last_seen": "2025-10-29T19:05:33+11:00",
+        "advert_location": true,
+        "public_key": "7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f"
+    },
     "85b9841ca6741ebb64475346b5dfa21f36d77807a8ffc8bca6b1a56cf32d433b": {
         "name": "🌱 Mobile Brdg Rptr",
         "last_advert": 1761683434,
@@ -367,8 +379,8 @@
     },
     "a70565285faeacff0b330779577cb25865d215fcc23664080ba5ab3c8602b89c": {
         "name": "✝️Cleric G2 🛻",
-        "last_advert": 1761674990,
-        "last_seen": "2025-10-29T05:09:50+11:00",
+        "last_advert": 1761728990,
+        "last_seen": "2025-10-29T20:09:50+11:00",
         "public_key": "a70565285faeacff0b330779577cb25865d215fcc23664080ba5ab3c8602b89c"
     },
     "a86575f57734a68dbe09d8a0e8d1f478b78084a041a168364a5f32d02238bb74": {
@@ -385,8 +397,8 @@
     },
     "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e": {
         "name": "VK2BRM Repeater",
-        "last_advert": 1761709602,
-        "last_seen": "2025-10-29T14:46:42+11:00",
+        "last_advert": 1761720402,
+        "last_seen": "2025-10-29T17:46:42+11:00",
         "advert_location": true,
         "public_key": "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e"
     },
@@ -401,8 +413,8 @@
     },
     "b745d1254f0639695fd7326c23f3a0bcb92aa4c5e08f6cfc43ba9527db88515d": {
         "name": "☠ Kenny Hill Rpt",
-        "last_advert": 1761705364,
-        "last_seen": "2025-10-29T13:36:04+11:00",
+        "last_advert": 1761726964,
+        "last_seen": "2025-10-29T19:36:04+11:00",
         "advert_location": true,
         "internet_location": true,
         "public_key": "b745d1254f0639695fd7326c23f3a0bcb92aa4c5e08f6cfc43ba9527db88515d"
@@ -459,8 +471,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1761710569,
-        "last_seen": "2025-10-29T15:02:49+11:00",
+        "last_advert": 1761721370,
+        "last_seen": "2025-10-29T18:02:50+11:00",
         "advert_location": true,
         "internet_location": true,
         "public_key": "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78"
