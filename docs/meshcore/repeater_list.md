@@ -19,25 +19,25 @@ As of 1 November 2025, Meshcore identifies repeaters and roomservers using the f
 | 22 | ✝️ Cleric Test Repe | 22e3daa55da62589ee5c93fe0313762d9268f7f5243fb20ba1d279ccf4a53524 |  |  |  |  |
 | 23 | Gregory Hills Rpt | 23fc50160778f87caf7af401d786692b74efded66d9bff5b20cf40395341d688 | 2025-10-29T14:59:10+11:00 | ✔ | ✔ |  |
 | 28 | Mount Annan ☠️ | 28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16 |  |  | ✔ |  |
-| 2D | Heltec_V4 RepeaterTest | 2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2 | 2025-11-01T16:34:07+11:00 | ✔ | ✔ |  |
-| 2E | 🛜LUX08 - Knights Hil | 2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05 | 2025-10-31T20:51:07+11:00 | ✔ | ✔ |  |
-| 30 | ⚡️ - Asquith | 30b0840ed68aff84bab3721f956191ee51098970b429b730798e9eb01f7422ff | 2025-11-01T10:41:12+11:00 | ✔ | ✔ | 2 |
-| 32 | ⚡️ - Staples | 32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9 | 2025-11-01T09:57:57+11:00 | ✔ | ✔ | 43 |
-| 33 | ⚡️ - Mt Colah 2 | 338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0 | 2025-11-01T15:15:08+11:00 | ✔ | ✔ | 30 |
-| 35 | Loftus Heights G2 | 35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d | 2025-11-01T16:56:50+11:00 | ✔ | ✔ |  |
-| 36 | 🌱Camperdown | 36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092 | 2025-11-01T18:27:09+11:00 | ✔ | ✔ | 15 |
+| 2D | Heltec_V4 RepeaterTest | 2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2 | 2025-10-31T11:34:26+11:00 | ✔ | ✔ |  |
+| 2E | 🛜LUX08 - Knights Hil | 2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05 | 2025-10-31T17:51:07+11:00 | ✔ | ✔ |  |
+| 30 | ⚡️ - Asquith | 30b0840ed68aff84bab3721f956191ee51098970b429b730798e9eb01f7422ff | 2025-10-31T10:41:12+11:00 | ✔ | ✔ | 2 |
+| 32 | ⚡️ - Staples | 32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9 | 2025-10-31T09:57:57+11:00 | ✔ | ✔ | 43 |
+| 33 | ⚡️ - Mt Colah 2 | 338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0 | 2025-10-31T15:15:08+11:00 | ✔ | ✔ | 30 |
+| 35 | Loftus Heights G2 | 35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d | 2025-10-31T16:56:50+11:00 | ✔ | ✔ |  |
+| 36 | 🌱Camperdown | 36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092 | 2025-10-31T16:05:57+11:00 | ✔ | ✔ | 10 |
 | 37 | Caringbah Repeater | 376925ee45a03bffcb6f37b252b6394d45f07ec488993c6c0db60d17438f6a7b | 2025-10-30T02:12:41+11:00 | ✔ | ✔ |  |
 | 39 | Ch1cken 2220 Repeater | 39c3db1cfdab1123eff16cb8b88fc0e2b9cc1da04e5b6cb94d5f8fb73cf17ed3 |  |  |  |  |
-| 3C | 🌱Cmprdwn Brdg 433.65 | 3c732b37f8a046b1c3f60a96aaed9641720f1678704f0dd141a1ac8f4eadce17 | 2025-10-30T19:25:50+11:00 |  |  | 15 |
+| 3C | 🌱Cmprdwn Brdg 433.65 | 3c732b37f8a046b1c3f60a96aaed9641720f1678704f0dd141a1ac8f4eadce17 | 2025-10-30T19:25:50+11:00 |  |  | 10 |
 | 3D | Overkill - Balloon | 3d2d43f27ca9293938fa7007678348f7f6b41f7cd537c047720dd531afa30b2e |  |  |  |  |
 | 3F | 🎩 SIR | 3fcd74ecde23058c3ea8afc4d74a1fec6e115be4f603f627e2f92ebab4fd38cb | 2025-11-01T16:26:55+11:00 | ✔ |  |  |
 | 41 | RR2 | 41d3de71e5690239fead4860bd14679f1f284bcbf36f2d8d87f34a491d205ad6 |  |  | ✔ |  |
 | 42 | RobCo / Platinum Chip | 42b17e605d18948f668cf91e3846a11f7b34e2d03bd6ad862aba9d0ed1a4a635 | 2025-10-31T04:05:28+11:00 | ✔ |  |  |
-| 43 | 🌱Minogue Crescent | 4337e2d5be4bdb10f1b1dfb20029d5ca47eac2bad323ce737232acfcc984e3f3 | 2025-10-31T16:37:57+11:00 | ✔ |  |  |
-| 44 | 🌱Cmprdwn Brdg 915.8 | 44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280 | 2025-10-31T17:26:55+11:00 |  |  | 15 |
+| 43 | 🌱Minogue Crescent | 4337e2d5be4bdb10f1b1dfb20029d5ca47eac2bad323ce737232acfcc984e3f3 | 2025-10-31T16:37:57+11:00 | ✔ |  | 1 |
+| 44 | 🌱Cmprdwn Brdg 915.8 | 44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280 | 2025-10-31T17:26:55+11:00 |  |  | 10 |
 | 45 | This Node is FKD | 45cb34e93fa2109b6de1ea9b034c90c8ca638fd9e5d86c297a67e4c9f9d8798b | 2025-10-28T21:03:41+11:00 |  |  |  |
-| 45 | 🌱Arthur P. Gray Rsrv | 456dc49658de636807d26053da68d7ba8d17087eda281ccedd725fc49f27ae81 |  |  |  |  |
-| 46 | 🌱Nelson Street Upper | 465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90 | 2025-11-01T17:09:35+11:00 | ✔ | ✔ | 2 |
+| 45 | 🌱Arthur P. Gray Rsrv | 456dc49658de636807d26053da68d7ba8d17087eda281ccedd725fc49f27ae81 |  |  |  | 1 |
+| 46 | 🌱Nelson Street Upper | 465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90 | 2025-10-27T00:17:57+11:00 | ✔ | ✔ | 2 |
 | 47 | Haberfield MerrMan | 4703c8e6363830fddc200d6953e5c4b902086bb6cbde2e3de7efb3555494f1e4 | 2025-10-26T18:47:43+11:00 | ✔ | ✔ |  |
 | 49 | ⚡️ - St Leonards | 49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff | 2025-11-01T17:56:14+11:00 | ✔ | ✔ | 60 |
 | 4B | Dingus repeater | 4ba9c51b34d518ec8f22bf3f93621d1a11b67368818ae228adc63dbff250dd6a |  |  |  |  |
@@ -61,7 +61,7 @@ As of 1 November 2025, Meshcore identifies repeaters and roomservers using the f
 | 76 | BTQ - Portable 3 | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 |  |  |  |  |
 | 77 | BTQ - Portable 4 | 77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c |  |  |  |  |
 | 78 | Waterloo 🌱 | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 |  |  | ✔ | 1 |
-| 79 | 🌱 Moore Park | 794e9ce7b05de2f9af84a35b13f709ad415136b298af7ef6438d5518fc65ead9 | 2025-10-31T15:49:45+11:00 | ✔ | ✔ |  |
+| 79 | 🌱 Moore Park | 794e9ce7b05de2f9af84a35b13f709ad415136b298af7ef6438d5518fc65ead9 | 2025-10-31T15:49:45+11:00 | ✔ |  | 1 |
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 | 2025-10-28T06:34:00+11:00 | ✔ | ✔ |  |
 | 7D | 🌱 Chester St 442.5 | 7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f | 2025-10-29T19:05:33+11:00 | ✔ |  |  |
 | 85 | 🌱 Mobile Brdg Rptr | 85b9841ca6741ebb64475346b5dfa21f36d77807a8ffc8bca6b1a56cf32d433b | 2025-10-31T09:06:28+11:00 |  |  |  |
