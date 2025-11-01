@@ -340,7 +340,10 @@
         "public_key": "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c"
     },
     "78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4": {
-        "name": "Waterloo 🌱",
+        "name": "🌱Waterloo",
+        "last_advert": 1761966731,
+        "last_seen": "2025-11-01T14:12:11+11:00",
+        "advert_location": true,
         "internet_location": true,
         "public_key": "78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4"
     },
