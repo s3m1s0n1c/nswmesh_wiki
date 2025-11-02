@@ -2,7 +2,7 @@
 title: NSW Meshcore Repeater List
 ---
 
-As of 1 November 2025, Meshcore identifies repeaters and roomservers using the first byte (first two characters) of the node's public key. If two repeater nodes share the same first byte, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
+As of 2 November 2025, Meshcore identifies repeaters and roomservers using the first byte (first two characters) of the node's public key. If two repeater nodes share the same first byte, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
 
 
 | public_key_prefix | name | public_key | last_seen | advert_location | internet_location | antenna height above ground (m) |
@@ -46,7 +46,7 @@ As of 1 November 2025, Meshcore identifies repeaters and roomservers using the f
 | 53 | ENGADINE REPEATER | 53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c | 2025-11-01T17:13:00+11:00 | ✔ | ✔ |  |
 | 59 | oatl-meshcore | 5980a89f75c99b4e1637e0ec6b0089a5401e92a365cde33f3a69c7d6c7ecceef | 2025-10-30T04:03:56+11:00 |  |  |  |
 | 5A | 🐧MeshyRPT *Redfrn_ts | 5ae24e7d3900e968b137fd25e4b58cf95dfab5d62500dc8e24dfb87b6ad36408 | 2025-10-30T18:35:30+11:00 | ✔ |  |  |
-| 5E | Overkill - Hornsby | 5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f |  |  |  |  |
+| 5E | Overkill - Hornsby | 5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f |  |  |  | 30 |
 | 65 | 🐄 North Sydney | 65beef87abb2539dc4761bab7a2c7b30409b6271ad7707837c51cc2f3d722957 | 2025-11-01T09:34:35+11:00 | ✔ |  |  |
 | 67 | HangingRock Repeater | 67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a | 2025-11-01T14:02:00+11:00 |  |  |  |
 | 68 | 🐄 Marsden Park | 68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763 | 2025-10-31T16:47:01+11:00 | ✔ |  |  |
