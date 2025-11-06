@@ -281,13 +281,6 @@
         "internet_location": true,
         "public_key": "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c"
     },
-    "5339913b6d4657c76a5a2ad29bf3f0f3a5a81c7564fc49be674cb69abf071345": {
-        "name": "Ultimo 🌱",
-        "last_advert": 1715770352,
-        "last_seen": "2024-05-15T20:52:32+10:00",
-        "advert_location": true,
-        "public_key": "5339913b6d4657c76a5a2ad29bf3f0f3a5a81c7564fc49be674cb69abf071345"
-    },
     "5980a89f75c99b4e1637e0ec6b0089a5401e92a365cde33f3a69c7d6c7ecceef": {
         "name": "oatl-meshcore",
         "last_advert": 1761757436,
