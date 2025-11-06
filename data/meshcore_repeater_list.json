@@ -351,8 +351,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1762389462,
-        "last_seen": "2025-11-06T11:37:42+11:00",
+        "last_advert": 1762425462,
+        "last_seen": "2025-11-06T21:37:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "public_key": "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130"
@@ -366,8 +366,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1762344690,
-        "last_seen": "2025-11-05T23:11:30+11:00",
+        "last_advert": 1762426474,
+        "last_seen": "2025-11-06T21:54:34+11:00",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
     "7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c": {
@@ -477,9 +477,9 @@
         "internet_location": true,
         "public_key": "a468c8cda7d0531cc5b8f7607c0f234a1647e3ee89ab8b7443a8c75c540e3f1f"
     },
-    "a5482ea67283a601bfd2c74d319f7b41f43efaf4e074e4d740add2f08bd16f8e": {
-        "name": "WazMobile",
-        "public_key": "a5482ea67283a601bfd2c74d319f7b41f43efaf4e074e4d740add2f08bd16f8e"
+    "a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd": {
+        "name": "EvilCore - Rooty Hill",
+        "public_key": "a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd"
     },
     "a7fc405db7cead41c105522020879c6ca19ac06f97f85a63dc8e7914aa9932a3": {
         "name": "Pfych Repeater",
