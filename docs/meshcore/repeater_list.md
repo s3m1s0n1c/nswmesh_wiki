@@ -47,7 +47,6 @@ As of 6 November 2025, Meshcore identifies repeaters and roomservers using the f
 | 4C | 🛜LUX03 - Keira Nth | 4c05703c81e953185a2d4282827c3e8a3aef846749a32e7b1a215e1edc03911a | 2024-05-26T20:52:31+10:00 | ✔ | ✔ |  |
 | 4E | ⚡️ - Cherrybrook | 4eddfdd6e9ccafa99ce893e5f3d0223befa7d0c9ca7b1c98572a223dd1671e6c | 2025-11-05T14:56:37+11:00 | ✔ | ✔ | 35 |
 | 53 | ENGADINE REPEATER | 53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c | 2025-11-05T14:13:00+11:00 | ✔ | ✔ |  |
-| 53 | Ultimo 🌱 | 5339913b6d4657c76a5a2ad29bf3f0f3a5a81c7564fc49be674cb69abf071345 | 2024-05-15T20:52:32+10:00 | ✔ |  |  |
 | 59 | oatl-meshcore | 5980a89f75c99b4e1637e0ec6b0089a5401e92a365cde33f3a69c7d6c7ecceef | 2025-10-30T04:03:56+11:00 |  |  |  |
 | 5A | 🐧MeshyRPT *Redfrn_ts | 5ae24e7d3900e968b137fd25e4b58cf95dfab5d62500dc8e24dfb87b6ad36408 | 2025-10-30T18:35:30+11:00 | ✔ |  |  |
 | 5E | ⚡️ - 🐝croft | 5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f | 2025-11-03T05:47:51+11:00 | ✔ | ✔ | 30 |
@@ -59,7 +58,7 @@ As of 6 November 2025, Meshcore identifies repeaters and roomservers using the f
 | 6D | 🛜LUX06 - Kiama | 6d4ec1f2204fafe7f778490dbdfcf1f96553a00ca16c33f2e942eaaa022b631c | 2024-06-07T05:52:35+10:00 | ✔ | ✔ |  |
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |  |  |  |  |
 | 71 | Breakfast Point Repeate | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 |  |  |  |  |
-| 72 | BTQ - Hornsby - Roof | 720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130 | 2025-11-06T06:37:42+11:00 | ✔ | ✔ | 1.5 |
+| 72 | BTQ - Hornsby - Roof | 720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130 | 2025-11-06T11:37:42+11:00 | ✔ | ✔ | 1.5 |
 | 73 | BTQ Portable 1 | 738460c241d09fd9891cb484b316176c929eef2e995e31cbaf77ba6430d7722e | 2025-11-03T11:12:35+11:00 | ✔ |  |  |
 | 74 | BTQ Portable 2 | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2025-11-05T23:11:30+11:00 |  |  |  |
 | 75 | ⚡️- Normanhurst | 7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c | 2025-11-05T15:30:11+11:00 | ✔ | ✔ | 35 |
