@@ -58,9 +58,9 @@ As of 6 November 2025, Meshcore identifies repeaters and roomservers using the f
 | 6D | 🛜LUX06 - Kiama | 6d4ec1f2204fafe7f778490dbdfcf1f96553a00ca16c33f2e942eaaa022b631c | 2024-06-07T05:52:35+10:00 | ✔ | ✔ |  |
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |  |  |  |  |
 | 71 | Breakfast Point Repeate | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 |  |  |  |  |
-| 72 | BTQ - Hornsby - Roof | 720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130 | 2025-11-06T11:37:42+11:00 | ✔ | ✔ | 1.5 |
+| 72 | BTQ - Hornsby - Roof | 720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130 | 2025-11-06T21:37:42+11:00 | ✔ | ✔ | 1.5 |
 | 73 | BTQ Portable 1 | 738460c241d09fd9891cb484b316176c929eef2e995e31cbaf77ba6430d7722e | 2025-11-03T11:12:35+11:00 | ✔ |  |  |
-| 74 | BTQ Portable 2 | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2025-11-05T23:11:30+11:00 |  |  |  |
+| 74 | BTQ Portable 2 | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2025-11-06T21:54:34+11:00 |  |  |  |
 | 75 | ⚡️- Normanhurst | 7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c | 2025-11-05T15:30:11+11:00 | ✔ | ✔ | 35 |
 | 76 | BTQ Portable 3 | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 | 2025-11-04T22:54:04+11:00 |  |  |  |
 | 77 | BTQ - Portable 4 | 77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c |  |  |  |  |
@@ -76,7 +76,7 @@ As of 6 November 2025, Meshcore identifies repeaters and roomservers using the f
 | 97 | 🌱 Mobile Repeater | 973fd16a3c4629247a80fad186e339019439986966b9d893f8fab3b2ac394494 | 2025-10-27T07:06:10+11:00 |  |  | 0 |
 | 9E | 🌱APG Reserve ☀️ | 9ea6f7ac22a2d0f3db17c62ff915ec4eca0b1631d0d735510fdb7b96444b77df | 2025-11-05T09:10:40+11:00 | ✔ |  |  |
 | A4 | 🛜LUX02 - Keira Sth | a468c8cda7d0531cc5b8f7607c0f234a1647e3ee89ab8b7443a8c75c540e3f1f | 2025-09-12T17:32:24+10:00 | ✔ | ✔ |  |
-| A5 | WazMobile | a5482ea67283a601bfd2c74d319f7b41f43efaf4e074e4d740add2f08bd16f8e |  |  |  |  |
+| A5 | Evil Core - Rooty Hill | a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd |  |  |  |  |
 | A7 | Pfych Repeater | a7fc405db7cead41c105522020879c6ca19ac06f97f85a63dc8e7914aa9932a3 | 2024-05-16T08:52:32+10:00 | ✔ | ✔ |  |
 | A7 | ✝️Cleric 🛻 | a70565285faeacff0b330779577cb25865d215fcc23664080ba5ab3c8602b89c | 2025-11-05T14:09:50+11:00 |  |  |  |
 | A8 | 🌱ESPNow Brdg Narrow | a86575f57734a68dbe09d8a0e8d1f478b78084a041a168364a5f32d02238bb74 |  |  |  | 15 |
