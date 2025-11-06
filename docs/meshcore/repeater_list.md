@@ -76,7 +76,7 @@ As of 6 November 2025, Meshcore identifies repeaters and roomservers using the f
 | 97 | 🌱 Mobile Repeater | 973fd16a3c4629247a80fad186e339019439986966b9d893f8fab3b2ac394494 | 2025-10-27T07:06:10+11:00 |  |  | 0 |
 | 9E | 🌱APG Reserve ☀️ | 9ea6f7ac22a2d0f3db17c62ff915ec4eca0b1631d0d735510fdb7b96444b77df | 2025-11-05T09:10:40+11:00 | ✔ |  |  |
 | A4 | 🛜LUX02 - Keira Sth | a468c8cda7d0531cc5b8f7607c0f234a1647e3ee89ab8b7443a8c75c540e3f1f | 2025-09-12T17:32:24+10:00 | ✔ | ✔ |  |
-| A5 | EvilCore - Rooty Hill | a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd |  |  |  |  |
+| A5 | Evil Core - Rooty Hill | a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd |  |  |  |  |
 | A7 | Pfych Repeater | a7fc405db7cead41c105522020879c6ca19ac06f97f85a63dc8e7914aa9932a3 | 2024-05-16T08:52:32+10:00 | ✔ | ✔ |  |
 | A7 | ✝️Cleric 🛻 | a70565285faeacff0b330779577cb25865d215fcc23664080ba5ab3c8602b89c | 2025-11-05T14:09:50+11:00 |  |  |  |
 | A8 | 🌱ESPNow Brdg Narrow | a86575f57734a68dbe09d8a0e8d1f478b78084a041a168364a5f32d02238bb74 |  |  |  | 15 |
