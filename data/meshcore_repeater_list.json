@@ -105,6 +105,7 @@
     },
     "27b252ad7c106fa10153d49d5ac6a19ed953c39e4977b33c1c70c4afb3df6485": {
         "name": "Londonderry RooT114H",
+        "internet_location": true,
         "public_key": "27b252ad7c106fa10153d49d5ac6a19ed953c39e4977b33c1c70c4afb3df6485"
     },
     "28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16": {
@@ -275,6 +276,7 @@
     },
     "4ce7f924255d56e44b3afc071b6fa64e2fd3ed4c4242a19a9a0abf99973fa7d0": {
         "name": "Bosco Repeater",
+        "internet_location": true,
         "public_key": "4ce7f924255d56e44b3afc071b6fa64e2fd3ed4c4242a19a9a0abf99973fa7d0"
     },
     "4c05703c81e953185a2d4282827c3e8a3aef846749a32e7b1a215e1edc03911a": {
@@ -324,6 +326,7 @@
     },
     "64beefb0250ae525979e02f1ebdbce266a1acccff2cbffb24ec9d99236e09d59": {
         "name": "🐄 Hawkesbury Heights",
+        "internet_location": true,
         "public_key": "64beefb0250ae525979e02f1ebdbce266a1acccff2cbffb24ec9d99236e09d59"
     },
     "65beef87abb2539dc4761bab7a2c7b30409b6271ad7707837c51cc2f3d722957": {
@@ -375,8 +378,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1762454262,
-        "last_seen": "2025-11-07T05:37:42+11:00",
+        "last_advert": 1762511862,
+        "last_seen": "2025-11-07T21:37:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "public_key": "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130"
@@ -390,8 +393,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1762455274,
-        "last_seen": "2025-11-07T05:54:34+11:00",
+        "last_advert": 1762509274,
+        "last_seen": "2025-11-07T20:54:34+11:00",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
     "7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c": {
