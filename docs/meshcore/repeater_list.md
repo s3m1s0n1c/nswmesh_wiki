@@ -2,7 +2,7 @@
 title: NSW Meshcore Repeater List
 ---
 
-As of 8 November 2025, Meshcore identifies repeaters and roomservers using the first byte (first two characters) of the node's public key. If two repeater nodes share the same first byte, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
+As of 9 November 2025, Meshcore identifies repeaters and roomservers using the first byte (first two characters) of the node's public key. If two repeater nodes share the same first byte, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
 
 
 | public_key_prefix | name | public_key | last_seen | advert_location | internet_location | antenna height above ground (m) |
@@ -10,7 +10,9 @@ As of 8 November 2025, Meshcore identifies repeaters and roomservers using the f
 | 01 | ☢ Bradbury Repeater | 012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab | 2025-11-05T11:00:44+11:00 | ✔ | ✔ |  |
 | 05 | ⚡️ - Mt Colah | 05265b086d2548b1eb1d60716f282972fd1451ff2edd124aa832c7b99fc3c3b0 | 2025-11-05T15:11:30+11:00 | ✔ | ✔ | 5 |
 | 08 | t1000 ✝️ | 08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8 |  |  |  |  |
+| 08 | Woonona Repeater | 0893fae74bcf5732f1db788970e35a6ddc38283cbba6bba46dc5cfa233403cd4 |  |  |  |  |
 | 08 | ✝️Cleric | 08c56aed8e7cb5097659bf839f7b18cc80cde8d7d837cc9c6576021b030d46e2 |  |  | ✔ |  |
+| 0B | GrazePointRepeater_T114 | 0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f |  |  | ✔ |  |
 | 0C | ✝️Wst Syd Airport | 0cdb20c2f916c35e1479d663b53f9380cb236ca7de0a25195251cb909d60ca6b | 2025-10-30T02:22:03+11:00 | ✔ | ✔ |  |
 | 11 | 🌱Chester Street | 113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642 | 2025-11-05T22:03:16+11:00 | ✔ | ✔ | 10 |
 | 12 | 🌱Ultimo | 1244c5f64e7b65c419bd7f65da2a2416edf1efe84fd04e868ad77af0f131d4f7 | 2025-10-30T17:00:25+11:00 | ✔ | ✔ |  |
@@ -25,7 +27,7 @@ As of 8 November 2025, Meshcore identifies repeaters and roomservers using the f
 | 26 | 📡YER NBSYD 02 | 26ca452f95ef6a9a7183080e208b2345c0be5b50a9cb97c3790b857dae661681 |  |  |  |  |
 | 27 | Londonderry RooT114H | 27b252ad7c106fa10153d49d5ac6a19ed953c39e4977b33c1c70c4afb3df6485 |  |  | ✔ |  |
 | 28 | Mount Annan ☠️ | 28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16 | 2025-09-08T21:51:04+10:00 | ✔ | ✔ |  |
-| 2A | Nth Kellyville (East) | 2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154 |  |  |  |  |
+| 2A | North Kellyville (West) | 2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154 |  |  |  |  |
 | 2C | Lakesland | 2c4bb76f2decfb0fc6a1d266fd6504d4133a23cde1e3eec35378a489a2c3c37b | 2024-05-15T21:25:23+10:00 | ✔ |  |  |
 | 2D | GymReps_v4 | 2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2 | 2025-11-07T01:34:08+11:00 | ✔ | ✔ |  |
 | 2E | 🛜LUX08 - Knights Hil | 2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05 | 2025-10-31T20:51:07+11:00 | ✔ | ✔ |  |
@@ -59,14 +61,14 @@ As of 8 November 2025, Meshcore identifies repeaters and roomservers using the f
 | 65 | 🐄 North Sydney | 65beef87abb2539dc4761bab7a2c7b30409b6271ad7707837c51cc2f3d722957 | 2025-11-05T09:34:35+11:00 | ✔ |  |  |
 | 66 | 33t2 mobile repeater | 66facbbed204c766052803f612edf79032ecbf5b813dedf71ea73cc8710b938b |  |  |  |  |
 | 67 | HangingRock Repeater | 67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a | 2025-11-01T14:02:00+11:00 |  |  |  |
-| 68 | 🐄 Marsden Park | 68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763 | 2025-10-31T16:47:01+11:00 | ✔ |  |  |
+| 68 | 🐄 Marsden Park | 68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763 | 2025-10-31T16:47:01+11:00 | ✔ | ✔ |  |
 | 69 | RobCo / Darling Harbor | 6969be2bd73967a4d26a34c52744ad225d5ce94e9ef28dd8e0a295925c1bdcb8 | 2025-11-05T10:19:04+11:00 | ✔ |  |  |
 | 6D | 🛜LUX06 - Kiama | 6d4ec1f2204fafe7f778490dbdfcf1f96553a00ca16c33f2e942eaaa022b631c | 2024-06-07T05:52:35+10:00 | ✔ | ✔ |  |
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |  |  |  |  |
 | 71 | Breakfast Point Repeate | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 |  |  |  |  |
-| 72 | BTQ - Hornsby - Roof | 720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130 | 2025-11-07T21:37:42+11:00 | ✔ | ✔ | 1.5 |
+| 72 | BTQ - Hornsby - Roof | 720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130 | 2025-11-09T14:37:42+11:00 | ✔ | ✔ | 1.5 |
 | 73 | BTQ Portable 1 | 738460c241d09fd9891cb484b316176c929eef2e995e31cbaf77ba6430d7722e | 2025-11-03T11:12:35+11:00 | ✔ |  |  |
-| 74 | BTQ Portable 2 | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2025-11-07T20:54:34+11:00 |  |  |  |
+| 74 | BTQ Portable 2 | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2025-11-09T13:54:34+11:00 |  |  |  |
 | 75 | ⚡️- Normanhurst | 7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c | 2025-11-05T15:30:11+11:00 | ✔ | ✔ | 35 |
 | 76 | BTQ Portable 3 | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 | 2025-11-04T22:54:04+11:00 |  |  |  |
 | 77 | BTQ - Portable 4 | 77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c |  |  |  |  |
@@ -77,7 +79,7 @@ As of 8 November 2025, Meshcore identifies repeaters and roomservers using the f
 | 80 | 🌱Balmain | 8000ca0888e90f75ef93f6a225557c965cb26e3ea50b27b65d6f8b5190aaeeb1 | 2024-05-15T20:52:32+10:00 | ✔ | ✔ |  |
 | 85 | 🌱 Mobile Brdg Rptr | 85b9841ca6741ebb64475346b5dfa21f36d77807a8ffc8bca6b1a56cf32d433b | 2025-11-01T19:53:24+11:00 | ✔ |  |  |
 | 87 | 👾Sonic - GreenPoint | 870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046 | 2025-11-05T05:51:52+11:00 | ✔ |  |  |
-| 89 | ☂️HP Tallawong Repe | 8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6 | 2025-11-07T01:33:49+11:00 | ✔ | ✔ |  |
+| 89 | ☂️HP Tallawong Repe | 8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6 | 2025-11-09T01:25:57+11:00 | ✔ | ✔ |  |
 | 95 | CarlSagan-G2 | 95a6ae9f43ff31e8d1541ed017b48e79486bdd4df00c42f9eb34e7f9b415d476 | 2024-05-24T14:52:31+10:00 | ✔ |  |  |
 | 97 | 🌱 Ultimo II | 973fd16a3c4629247a80fad186e339019439986966b9d893f8fab3b2ac394494 | 2025-10-27T07:06:10+11:00 |  |  | 0 |
 | 9E | 🌱APG Reserve ☀️ | 9ea6f7ac22a2d0f3db17c62ff915ec4eca0b1631d0d735510fdb7b96444b77df | 2025-11-05T09:10:40+11:00 | ✔ |  |  |
