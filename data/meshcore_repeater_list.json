@@ -15,13 +15,13 @@
         "internet_location": true,
         "public_key": "05265b086d2548b1eb1d60716f282972fd1451ff2edd124aa832c7b99fc3c3b0"
     },
-    "0893fae74bcf5732f1db788970e35a6ddc38283cbba6bba46dc5cfa233403cd4": {
-        "name": "Woonona Repeater",
-        "public_key": "0893fae74bcf5732f1db788970e35a6ddc38283cbba6bba46dc5cfa233403cd4"
-    },
     "08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8": {
         "name": "t1000 ✝️",
         "public_key": "08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8"
+    },
+    "0893fae74bcf5732f1db788970e35a6ddc38283cbba6bba46dc5cfa233403cd4": {
+        "name": "Woonona Repeater",
+        "public_key": "0893fae74bcf5732f1db788970e35a6ddc38283cbba6bba46dc5cfa233403cd4"
     },
     "08c56aed8e7cb5097659bf839f7b18cc80cde8d7d837cc9c6576021b030d46e2": {
         "name": "✝️Cleric",
@@ -30,6 +30,7 @@
     },
     "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f": {
         "name": "GrazePointRepeater_T114",
+        "internet_location": true,
         "public_key": "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f"
     },
     "0cdb20c2f916c35e1479d663b53f9380cb236ca7de0a25195251cb909d60ca6b": {
@@ -387,8 +388,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1762655862,
-        "last_seen": "2025-11-09T13:37:42+11:00",
+        "last_advert": 1762659462,
+        "last_seen": "2025-11-09T14:37:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "public_key": "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130"
