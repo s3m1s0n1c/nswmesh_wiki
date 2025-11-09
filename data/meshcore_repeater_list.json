@@ -15,6 +15,10 @@
         "internet_location": true,
         "public_key": "05265b086d2548b1eb1d60716f282972fd1451ff2edd124aa832c7b99fc3c3b0"
     },
+    "0893fae74bcf5732f1db788970e35a6ddc38283cbba6bba46dc5cfa233403cd4": {
+        "name": "Woonona Repeater",
+        "public_key": "0893fae74bcf5732f1db788970e35a6ddc38283cbba6bba46dc5cfa233403cd4"
+    },
     "08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8": {
         "name": "t1000 ✝️",
         "public_key": "08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8"
@@ -23,6 +27,10 @@
         "name": "✝️Cleric",
         "internet_location": true,
         "public_key": "08c56aed8e7cb5097659bf839f7b18cc80cde8d7d837cc9c6576021b030d46e2"
+    },
+    "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f": {
+        "name": "GrazePointRepeater_T114",
+        "public_key": "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f"
     },
     "0cdb20c2f916c35e1479d663b53f9380cb236ca7de0a25195251cb909d60ca6b": {
         "name": "✝️Wst Syd Airport",
@@ -117,7 +125,7 @@
         "public_key": "28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16"
     },
     "2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154": {
-        "name": "Nth Kellyville (East)",
+        "name": "North Kellyville (West)",
         "public_key": "2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154"
     },
     "2c4bb76f2decfb0fc6a1d266fd6504d4133a23cde1e3eec35378a489a2c3c37b": {
@@ -351,6 +359,7 @@
         "last_advert": 1761889621,
         "last_seen": "2025-10-31T16:47:01+11:00",
         "advert_location": true,
+        "internet_location": true,
         "public_key": "68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763"
     },
     "6969be2bd73967a4d26a34c52744ad225d5ce94e9ef28dd8e0a295925c1bdcb8": {
@@ -378,8 +387,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1762511862,
-        "last_seen": "2025-11-07T21:37:42+11:00",
+        "last_advert": 1762655862,
+        "last_seen": "2025-11-09T13:37:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "public_key": "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130"
@@ -393,8 +402,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1762509274,
-        "last_seen": "2025-11-07T20:54:34+11:00",
+        "last_advert": 1762656874,
+        "last_seen": "2025-11-09T13:54:34+11:00",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
     "7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c": {
@@ -470,8 +479,8 @@
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong Repe",
-        "last_advert": 1762439629,
-        "last_seen": "2025-11-07T01:33:49+11:00",
+        "last_advert": 1762611957,
+        "last_seen": "2025-11-09T01:25:57+11:00",
         "advert_location": true,
         "internet_location": true,
         "public_key": "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6"
