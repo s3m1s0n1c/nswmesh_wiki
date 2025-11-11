@@ -124,6 +124,11 @@
         "status": "active",
         "public_key": "202f1356b085c24490c9bacb13c9032b95c6991f8bbf28bb856c40a50b1463e5"
     },
+    "21503F9463DDB37DB53FFB1ABFA562B31B980AD404F3D64498F5D2BFC66486F3": {
+        "name": "HP UNSW Repeater",
+        "status": "active",
+        "public_key": "21503F9463DDB37DB53FFB1ABFA562B31B980AD404F3D64498F5D2BFC66486F3"
+    },
     "22e3daa55da62589ee5c93fe0313762d9268f7f5243fb20ba1d279ccf4a53524": {
         "name": "✝️ Cleric Test Repe",
         "status": "active",
@@ -505,8 +510,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1762825062,
-        "last_seen": "2025-11-11T12:37:42+11:00",
+        "last_advert": 1762832262,
+        "last_seen": "2025-11-11T14:37:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -522,8 +527,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1762826074,
-        "last_seen": "2025-11-11T12:54:34+11:00",
+        "last_advert": 1762833274,
+        "last_seen": "2025-11-11T14:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
