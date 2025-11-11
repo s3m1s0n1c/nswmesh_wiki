@@ -502,8 +502,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1762846662,
-        "last_seen": "2025-11-11T18:37:42+11:00",
+        "last_advert": 1762850262,
+        "last_seen": "2025-11-11T19:37:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -519,8 +519,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1762844074,
-        "last_seen": "2025-11-11T17:54:34+11:00",
+        "last_advert": 1762851274,
+        "last_seen": "2025-11-11T19:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -696,11 +696,6 @@
         "internet_location": true,
         "status": "active",
         "public_key": "a86575f57734a68dbe09d8a0e8d1f478b78084a041a168364a5f32d02238bb74"
-    },
-    "a9d47bc084c48142afabcdbe202986ad1bd45add093c78cb7e3fe0ea9da40687": {
-        "name": "North Kellyville Rptr",
-        "status": "active",
-        "public_key": "a9d47bc084c48142afabcdbe202986ad1bd45add093c78cb7e3fe0ea9da40687"
     },
     "a97b453e4f9622cd013acf59bfbf3d0eb510d2d13b3b218ba4c700780ac8e8ea": {
         "name": "☠ Greendale Rpt",
