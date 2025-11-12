@@ -470,6 +470,12 @@
         "status": "active",
         "public_key": "6951b4d07279c64e5e545367ad6cfc893516b6cca8e12e579c86651a23f9eeaf"
     },
+    "6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6": {
+        "name": "cra0 Wentworth Pt01",
+        "internet_location": true,
+        "status": "active",
+        "public_key": "6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6"
+    },
     "6d4ec1f2204fafe7f778490dbdfcf1f96553a00ca16c33f2e942eaaa022b631c": {
         "name": "🛜LUX06 - Kiama",
         "last_advert": 1717703555,
@@ -497,13 +503,14 @@
         "last_advert": 1762451006,
         "last_seen": "2025-11-07T04:43:26+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9"
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1762850262,
-        "last_seen": "2025-11-11T19:37:42+11:00",
+        "last_advert": 1762918662,
+        "last_seen": "2025-11-12T14:37:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -519,8 +526,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1762851274,
-        "last_seen": "2025-11-11T19:54:34+11:00",
+        "last_advert": 1762919674,
+        "last_seen": "2025-11-12T14:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -589,10 +596,10 @@
         "status": "active",
         "public_key": "8000ca0888e90f75ef93f6a225557c965cb26e3ea50b27b65d6f8b5190aaeeb1"
     },
-    "81...................................................": {
-        "name": "Yellow Rock Repeater",
+    "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6": {
+        "name": "Yellow Rock Repeater - Pending",
         "status": "active",
-        "public_key": "81..................................................."
+        "public_key": "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6"
     },
     "85b9841ca6741ebb64475346b5dfa21f36d77807a8ffc8bca6b1a56cf32d433b": {
         "name": "🌱 Mobile Brdg Rptr",
@@ -837,6 +844,11 @@
         "internet_location": true,
         "status": "active",
         "public_key": "c994088710b5279e7e162f914d8321e73f340bf27c869a0c00feaebe4100ba3a"
+    },
+    "d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6": {
+        "name": "🇦🇺 Rydalmere RPT",
+        "status": "active",
+        "public_key": "d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6"
     },
     "d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79": {
         "name": "🌱t1000-e 923.5",
