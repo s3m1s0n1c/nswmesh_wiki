@@ -847,8 +847,14 @@
     },
     "d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6": {
         "name": "🇦🇺 Rydalmere RPT",
+        "internet_location": true,
         "status": "active",
         "public_key": "d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6"
+    },
+    "d284a01b81069fab054ad4355d46c58037618df478e05e64579af5489d1ea569": {
+        "name": "Picton Test",
+        "status": "active",
+        "public_key": "d284a01b81069fab054ad4355d46c58037618df478e05e64579af5489d1ea569"
     },
     "d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79": {
         "name": "🌱t1000-e 923.5",

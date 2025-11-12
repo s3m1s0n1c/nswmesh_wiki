@@ -117,7 +117,8 @@ As of 12 November 2025, Meshcore identifies repeaters and roomservers using the 
 | C8 | 33t2-RPT/mobile | c8c10c188d58d4871b3eb880696efff697d317d7950511594899500a5b5e6a06 | 2024-05-15T20:52:33+10:00 |  |  |  |
 | C8 | 🛜LUX05 - Bald Hill | c84e5ab84acbd0f2e660ae5213274fb3353d2f7ce1c9d9ff3ba10ebf0e963e1c | 2024-06-13T14:52:35+10:00 | ✔ | ✔ |  |
 | C9 | ✝️ADF OrchardHills | c994088710b5279e7e162f914d8321e73f340bf27c869a0c00feaebe4100ba3a | 2024-06-03T11:52:34+10:00 | ✔ | ✔ |  |
-| D1 | 🇦🇺 Rydalmere RPT | d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6 |  |  |  |  |
+| D1 | 🇦🇺 Rydalmere RPT | d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6 |  |  | ✔ |  |
+| D2 | Picton Test | d284a01b81069fab054ad4355d46c58037618df478e05e64579af5489d1ea569 |  |  |  |  |
 | D5 | 🌱t1000-e 923.5 | d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79 | 2025-11-07T17:27:15+11:00 |  |  |  |
 | D7 | ✝️ | d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78 | 2025-11-05T09:02:51+11:00 |  | ✔ |  |
 | DB | ☂️ HP Bankstown Rep | db3c00f64c0241827c83ac294dab21173fdb9bebadcdf22c12eb1b38d4cca15e | 2024-05-15T20:52:33+10:00 |  |  |  |
