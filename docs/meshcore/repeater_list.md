@@ -67,13 +67,14 @@ As of 12 November 2025, Meshcore identifies repeaters and roomservers using the 
 | 68 | 🐄 Marsden Park | 68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763 | 2025-11-11T00:37:44+11:00 | ✔ | ✔ |  |
 | 69 | RobCo / Darling Harbor | 6969be2bd73967a4d26a34c52744ad225d5ce94e9ef28dd8e0a295925c1bdcb8 | 2025-11-11T05:31:31+11:00 | ✔ |  |  |
 | 69 | ✝️ESP TEST RPTR_2 | 6951b4d07279c64e5e545367ad6cfc893516b6cca8e12e579c86651a23f9eeaf | 2025-11-05T19:08:58+11:00 |  |  |  |
+| 6C | cra0 Wentworth Pt01 | 6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6 |  |  | ✔ |  |
 | 6D | 🛜LUX06 - Kiama | 6d4ec1f2204fafe7f778490dbdfcf1f96553a00ca16c33f2e942eaaa022b631c | 2024-06-07T05:52:35+10:00 | ✔ | ✔ |  |
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |  |  |  |  |
 | 6E | ☢️ Testing | 6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc | 2025-11-10T02:57:56+11:00 | ✔ |  |  |
-| 71 | Breakfast Point Rpt | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 | 2025-11-07T04:43:26+11:00 | ✔ |  |  |
-| 72 | BTQ - Hornsby - Roof | 720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130 | 2025-11-11T19:37:42+11:00 | ✔ | ✔ | 1.5 |
+| 71 | Breakfast Point Rpt | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 | 2025-11-07T04:43:26+11:00 | ✔ | ✔ |  |
+| 72 | BTQ - Hornsby - Roof | 720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130 | 2025-11-12T14:37:42+11:00 | ✔ | ✔ | 1.5 |
 | 73 | BTQ Portable 1 | 738460c241d09fd9891cb484b316176c929eef2e995e31cbaf77ba6430d7722e | 2025-11-03T11:12:35+11:00 | ✔ |  |  |
-| 74 | BTQ Portable 2 | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2025-11-11T19:54:34+11:00 |  |  |  |
+| 74 | BTQ Portable 2 | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2025-11-12T14:54:34+11:00 |  |  |  |
 | 75 | ⚡️- Normanhurst | 7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c | 2025-11-05T15:30:11+11:00 | ✔ | ✔ | 35 |
 | 76 | BTQ Portable 3 | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 | 2025-11-04T22:54:04+11:00 |  |  |  |
 | 77 | BTQ - Portable 4 | 77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c |  |  |  |  |
@@ -82,7 +83,7 @@ As of 12 November 2025, Meshcore identifies repeaters and roomservers using the 
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 | 2025-10-28T06:34:00+11:00 | ✔ | ✔ |  |
 | 7D | 🌱 Chester St 442.5 | 7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f | 2025-10-29T19:05:33+11:00 | ✔ |  |  |
 | 80 | 🌱Balmain | 8000ca0888e90f75ef93f6a225557c965cb26e3ea50b27b65d6f8b5190aaeeb1 | 2024-05-15T20:52:32+10:00 | ✔ | ✔ |  |
-| 81 | Yellow Rock Repeater | 81................................................... |  |  |  |  |
+| 81 | Yellow Rock Repeater - Pending | 81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6 |  |  |  |  |
 | 85 | 🌱 Mobile Brdg Rptr | 85b9841ca6741ebb64475346b5dfa21f36d77807a8ffc8bca6b1a56cf32d433b | 2025-11-01T19:53:24+11:00 | ✔ |  |  |
 | 87 | 👾Sonic - GreenPoint | 870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046 | 2025-11-05T05:51:52+11:00 | ✔ |  |  |
 | 89 | ☂️HP Tallawong Repe | 8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6 | 2025-11-11T01:33:50+11:00 | ✔ | ✔ |  |
@@ -116,6 +117,7 @@ As of 12 November 2025, Meshcore identifies repeaters and roomservers using the 
 | C8 | 33t2-RPT/mobile | c8c10c188d58d4871b3eb880696efff697d317d7950511594899500a5b5e6a06 | 2024-05-15T20:52:33+10:00 |  |  |  |
 | C8 | 🛜LUX05 - Bald Hill | c84e5ab84acbd0f2e660ae5213274fb3353d2f7ce1c9d9ff3ba10ebf0e963e1c | 2024-06-13T14:52:35+10:00 | ✔ | ✔ |  |
 | C9 | ✝️ADF OrchardHills | c994088710b5279e7e162f914d8321e73f340bf27c869a0c00feaebe4100ba3a | 2024-06-03T11:52:34+10:00 | ✔ | ✔ |  |
+| D1 | 🇦🇺 Rydalmere RPT | d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6 |  |  |  |  |
 | D5 | 🌱t1000-e 923.5 | d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79 | 2025-11-07T17:27:15+11:00 |  |  |  |
 | D7 | ✝️ | d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78 | 2025-11-05T09:02:51+11:00 |  | ✔ |  |
 | DB | ☂️ HP Bankstown Rep | db3c00f64c0241827c83ac294dab21173fdb9bebadcdf22c12eb1b38d4cca15e | 2024-05-15T20:52:33+10:00 |  |  |  |
