@@ -14,7 +14,7 @@
         "last_seen": "2025-11-05T15:11:30+11:00",
         "advert_location": true,
         "internet_location": true,
-        "status": "active",
+        "status": "parked",
         "public_key": "05265b086d2548b1eb1d60716f282972fd1451ff2edd124aa832c7b99fc3c3b0"
     },
     "08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8": {
@@ -69,11 +69,9 @@
         "public_key": "113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642"
     },
     "1244c5f64e7b65c419bd7f65da2a2416edf1efe84fd04e868ad77af0f131d4f7": {
-        "name": "🌱Ultimo",
-        "last_advert": 1761804025,
-        "last_seen": "2025-10-30T17:00:25+11:00",
-        "advert_location": true,
-        "internet_location": true,
+        "name": "🌱TBA",
+        "last_advert": 1762939959,
+        "last_seen": "2025-11-12T20:32:39+11:00",
         "status": "active",
         "public_key": "1244c5f64e7b65c419bd7f65da2a2416edf1efe84fd04e868ad77af0f131d4f7"
     },
@@ -196,7 +194,7 @@
         "last_seen": "2025-11-05T10:41:12+11:00",
         "advert_location": true,
         "internet_location": true,
-        "status": "active",
+        "status": "parked",
         "public_key": "30b0840ed68aff84bab3721f956191ee51098970b429b730798e9eb01f7422ff"
     },
     "32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9": {
@@ -205,7 +203,7 @@
         "last_seen": "2025-11-05T15:57:58+11:00",
         "advert_location": true,
         "internet_location": true,
-        "status": "active",
+        "status": "parked",
         "public_key": "32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9"
     },
     "338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0": {
@@ -214,7 +212,7 @@
         "last_seen": "2025-11-05T14:26:58+11:00",
         "advert_location": true,
         "internet_location": true,
-        "status": "active",
+        "status": "parked",
         "public_key": "338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0"
     },
     "35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d": {
@@ -228,8 +226,8 @@
     },
     "36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092": {
         "name": "🌱Camperdown🌤",
-        "last_advert": 1762926052,
-        "last_seen": "2025-11-12T16:40:52+11:00",
+        "last_advert": 1762981782,
+        "last_seen": "2025-11-13T08:09:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -309,9 +307,8 @@
     },
     "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280": {
         "name": "🌱Bridge 915.8🌤",
-        "last_advert": 1762917570,
-        "last_seen": "2025-11-12T14:19:30+11:00",
-        "advert_location": true,
+        "last_advert": 1762948569,
+        "last_seen": "2025-11-12T22:56:09+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280"
@@ -347,7 +344,7 @@
         "last_seen": "2025-11-05T17:56:14+11:00",
         "advert_location": true,
         "internet_location": true,
-        "status": "active",
+        "status": "parked",
         "public_key": "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff"
     },
     "4ba9c51b34d518ec8f22bf3f93621d1a11b67368818ae228adc63dbff250dd6a": {
@@ -411,7 +408,7 @@
         "last_seen": "2025-11-03T05:47:51+11:00",
         "advert_location": true,
         "internet_location": true,
-        "status": "active",
+        "status": "parked",
         "public_key": "5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f"
     },
     "64beefb0250ae525979e02f1ebdbce266a1acccff2cbffb24ec9d99236e09d59": {
@@ -457,8 +454,8 @@
     },
     "6969be2bd73967a4d26a34c52744ad225d5ce94e9ef28dd8e0a295925c1bdcb8": {
         "name": "RobCo | Darling Harbor",
-        "last_advert": 1762799491,
-        "last_seen": "2025-11-11T05:31:31+11:00",
+        "last_advert": 1762961492,
+        "last_seen": "2025-11-13T02:31:32+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "6969be2bd73967a4d26a34c52744ad225d5ce94e9ef28dd8e0a295925c1bdcb8"
@@ -509,8 +506,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1762925862,
-        "last_seen": "2025-11-12T16:37:42+11:00",
+        "last_advert": 1763001462,
+        "last_seen": "2025-11-13T13:37:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -526,8 +523,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1762923274,
-        "last_seen": "2025-11-12T15:54:34+11:00",
+        "last_advert": 1763002474,
+        "last_seen": "2025-11-13T13:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -537,7 +534,7 @@
         "last_seen": "2025-11-05T15:30:11+11:00",
         "advert_location": true,
         "internet_location": true,
-        "status": "active",
+        "status": "parked",
         "public_key": "7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c"
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
@@ -745,6 +742,11 @@
         "status": "active",
         "public_key": "acdc7efadc2b7ae2892474adfcfe02232b72987397ec1af067eb01830ea0d02d"
     },
+    "ae836f555cf9c41ced8c758a49400116765d6ba0c1f67d1bc60ee8433c03cd66": {
+        "name": "Terry Hills",
+        "status": "parked",
+        "public_key": "ae836f555cf9c41ced8c758a49400116765d6ba0c1f67d1bc60ee8433c03cd66"
+    },
     "b00b18ba06f3d21688d477efdc71a15c8177af94cc83751090c6ead7ca56fad2": {
         "name": "North Kellyville Rptr",
         "status": "active",
@@ -801,7 +803,7 @@
         "last_seen": "2025-10-28T23:32:08+11:00",
         "advert_location": true,
         "internet_location": true,
-        "status": "active",
+        "status": "parked",
         "public_key": "c1cc1f7ba116e955fb0552432570ec76a99473b6563ccd6c8231375448d86a98"
     },
     "c2a73ce3e6924b6e09ae2357fca65a6a1ebdb1245e9aba09327480ee2cf36742": {
@@ -862,6 +864,11 @@
         "name": "Picton Test",
         "status": "active",
         "public_key": "d284a01b81069fab054ad4355d46c58037618df478e05e64579af5489d1ea569"
+    },
+    "d390a076723d74e679e5fe5aea733d6e9f074c08406cb3fbae583bec0cc8304e": {
+        "name": "🇦🇺 Rydalmere RPT2",
+        "status": "active",
+        "public_key": "d390a076723d74e679e5fe5aea733d6e9f074c08406cb3fbae583bec0cc8304e"
     },
     "d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79": {
         "name": "🌱t1000-e 923.5",
