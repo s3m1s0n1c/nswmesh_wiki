@@ -2,7 +2,7 @@
 title: NSW Meshcore Repeater List
 ---
 
-As of 16 November 2025, Meshcore identifies repeaters and roomservers using the first byte (first two characters) of the node's public key. If two repeater nodes share the same first byte, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
+As of 17 November 2025, Meshcore identifies repeaters and roomservers using the first byte (first two characters) of the node's public key. If two repeater nodes share the same first byte, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
 
 
 | public_key_prefix | name | public_key | last_seen | advert_location | internet_location | antenna height above ground (m) |
@@ -48,7 +48,7 @@ As of 16 November 2025, Meshcore identifies repeaters and roomservers using the 
 | 41 | RR2 | 41d3de71e5690239fead4860bd14679f1f284bcbf36f2d8d87f34a491d205ad6 |  |  | ✔ |  |
 | 42 | Heltec Repeater | 42cd4d5314a5ee06702d828638c073e040b739e504309f6efd6f291b582e5c20 | 2025-11-05T02:13:12+11:00 | ✔ |  |  |
 | 42 | RobCo / Platinum Chip | 42b17e605d18948f668cf91e3846a11f7b34e2d03bd6ad862aba9d0ed1a4a635 | 2025-10-31T04:05:28+11:00 | ✔ |  |  |
-| 43 | 🌱TBA☀️ | 4337e2d5be4bdb10f1b1dfb20029d5ca47eac2bad323ce737232acfcc984e3f3 | 2025-11-16T12:45:18+11:00 |  |  | 1 |
+| 43 | 🌱TBA☀️ | 4337e2d5be4bdb10f1b1dfb20029d5ca47eac2bad323ce737232acfcc984e3f3 | 2025-11-16T12:45:18+11:00 |  |  |  |
 | 44 | 🌱Bridge 915.8🌤 | 44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280 | 2025-11-16T11:31:18+11:00 |  | ✔ | 10 |
 | 45 | ☠️Elderslie Rpt | 45cb34e93fa2109b6de1ea9b034c90c8ca638fd9e5d86c297a67e4c9f9d8798b | 2025-11-16T15:02:15+11:00 | ✔ |  |  |
 | 46 | 🌱Nelson Street☀️ | 465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90 | 2025-11-16T20:29:22+11:00 | ✔ |  | 2 |
@@ -81,7 +81,7 @@ As of 16 November 2025, Meshcore identifies repeaters and roomservers using the 
 | 76 | BTQ Portable 3 | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 | 2025-11-04T22:54:04+11:00 |  |  |  |
 | 77 | BTQ - Portable 4 | 77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c |  |  |  |  |
 | 78 | 🌱Waterloo | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 | 2025-11-01T14:12:11+11:00 | ✔ | ✔ | 1 |
-| 79 | 🌱TBA | 794e9ce7b05de2f9af84a35b13f709ad415136b298af7ef6438d5518fc65ead9 | 2025-11-16T12:44:31+11:00 |  |  | 1 |
+| 79 | 🌱TBA | 794e9ce7b05de2f9af84a35b13f709ad415136b298af7ef6438d5518fc65ead9 | 2025-11-16T12:44:31+11:00 |  |  | delete |
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 | 2025-10-28T06:34:00+11:00 | ✔ | ✔ |  |
 | 7D | 🌱 Chester St 442.5 | 7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f | 2025-10-29T19:05:33+11:00 | ✔ |  |  |
 | 80 | 🌱Balmain | 8000ca0888e90f75ef93f6a225557c965cb26e3ea50b27b65d6f8b5190aaeeb1 | 2024-05-15T20:52:32+10:00 | ✔ | ✔ |  |
@@ -139,6 +139,6 @@ As of 16 November 2025, Meshcore identifies repeaters and roomservers using the 
 | F3 | v4_ESPNOW_RPTR | f3d832d2e33e528a6aa60925933f9ed81f474c702e3a2e4f2143dc84568a6bec | 2025-11-16T18:05:07+11:00 |  |  |  |
 | F5 | ✝️ St Finbar's | f58e1ca5e95ca03d516b80c4839ecd8c76855f63e9e9dea371f3384b24a1b705 | 2025-11-02T23:14:06+11:00 |  | ✔ |  |
 | F9 | XiaoS3 Repeater | f93549c8600ee5c7c063b66e7636d237bd49470c61dcb5ec8cc310e85ae9afab | 2024-05-22T20:52:31+10:00 |  |  |  |
-| FA | 🌱mini solar test | fa292f7b7d18241d38c7a1db7ec1fccb4ec9d22201276cc062707e0ef489efad | 2025-10-27T21:18:08+11:00 |  |  | 15 |
+| FA | 🌱mini solar test | fa292f7b7d18241d38c7a1db7ec1fccb4ec9d22201276cc062707e0ef489efad | 2025-10-27T21:18:08+11:00 |  |  |  |
 | FC | 🌱Minogue Cr.☀️ | fc1ae909ec52889f3da27a6c42193e31baba77232a47f39a14c1b8310de558c6 | 2025-11-16T07:34:43+11:00 | ✔ |  |  |
 | FE | RIPPLE-SYD-ILLAWONG-RPT | fef2dcf0570fdd0d9c9dfed38c35d0e25ce0aeeb98ed6ad5533e51f57c4c05ee | 2025-10-30T08:19:05+11:00 | ✔ | ✔ |  |
