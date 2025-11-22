@@ -416,6 +416,15 @@
         "status": "active",
         "public_key": "4eddfdd6e9ccafa99ce893e5f3d0223befa7d0c9ca7b1c98572a223dd1671e6c"
     },
+    "4eddb6db310d70fd821c6783d0e3a8ac6d337b8d5c255f78e3f1bd86d5a0dcda": {
+        "name": "⚡️ - Cherrybrook",
+        "last_advert": 1763809057,
+        "last_seen": "2025-11-22T21:57:37+11:00",
+        "advert_location": true,
+        "internet_location": true,
+        "status": "active",
+        "public_key": "4eddb6db310d70fd821c6783d0e3a8ac6d337b8d5c255f78e3f1bd86d5a0dcda"
+    },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
         "last_advert": 1763802781,
@@ -584,8 +593,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1763805274,
-        "last_seen": "2025-11-22T20:54:34+11:00",
+        "last_advert": 1763808874,
+        "last_seen": "2025-11-22T21:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
