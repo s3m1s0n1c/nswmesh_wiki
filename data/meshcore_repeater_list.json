@@ -1,8 +1,8 @@
 {
     "012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab": {
         "name": "☢ Bradbury Repeater",
-        "last_advert": 1763759159,
-        "last_seen": "2025-11-22T08:05:59+11:00",
+        "last_advert": 1763842954,
+        "last_seen": "2025-11-23T07:22:34+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -166,8 +166,8 @@
     },
     "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f": {
         "name": "🦘Horsley Park",
-        "last_advert": 1763832841,
-        "last_seen": "2025-11-23T04:34:01+11:00",
+        "last_advert": 1763843641,
+        "last_seen": "2025-11-23T07:34:01+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f"
@@ -251,8 +251,8 @@
     },
     "338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0": {
         "name": "⚡️ - Mt Colah 2",
-        "last_advert": 1763795542,
-        "last_seen": "2025-11-22T18:12:22+11:00",
+        "last_advert": 1763843868,
+        "last_seen": "2025-11-23T07:37:48+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -392,8 +392,8 @@
     },
     "4ce7f924255d56e44b3afc071b6fa64e2fd3ed4c4242a19a9a0abf99973fa7d0": {
         "name": "Bosco Repeater",
-        "last_advert": 1763799182,
-        "last_seen": "2025-11-22T19:13:02+11:00",
+        "last_advert": 1763842382,
+        "last_seen": "2025-11-23T07:13:02+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "4ce7f924255d56e44b3afc071b6fa64e2fd3ed4c4242a19a9a0abf99973fa7d0"
@@ -442,8 +442,8 @@
     },
     "5d86237641ee93c12d7a24198bed331d31c532a2110d43585b05802685721fe2": {
         "name": "🌱VIC Preset Bridge",
-        "last_advert": 1763730189,
-        "last_seen": "2025-11-22T00:03:09+11:00",
+        "last_advert": 1763842633,
+        "last_seen": "2025-11-23T07:17:13+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -567,8 +567,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1763839733,
-        "last_seen": "2025-11-23T06:28:53+11:00",
+        "last_advert": 1763843333,
+        "last_seen": "2025-11-23T07:28:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -584,8 +584,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1763841274,
-        "last_seen": "2025-11-23T06:54:34+11:00",
+        "last_advert": 1763844874,
+        "last_seen": "2025-11-23T07:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -681,8 +681,8 @@
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong Repe",
-        "last_advert": 1763832832,
-        "last_seen": "2025-11-23T04:33:52+11:00",
+        "last_advert": 1763843632,
+        "last_seen": "2025-11-23T07:33:52+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -844,8 +844,8 @@
     },
     "b745d1254f0639695fd7326c23f3a0bcb92aa4c5e08f6cfc43ba9527db88515d": {
         "name": "☠ Kenny Hill Rpt",
-        "last_advert": 1763822166,
-        "last_seen": "2025-11-23T01:36:06+11:00",
+        "last_advert": 1763843766,
+        "last_seen": "2025-11-23T07:36:06+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -990,8 +990,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1763830919,
-        "last_seen": "2025-11-23T04:01:59+11:00",
+        "last_advert": 1763841719,
+        "last_seen": "2025-11-23T07:01:59+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
