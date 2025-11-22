@@ -78,8 +78,8 @@
     },
     "1420cc930316bc0811f6e144191347507707e76adeeaae0fe0f12a7a86394609": {
         "name": "☂️ HP YSBK Repeater",
-        "last_advert": 1763766802,
-        "last_seen": "2025-11-22T10:13:22+11:00",
+        "last_advert": 1763777602,
+        "last_seen": "2025-11-22T13:13:22+11:00",
         "status": "active",
         "public_key": "1420cc930316bc0811f6e144191347507707e76adeeaae0fe0f12a7a86394609"
     },
@@ -109,8 +109,8 @@
     },
     "1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8": {
         "name": "Gym_Reps",
-        "last_advert": 1763773467,
-        "last_seen": "2025-11-22T12:04:27+11:00",
+        "last_advert": 1763784267,
+        "last_seen": "2025-11-22T15:04:27+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8"
@@ -151,6 +151,14 @@
         "status": "active",
         "public_key": "23fc50160778f87caf7af401d786692b74efded66d9bff5b20cf40395341d688"
     },
+    "2430ca4c321b88eafd261443710de91130a5921fe0dcb1275e600fc4766f70bd": {
+        "name": "2211 Padstow 02",
+        "last_advert": 1763778751,
+        "last_seen": "2025-11-22T13:32:31+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "2430ca4c321b88eafd261443710de91130a5921fe0dcb1275e600fc4766f70bd"
+    },
     "26ca452f95ef6a9a7183080e208b2345c0be5b50a9cb97c3790b857dae661681": {
         "name": "📡YER NBSYD 02",
         "status": "active",
@@ -158,16 +166,16 @@
     },
     "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f": {
         "name": "🦘Horsley Park",
-        "last_advert": 1763774266,
-        "last_seen": "2025-11-22T12:17:46+11:00",
+        "last_advert": 1763778841,
+        "last_seen": "2025-11-22T13:34:01+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f"
     },
     "27b252ad7c106fa10153d49d5ac6a19ed953c39e4977b33c1c70c4afb3df6485": {
         "name": "🦘Londonderry",
-        "last_advert": 1763760547,
-        "last_seen": "2025-11-22T08:29:07+11:00",
+        "last_advert": 1763782147,
+        "last_seen": "2025-11-22T14:29:07+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -197,6 +205,14 @@
         "advert_location": true,
         "status": "active",
         "public_key": "2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154"
+    },
+    "2b81fee228716d9566b2f38afac6649b7aa5990ae0f071c2fba2b20cab748031": {
+        "name": "2200 Bankstown",
+        "last_advert": 1763778990,
+        "last_seen": "2025-11-22T13:36:30+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "2b81fee228716d9566b2f38afac6649b7aa5990ae0f071c2fba2b20cab748031"
     },
     "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2": {
         "name": "GymReps_V4",
@@ -345,8 +361,8 @@
     },
     "465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90": {
         "name": "🌱Nelson Street☀️",
-        "last_advert": 1763770842,
-        "last_seen": "2025-11-22T11:20:42+11:00",
+        "last_advert": 1763777352,
+        "last_seen": "2025-11-22T13:09:12+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90"
@@ -402,8 +418,8 @@
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1763770381,
-        "last_seen": "2025-11-22T11:13:01+11:00",
+        "last_advert": 1763781181,
+        "last_seen": "2025-11-22T14:13:01+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -530,8 +546,8 @@
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1763773217,
-        "last_seen": "2025-11-22T12:00:17+11:00",
+        "last_advert": 1763784017,
+        "last_seen": "2025-11-22T15:00:17+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -539,8 +555,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1763774933,
-        "last_seen": "2025-11-22T12:28:53+11:00",
+        "last_advert": 1763782133,
+        "last_seen": "2025-11-22T14:28:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -556,8 +572,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1763776474,
-        "last_seen": "2025-11-22T12:54:34+11:00",
+        "last_advert": 1763783674,
+        "last_seen": "2025-11-22T14:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -653,8 +669,8 @@
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong Repe",
-        "last_advert": 1763768032,
-        "last_seen": "2025-11-22T10:33:52+11:00",
+        "last_advert": 1763778832,
+        "last_seen": "2025-11-22T13:33:52+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -714,8 +730,8 @@
     },
     "a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd": {
         "name": "🗡️ Rooty Hill WF",
-        "last_advert": 1763760538,
-        "last_seen": "2025-11-22T08:28:58+11:00",
+        "last_advert": 1763778538,
+        "last_seen": "2025-11-22T13:28:58+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd"
@@ -754,8 +770,8 @@
     },
     "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e": {
         "name": "VK2BRM Repeater",
-        "last_advert": 1763772406,
-        "last_seen": "2025-11-22T11:46:46+11:00",
+        "last_advert": 1763783206,
+        "last_seen": "2025-11-22T14:46:46+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e"
@@ -954,8 +970,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1763766119,
-        "last_seen": "2025-11-22T10:01:59+11:00",
+        "last_advert": 1763776919,
+        "last_seen": "2025-11-22T13:01:59+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
