@@ -69,8 +69,8 @@
     },
     "113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642": {
         "name": "🌱Chester Street",
-        "last_advert": 1763807723,
-        "last_seen": "2025-11-22T21:35:23+11:00",
+        "last_advert": 1763850923,
+        "last_seen": "2025-11-23T09:35:23+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -109,8 +109,8 @@
     },
     "1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8": {
         "name": "Gym_Reps",
-        "last_advert": 1763838267,
-        "last_seen": "2025-11-23T06:04:27+11:00",
+        "last_advert": 1763849067,
+        "last_seen": "2025-11-23T09:04:27+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8"
@@ -314,8 +314,8 @@
     },
     "3fcd74ecde23058c3ea8afc4d74a1fec6e115be4f603f627e2f92ebab4fd38cb": {
         "name": "🎩 SIR",
-        "last_advert": 1763829871,
-        "last_seen": "2025-11-23T03:44:31+11:00",
+        "last_advert": 1763851471,
+        "last_seen": "2025-11-23T09:44:31+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "3fcd74ecde23058c3ea8afc4d74a1fec6e115be4f603f627e2f92ebab4fd38cb"
@@ -558,8 +558,8 @@
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1763838014,
-        "last_seen": "2025-11-23T06:00:14+11:00",
+        "last_advert": 1763848814,
+        "last_seen": "2025-11-23T09:00:14+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -567,8 +567,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1763846933,
-        "last_seen": "2025-11-23T08:28:53+11:00",
+        "last_advert": 1763850533,
+        "last_seen": "2025-11-23T09:28:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -584,8 +584,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1763848474,
-        "last_seen": "2025-11-23T08:54:34+11:00",
+        "last_advert": 1763852074,
+        "last_seen": "2025-11-23T09:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -742,8 +742,8 @@
     },
     "a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd": {
         "name": "🗡️ Rooty Hill WF",
-        "last_advert": 1763796538,
-        "last_seen": "2025-11-22T18:28:58+11:00",
+        "last_advert": 1763850538,
+        "last_seen": "2025-11-23T09:28:58+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd"
