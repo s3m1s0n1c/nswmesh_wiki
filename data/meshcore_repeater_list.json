@@ -78,8 +78,8 @@
     },
     "1420cc930316bc0811f6e144191347507707e76adeeaae0fe0f12a7a86394609": {
         "name": "☂️ HP YSBK Repeater",
-        "last_advert": 1763820802,
-        "last_seen": "2025-11-23T01:13:22+11:00",
+        "last_advert": 1763831602,
+        "last_seen": "2025-11-23T04:13:22+11:00",
         "status": "active",
         "public_key": "1420cc930316bc0811f6e144191347507707e76adeeaae0fe0f12a7a86394609"
     },
@@ -166,8 +166,8 @@
     },
     "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f": {
         "name": "🦘Horsley Park",
-        "last_advert": 1763822041,
-        "last_seen": "2025-11-23T01:34:01+11:00",
+        "last_advert": 1763832841,
+        "last_seen": "2025-11-23T04:34:01+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f"
@@ -292,8 +292,8 @@
     },
     "3c732b37f8a046b1c3f60a96aaed9641720f1678704f0dd141a1ac8f4eadce17": {
         "name": "🌱Bridge 433.95🌤",
-        "last_advert": 1763730436,
-        "last_seen": "2025-11-22T00:07:16+11:00",
+        "last_advert": 1763834267,
+        "last_seen": "2025-11-23T04:57:47+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -344,8 +344,8 @@
     },
     "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280": {
         "name": "🌱Bridge 915.8🌤",
-        "last_advert": 1763730573,
-        "last_seen": "2025-11-22T00:09:33+11:00",
+        "last_advert": 1763834300,
+        "last_seen": "2025-11-23T04:58:20+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -406,15 +406,6 @@
         "internet_location": true,
         "status": "active",
         "public_key": "4c05703c81e953185a2d4282827c3e8a3aef846749a32e7b1a215e1edc03911a"
-    },
-    "4eddfdd6e9ccafa99ce893e5f3d0223befa7d0c9ca7b1c98572a223dd1671e6c": {
-        "name": "⚡️ - Cherrybrook",
-        "last_advert": 1762336597,
-        "last_seen": "2025-11-05T20:56:37+11:00",
-        "advert_location": true,
-        "internet_location": true,
-        "status": "active",
-        "public_key": "4eddfdd6e9ccafa99ce893e5f3d0223befa7d0c9ca7b1c98572a223dd1671e6c"
     },
     "4eddb6db310d70fd821c6783d0e3a8ac6d337b8d5c255f78e3f1bd86d5a0dcda": {
         "name": "⚡️ - Cherrybrook",
@@ -508,8 +499,8 @@
     },
     "68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763": {
         "name": "🐄 Marsden Park",
-        "last_advert": 1763810304,
-        "last_seen": "2025-11-22T22:18:24+11:00",
+        "last_advert": 1763831905,
+        "last_seen": "2025-11-23T04:18:25+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -576,8 +567,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1763828933,
-        "last_seen": "2025-11-23T03:28:53+11:00",
+        "last_advert": 1763832533,
+        "last_seen": "2025-11-23T04:28:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -593,8 +584,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1763830474,
-        "last_seen": "2025-11-23T03:54:34+11:00",
+        "last_advert": 1763834074,
+        "last_seen": "2025-11-23T04:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -690,8 +681,8 @@
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong Repe",
-        "last_advert": 1763822032,
-        "last_seen": "2025-11-23T01:33:52+11:00",
+        "last_advert": 1763832832,
+        "last_seen": "2025-11-23T04:33:52+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -999,8 +990,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1763820119,
-        "last_seen": "2025-11-23T01:01:59+11:00",
+        "last_advert": 1763830919,
+        "last_seen": "2025-11-23T04:01:59+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
