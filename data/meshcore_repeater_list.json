@@ -69,8 +69,8 @@
     },
     "113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642": {
         "name": "🌱Chester Street",
-        "last_advert": 1763764523,
-        "last_seen": "2025-11-22T09:35:23+11:00",
+        "last_advert": 1763807723,
+        "last_seen": "2025-11-22T21:35:23+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -314,8 +314,8 @@
     },
     "3fcd74ecde23058c3ea8afc4d74a1fec6e115be4f603f627e2f92ebab4fd38cb": {
         "name": "🎩 SIR",
-        "last_advert": 1763765071,
-        "last_seen": "2025-11-22T09:44:31+11:00",
+        "last_advert": 1763808271,
+        "last_seen": "2025-11-22T21:44:31+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "3fcd74ecde23058c3ea8afc4d74a1fec6e115be4f603f627e2f92ebab4fd38cb"
@@ -521,6 +521,11 @@
         "status": "active",
         "public_key": "6951b4d07279c64e5e545367ad6cfc893516b6cca8e12e579c86651a23f9eeaf"
     },
+    "6bb6c2e5ddf46e684cc3da697155fa4e34b8067668832f23c3c99405e06706a6": {
+        "name": "Waratah/Mayfield Room Server",
+        "status": "active",
+        "public_key": "6bb6c2e5ddf46e684cc3da697155fa4e34b8067668832f23c3c99405e06706a6"
+    },
     "6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6": {
         "name": "cra0 - Wentworth Pt 01",
         "last_advert": 1763237018,
@@ -562,8 +567,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1763803733,
-        "last_seen": "2025-11-22T20:28:53+11:00",
+        "last_advert": 1763807333,
+        "last_seen": "2025-11-22T21:28:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
