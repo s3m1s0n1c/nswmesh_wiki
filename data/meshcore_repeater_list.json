@@ -174,8 +174,8 @@
     },
     "27b252ad7c106fa10153d49d5ac6a19ed953c39e4977b33c1c70c4afb3df6485": {
         "name": "🦘Londonderry",
-        "last_advert": 1763814547,
-        "last_seen": "2025-11-22T23:29:07+11:00",
+        "last_advert": 1763825347,
+        "last_seen": "2025-11-23T02:29:07+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -192,8 +192,8 @@
     },
     "29e03bfa6399b389f0d7179393981fb2124b8242e0b7022f457852cdb09245e8": {
         "name": "👽WazMac Field Rep",
-        "last_advert": 1763750143,
-        "last_seen": "2025-11-22T05:35:43+11:00",
+        "last_advert": 1763825743,
+        "last_seen": "2025-11-23T02:35:43+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "29e03bfa6399b389f0d7179393981fb2124b8242e0b7022f457852cdb09245e8"
@@ -427,8 +427,8 @@
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1763813581,
-        "last_seen": "2025-11-22T23:13:01+11:00",
+        "last_advert": 1763824381,
+        "last_seen": "2025-11-23T02:13:01+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -576,8 +576,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1763821733,
-        "last_seen": "2025-11-23T01:28:53+11:00",
+        "last_advert": 1763825333,
+        "last_seen": "2025-11-23T02:28:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -593,8 +593,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1763823274,
-        "last_seen": "2025-11-23T01:54:34+11:00",
+        "last_advert": 1763826874,
+        "last_seen": "2025-11-23T02:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -699,8 +699,8 @@
     },
     "8dd83466219fd7763cb0c4372152943b2d63b152403175acd0ce10d7e65eb778": {
         "name": "📡YER NBSYD 01",
-        "last_advert": 1763718505,
-        "last_seen": "2025-11-21T20:48:25+11:00",
+        "last_advert": 1763826506,
+        "last_seen": "2025-11-23T02:48:26+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "8dd83466219fd7763cb0c4372152943b2d63b152403175acd0ce10d7e65eb778"
@@ -791,8 +791,8 @@
     },
     "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e": {
         "name": "VK2BRM Repeater",
-        "last_advert": 1763804806,
-        "last_seen": "2025-11-22T20:46:46+11:00",
+        "last_advert": 1763826406,
+        "last_seen": "2025-11-23T02:46:46+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e"
