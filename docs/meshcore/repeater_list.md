@@ -18,7 +18,7 @@ As of 22 November 2025, Meshcore identifies repeaters and roomservers using the 
 | 10 | 🌱Petersham | 10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7 | 2025-11-19T13:35:14+11:00 | ✔ |  |  |
 | 11 | 🌱Chester Street | 113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642 | 2025-11-22T09:35:23+11:00 | ✔ | ✔ | 10 |
 | 14 | ☂️ HP YSBK Repeater | 1420cc930316bc0811f6e144191347507707e76adeeaae0fe0f12a7a86394609 | 2025-11-22T13:13:22+11:00 |  |  |  |
-| 15 | Wallys Rpt Thornleigh | 156020ec5d2ff6bd2e371b8942cf7b4b57c7feec5d21467e05a380dd79d287a1 | 2025-11-22T03:05:22+11:00 | ✔ | ✔ | 3 |
+| 15 | Wallys Rpt Thornleigh | 156020ec5d2ff6bd2e371b8942cf7b4b57c7feec5d21467e05a380dd79d287a1 | 2025-11-22T15:05:22+11:00 | ✔ | ✔ | 3 |
 | 19 | ✝️ Cleric TEST | 1939344650993341aef52069d604c876dce413db7ef6743571b06970a91b8a6c | 2024-05-18T20:52:33+10:00 | ✔ |  |  |
 | 19 | 🛜LUX10 - Drone 2 | 19f554ccf678ca636139369d1d3a0cbb2e9c8bee9a90d396214d6df86635dd78 | 2025-11-20T09:32:55+11:00 |  |  |  |
 | 1A | Gym_Reps | 1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8 | 2025-11-22T15:04:27+11:00 |  | ✔ |  |
@@ -33,7 +33,7 @@ As of 22 November 2025, Meshcore identifies repeaters and roomservers using the 
 | 27 | 🦘Londonderry | 27b252ad7c106fa10153d49d5ac6a19ed953c39e4977b33c1c70c4afb3df6485 | 2025-11-22T14:29:07+11:00 | ✔ | ✔ |  |
 | 28 | ☠️ Mount Annan Rpt | 28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16 | 2025-11-22T12:51:50+11:00 | ✔ | ✔ |  |
 | 29 | 👽WazMac Field Rep | 29e03bfa6399b389f0d7179393981fb2124b8242e0b7022f457852cdb09245e8 | 2025-11-22T05:35:43+11:00 | ✔ |  |  |
-| 2A | 🐉Nth Kellyville (Wes | 2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154 | 2025-11-22T07:52:04+11:00 | ✔ |  |  |
+| 2A | 🐉Nth Kellyville (Wes | 2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154 | 2025-11-22T15:07:39+11:00 | ✔ |  |  |
 | 2B | 2200 Bankstown | 2b81fee228716d9566b2f38afac6649b7aa5990ae0f071c2fba2b20cab748031 | 2025-11-22T13:36:30+11:00 | ✔ |  |  |
 | 2D | GymReps_V4 | 2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2 | 2025-11-20T23:55:53+11:00 | ✔ |  |  |
 | 2E | 🛜LUX08 - Knights Hil | 2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05 | 2025-11-22T09:46:42+11:00 | ✔ | ✔ |  |
