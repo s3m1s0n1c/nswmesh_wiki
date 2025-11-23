@@ -85,8 +85,8 @@
     },
     "156020ec5d2ff6bd2e371b8942cf7b4b57c7feec5d21467e05a380dd79d287a1": {
         "name": "Wallys Rpt Thornleigh",
-        "last_advert": 1763827522,
-        "last_seen": "2025-11-23T03:05:22+11:00",
+        "last_advert": 1763870722,
+        "last_seen": "2025-11-23T15:05:22+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -109,8 +109,8 @@
     },
     "1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8": {
         "name": "Gym_Reps",
-        "last_advert": 1763859867,
-        "last_seen": "2025-11-23T12:04:27+11:00",
+        "last_advert": 1763870667,
+        "last_seen": "2025-11-23T15:04:27+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8"
@@ -159,6 +159,11 @@
         "status": "active",
         "public_key": "2430ca4c321b88eafd261443710de91130a5921fe0dcb1275e600fc4766f70bd"
     },
+    "2511afbd5064709ebc08a651aea722da0fb852ccd19e6f3b91f7540de8627ec3": {
+        "name": "👽 Abbotsbury 1",
+        "status": "active",
+        "public_key": "2511afbd5064709ebc08a651aea722da0fb852ccd19e6f3b91f7540de8627ec3"
+    },
     "26ca452f95ef6a9a7183080e208b2345c0be5b50a9cb97c3790b857dae661681": {
         "name": "📡YER NBSYD 02",
         "status": "active",
@@ -190,18 +195,10 @@
         "status": "active",
         "public_key": "28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16"
     },
-    "29e03bfa6399b389f0d7179393981fb2124b8242e0b7022f457852cdb09245e8": {
-        "name": "👽WazMac Field Rep",
-        "last_advert": 1763836544,
-        "last_seen": "2025-11-23T05:35:44+11:00",
-        "advert_location": true,
-        "status": "active",
-        "public_key": "29e03bfa6399b389f0d7179393981fb2124b8242e0b7022f457852cdb09245e8"
-    },
     "2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154": {
         "name": "🐉Nth Kellyville (Wes",
-        "last_advert": 1763827659,
-        "last_seen": "2025-11-23T03:07:39+11:00",
+        "last_advert": 1763870859,
+        "last_seen": "2025-11-23T15:07:39+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154"
@@ -314,8 +311,8 @@
     },
     "3fcd74ecde23058c3ea8afc4d74a1fec6e115be4f603f627e2f92ebab4fd38cb": {
         "name": "🎩 SIR",
-        "last_advert": 1763851471,
-        "last_seen": "2025-11-23T09:44:31+11:00",
+        "last_advert": 1763873071,
+        "last_seen": "2025-11-23T15:44:31+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "3fcd74ecde23058c3ea8afc4d74a1fec6e115be4f603f627e2f92ebab4fd38cb"
@@ -353,8 +350,8 @@
     },
     "45cb34e93fa2109b6de1ea9b034c90c8ca638fd9e5d86c297a67e4c9f9d8798b": {
         "name": "☠️Elderslie Rpt",
-        "last_advert": 1763827335,
-        "last_seen": "2025-11-23T03:02:15+11:00",
+        "last_advert": 1763870535,
+        "last_seen": "2025-11-23T15:02:15+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "45cb34e93fa2109b6de1ea9b034c90c8ca638fd9e5d86c297a67e4c9f9d8798b"
@@ -550,16 +547,16 @@
     },
     "6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc": {
         "name": "☢️ Testing",
-        "last_advert": 1763828028,
-        "last_seen": "2025-11-23T03:13:48+11:00",
+        "last_advert": 1763871228,
+        "last_seen": "2025-11-23T15:13:48+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc"
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1763859613,
-        "last_seen": "2025-11-23T12:00:13+11:00",
+        "last_advert": 1763870412,
+        "last_seen": "2025-11-23T15:00:12+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -567,8 +564,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1763868533,
-        "last_seen": "2025-11-23T14:28:53+11:00",
+        "last_advert": 1763872133,
+        "last_seen": "2025-11-23T15:28:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -584,8 +581,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1763870074,
-        "last_seen": "2025-11-23T14:54:34+11:00",
+        "last_advert": 1763873674,
+        "last_seen": "2025-11-23T15:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -987,6 +984,11 @@
         "last_seen": "2025-11-18T21:18:56+11:00",
         "status": "active",
         "public_key": "d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79"
+    },
+    "d61f71d0ccb08424e0c5aa87f1e22a7eb14419a8f7a2d3a9e43359fc0c3f8a04": {
+        "name": "🇦🇺 Ermington RPT2",
+        "status": "active",
+        "public_key": "d61f71d0ccb08424e0c5aa87f1e22a7eb14419a8f7a2d3a9e43359fc0c3f8a04"
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
