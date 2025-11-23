@@ -416,8 +416,8 @@
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1763867581,
-        "last_seen": "2025-11-23T14:13:01+11:00",
+        "last_advert": 1763878381,
+        "last_seen": "2025-11-23T17:13:01+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -565,8 +565,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1763875733,
-        "last_seen": "2025-11-23T16:28:53+11:00",
+        "last_advert": 1763879333,
+        "last_seen": "2025-11-23T17:28:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -582,8 +582,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1763877274,
-        "last_seen": "2025-11-23T16:54:34+11:00",
+        "last_advert": 1763880874,
+        "last_seen": "2025-11-23T17:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -780,8 +780,8 @@
     },
     "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e": {
         "name": "VK2BRM Repeater",
-        "last_advert": 1763869606,
-        "last_seen": "2025-11-23T14:46:46+11:00",
+        "last_advert": 1763880406,
+        "last_seen": "2025-11-23T17:46:46+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e"
