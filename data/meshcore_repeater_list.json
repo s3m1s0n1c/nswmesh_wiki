@@ -174,8 +174,8 @@
     },
     "27b252ad7c106fa10153d49d5ac6a19ed953c39e4977b33c1c70c4afb3df6485": {
         "name": "🦘Londonderry",
-        "last_advert": 1763836147,
-        "last_seen": "2025-11-23T05:29:07+11:00",
+        "last_advert": 1763857747,
+        "last_seen": "2025-11-23T11:29:07+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -418,8 +418,8 @@
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1763845981,
-        "last_seen": "2025-11-23T08:13:01+11:00",
+        "last_advert": 1763856781,
+        "last_seen": "2025-11-23T11:13:01+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -567,8 +567,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1763854133,
-        "last_seen": "2025-11-23T10:28:53+11:00",
+        "last_advert": 1763857733,
+        "last_seen": "2025-11-23T11:28:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -584,8 +584,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1763855674,
-        "last_seen": "2025-11-23T10:54:34+11:00",
+        "last_advert": 1763859274,
+        "last_seen": "2025-11-23T11:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -773,8 +773,8 @@
     },
     "a97b453e4f9622cd013acf59bfbf3d0eb510d2d13b3b218ba4c700780ac8e8ea": {
         "name": "☠ Greendale Rpt",
-        "last_advert": 1763838007,
-        "last_seen": "2025-11-23T06:00:07+11:00",
+        "last_advert": 1763859607,
+        "last_seen": "2025-11-23T12:00:07+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -782,8 +782,8 @@
     },
     "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e": {
         "name": "VK2BRM Repeater",
-        "last_advert": 1763848006,
-        "last_seen": "2025-11-23T08:46:46+11:00",
+        "last_advert": 1763858806,
+        "last_seen": "2025-11-23T11:46:46+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e"
