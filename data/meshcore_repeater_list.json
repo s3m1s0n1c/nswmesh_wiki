@@ -17,6 +17,13 @@
         "status": "active",
         "public_key": "05265b086d2548b1eb1d60716f282972fd1451ff2edd124aa832c7b99fc3c3b0"
     },
+    "07e350d61983defd89e3a6677c3bf581ec28e83be6a97d1a90757de6974cec6f": {
+        "name": "🛜LUX12 - Drone 4",
+        "last_advert": 1764066317,
+        "last_seen": "2025-11-25T21:25:17+11:00",
+        "status": "active",
+        "public_key": "07e350d61983defd89e3a6677c3bf581ec28e83be6a97d1a90757de6974cec6f"
+    },
     "08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8": {
         "name": "t1000 ✝️",
         "status": "active",
@@ -69,8 +76,8 @@
     },
     "113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642": {
         "name": "🌱Chester Street",
-        "last_advert": 1763980523,
-        "last_seen": "2025-11-24T21:35:23+11:00",
+        "last_advert": 1764066923,
+        "last_seen": "2025-11-25T21:35:23+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -109,8 +116,8 @@
     },
     "1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8": {
         "name": "Gym_Reps",
-        "last_advert": 1764054268,
-        "last_seen": "2025-11-25T18:04:28+11:00",
+        "last_advert": 1764065068,
+        "last_seen": "2025-11-25T21:04:28+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8"
@@ -225,8 +232,8 @@
     },
     "2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05": {
         "name": "🛜LUX08 - Knights Hil",
-        "last_advert": 1764056803,
-        "last_seen": "2025-11-25T18:46:43+11:00",
+        "last_advert": 1764067603,
+        "last_seen": "2025-11-25T21:46:43+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -252,8 +259,8 @@
     },
     "338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0": {
         "name": "⚡️ - Mt Colah 2",
-        "last_advert": 1764045738,
-        "last_seen": "2025-11-25T15:42:18+11:00",
+        "last_advert": 1764067338,
+        "last_seen": "2025-11-25T21:42:18+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -270,8 +277,8 @@
     },
     "36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092": {
         "name": "🌱Camperdown🌤",
-        "last_advert": 1764059011,
-        "last_seen": "2025-11-25T19:23:31+11:00",
+        "last_advert": 1764067047,
+        "last_seen": "2025-11-25T21:37:27+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -500,8 +507,8 @@
     },
     "68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763": {
         "name": "🐄 Marsden Park",
-        "last_advert": 1764047905,
-        "last_seen": "2025-11-25T16:18:25+11:00",
+        "last_advert": 1764069505,
+        "last_seen": "2025-11-25T22:18:25+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -528,9 +535,9 @@
         "public_key": "6bb6c2e5ddf46e684cc3da697155fa4e34b8067668832f23c3c99405e06706a6"
     },
     "6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6": {
-        "name": "cra0 - Wentworth Pt 01",
-        "last_advert": 1764004925,
-        "last_seen": "2025-11-25T04:22:05+11:00",
+        "name": "🧿 Wentworth Pt 01",
+        "last_advert": 1764071402,
+        "last_seen": "2025-11-25T22:50:02+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6"
@@ -559,8 +566,8 @@
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1764054003,
-        "last_seen": "2025-11-25T18:00:03+11:00",
+        "last_advert": 1764064803,
+        "last_seen": "2025-11-25T21:00:03+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -568,8 +575,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1764062933,
-        "last_seen": "2025-11-25T20:28:53+11:00",
+        "last_advert": 1764070133,
+        "last_seen": "2025-11-25T22:28:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -585,8 +592,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1764064474,
-        "last_seen": "2025-11-25T20:54:34+11:00",
+        "last_advert": 1764071674,
+        "last_seen": "2025-11-25T22:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -601,8 +608,8 @@
     },
     "751ef72da4781301b88a004950ab41cea8edf74e135a86c2e9aa790f82bafaf6": {
         "name": "🛜LUX11 - Drone 3",
-        "last_advert": 1763898126,
-        "last_seen": "2025-11-23T22:42:06+11:00",
+        "last_advert": 1764070926,
+        "last_seen": "2025-11-25T22:42:06+11:00",
         "status": "active",
         "public_key": "751ef72da4781301b88a004950ab41cea8edf74e135a86c2e9aa790f82bafaf6"
     },
@@ -706,8 +713,8 @@
     },
     "8bf39183de4df49d14aa3c99b20c14b4a3003935693bbbc96a3325b3f74b70d0": {
         "name": "🍆Haberfield Merrman",
-        "last_advert": 1764050219,
-        "last_seen": "2025-11-25T16:56:59+11:00",
+        "last_advert": 1764071819,
+        "last_seen": "2025-11-25T22:56:59+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "8bf39183de4df49d14aa3c99b20c14b4a3003935693bbbc96a3325b3f74b70d0"
@@ -758,8 +765,8 @@
     },
     "a468c8cda7d0531cc5b8f7607c0f234a1647e3ee89ab8b7443a8c75c540e3f1f": {
         "name": "🛜LUX02 - Keira Sth",
-        "last_advert": 1764061086,
-        "last_seen": "2025-11-25T19:58:06+11:00",
+        "last_advert": 1764071886,
+        "last_seen": "2025-11-25T22:58:06+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -767,8 +774,8 @@
     },
     "a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd": {
         "name": "🗡️ Rooty Hill WF",
-        "last_advert": 1764048538,
-        "last_seen": "2025-11-25T16:28:58+11:00",
+        "last_advert": 1764066538,
+        "last_seen": "2025-11-25T21:28:58+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd"
@@ -952,8 +959,8 @@
     },
     "c84e5ab84acbd0f2e660ae5213274fb3353d2f7ce1c9d9ff3ba10ebf0e963e1c": {
         "name": "🛜LUX05 - Bald Hill",
-        "last_advert": 1718254355,
-        "last_seen": "2024-06-13T14:52:35+10:00",
+        "last_advert": 1764069197,
+        "last_seen": "2025-11-25T22:13:17+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1021,8 +1028,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1764057719,
-        "last_seen": "2025-11-25T19:01:59+11:00",
+        "last_advert": 1764068519,
+        "last_seen": "2025-11-25T22:01:59+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
