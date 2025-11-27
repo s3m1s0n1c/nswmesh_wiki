@@ -135,9 +135,9 @@
         "public_key": "19f554ccf678ca636139369d1d3a0cbb2e9c8bee9a90d396214d6df86635dd78"
     },
     "1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8": {
-        "name": "Gym_Reps",
-        "last_advert": 1764194668,
-        "last_seen": "2025-11-27T09:04:28+11:00",
+        "name": "Gym_RePortable",
+        "last_advert": 1764206433,
+        "last_seen": "2025-11-27T12:20:33+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8"
@@ -288,8 +288,8 @@
     },
     "35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d": {
         "name": "Loftus Heights G2",
-        "last_advert": 1764179811,
-        "last_seen": "2025-11-27T04:56:51+11:00",
+        "last_advert": 1764201411,
+        "last_seen": "2025-11-27T10:56:51+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -486,8 +486,8 @@
     },
     "5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f": {
         "name": "⚡️ - 🐝croft",
-        "last_advert": 1764185749,
-        "last_seen": "2025-11-27T06:35:49+11:00",
+        "last_advert": 1764207349,
+        "last_seen": "2025-11-27T12:35:49+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -502,8 +502,8 @@
     },
     "64beefb0250ae525979e02f1ebdbce266a1acccff2cbffb24ec9d99236e09d59": {
         "name": "🐄 Hawkesbury Heights",
-        "last_advert": 1764165119,
-        "last_seen": "2025-11-27T00:51:59+11:00",
+        "last_advert": 1764208319,
+        "last_seen": "2025-11-27T12:51:59+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -519,8 +519,8 @@
     },
     "66facbbed204c766052803f612edf79032ecbf5b813dedf71ea73cc8710b938b": {
         "name": "33t2-mobile repeater",
-        "last_advert": 1764077620,
-        "last_seen": "2025-11-26T00:33:40+11:00",
+        "last_advert": 1764207220,
+        "last_seen": "2025-11-27T12:33:40+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "66facbbed204c766052803f612edf79032ecbf5b813dedf71ea73cc8710b938b"
@@ -602,8 +602,8 @@
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1764194396,
-        "last_seen": "2025-11-27T08:59:56+11:00",
+        "last_advert": 1764205196,
+        "last_seen": "2025-11-27T11:59:56+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -611,8 +611,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1764203333,
-        "last_seen": "2025-11-27T11:28:53+11:00",
+        "last_advert": 1764206933,
+        "last_seen": "2025-11-27T12:28:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -628,15 +628,15 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1764204874,
-        "last_seen": "2025-11-27T11:54:34+11:00",
+        "last_advert": 1764208474,
+        "last_seen": "2025-11-27T12:54:34+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
     "7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c": {
         "name": "⚡️- Normanhurst",
-        "last_advert": 1764184221,
-        "last_seen": "2025-11-27T06:10:21+11:00",
+        "last_advert": 1764205821,
+        "last_seen": "2025-11-27T12:10:21+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -742,11 +742,6 @@
         "status": "active",
         "public_key": "8628f2f40736f67b206ae54d1945fb7568de42578c0c1812e98dd8b1e7dd5040"
     },
-    "8628F2F40736F67B206AE54D1945FB7568DE42578C0C1812E98DD8B1E7DD5040": {
-        "name": "🌱Mobile Repeater v4",
-        "status": "active",
-        "public_key": "8628F2F40736F67B206AE54D1945FB7568DE42578C0C1812E98DD8B1E7DD5040"
-    },
     "870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046": {
         "name": "👾Sonic - GreenPoint",
         "last_advert": 1764190085,
@@ -757,8 +752,8 @@
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong S RP",
-        "last_advert": 1764202354,
-        "last_seen": "2025-11-27T11:12:34+11:00",
+        "last_advert": 1764206838,
+        "last_seen": "2025-11-27T12:27:18+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -914,8 +909,8 @@
     },
     "b00b18ba06f3d21688d477efdc71a15c8177af94cc83751090c6ead7ca56fad2": {
         "name": "🦖NthKellyville",
-        "last_advert": 1764110503,
-        "last_seen": "2025-11-26T09:41:43+11:00",
+        "last_advert": 1764208498,
+        "last_seen": "2025-11-27T12:54:58+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "b00b18ba06f3d21688d477efdc71a15c8177af94cc83751090c6ead7ca56fad2"
@@ -1090,8 +1085,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1764198120,
-        "last_seen": "2025-11-27T10:02:00+11:00",
+        "last_advert": 1764208920,
+        "last_seen": "2025-11-27T13:02:00+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
