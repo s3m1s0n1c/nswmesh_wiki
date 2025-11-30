@@ -271,8 +271,8 @@
     },
     "32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9": {
         "name": "⚡️ - Staples",
-        "last_advert": 1764507972,
-        "last_seen": "2025-12-01T00:06:12+11:00",
+        "last_advert": 1764529572,
+        "last_seen": "2025-12-01T06:06:12+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -289,8 +289,8 @@
     },
     "35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d": {
         "name": "Loftus Heights G2",
-        "last_advert": 1764503811,
-        "last_seen": "2025-11-30T22:56:51+11:00",
+        "last_advert": 1764525411,
+        "last_seen": "2025-12-01T04:56:51+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -313,6 +313,11 @@
         "internet_location": true,
         "status": "active",
         "public_key": "376925ee45a03bffcb6f37b252b6394d45f07ec488993c6c0db60d17438f6a7b"
+    },
+    "3737f169fbea4a1dfb300c91a8d9b7efc3c216e377090f925fdbaad41e9b8a96": {
+        "name": "Odinsdad reserved",
+        "status": "parked",
+        "public_key": "3737f169fbea4a1dfb300c91a8d9b7efc3c216e377090f925fdbaad41e9b8a96"
     },
     "39c3db1cfdab1123eff16cb8b88fc0e2b9cc1da04e5b6cb94d5f8fb73cf17ed3": {
         "name": "Ch1cken 2220 Repeater",
@@ -412,8 +417,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1764486456,
-        "last_seen": "2025-11-30T18:07:36+11:00",
+        "last_advert": 1764529656,
+        "last_seen": "2025-12-01T06:07:36+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -494,8 +499,8 @@
     },
     "5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f": {
         "name": "⚡️ - 🐝croft",
-        "last_advert": 1764509749,
-        "last_seen": "2025-12-01T00:35:49+11:00",
+        "last_advert": 1764531349,
+        "last_seen": "2025-12-01T06:35:49+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -611,8 +616,8 @@
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1764518381,
-        "last_seen": "2025-12-01T02:59:41+11:00",
+        "last_advert": 1764529180,
+        "last_seen": "2025-12-01T05:59:40+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -620,8 +625,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1764527333,
-        "last_seen": "2025-12-01T05:28:53+11:00",
+        "last_advert": 1764530933,
+        "last_seen": "2025-12-01T06:28:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -644,8 +649,8 @@
     },
     "7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c": {
         "name": "⚡️- Normanhurst",
-        "last_advert": 1764508221,
-        "last_seen": "2025-12-01T00:10:21+11:00",
+        "last_advert": 1764529821,
+        "last_seen": "2025-12-01T06:10:21+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -710,8 +715,8 @@
     },
     "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6": {
         "name": "Steven BOS Yellow Rock",
-        "last_advert": 1764487992,
-        "last_seen": "2025-11-30T18:33:12+11:00",
+        "last_advert": 1764531192,
+        "last_seen": "2025-12-01T06:33:12+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6"
@@ -770,8 +775,8 @@
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong S RP",
-        "last_advert": 1764520039,
-        "last_seen": "2025-12-01T03:27:19+11:00",
+        "last_advert": 1764530839,
+        "last_seen": "2025-12-01T06:27:19+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -960,6 +965,11 @@
         "internet_location": true,
         "status": "active",
         "public_key": "b8f998565f8403ee500e4e98a2cb7058ef1e8101506c21f4fd15524bc433f846"
+    },
+    "b9bb336fae78e1e1d37ada112d82f282ddaf0aacf68d961b16d520c14498a6aa": {
+        "name": "Odinsdad reserved",
+        "status": "parked",
+        "public_key": "b9bb336fae78e1e1d37ada112d82f282ddaf0aacf68d961b16d520c14498a6aa"
     },
     "bb18fef9928d2582f07bc4cfb77e2d057c0bbfd6873381a64f433961d0da71da": {
         "name": "✝️Nepean River",
