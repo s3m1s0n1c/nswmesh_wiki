@@ -1,8 +1,8 @@
 {
     "012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab": {
         "name": "☢ Bradbury Repeater",
-        "last_advert": 1764879754,
-        "last_seen": "2025-12-05T07:22:34+11:00",
+        "last_advert": 1764922954,
+        "last_seen": "2025-12-05T19:22:34+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -10,8 +10,8 @@
     },
     "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436": {
         "name": "⚡- ANSR",
-        "last_advert": 1764914251,
-        "last_seen": "2025-12-05T16:57:31+11:00",
+        "last_advert": 1764935851,
+        "last_seen": "2025-12-05T22:57:31+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -43,8 +43,8 @@
     },
     "0a8b3986485daf3967295341e57355e93c946164fb4fe387cb4535cff9098973": {
         "name": "☢ Testing #2",
-        "last_advert": 1764882396,
-        "last_seen": "2025-12-05T08:06:36+11:00",
+        "last_advert": 1764922777,
+        "last_seen": "2025-12-05T19:19:37+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "0a8b3986485daf3967295341e57355e93c946164fb4fe387cb4535cff9098973"
@@ -99,8 +99,8 @@
     },
     "1420cc930316bc0811f6e144191347507707e76adeeaae0fe0f12a7a86394609": {
         "name": "☂️HP Tallawong W RP",
-        "last_advert": 1764917668,
-        "last_seen": "2025-12-05T17:54:28+11:00",
+        "last_advert": 1764928468,
+        "last_seen": "2025-12-05T20:54:28+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "1420cc930316bc0811f6e144191347507707e76adeeaae0fe0f12a7a86394609"
@@ -163,8 +163,8 @@
     },
     "2236b54323a4d64073ef91fe66bf4231314d7c90a216f12be68f0b1cf053f3f6": {
         "name": "✝️ Lapstone",
-        "last_advert": 1764883573,
-        "last_seen": "2025-12-05T08:26:13+11:00",
+        "last_advert": 1764926773,
+        "last_seen": "2025-12-05T20:26:13+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -189,8 +189,8 @@
     },
     "2511afbd5064709ebc08a651aea722da0fb852ccd19e6f3b91f7540de8627ec3": {
         "name": "👽Abbotsbury 1",
-        "last_advert": 1764915900,
-        "last_seen": "2025-12-05T17:25:00+11:00",
+        "last_advert": 1764926700,
+        "last_seen": "2025-12-05T20:25:00+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -203,16 +203,16 @@
     },
     "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f": {
         "name": "🦘Horsley Park",
-        "last_advert": 1764912843,
-        "last_seen": "2025-12-05T16:34:03+11:00",
+        "last_advert": 1764934443,
+        "last_seen": "2025-12-05T22:34:03+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f"
     },
     "27b252ad7c106fa10153d49d5ac6a19ed953c39e4977b33c1c70c4afb3df6485": {
         "name": "🦘Londonderry",
-        "last_advert": 1764890621,
-        "last_seen": "2025-12-05T10:23:41+11:00",
+        "last_advert": 1764919421,
+        "last_seen": "2025-12-05T18:23:41+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -220,8 +220,8 @@
     },
     "28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16": {
         "name": "☠️ Mount Annan Rpt",
-        "last_advert": 1764899511,
-        "last_seen": "2025-12-05T12:51:51+11:00",
+        "last_advert": 1764921111,
+        "last_seen": "2025-12-05T18:51:51+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -229,8 +229,8 @@
     },
     "2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154": {
         "name": "🐉Nth Kelllyville (We",
-        "last_advert": 1764886783,
-        "last_seen": "2025-12-05T09:19:43+11:00",
+        "last_advert": 1764929983,
+        "last_seen": "2025-12-05T21:19:43+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154"
@@ -245,16 +245,16 @@
     },
     "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2": {
         "name": "GymReps_V4",
-        "last_advert": 1764913200,
-        "last_seen": "2025-12-05T16:40:00+11:00",
+        "last_advert": 1764934800,
+        "last_seen": "2025-12-05T22:40:00+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2"
     },
     "2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05": {
         "name": "🛜LUX08 - Knights Hil",
-        "last_advert": 1764910004,
-        "last_seen": "2025-12-05T15:46:44+11:00",
+        "last_advert": 1764931604,
+        "last_seen": "2025-12-05T21:46:44+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -271,8 +271,8 @@
     },
     "32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9": {
         "name": "⚡️ - Staples",
-        "last_advert": 1764896772,
-        "last_seen": "2025-12-05T12:06:12+11:00",
+        "last_advert": 1764918373,
+        "last_seen": "2025-12-05T18:06:13+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -280,8 +280,8 @@
     },
     "338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0": {
         "name": "⚡️ - Mt Colah 2",
-        "last_advert": 1764908150,
-        "last_seen": "2025-12-05T15:15:50+11:00",
+        "last_advert": 1764929750,
+        "last_seen": "2025-12-05T21:15:50+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -289,16 +289,16 @@
     },
     "3424534bf381d5904e208213a0e592224de3b41a36461b2067249964405ca734": {
         "name": "⛰️ CC Fill",
-        "last_advert": 1764760880,
-        "last_seen": "2025-12-03T22:21:20+11:00",
+        "last_advert": 1764933680,
+        "last_seen": "2025-12-05T22:21:20+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "3424534bf381d5904e208213a0e592224de3b41a36461b2067249964405ca734"
     },
     "35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d": {
         "name": "Loftus Heights G2",
-        "last_advert": 1764892611,
-        "last_seen": "2025-12-05T10:56:51+11:00",
+        "last_advert": 1764914211,
+        "last_seen": "2025-12-05T16:56:51+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -306,8 +306,8 @@
     },
     "36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092": {
         "name": "🌱Camperdown🌤",
-        "last_advert": 1764884559,
-        "last_seen": "2025-12-05T08:42:39+11:00",
+        "last_advert": 1764927759,
+        "last_seen": "2025-12-05T20:42:39+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -334,8 +334,8 @@
     },
     "3c732b37f8a046b1c3f60a96aaed9641720f1678704f0dd141a1ac8f4eadce17": {
         "name": "🌱Bridge 433.95🌤",
-        "last_advert": 1764841746,
-        "last_seen": "2025-12-04T20:49:06+11:00",
+        "last_advert": 1764927756,
+        "last_seen": "2025-12-05T20:42:36+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -424,8 +424,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1764878475,
-        "last_seen": "2025-12-05T07:01:15+11:00",
+        "last_advert": 1764921675,
+        "last_seen": "2025-12-05T19:01:15+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -440,8 +440,8 @@
     },
     "4ce7f924255d56e44b3afc071b6fa64e2fd3ed4c4242a19a9a0abf99973fa7d0": {
         "name": "Bosco Repeater",
-        "last_advert": 1764879183,
-        "last_seen": "2025-12-05T07:13:03+11:00",
+        "last_advert": 1764922383,
+        "last_seen": "2025-12-05T19:13:03+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "4ce7f924255d56e44b3afc071b6fa64e2fd3ed4c4242a19a9a0abf99973fa7d0"
@@ -466,8 +466,8 @@
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1764913207,
-        "last_seen": "2025-12-05T16:40:07+11:00",
+        "last_advert": 1764934807,
+        "last_seen": "2025-12-05T22:40:07+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -506,8 +506,8 @@
     },
     "5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f": {
         "name": "⚡️ - 🐝croft",
-        "last_advert": 1764898550,
-        "last_seen": "2025-12-05T12:35:50+11:00",
+        "last_advert": 1764920150,
+        "last_seen": "2025-12-05T18:35:50+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -522,8 +522,8 @@
     },
     "64beefb0250ae525979e02f1ebdbce266a1acccff2cbffb24ec9d99236e09d59": {
         "name": "🐄 Hawkesbury H 🚧",
-        "last_advert": 1764902087,
-        "last_seen": "2025-12-05T13:34:47+11:00",
+        "last_advert": 1764923687,
+        "last_seen": "2025-12-05T19:34:47+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -592,8 +592,8 @@
     },
     "6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6": {
         "name": "🧿 Wentworth Pt 01",
-        "last_advert": 1764760051,
-        "last_seen": "2025-12-03T22:07:31+11:00",
+        "last_advert": 1764928175,
+        "last_seen": "2025-12-05T20:49:35+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -615,16 +615,16 @@
     },
     "6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc": {
         "name": "☢️ Testing",
-        "last_advert": 1764884640,
-        "last_seen": "2025-12-05T08:44:00+11:00",
+        "last_advert": 1764922862,
+        "last_seen": "2025-12-05T19:21:02+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc"
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1764907161,
-        "last_seen": "2025-12-05T14:59:21+11:00",
+        "last_advert": 1764917961,
+        "last_seen": "2025-12-05T17:59:21+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -632,8 +632,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Window",
-        "last_advert": 1764916016,
-        "last_seen": "2025-12-05T17:26:56+11:00",
+        "last_advert": 1764934016,
+        "last_seen": "2025-12-05T22:26:56+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -649,15 +649,15 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1764917675,
-        "last_seen": "2025-12-05T17:54:35+11:00",
+        "last_advert": 1764935675,
+        "last_seen": "2025-12-05T22:54:35+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
     "7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c": {
         "name": "⚡️- Normanhurst",
-        "last_advert": 1764875421,
-        "last_seen": "2025-12-05T06:10:21+11:00",
+        "last_advert": 1764918621,
+        "last_seen": "2025-12-05T18:10:21+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -665,8 +665,8 @@
     },
     "751ef72da4781301b88a004950ab41cea8edf74e135a86c2e9aa790f82bafaf6": {
         "name": "🛜LUX11 - Figtree",
-        "last_advert": 1764330126,
-        "last_seen": "2025-11-28T22:42:06+11:00",
+        "last_advert": 1764934927,
+        "last_seen": "2025-12-05T22:42:07+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "751ef72da4781301b88a004950ab41cea8edf74e135a86c2e9aa790f82bafaf6"
@@ -722,8 +722,8 @@
     },
     "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6": {
         "name": "Steven BOS Yellow Rock",
-        "last_advert": 1764876792,
-        "last_seen": "2025-12-05T06:33:12+11:00",
+        "last_advert": 1764919992,
+        "last_seen": "2025-12-05T18:33:12+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6"
@@ -767,23 +767,23 @@
     },
     "8628f2f40736f67b206ae54d1945fb7568de42578c0c1812e98dd8b1e7dd5040": {
         "name": "🌱Mobile Repeater v4",
-        "last_advert": 1764750584,
-        "last_seen": "2025-12-03T19:29:44+11:00",
+        "last_advert": 1764923384,
+        "last_seen": "2025-12-05T19:29:44+11:00",
         "status": "active",
         "public_key": "8628f2f40736f67b206ae54d1945fb7568de42578c0c1812e98dd8b1e7dd5040"
     },
     "870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046": {
         "name": "👾Sonic - GreenPoint",
-        "last_advert": 1764892087,
-        "last_seen": "2025-12-05T10:48:07+11:00",
+        "last_advert": 1764935287,
+        "last_seen": "2025-12-05T22:48:07+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046"
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong S RP",
-        "last_advert": 1764908839,
-        "last_seen": "2025-12-05T15:27:19+11:00",
+        "last_advert": 1764930439,
+        "last_seen": "2025-12-05T21:27:19+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -791,8 +791,8 @@
     },
     "8bf39183de4df49d14aa3c99b20c14b4a3003935693bbbc96a3325b3f74b70d0": {
         "name": "🍆Haberfield Merrman",
-        "last_advert": 1764914221,
-        "last_seen": "2025-12-05T16:57:01+11:00",
+        "last_advert": 1764935821,
+        "last_seen": "2025-12-05T22:57:01+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "8bf39183de4df49d14aa3c99b20c14b4a3003935693bbbc96a3325b3f74b70d0"
@@ -901,16 +901,16 @@
     },
     "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e": {
         "name": "VK2BRM Repeater",
-        "last_advert": 1764917207,
-        "last_seen": "2025-12-05T17:46:47+11:00",
+        "last_advert": 1764928007,
+        "last_seen": "2025-12-05T20:46:47+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e"
     },
     "ab687e3dbbef93fbba17101f2b81e498c50ca6c1898b941586baf9f15d37d575": {
         "name": "🛜LUX07 - Mt Gibralta",
-        "last_advert": 1764916590,
-        "last_seen": "2025-12-05T17:36:30+11:00",
+        "last_advert": 1764927390,
+        "last_seen": "2025-12-05T20:36:30+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -941,7 +941,9 @@
         "public_key": "ad3fcf8452917c3d01cda7834aa8ec63c07311f46f1373ad159819a0b5d850d0"
     },
     "ae836f555cf9c41ced8c758a49400116765d6ba0c1f67d1bc60ee8433c03cd66": {
-        "name": "Terry Hills",
+        "name": "BTQ -  Terry Hills",
+        "last_advert": 1764931724,
+        "last_seen": "2025-12-05T21:48:44+11:00",
         "status": "parked",
         "public_key": "ae836f555cf9c41ced8c758a49400116765d6ba0c1f67d1bc60ee8433c03cd66"
     },
@@ -968,8 +970,8 @@
     },
     "b745d1254f0639695fd7326c23f3a0bcb92aa4c5e08f6cfc43ba9527db88515d": {
         "name": "☠ Kenny Hill Rpt",
-        "last_advert": 1764902167,
-        "last_seen": "2025-12-05T13:36:07+11:00",
+        "last_advert": 1764923767,
+        "last_seen": "2025-12-05T19:36:07+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1122,8 +1124,8 @@
     },
     "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c": {
         "name": "🇦🇺 Ermington RPT",
-        "last_advert": 1764917918,
-        "last_seen": "2025-12-05T17:58:38+11:00",
+        "last_advert": 1764928718,
+        "last_seen": "2025-12-05T20:58:38+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c"
@@ -1142,8 +1144,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1764910921,
-        "last_seen": "2025-12-05T16:02:01+11:00",
+        "last_advert": 1764932521,
+        "last_seen": "2025-12-05T22:02:01+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1211,8 +1213,8 @@
     },
     "f1fc699ff05e41738524af480a24ccf5ada1f3248bd23d83f47ae69f44060193": {
         "name": "✝️ Penrith Station",
-        "last_advert": 1764889540,
-        "last_seen": "2025-12-05T10:05:40+11:00",
+        "last_advert": 1764932740,
+        "last_seen": "2025-12-05T22:05:40+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
