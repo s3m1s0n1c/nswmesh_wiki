@@ -1,5 +1,6 @@
 ---
 title: Meshtastic vs Meshcore
+author: David VK2FRT
 ---
 
 # Why should I switch?
@@ -43,3 +44,5 @@ With no real hop restrictions messages can travel long distances between nodes v
 While Meshtastic excels in flexible, small-scale meshes, its flooding approach falters under the load of many users, much like an undisciplined crowd. Meshcore's hierarchical discipline shines in such density, conserving resources and enabling scalable, effective communication. As LoRa networks expand to support larger communities, protocols like Meshcore represent a smarter path forward for robust, user-dense environments.
 
 As mesh networking becomes more popular, users are gumming up well-established Meshtastic networks and these are failing their users in cities all over the world currently. Meshcore was designed to be the answer to this issue, and while Meshcore is still in early development, its usage is growing around the world to solve the issues Meshtastic networks have failed at.
+
+Happy Meshing! David VK2FRT
