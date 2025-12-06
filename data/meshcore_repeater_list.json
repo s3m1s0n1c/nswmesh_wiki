@@ -210,8 +210,8 @@
     },
     "27b252ad7c106fa10153d49d5ac6a19ed953c39e4977b33c1c70c4afb3df6485": {
         "name": "🦘Londonderry",
-        "last_advert": 1764977021,
-        "last_seen": "2025-12-06T10:23:41+11:00",
+        "last_advert": 1765005821,
+        "last_seen": "2025-12-06T18:23:41+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -270,8 +270,8 @@
     },
     "32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9": {
         "name": "⚡️ - Staples",
-        "last_advert": 1764983173,
-        "last_seen": "2025-12-06T12:06:13+11:00",
+        "last_advert": 1765004773,
+        "last_seen": "2025-12-06T18:06:13+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -296,8 +296,8 @@
     },
     "35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d": {
         "name": "Loftus Heights G2",
-        "last_advert": 1764979011,
-        "last_seen": "2025-12-06T10:56:51+11:00",
+        "last_advert": 1765000611,
+        "last_seen": "2025-12-06T16:56:51+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -454,6 +454,11 @@
         "status": "active",
         "public_key": "4c05703c81e953185a2d4282827c3e8a3aef846749a32e7b1a215e1edc03911a"
     },
+    "4dc5d2f61efd6da4e753dc09a6d07aeb6adf82b105d112b69cbffb9dc1873c91": {
+        "name": "Mayfield Repeater",
+        "status": "active",
+        "public_key": "4dc5d2f61efd6da4e753dc09a6d07aeb6adf82b105d112b69cbffb9dc1873c91"
+    },
     "4eddb6db310d70fd821c6783d0e3a8ac6d337b8d5c255f78e3f1bd86d5a0dcda": {
         "name": "⚡️ - Cherrybrook",
         "last_advert": 1763809057,
@@ -505,8 +510,8 @@
     },
     "5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f": {
         "name": "⚡️ - 🐝croft",
-        "last_advert": 1764984950,
-        "last_seen": "2025-12-06T12:35:50+11:00",
+        "last_advert": 1765006550,
+        "last_seen": "2025-12-06T18:35:50+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -622,8 +627,8 @@
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1764993557,
-        "last_seen": "2025-12-06T14:59:17+11:00",
+        "last_advert": 1765004356,
+        "last_seen": "2025-12-06T17:59:16+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -631,8 +636,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Window",
-        "last_advert": 1765002416,
-        "last_seen": "2025-12-06T17:26:56+11:00",
+        "last_advert": 1765006016,
+        "last_seen": "2025-12-06T18:26:56+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -655,8 +660,8 @@
     },
     "7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c": {
         "name": "⚡️- Normanhurst",
-        "last_advert": 1764983422,
-        "last_seen": "2025-12-06T12:10:22+11:00",
+        "last_advert": 1765005022,
+        "last_seen": "2025-12-06T18:10:22+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -729,8 +734,8 @@
     },
     "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6": {
         "name": "Steven BOS Yellow Rock",
-        "last_advert": 1764963192,
-        "last_seen": "2025-12-06T06:33:12+11:00",
+        "last_advert": 1765006392,
+        "last_seen": "2025-12-06T18:33:12+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6"
@@ -790,8 +795,8 @@
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong S RP",
-        "last_advert": 1764995239,
-        "last_seen": "2025-12-06T15:27:19+11:00",
+        "last_advert": 1765006039,
+        "last_seen": "2025-12-06T18:27:19+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
