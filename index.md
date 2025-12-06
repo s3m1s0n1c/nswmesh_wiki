@@ -42,9 +42,10 @@ We're experimenters, bushwalkers, emergency‑comms nerds and tinkerers. Jump in
   {% endunless %}
 {% endfor %}
 
+## Other Resources
+
 - Meshcore Links and Tools (primary system in use in Sydney currently)
     - [Live World Meshcore Map](https://meshcore.co.uk/map.html)
-    - [Sydney Meshcore Map](https://nswmesh.github.io/NSW-Sydney-Meshcore-Map).
     - [Meshcore site](https://meshcore.co.uk/index.html).
     - [Meshcore Wiki](https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md).
     - [How to get started with Meshcore Video](https://youtu.be/t1qne8uJBAc?si=0vyErpZz1wsbG_hJ).
