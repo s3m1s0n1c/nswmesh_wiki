@@ -12,7 +12,7 @@ We're experimenters, bushwalkers, emergency‑comms nerds and tinkerers. Jump in
 {% assign docs_pages = docs_pages | where_exp: "item", "item.title" %}
 {% assign grouped_pages = docs_pages | group_by: "dir" %}
 
-{% assign folder_order = "/docs/,meshcore,builds" | split: "," %}
+{% assign folder_order = "/docs/,meshcore,meshtastic,builds" | split: "," %}
 
 {% for folder in folder_order %}
   {% for group in grouped_pages %}
@@ -34,7 +34,7 @@ We're experimenters, bushwalkers, emergency‑comms nerds and tinkerers. Jump in
 
 {% for group in grouped_pages %}
   {% assign folder_name = group.name | remove: "/docs/" | remove: "/" | replace: "-", " " | capitalize %}
-  {% unless group.name == "/docs/" or group.name contains "meshcore" or group.name contains "builds" %}
+  {% unless group.name == "/docs/" or group.name contains "meshcore" or group.name contains "builds" or group.name contains "meshtastic" %}
 - {{ folder_name }}
 {% for page in group.items %}
     - [{{ page.title | escape }}]({{ page.url | relative_url }})
