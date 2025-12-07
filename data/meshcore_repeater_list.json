@@ -255,23 +255,6 @@
         "status": "active",
         "public_key": "2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05"
     },
-    "30b0840ed68aff84bab3721f956191ee51098970b429b730798e9eb01f7422ff": {
-        "name": "⚡️ - Asquith",
-        "last_advert": 1764586412,
-        "last_seen": "2025-12-01T21:53:32+11:00",
-        "advert_location": true,
-        "internet_location": true,
-        "status": "active",
-        "public_key": "30b0840ed68aff84bab3721f956191ee51098970b429b730798e9eb01f7422ff"
-    },
-    "300681ffbb3cd860b1e7b46b4b9a96f33d601418d570146fb318605600356433": {
-        "name": "⚡️ - Asquith",
-        "last_advert": 1765103847,
-        "last_seen": "2025-12-07T21:37:27+11:00",
-        "advert_location": true,
-        "status": "active",
-        "public_key": "300681ffbb3cd860b1e7b46b4b9a96f33d601418d570146fb318605600356433"
-    },
     "30bdc69bc1db4377a17e33044dc61e1d95a33e4dadfeaabd87fe753c8794b224": {
         "name": "⚡️ - Asquith",
         "last_advert": 1765106656,
@@ -656,8 +639,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Window",
-        "last_advert": 1765103216,
-        "last_seen": "2025-12-07T21:26:56+11:00",
+        "last_advert": 1765106816,
+        "last_seen": "2025-12-07T22:26:56+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
