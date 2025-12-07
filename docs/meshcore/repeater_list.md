@@ -40,8 +40,6 @@ As of 7 December 2025, Meshcore identifies repeaters and roomservers using the f
 | 2B | 🌏 2200 Bankstown | 2b81fee228716d9566b2f38afac6649b7aa5990ae0f071c2fba2b20cab748031 | 2025-12-07T20:43:38+11:00 | ✔ |  |  |
 | 2D | GymReps_V4 | 2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2 | 2025-12-07T19:40:01+11:00 | ✔ |  |  |
 | 2E | 🛜LUX08 - Knights Hil | 2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05 | 2025-12-07T21:46:45+11:00 | ✔ | ✔ |  |
-| 30 | ⚡️ - Asquith | 30b0840ed68aff84bab3721f956191ee51098970b429b730798e9eb01f7422ff | 2025-12-01T21:53:32+11:00 | ✔ | ✔ | 2 |
-| 30 | ⚡️ - Asquith | 300681ffbb3cd860b1e7b46b4b9a96f33d601418d570146fb318605600356433 | 2025-12-07T21:37:27+11:00 | ✔ |  |  |
 | 30 | ⚡️ - Asquith | 30bdc69bc1db4377a17e33044dc61e1d95a33e4dadfeaabd87fe753c8794b224 | 2025-12-07T22:24:16+11:00 | ✔ |  |  |
 | 32 | ⚡️ - Staples | 32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9 | 2025-12-07T08:09:09+11:00 | ✔ | ✔ | 43 |
 | 33 | ⚡️ - Mt Colah | 338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0 | 2025-12-07T20:10:50+11:00 | ✔ | ✔ | 30 |
@@ -91,7 +89,7 @@ As of 7 December 2025, Meshcore identifies repeaters and roomservers using the f
 | 6E | ☢️ Testing | 6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc | 2025-12-05T19:21:02+11:00 | ✔ |  |  |
 | 70 | Condell Park Repeater | 70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed | 2025-12-07T21:50:33+11:00 | ✔ |  |  |
 | 71 | Breakfast Point Rpt | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 | 2025-12-07T20:59:12+11:00 | ✔ | ✔ |  |
-| 72 | BTQ - Hornsby - Window | 720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130 | 2025-12-07T21:26:56+11:00 | ✔ | ✔ | 1.5 |
+| 72 | BTQ - Hornsby - Window | 720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130 | 2025-12-07T22:26:56+11:00 | ✔ | ✔ | 1.5 |
 | 73 | BTQ Portable 1 | 738460c241d09fd9891cb484b316176c929eef2e995e31cbaf77ba6430d7722e | 2025-11-03T11:12:35+11:00 | ✔ |  |  |
 | 74 | BTQ Portable 2 | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2025-12-08T23:18:54+11:00 |  |  |  |
 | 75 | ⚡️- Normanhurst | 7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c | 2025-12-07T20:01:38+11:00 | ✔ | ✔ | 35 |
