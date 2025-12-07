@@ -198,8 +198,8 @@
     },
     "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f": {
         "name": "🦘Horsley Park",
-        "last_advert": 1765074844,
-        "last_seen": "2025-12-07T13:34:04+11:00",
+        "last_advert": 1765107244,
+        "last_seen": "2025-12-07T22:34:04+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f"
@@ -240,8 +240,8 @@
     },
     "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2": {
         "name": "GymReps_V4",
-        "last_advert": 1765096801,
-        "last_seen": "2025-12-07T19:40:01+11:00",
+        "last_advert": 1765107601,
+        "last_seen": "2025-12-07T22:40:01+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2"
@@ -465,8 +465,8 @@
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1765096807,
-        "last_seen": "2025-12-07T19:40:07+11:00",
+        "last_advert": 1765107607,
+        "last_seen": "2025-12-07T22:40:07+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -656,8 +656,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1765196334,
-        "last_seen": "2025-12-08T23:18:54+11:00",
+        "last_advert": 1765199934,
+        "last_seen": "2025-12-09T00:18:54+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
