@@ -97,12 +97,12 @@ As of 8 December 2025, Meshcore identifies repeaters and roomservers using the f
 | 75 | 🛜LUX11 - Figtree | 751ef72da4781301b88a004950ab41cea8edf74e135a86c2e9aa790f82bafaf6 | 2025-12-05T22:42:07+11:00 | ✔ |  |  |
 | 76 | BTQ Portable 3 | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 | 2025-11-04T22:54:04+11:00 |  |  |  |
 | 77 | BTQ - Portable 4 | 77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c |  |  |  |  |
-| 78 | 🌱Waterloo | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 | 2025-11-01T14:12:11+11:00 | ✔ | ✔ | 1 |
+| 78 | 🌱Waterloo | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 | 2025-11-01T14:12:11+11:00 | ✔ | ✔ |  |
 | 79 | 🌱TBA | 794e9ce7b05de2f9af84a35b13f709ad415136b298af7ef6438d5518fc65ead9 |  |  |  |  |
 | 7A | ⚡️ - Idk | 7a48a7293b92ab1538dd632f3bd228e5c193596d9f0dc861b74e5967ddd8ff02 | 2025-12-06T04:24:48+11:00 |  |  |  |
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 | 2025-10-28T06:34:00+11:00 | ✔ | ✔ |  |
 | 7F | 👽Abbotsbury 2 | 7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93 | 2025-12-08T13:52:37+11:00 | ✔ | ✔ |  |
-| 80 | 🌱Re-Assigning | 8000ca0888e90f75ef93f6a225557c965cb26e3ea50b27b65d6f8b5190aaeeb1 | 2025-11-17T14:21:10+11:00 |  |  |  |
+| 80 | 🌱Re-Assigning | 8000ca0888e90f75ef93f6a225557c965cb26e3ea50b27b65d6f8b5190aaeeb1 | 2025-11-17T14:21:10+11:00 |  |  | 1 |
 | 81 | Steven BOS Yellow Rock | 81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6 | 2025-12-08T06:33:12+11:00 | ✔ |  |  |
 | 82 | 🎩 SIR v2.0 | 82fb6b9e0c3563990d7ef653731af07e79f4f26544d56f48522433aab92311b4 | 2025-12-08T11:40:23+11:00 | ✔ |  |  |
 | 82 | 🧿 Wentworth Pt 03 | 820b95161db5dfdf72b94fafac01a7779b6b55d9aed15fda8c9d3cfe4deefa5e | 2025-12-01T01:05:55+11:00 | ✔ |  |  |
