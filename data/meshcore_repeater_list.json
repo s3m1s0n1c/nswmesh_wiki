@@ -609,8 +609,8 @@
     },
     "70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed": {
         "name": "Condell Park Repeater",
-        "last_advert": 1765147833,
-        "last_seen": "2025-12-08T09:50:33+11:00",
+        "last_advert": 1765191033,
+        "last_seen": "2025-12-08T21:50:33+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed"
@@ -643,8 +643,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1765279134,
-        "last_seen": "2025-12-09T22:18:54+11:00",
+        "last_advert": 1765282734,
+        "last_seen": "2025-12-09T23:18:54+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -1250,7 +1250,7 @@
         "name": "🌱Bridge Rd☀️",
         "last_advert": 1765179160,
         "last_seen": "2025-12-08T18:32:40+11:00",
-        "status": "parked",
+        "status": "active",
         "public_key": "fa292f7b7d18241d38c7a1db7ec1fccb4ec9d22201276cc062707e0ef489efad"
     },
     "fc1ae909ec52889f3da27a6c42193e31baba77232a47f39a14c1b8310de558c6": {
