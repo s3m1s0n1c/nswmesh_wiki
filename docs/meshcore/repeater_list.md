@@ -99,7 +99,6 @@ As of 8 December 2025, Meshcore identifies repeaters and roomservers using the f
 | 78 | 🌱Waterloo | 78e13262da7898dfd72f7c57cde2862603c444a8a716c6e9c13046b077b295d4 | 2025-11-01T14:12:11+11:00 | ✔ | ✔ | 1 |
 | 79 | 🌱TBA | 794e9ce7b05de2f9af84a35b13f709ad415136b298af7ef6438d5518fc65ead9 |  |  |  |  |
 | 7A | ⚡️ - Idk | 7a48a7293b92ab1538dd632f3bd228e5c193596d9f0dc861b74e5967ddd8ff02 | 2025-12-06T04:24:48+11:00 |  |  |  |
-| 7B | 👾Sonic - GreenPoint | 7b85fd17e533ca397c2b55c2e6a4ba8f6e2c8f7c4a7127be0afb3e766f7a15e6 | 2025-12-08T12:30:44+11:00 | ✔ |  |  |
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 | 2025-10-28T06:34:00+11:00 | ✔ | ✔ |  |
 | 7F | 👽Abbotsbury 2 | 7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93 | 2025-12-08T13:52:37+11:00 | ✔ | ✔ |  |
 | 80 | 🌱Re-Assigning | 8000ca0888e90f75ef93f6a225557c965cb26e3ea50b27b65d6f8b5190aaeeb1 | 2025-11-17T14:21:10+11:00 |  |  |  |
