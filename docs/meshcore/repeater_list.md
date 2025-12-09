@@ -105,7 +105,6 @@ As of 9 December 2025, Meshcore identifies repeaters and roomservers using the f
 | 85 | Heltec Repeater | 853e5cd165e58030c0cff604c7268580c1d5ae915ad2ea4694a30725c4852fc5 | 2025-11-18T23:51:30+11:00 |  |  |  |
 | 86 | 🌱Mobile Repeater v4 | 8628f2f40736f67b206ae54d1945fb7568de42578c0c1812e98dd8b1e7dd5040 | 2025-12-09T18:58:36+11:00 |  |  |  |
 | 87 | 👾Green Point 🪟 | 870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046 | 2025-12-09T16:48:08+11:00 | ✔ |  |  |
-| 88 | Isso/Maryville RPT 🛰 | 88a083a3813f299c8f43fb7598e9a31e4cc4ff40dd443d661c3f701763b48e2c | 2025-12-07T17:01:52+11:00 | ✔ |  |  |
 | 88 | Isso/Maryville RPT↔ | 8866a6badf93b3a5d1155eb96a95d7d36513a6bd881516215bb43414ac00a8d1 | 2025-12-09T22:35:13+11:00 | ✔ |  |  |
 | 89 | ☂️HP Tallawong S RP | 8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6 | 2025-12-09T18:27:20+11:00 | ✔ | ✔ |  |
 | 8B | 🍆Haberfield Merrman | 8bf39183de4df49d14aa3c99b20c14b4a3003935693bbbc96a3325b3f74b70d0 | 2025-12-09T19:57:02+11:00 | ✔ |  |  |
