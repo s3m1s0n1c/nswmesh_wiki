@@ -74,7 +74,7 @@ As of 9 December 2025, Meshcore identifies repeaters and roomservers using the f
 | 64 | 🐄 Hawkesbury H 🚧 | 64beefb0250ae525979e02f1ebdbce266a1acccff2cbffb24ec9d99236e09d59 | 2025-12-09T19:34:47+11:00 | ✔ | ✔ | 2 |
 | 65 | 🐄 North Sydney | 65beef87abb2539dc4761bab7a2c7b30409b6271ad7707837c51cc2f3d722957 | 2025-12-09T05:30:51+11:00 | ✔ |  | 10 |
 | 66 | 33t2-mobile repeater | 66facbbed204c766052803f612edf79032ecbf5b813dedf71ea73cc8710b938b | 2025-12-09T12:34:02+11:00 | ✔ |  |  |
-| 67 | HangingRock Repeater | 67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a | 2025-12-09T14:03:15+11:00 |  |  |  |
+| 67 | HangingRock Repeater | 67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a | 2025-12-09T23:03:15+11:00 |  |  |  |
 | 68 | 🐄 Marsden Park | 68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763 | 2025-12-09T17:37:44+11:00 | ✔ | ✔ | 2 |
 | 69 | RobCo / Darling Harbor | 6969be2bd73967a4d26a34c52744ad225d5ce94e9ef28dd8e0a295925c1bdcb8 | 2025-11-20T05:31:33+11:00 | ✔ |  |  |
 | 69 | ✝️ESP TEST RPTR_2 | 6951b4d07279c64e5e545367ad6cfc893516b6cca8e12e579c86651a23f9eeaf | 2025-11-05T19:08:58+11:00 |  |  |  |
@@ -106,6 +106,7 @@ As of 9 December 2025, Meshcore identifies repeaters and roomservers using the f
 | 86 | 🌱Mobile Repeater v4 | 8628f2f40736f67b206ae54d1945fb7568de42578c0c1812e98dd8b1e7dd5040 | 2025-12-09T18:58:36+11:00 |  |  |  |
 | 87 | 👾Green Point 🪟 | 870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046 | 2025-12-09T16:48:08+11:00 | ✔ |  |  |
 | 88 | Isso/Maryville RPT 🛰 | 88a083a3813f299c8f43fb7598e9a31e4cc4ff40dd443d661c3f701763b48e2c | 2025-12-07T17:01:52+11:00 | ✔ |  |  |
+| 88 | Isso/Maryville RPT↔ | 8866a6badf93b3a5d1155eb96a95d7d36513a6bd881516215bb43414ac00a8d1 | 2025-12-09T22:35:13+11:00 | ✔ |  |  |
 | 89 | ☂️HP Tallawong S RP | 8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6 | 2025-12-09T18:27:20+11:00 | ✔ | ✔ |  |
 | 8B | 🍆Haberfield Merrman | 8bf39183de4df49d14aa3c99b20c14b4a3003935693bbbc96a3325b3f74b70d0 | 2025-12-09T19:57:02+11:00 | ✔ |  |  |
 | 8D | 📡YER NBSYD 01 | 8dd83466219fd7763cb0c4372152943b2d63b152403175acd0ce10d7e65eb778 | 2025-11-23T02:48:26+11:00 | ✔ |  |  |
