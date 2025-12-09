@@ -525,8 +525,8 @@
     },
     "67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a": {
         "name": "HangingRock Repeater",
-        "last_advert": 1765249395,
-        "last_seen": "2025-12-09T14:03:15+11:00",
+        "last_advert": 1765281795,
+        "last_seen": "2025-12-09T23:03:15+11:00",
         "status": "active",
         "public_key": "67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a"
     },
@@ -768,6 +768,14 @@
         "advert_location": true,
         "status": "active",
         "public_key": "88a083a3813f299c8f43fb7598e9a31e4cc4ff40dd443d661c3f701763b48e2c"
+    },
+    "8866a6badf93b3a5d1155eb96a95d7d36513a6bd881516215bb43414ac00a8d1": {
+        "name": "Isso/Maryville RPT↔",
+        "last_advert": 1765280113,
+        "last_seen": "2025-12-09T22:35:13+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "8866a6badf93b3a5d1155eb96a95d7d36513a6bd881516215bb43414ac00a8d1"
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong S RP",
