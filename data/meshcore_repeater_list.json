@@ -193,8 +193,8 @@
     },
     "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f": {
         "name": "🦘Horsley Park",
-        "last_advert": 1765442044,
-        "last_seen": "2025-12-11T19:34:04+11:00",
+        "last_advert": 1765452844,
+        "last_seen": "2025-12-11T22:34:04+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f"
@@ -243,8 +243,8 @@
     },
     "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2": {
         "name": "GymReps_V4",
-        "last_advert": 1765442401,
-        "last_seen": "2025-12-11T19:40:01+11:00",
+        "last_advert": 1765453201,
+        "last_seen": "2025-12-11T22:40:01+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2"
@@ -260,8 +260,8 @@
     },
     "30bdc69bc1db4377a17e33044dc61e1d95a33e4dadfeaabd87fe753c8794b224": {
         "name": "⚡️ - Asquith",
-        "last_advert": 1765407819,
-        "last_seen": "2025-12-11T10:03:39+11:00",
+        "last_advert": 1765451019,
+        "last_seen": "2025-12-11T22:03:39+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "30bdc69bc1db4377a17e33044dc61e1d95a33e4dadfeaabd87fe753c8794b224"
@@ -617,8 +617,8 @@
     },
     "70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed": {
         "name": "Condell Park Repeater",
-        "last_advert": 1765277433,
-        "last_seen": "2025-12-09T21:50:33+11:00",
+        "last_advert": 1765450233,
+        "last_seen": "2025-12-11T21:50:33+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed"
@@ -651,8 +651,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1765538334,
-        "last_seen": "2025-12-12T22:18:54+11:00",
+        "last_advert": 1765545534,
+        "last_seen": "2025-12-13T00:18:54+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -708,8 +708,8 @@
     },
     "7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93": {
         "name": "👽Abbotsbury 2",
-        "last_advert": 1765443158,
-        "last_seen": "2025-12-11T19:52:38+11:00",
+        "last_advert": 1765453958,
+        "last_seen": "2025-12-11T22:52:38+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -857,8 +857,8 @@
     },
     "a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd": {
         "name": "🗡️ Rooty Hill WF",
-        "last_advert": 1765434540,
-        "last_seen": "2025-12-11T17:29:00+11:00",
+        "last_advert": 1765452540,
+        "last_seen": "2025-12-11T22:29:00+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd"
@@ -1104,8 +1104,8 @@
     },
     "d284a01b81069fab054ad4355d46c58037618df478e05e64579af5489d1ea569": {
         "name": "🛡️Lakesland 2",
-        "last_advert": 1765430293,
-        "last_seen": "2025-12-11T16:18:13+11:00",
+        "last_advert": 1765451893,
+        "last_seen": "2025-12-11T22:18:13+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1141,8 +1141,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1765440122,
-        "last_seen": "2025-12-11T19:02:02+11:00",
+        "last_advert": 1765450922,
+        "last_seen": "2025-12-11T22:02:02+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
