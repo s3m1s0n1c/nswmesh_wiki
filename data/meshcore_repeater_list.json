@@ -414,8 +414,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1765486671,
-        "last_seen": "2025-12-12T07:57:51+11:00",
+        "last_advert": 1765529871,
+        "last_seen": "2025-12-12T19:57:51+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -458,6 +458,11 @@
         "internet_location": true,
         "status": "active",
         "public_key": "4eddb6db310d70fd821c6783d0e3a8ac6d337b8d5c255f78e3f1bd86d5a0dcda"
+    },
+    "52e9dc94769258068aceae2e3b9e156fbcf9110dd97d5f8293808392947fdb99": {
+        "name": "Blaxland Pi",
+        "status": "active",
+        "public_key": "52e9dc94769258068aceae2e3b9e156fbcf9110dd97d5f8293808392947fdb99"
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
