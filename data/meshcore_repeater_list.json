@@ -1248,12 +1248,10 @@
         "status": "active",
         "public_key": "f58e1ca5e95ca03d516b80c4839ecd8c76855f63e9e9dea371f3384b24a1b705"
     },
-    "f93549c8600ee5c7c063b66e7636d237bd49470c61dcb5ec8cc310e85ae9afab": {
-        "name": "XiaoS3 Repeater",
-        "last_advert": 1716375151,
-        "last_seen": "2024-05-22T20:52:31+10:00",
+    "f9b87d3ec231b2dd58f0a7ef664eb833b6f474013b1031b081f8d3233e9f47fe": {
+        "name": "Mt Hugel near Adelong-Tumut",
         "status": "active",
-        "public_key": "f93549c8600ee5c7c063b66e7636d237bd49470c61dcb5ec8cc310e85ae9afab"
+        "public_key": "f9b87d3ec231b2dd58f0a7ef664eb833b6f474013b1031b081f8d3233e9f47fe"
     },
     "f9ae2afdc00781c2faa399c4125bd6ee3a9c64a4656f1f9e54455a378f5d540e": {
         "name": "🎩 SI - Drone",
