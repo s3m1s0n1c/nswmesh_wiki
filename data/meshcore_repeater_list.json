@@ -193,8 +193,8 @@
     },
     "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f": {
         "name": "🦘Horsley Park",
-        "last_advert": 1765517644,
-        "last_seen": "2025-12-12T16:34:04+11:00",
+        "last_advert": 1765528444,
+        "last_seen": "2025-12-12T19:34:04+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f"
@@ -210,8 +210,8 @@
     },
     "28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16": {
         "name": "☠️ Mount Annan Rpt",
-        "last_advert": 1765504311,
-        "last_seen": "2025-12-12T12:51:51+11:00",
+        "last_advert": 1765525911,
+        "last_seen": "2025-12-12T18:51:51+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -219,8 +219,8 @@
     },
     "29e03bfa6399b389f0d7179393981fb2124b8242e0b7022f457852cdb09245e8": {
         "name": "👽WazMac Field Rep",
-        "last_advert": 1765514092,
-        "last_seen": "2025-12-12T15:34:52+11:00",
+        "last_advert": 1765524892,
+        "last_seen": "2025-12-12T18:34:52+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "29e03bfa6399b389f0d7179393981fb2124b8242e0b7022f457852cdb09245e8"
@@ -243,8 +243,8 @@
     },
     "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2": {
         "name": "GymReps_V4",
-        "last_advert": 1765518001,
-        "last_seen": "2025-12-12T16:40:01+11:00",
+        "last_advert": 1765528801,
+        "last_seen": "2025-12-12T19:40:01+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2"
@@ -430,8 +430,8 @@
     },
     "4ce7f924255d56e44b3afc071b6fa64e2fd3ed4c4242a19a9a0abf99973fa7d0": {
         "name": "Bosco Repeater",
-        "last_advert": 1765483983,
-        "last_seen": "2025-12-12T07:13:03+11:00",
+        "last_advert": 1765527183,
+        "last_seen": "2025-12-12T19:13:03+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "4ce7f924255d56e44b3afc071b6fa64e2fd3ed4c4242a19a9a0abf99973fa7d0"
@@ -452,8 +452,8 @@
     },
     "4eddb6db310d70fd821c6783d0e3a8ac6d337b8d5c255f78e3f1bd86d5a0dcda": {
         "name": "⚡️ - Cherrybrook",
-        "last_advert": 1765483428,
-        "last_seen": "2025-12-12T07:03:48+11:00",
+        "last_advert": 1765526628,
+        "last_seen": "2025-12-12T19:03:48+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -461,8 +461,8 @@
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1765518007,
-        "last_seen": "2025-12-12T16:40:07+11:00",
+        "last_advert": 1765528807,
+        "last_seen": "2025-12-12T19:40:07+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -508,8 +508,8 @@
     },
     "64beefb0250ae525979e02f1ebdbce266a1acccff2cbffb24ec9d99236e09d59": {
         "name": "🐄 Hawkesbury H 🚧",
-        "last_advert": 1765506887,
-        "last_seen": "2025-12-12T13:34:47+11:00",
+        "last_advert": 1765528488,
+        "last_seen": "2025-12-12T19:34:48+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -651,8 +651,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1765613934,
-        "last_seen": "2025-12-13T19:18:54+11:00",
+        "last_advert": 1765621134,
+        "last_seen": "2025-12-13T21:18:54+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -780,12 +780,20 @@
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong S RP",
-        "last_advert": 1765513640,
-        "last_seen": "2025-12-12T15:27:20+11:00",
+        "last_advert": 1765524440,
+        "last_seen": "2025-12-12T18:27:20+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
         "public_key": "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6"
+    },
+    "8b505d17cb2883d64cf88de632b73dfa64ab3921cfc4f1907d115ff6f470bd13": {
+        "name": "PicoW Repeater",
+        "last_advert": 1765527523,
+        "last_seen": "2025-12-12T19:18:43+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "8b505d17cb2883d64cf88de632b73dfa64ab3921cfc4f1907d115ff6f470bd13"
     },
     "8bf39183de4df49d14aa3c99b20c14b4a3003935693bbbc96a3325b3f74b70d0": {
         "name": "🍆Haberfield Merrman",
@@ -967,8 +975,8 @@
     },
     "b745d1254f0639695fd7326c23f3a0bcb92aa4c5e08f6cfc43ba9527db88515d": {
         "name": "☠ Kenny Hill Rpt",
-        "last_advert": 1765506967,
-        "last_seen": "2025-12-12T13:36:07+11:00",
+        "last_advert": 1765528567,
+        "last_seen": "2025-12-12T19:36:07+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1141,8 +1149,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1765515722,
-        "last_seen": "2025-12-12T16:02:02+11:00",
+        "last_advert": 1765526522,
+        "last_seen": "2025-12-12T19:02:02+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
