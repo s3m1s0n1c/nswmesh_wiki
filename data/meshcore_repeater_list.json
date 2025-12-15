@@ -188,8 +188,8 @@
     },
     "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f": {
         "name": "🦘Horsley Park",
-        "last_advert": 1765776845,
-        "last_seen": "2025-12-15T16:34:05+11:00",
+        "last_advert": 1765787645,
+        "last_seen": "2025-12-15T19:34:05+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f"
@@ -214,8 +214,8 @@
     },
     "29e03bfa6399b389f0d7179393981fb2124b8242e0b7022f457852cdb09245e8": {
         "name": "👽WazMac Field Rep",
-        "last_advert": 1765772168,
-        "last_seen": "2025-12-15T15:16:08+11:00",
+        "last_advert": 1765782968,
+        "last_seen": "2025-12-15T18:16:08+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "29e03bfa6399b389f0d7179393981fb2124b8242e0b7022f457852cdb09245e8"
@@ -238,8 +238,8 @@
     },
     "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2": {
         "name": "GymReps_V4",
-        "last_advert": 1765777202,
-        "last_seen": "2025-12-15T16:40:02+11:00",
+        "last_advert": 1765788002,
+        "last_seen": "2025-12-15T19:40:02+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2"
@@ -298,8 +298,8 @@
     },
     "36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092": {
         "name": "🌱Camperdown🌤",
-        "last_advert": 1765739047,
-        "last_seen": "2025-12-15T06:04:07+11:00",
+        "last_advert": 1765783549,
+        "last_seen": "2025-12-15T18:25:49+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -409,8 +409,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1765745871,
-        "last_seen": "2025-12-15T07:57:51+11:00",
+        "last_advert": 1765789071,
+        "last_seen": "2025-12-15T19:57:51+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -425,8 +425,8 @@
     },
     "4ce7f924255d56e44b3afc071b6fa64e2fd3ed4c4242a19a9a0abf99973fa7d0": {
         "name": "Bosco Repeater",
-        "last_advert": 1765743183,
-        "last_seen": "2025-12-15T07:13:03+11:00",
+        "last_advert": 1765786383,
+        "last_seen": "2025-12-15T19:13:03+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "4ce7f924255d56e44b3afc071b6fa64e2fd3ed4c4242a19a9a0abf99973fa7d0"
@@ -464,12 +464,17 @@
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1765777207,
-        "last_seen": "2025-12-15T16:40:07+11:00",
+        "last_advert": 1765788007,
+        "last_seen": "2025-12-15T19:40:07+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
         "public_key": "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c"
+    },
+    "5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3": {
+        "name": "👽 West Hoxton",
+        "status": "active",
+        "public_key": "5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3"
     },
     "5980a89f75c99b4e1637e0ec6b0089a5401e92a365cde33f3a69c7d6c7ecceef": {
         "name": "oatl-meshcore",
@@ -511,8 +516,8 @@
     },
     "64beefb0250ae525979e02f1ebdbce266a1acccff2cbffb24ec9d99236e09d59": {
         "name": "🐄 Hawkesbury H 🚧",
-        "last_advert": 1765744488,
-        "last_seen": "2025-12-15T07:34:48+11:00",
+        "last_advert": 1765787688,
+        "last_seen": "2025-12-15T19:34:48+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -536,8 +541,8 @@
     },
     "67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a": {
         "name": "HangingRock Repeater",
-        "last_advert": 1765767796,
-        "last_seen": "2025-12-15T14:03:16+11:00",
+        "last_advert": 1765789396,
+        "last_seen": "2025-12-15T20:03:16+11:00",
         "status": "active",
         "public_key": "67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a"
     },
@@ -654,15 +659,15 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1765873134,
-        "last_seen": "2025-12-16T19:18:54+11:00",
+        "last_advert": 1765880334,
+        "last_seen": "2025-12-16T21:18:54+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
     "7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c": {
         "name": "⚡️- Normanhurst",
-        "last_advert": 1765746098,
-        "last_seen": "2025-12-15T08:01:38+11:00",
+        "last_advert": 1765789298,
+        "last_seen": "2025-12-15T20:01:38+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -706,15 +711,15 @@
     },
     "7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f": {
         "name": "🌱☀️💡433.95",
-        "last_advert": 1765745042,
-        "last_seen": "2025-12-15T07:44:02+11:00",
+        "last_advert": 1765788242,
+        "last_seen": "2025-12-15T19:44:02+11:00",
         "status": "active",
         "public_key": "7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f"
     },
     "7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93": {
         "name": "👽Abbotsbury 2",
-        "last_advert": 1765777966,
-        "last_seen": "2025-12-15T16:52:46+11:00",
+        "last_advert": 1765788766,
+        "last_seen": "2025-12-15T19:52:46+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -785,8 +790,8 @@
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong S RP",
-        "last_advert": 1765772841,
-        "last_seen": "2025-12-15T15:27:21+11:00",
+        "last_advert": 1765783641,
+        "last_seen": "2025-12-15T18:27:21+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1156,8 +1161,8 @@
     },
     "d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79": {
         "name": "🌱☀️ Light Test",
-        "last_advert": 1765745065,
-        "last_seen": "2025-12-15T07:44:25+11:00",
+        "last_advert": 1765788265,
+        "last_seen": "2025-12-15T19:44:25+11:00",
         "status": "active",
         "public_key": "d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79"
     },
@@ -1168,8 +1173,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1765774923,
-        "last_seen": "2025-12-15T16:02:03+11:00",
+        "last_advert": 1765785723,
+        "last_seen": "2025-12-15T19:02:03+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
