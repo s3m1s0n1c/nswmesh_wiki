@@ -8,10 +8,18 @@
         "status": "active",
         "public_key": "012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab"
     },
+    "02b09c5b8c55e1d82f4bd95c3741f82b3f7fafc4675749d4ace649b728446f19": {
+        "name": "🎩 SI - Alfa",
+        "last_advert": 1766227609,
+        "last_seen": "2025-12-20T21:46:49+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "02b09c5b8c55e1d82f4bd95c3741f82b3f7fafc4675749d4ace649b728446f19"
+    },
     "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436": {
         "name": "⚡- Testing",
-        "last_advert": 1766200064,
-        "last_seen": "2025-12-20T14:07:44+11:00",
+        "last_advert": 1766225123,
+        "last_seen": "2025-12-20T21:05:23+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436"
@@ -42,8 +50,8 @@
     },
     "0a8b3986485daf3967295341e57355e93c946164fb4fe387cb4535cff9098973": {
         "name": "☢ Alpine",
-        "last_advert": 1766182483,
-        "last_seen": "2025-12-20T09:14:43+11:00",
+        "last_advert": 1766225683,
+        "last_seen": "2025-12-20T21:14:43+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -161,8 +169,8 @@
     },
     "2236b54323a4d64073ef91fe66bf4231314d7c90a216f12be68f0b1cf053f3f6": {
         "name": "✝️ Lapstone",
-        "last_advert": 1766179573,
-        "last_seen": "2025-12-20T08:26:13+11:00",
+        "last_advert": 1766222773,
+        "last_seen": "2025-12-20T20:26:13+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -196,8 +204,8 @@
     },
     "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f": {
         "name": "🦘Horsley Park",
-        "last_advert": 1766208846,
-        "last_seen": "2025-12-20T16:34:06+11:00",
+        "last_advert": 1766230446,
+        "last_seen": "2025-12-20T22:34:06+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f"
@@ -246,8 +254,8 @@
     },
     "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2": {
         "name": "GymReps_V4",
-        "last_advert": 1766209202,
-        "last_seen": "2025-12-20T16:40:02+11:00",
+        "last_advert": 1766230803,
+        "last_seen": "2025-12-20T22:40:03+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2"
@@ -297,8 +305,8 @@
     },
     "35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d": {
         "name": "Loftus Heights G2",
-        "last_advert": 1766200480,
-        "last_seen": "2025-12-20T14:14:40+11:00",
+        "last_advert": 1766222080,
+        "last_seen": "2025-12-20T20:14:40+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -473,8 +481,8 @@
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1766198408,
-        "last_seen": "2025-12-20T13:40:08+11:00",
+        "last_advert": 1766220008,
+        "last_seen": "2025-12-20T19:40:08+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -512,8 +520,8 @@
     },
     "5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f": {
         "name": "⚡️ - 🐝croft Ded",
-        "last_advert": 1766215668,
-        "last_seen": "2025-12-20T18:27:48+11:00",
+        "last_advert": 1766221385,
+        "last_seen": "2025-12-20T20:03:05+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -636,8 +644,8 @@
     },
     "70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed": {
         "name": "Condell Park Repeater",
-        "last_advert": 1766184633,
-        "last_seen": "2025-12-20T09:50:33+11:00",
+        "last_advert": 1766227833,
+        "last_seen": "2025-12-20T21:50:33+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed"
@@ -670,8 +678,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1766306525,
-        "last_seen": "2025-12-21T19:42:05+11:00",
+        "last_advert": 1766320925,
+        "last_seen": "2025-12-21T23:42:05+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -706,8 +714,8 @@
     },
     "7a48a7293b92ab1538dd632f3bd228e5c193596d9f0dc861b74e5967ddd8ff02": {
         "name": "⚡️-🐝croft Soon",
-        "last_advert": 1766214789,
-        "last_seen": "2025-12-20T18:13:09+11:00",
+        "last_advert": 1766231772,
+        "last_seen": "2025-12-20T22:56:12+11:00",
         "status": "active",
         "public_key": "7a48a7293b92ab1538dd632f3bd228e5c193596d9f0dc861b74e5967ddd8ff02"
     },
@@ -729,8 +737,8 @@
     },
     "7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93": {
         "name": "👽Abbotsbury 2",
-        "last_advert": 1766209967,
-        "last_seen": "2025-12-20T16:52:47+11:00",
+        "last_advert": 1766231567,
+        "last_seen": "2025-12-20T22:52:47+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -777,8 +785,8 @@
     },
     "8628f2f40736f67b206ae54d1945fb7568de42578c0c1812e98dd8b1e7dd5040": {
         "name": "🌱Mobile Repeater v4",
-        "last_advert": 1766138164,
-        "last_seen": "2025-12-19T20:56:04+11:00",
+        "last_advert": 1766224564,
+        "last_seen": "2025-12-20T20:56:04+11:00",
         "status": "active",
         "public_key": "8628f2f40736f67b206ae54d1945fb7568de42578c0c1812e98dd8b1e7dd5040"
     },
@@ -933,8 +941,8 @@
     },
     "ab687e3dbbef93fbba17101f2b81e498c50ca6c1898b941586baf9f15d37d575": {
         "name": "🛜LUX07 - Mt Gibralta",
-        "last_advert": 1766212592,
-        "last_seen": "2025-12-20T17:36:32+11:00",
+        "last_advert": 1766223392,
+        "last_seen": "2025-12-20T20:36:32+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1157,16 +1165,16 @@
     },
     "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c": {
         "name": "🇦🇺 Ermington RPT",
-        "last_advert": 1766213920,
-        "last_seen": "2025-12-20T17:58:40+11:00",
+        "last_advert": 1766224720,
+        "last_seen": "2025-12-20T20:58:40+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c"
     },
     "d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79": {
         "name": "🌱☀️ Light Test",
-        "last_advert": 1766182328,
-        "last_seen": "2025-12-20T09:12:08+11:00",
+        "last_advert": 1766225528,
+        "last_seen": "2025-12-20T21:12:08+11:00",
         "status": "active",
         "public_key": "d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79"
     },
@@ -1177,8 +1185,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1766217723,
-        "last_seen": "2025-12-20T19:02:03+11:00",
+        "last_advert": 1766228523,
+        "last_seen": "2025-12-20T22:02:03+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1270,8 +1278,8 @@
     },
     "f1fc699ff05e41738524af480a24ccf5ada1f3248bd23d83f47ae69f44060193": {
         "name": "✝️ Penrith Station",
-        "last_advert": 1766185540,
-        "last_seen": "2025-12-20T10:05:40+11:00",
+        "last_advert": 1766228740,
+        "last_seen": "2025-12-20T22:05:40+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
