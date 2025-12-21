@@ -785,16 +785,9 @@
     },
     "871f9012913eaec6bf6da0237e34ccc546e5333ee673eb1c7ce82567dbe4cf1e": {
         "name": "👾Green Point ☀️",
+        "internet_location": true,
         "status": "active",
         "public_key": "871f9012913eaec6bf6da0237e34ccc546e5333ee673eb1c7ce82567dbe4cf1e"
-    },
-    "870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046": {
-        "name": "👾Green Point 🪟",
-        "last_advert": 1765410489,
-        "last_seen": "2025-12-11T10:48:09+11:00",
-        "advert_location": true,
-        "status": "active",
-        "public_key": "870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046"
     },
     "8866a6badf93b3a5d1155eb96a95d7d36513a6bd881516215bb43414ac00a8d1": {
         "name": "Isso/Maryville RPT↔",
