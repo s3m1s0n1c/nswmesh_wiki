@@ -107,8 +107,7 @@ As of 21 December 2025, Meshcore identifies repeaters and roomservers using the 
 | 82 | 🧿 Wentworth Pt 03 | 820b95161db5dfdf72b94fafac01a7779b6b55d9aed15fda8c9d3cfe4deefa5e | 2025-12-01T01:05:55+11:00 | ✔ |  |  |
 | 85 | Heltec Repeater | 853e5cd165e58030c0cff604c7268580c1d5ae915ad2ea4694a30725c4852fc5 | 2025-11-18T23:51:30+11:00 |  |  |  |
 | 86 | 🌱Mobile Repeater v4 | 8628f2f40736f67b206ae54d1945fb7568de42578c0c1812e98dd8b1e7dd5040 | 2025-12-20T20:56:04+11:00 |  |  |  |
-| 87 | 👾Green Point ☀️ | 871f9012913eaec6bf6da0237e34ccc546e5333ee673eb1c7ce82567dbe4cf1e |  |  |  |  |
-| 87 | 👾Green Point 🪟 | 870c2dbd3df1bce7dadb85d3cb22f181d44e0d06785c6f2868b782872742e046 | 2025-12-11T10:48:09+11:00 | ✔ |  |  |
+| 87 | 👾Green Point ☀️ | 871f9012913eaec6bf6da0237e34ccc546e5333ee673eb1c7ce82567dbe4cf1e |  |  | ✔ |  |
 | 88 | Isso/Maryville RPT↔ | 8866a6badf93b3a5d1155eb96a95d7d36513a6bd881516215bb43414ac00a8d1 | 2025-12-09T22:35:13+11:00 | ✔ | ✔ |  |
 | 89 | ☂️HP Tallawong S RP | 8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6 | 2025-12-21T12:27:22+11:00 | ✔ | ✔ |  |
 | 8B | PicoW Repeater | 8b505d17cb2883d64cf88de632b73dfa64ab3921cfc4f1907d115ff6f470bd13 | 2025-12-12T19:18:43+11:00 | ✔ |  |  |
