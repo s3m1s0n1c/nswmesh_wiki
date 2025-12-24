@@ -295,15 +295,6 @@
         "status": "active",
         "public_key": "32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9"
     },
-    "338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0": {
-        "name": "⚡️ - Mt Colah",
-        "last_advert": 1766092250,
-        "last_seen": "2025-12-19T08:10:50+11:00",
-        "advert_location": true,
-        "internet_location": true,
-        "status": "active",
-        "public_key": "338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0"
-    },
     "332c6509e0fb450f4a2c137a30519cf2665c1d3970ac5e8bd64f903f983270f5": {
         "name": "⚡️ - Mt Colah",
         "last_advert": 1766498757,
