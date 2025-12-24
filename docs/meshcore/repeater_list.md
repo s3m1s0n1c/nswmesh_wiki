@@ -44,7 +44,6 @@ As of 24 December 2025, Meshcore identifies repeaters and roomservers using the 
 | 2E | 🛜LUX08 - Knights Hil | 2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05 | 2025-12-19T12:46:47+11:00 | ✔ | ✔ |  |
 | 30 | ⚡️ - Asquith | 30bdc69bc1db4377a17e33044dc61e1d95a33e4dadfeaabd87fe753c8794b224 | 2025-12-20T13:23:58+11:00 | ✔ | ✔ |  |
 | 32 | ⚡️ - Staples | 32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9 | 2025-12-24T03:51:34+11:00 | ✔ | ✔ | 43 |
-| 33 | ⚡️ - Mt Colah | 338a1e97b4a37a45d9ac0912cb34637965e9d907e1e04518d124c256d78519a0 | 2025-12-19T08:10:50+11:00 | ✔ | ✔ | 30 |
 | 33 | ⚡️ - Mt Colah | 332c6509e0fb450f4a2c137a30519cf2665c1d3970ac5e8bd64f903f983270f5 | 2025-12-24T01:05:57+11:00 | ✔ |  |  |
 | 34 | ⛰️ CC Fill | 3424534bf381d5904e208213a0e592224de3b41a36461b2067249964405ca734 | 2025-12-24T10:21:21+11:00 | ✔ |  |  |
 | 35 | Loftus Heights G2 | 35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d | 2025-12-24T08:14:40+11:00 | ✔ | ✔ |  |
