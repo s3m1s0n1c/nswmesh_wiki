@@ -343,10 +343,10 @@
         "status": "parked",
         "public_key": "3737f169fbea4a1dfb300c91a8d9b7efc3c216e377090f925fdbaad41e9b8a96"
     },
-    "38..............................................................": {
+    "38b0c615ea50ff318a136d88741b886c566ccec2a116c1b0b6bd5f863d2217b7": {
         "name": "MMTV - Belfield",
         "status": "active",
-        "public_key": "38.............................................................."
+        "public_key": "38b0c615ea50ff318a136d88741b886c566ccec2a116c1b0b6bd5f863d2217b7"
     },
     "39c3db1cfdab1123eff16cb8b88fc0e2b9cc1da04e5b6cb94d5f8fb73cf17ed3": {
         "name": "Ch1cken 2220 Repeater",
@@ -619,8 +619,8 @@
     },
     "6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6": {
         "name": "🧿 Wentworth Pt 01",
-        "last_advert": 1766558032,
-        "last_seen": "2025-12-24T17:33:52+11:00",
+        "last_advert": 1766561704,
+        "last_seen": "2025-12-24T18:35:04+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -791,8 +791,8 @@
     },
     "871f9012913eaec6bf6da0237e34ccc546e5333ee673eb1c7ce82567dbe4cf1e": {
         "name": "👾Green Point ☀️",
-        "last_advert": 1766531869,
-        "last_seen": "2025-12-24T10:17:49+11:00",
+        "last_advert": 1766564269,
+        "last_seen": "2025-12-24T19:17:49+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1193,8 +1193,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1766552524,
-        "last_seen": "2025-12-24T16:02:04+11:00",
+        "last_advert": 1766563324,
+        "last_seen": "2025-12-24T19:02:04+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1270,8 +1270,8 @@
     },
     "ec85e625b9168978b444413e12a24ff83b3d3e29e45a2c2cd9d4ab0771d834d5": {
         "name": "Pfych Repeater",
-        "last_advert": 1766520178,
-        "last_seen": "2025-12-24T07:02:58+11:00",
+        "last_advert": 1766563378,
+        "last_seen": "2025-12-24T19:02:58+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "ec85e625b9168978b444413e12a24ff83b3d3e29e45a2c2cd9d4ab0771d834d5"
