@@ -50,6 +50,7 @@ As of 24 December 2025, Meshcore identifies repeaters and roomservers using the 
 | 36 | 🌱Camperdown🌤 | 36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092 | 2025-12-24T13:57:56+11:00 | ✔ | ✔ | 10 |
 | 37 | Caringbah Repeater | 376925ee45a03bffcb6f37b252b6394d45f07ec488993c6c0db60d17438f6a7b | 2025-11-04T23:12:42+11:00 | ✔ | ✔ |  |
 | 37 | Odinsdad reserved | 3737f169fbea4a1dfb300c91a8d9b7efc3c216e377090f925fdbaad41e9b8a96 |  |  |  |  |
+| 38 | MMTV - Belfield | 38.............................................................. |  |  |  |  |
 | 39 | Ch1cken 2220 Repeater | 39c3db1cfdab1123eff16cb8b88fc0e2b9cc1da04e5b6cb94d5f8fb73cf17ed3 |  |  |  |  |
 | 3C | 🌱Bridge 433.95🌤 | 3c732b37f8a046b1c3f60a96aaed9641720f1678704f0dd141a1ac8f4eadce17 | 2025-12-24T16:19:16+11:00 | ✔ | ✔ | 10 |
 | 3D | Overkill - Balloon | 3d2d43f27ca9293938fa7007678348f7f6b41f7cd537c047720dd531afa30b2e |  |  |  |  |
@@ -90,7 +91,7 @@ As of 24 December 2025, Meshcore identifies repeaters and roomservers using the 
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |  |  |  |  |
 | 6E | ☢️ Testing | 6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc | 2025-12-20T16:45:16+11:00 |  |  |  |
 | 70 | Condell Park Repeater | 70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed | 2025-12-24T09:50:34+11:00 | ✔ |  |  |
-| 71 | Breakfast Point Rpt | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 | 2025-12-24T14:58:00+11:00 | ✔ | ✔ |  |
+| 71 | Breakfast Point Rpt | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 | 2025-12-24T17:58:00+11:00 | ✔ | ✔ |  |
 | 72 | BTQ - Hornsby - Window | 720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130 | 2025-12-08T21:26:56+11:00 | ✔ | ✔ | 1.5 |
 | 73 | BTQ Portable 1 | 738460c241d09fd9891cb484b316176c929eef2e995e31cbaf77ba6430d7722e | 2025-11-03T11:12:35+11:00 | ✔ |  |  |
 | 74 | BTQ Portable 2 | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2025-12-25T19:12:05+11:00 |  |  |  |
@@ -109,7 +110,7 @@ As of 24 December 2025, Meshcore identifies repeaters and roomservers using the 
 | 86 | 🌱Mobile Repeater v4 | 8628f2f40736f67b206ae54d1945fb7568de42578c0c1812e98dd8b1e7dd5040 | 2025-12-23T20:56:04+11:00 |  |  |  |
 | 87 | 👾Green Point ☀️ | 871f9012913eaec6bf6da0237e34ccc546e5333ee673eb1c7ce82567dbe4cf1e | 2025-12-24T10:17:49+11:00 | ✔ | ✔ |  |
 | 88 | Isso/Maryville RPT↔ | 8866a6badf93b3a5d1155eb96a95d7d36513a6bd881516215bb43414ac00a8d1 | 2025-12-09T22:35:13+11:00 | ✔ | ✔ |  |
-| 89 | ☂️HP Tallawong S RP | 8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6 | 2025-12-24T15:27:22+11:00 | ✔ | ✔ |  |
+| 89 | ☂️HP Tallawong S RP | 8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6 | 2025-12-24T18:27:22+11:00 | ✔ | ✔ |  |
 | 8B | PicoW Repeater | 8b505d17cb2883d64cf88de632b73dfa64ab3921cfc4f1907d115ff6f470bd13 | 2025-12-12T19:18:43+11:00 | ✔ |  |  |
 | 8B | 🍆Haberfield Merrman | 8bf39183de4df49d14aa3c99b20c14b4a3003935693bbbc96a3325b3f74b70d0 | 2025-12-12T07:57:02+11:00 | ✔ |  |  |
 | 8D | 📡YER NBSYD 01 | 8dd83466219fd7763cb0c4372152943b2d63b152403175acd0ce10d7e65eb778 | 2025-11-23T02:48:26+11:00 | ✔ |  |  |
