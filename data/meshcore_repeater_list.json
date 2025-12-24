@@ -343,6 +343,11 @@
         "status": "parked",
         "public_key": "3737f169fbea4a1dfb300c91a8d9b7efc3c216e377090f925fdbaad41e9b8a96"
     },
+    "38..............................................................": {
+        "name": "MMTV - Belfield",
+        "status": "active",
+        "public_key": "38.............................................................."
+    },
     "39c3db1cfdab1123eff16cb8b88fc0e2b9cc1da04e5b6cb94d5f8fb73cf17ed3": {
         "name": "Ch1cken 2220 Repeater",
         "status": "active",
@@ -652,8 +657,8 @@
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1766548680,
-        "last_seen": "2025-12-24T14:58:00+11:00",
+        "last_advert": 1766559480,
+        "last_seen": "2025-12-24T17:58:00+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -804,8 +809,8 @@
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong S RP",
-        "last_advert": 1766550442,
-        "last_seen": "2025-12-24T15:27:22+11:00",
+        "last_advert": 1766561242,
+        "last_seen": "2025-12-24T18:27:22+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
