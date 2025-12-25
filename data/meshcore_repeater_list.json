@@ -267,8 +267,8 @@
     },
     "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2": {
         "name": "GymReps_V4",
-        "last_advert": 1766652003,
-        "last_seen": "2025-12-25T19:40:03+11:00",
+        "last_advert": 1766662803,
+        "last_seen": "2025-12-25T22:40:03+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2"
@@ -698,8 +698,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1766742125,
-        "last_seen": "2025-12-26T20:42:05+11:00",
+        "last_advert": 1766754725,
+        "last_seen": "2025-12-27T00:12:05+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -732,6 +732,16 @@
         "status": "parked",
         "public_key": "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c"
     },
+    "780cded5bbb9660725ec6d6be529ec15e52527d3b227ff286da4bc8cf0820621": {
+        "name": "BTQ - TBA1",
+        "status": "active",
+        "public_key": "780cded5bbb9660725ec6d6be529ec15e52527d3b227ff286da4bc8cf0820621"
+    },
+    "799f41451764e9ae739f5b26abfdbb9db5df6e60206b7640c0f2d28c9212a340": {
+        "name": "BTQ - TBA2",
+        "status": "active",
+        "public_key": "799f41451764e9ae739f5b26abfdbb9db5df6e60206b7640c0f2d28c9212a340"
+    },
     "7a48a7293b92ab1538dd632f3bd228e5c193596d9f0dc861b74e5967ddd8ff02": {
         "name": "⚡️-🐝croft",
         "last_advert": 1766635007,
@@ -759,8 +769,8 @@
     },
     "7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93": {
         "name": "👽Abbotsbury 2",
-        "last_advert": 1766631168,
-        "last_seen": "2025-12-25T13:52:48+11:00",
+        "last_advert": 1766663568,
+        "last_seen": "2025-12-25T22:52:48+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1164,8 +1174,8 @@
     },
     "cfe09b3776ac57d7acc876316dd95ff8ae6467e3fb7f53542f1b2f95d51a14b1": {
         "name": "🧿 Wentworth Pt South",
-        "last_advert": 1766585995,
-        "last_seen": "2025-12-25T01:19:55+11:00",
+        "last_advert": 1766663699,
+        "last_seen": "2025-12-25T22:54:59+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
