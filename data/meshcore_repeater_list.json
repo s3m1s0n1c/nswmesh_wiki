@@ -1201,8 +1201,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1766638924,
-        "last_seen": "2025-12-25T16:02:04+11:00",
+        "last_advert": 1766649724,
+        "last_seen": "2025-12-25T19:02:04+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1359,7 +1359,7 @@
         "public_key": "fef2dcf0570fdd0d9c9dfed38c35d0e25ce0aeeb98ed6ad5533e51f57c4c05ee"
     },
     "ff14c65da896f6884da38f805af83190337b4af592668bc064ffaf05d156b28f": {
-        "name": "MMTV - TBA - Solar",
+        "name": "MMTV - Belfield South",
         "status": "active",
         "public_key": "ff14c65da896f6884da38f805af83190337b4af592668bc064ffaf05d156b28f"
     }
