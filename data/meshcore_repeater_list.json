@@ -657,8 +657,8 @@
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1766624276,
-        "last_seen": "2025-12-25T11:57:56+11:00",
+        "last_advert": 1766645875,
+        "last_seen": "2025-12-25T17:57:55+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -791,8 +791,8 @@
     },
     "871f9012913eaec6bf6da0237e34ccc546e5333ee673eb1c7ce82567dbe4cf1e": {
         "name": "👾Green Point ☀️",
-        "last_advert": 1766640032,
-        "last_seen": "2025-12-25T16:20:32+11:00",
+        "last_advert": 1766647142,
+        "last_seen": "2025-12-25T18:19:02+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1219,6 +1219,11 @@
         "last_seen": "2024-05-15T20:52:33+10:00",
         "status": "active",
         "public_key": "db3c00f64c0241827c83ac294dab21173fdb9bebadcdf22c12eb1b38d4cca15e"
+    },
+    "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7": {
+        "name": "MMTV - TBA - Solar",
+        "status": "active",
+        "public_key": "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7"
     },
     "de728887835917e4148244bf8bd14be7b8f11ba1d4c9daa48cd9ba9dc721e5ab": {
         "name": "HiveMesh.au G2",
