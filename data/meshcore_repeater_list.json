@@ -657,8 +657,8 @@
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1766624276,
-        "last_seen": "2025-12-25T11:57:56+11:00",
+        "last_advert": 1766645875,
+        "last_seen": "2025-12-25T17:57:55+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -791,8 +791,8 @@
     },
     "871f9012913eaec6bf6da0237e34ccc546e5333ee673eb1c7ce82567dbe4cf1e": {
         "name": "👾Green Point ☀️",
-        "last_advert": 1766640032,
-        "last_seen": "2025-12-25T16:20:32+11:00",
+        "last_advert": 1766647142,
+        "last_seen": "2025-12-25T18:19:02+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1026,11 +1026,6 @@
         "status": "active",
         "public_key": "bb18fef9928d2582f07bc4cfb77e2d057c0bbfd6873381a64f433961d0da71da"
     },
-    "bc9d91a9d2cbf2ab377199b1a9cfc708415fa4a95c4d52f9ba7bc5674b452aff": {
-        "name": "MMTV - Belfield South",
-        "status": "active",
-        "public_key": "bc9d91a9d2cbf2ab377199b1a9cfc708415fa4a95c4d52f9ba7bc5674b452aff"
-    },
     "bcf36a8c01c7edbde80d208553038d0d5682a964cc8a5d4e8fae4149a21c3eab": {
         "name": "SA - Greenacre",
         "last_advert": 1766635409,
@@ -1206,8 +1201,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1766638924,
-        "last_seen": "2025-12-25T16:02:04+11:00",
+        "last_advert": 1766649724,
+        "last_seen": "2025-12-25T19:02:04+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1219,6 +1214,11 @@
         "last_seen": "2024-05-15T20:52:33+10:00",
         "status": "active",
         "public_key": "db3c00f64c0241827c83ac294dab21173fdb9bebadcdf22c12eb1b38d4cca15e"
+    },
+    "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7": {
+        "name": "MMTV - TBA - Solar",
+        "status": "active",
+        "public_key": "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7"
     },
     "de728887835917e4148244bf8bd14be7b8f11ba1d4c9daa48cd9ba9dc721e5ab": {
         "name": "HiveMesh.au G2",
@@ -1359,7 +1359,7 @@
         "public_key": "fef2dcf0570fdd0d9c9dfed38c35d0e25ce0aeeb98ed6ad5533e51f57c4c05ee"
     },
     "ff14c65da896f6884da38f805af83190337b4af592668bc064ffaf05d156b28f": {
-        "name": "MMTV - TBA - Solar",
+        "name": "MMTV - Belfield South",
         "status": "active",
         "public_key": "ff14c65da896f6884da38f805af83190337b4af592668bc064ffaf05d156b28f"
     }
