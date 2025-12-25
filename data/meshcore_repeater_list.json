@@ -1,4 +1,9 @@
 {
+    "0000000000000000000000000000000000000000000000000000000000000000": {
+        "name": "Reserved by MeshCore",
+        "status": "active",
+        "public_key": "0000000000000000000000000000000000000000000000000000000000000000"
+    },
     "012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab": {
         "name": "☢ Bradbury Repeater",
         "last_advert": 1766627916,
@@ -683,8 +688,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1766729525,
-        "last_seen": "2025-12-26T17:12:05+11:00",
+        "last_advert": 1766742125,
+        "last_seen": "2025-12-26T20:42:05+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -761,8 +766,8 @@
     },
     "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6": {
         "name": "Steven BOS Yellow Rock",
-        "last_advert": 1766606824,
-        "last_seen": "2025-12-25T07:07:04+11:00",
+        "last_advert": 1766650024,
+        "last_seen": "2025-12-25T19:07:04+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6"
@@ -1027,9 +1032,9 @@
         "public_key": "bb18fef9928d2582f07bc4cfb77e2d057c0bbfd6873381a64f433961d0da71da"
     },
     "bcf36a8c01c7edbde80d208553038d0d5682a964cc8a5d4e8fae4149a21c3eab": {
-        "name": "SA - Greenacre",
-        "last_advert": 1766635409,
-        "last_seen": "2025-12-25T15:03:29+11:00",
+        "name": "SA - 2190 Greenacre",
+        "last_advert": 1766650503,
+        "last_seen": "2025-12-25T19:15:03+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "bcf36a8c01c7edbde80d208553038d0d5682a964cc8a5d4e8fae4149a21c3eab"
@@ -1289,6 +1294,14 @@
         "status": "active",
         "public_key": "ec85e625b9168978b444413e12a24ff83b3d3e29e45a2c2cd9d4ab0771d834d5"
     },
+    "ed57cb7d8169bdb41ce55f943a11e032ea3b08f34c1d3d2bc6977fafc3830e65": {
+        "name": "MMTV - Belfield South",
+        "last_advert": 1766651042,
+        "last_seen": "2025-12-25T19:24:02+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "ed57cb7d8169bdb41ce55f943a11e032ea3b08f34c1d3d2bc6977fafc3830e65"
+    },
     "ee1e5645bcb7d4fc108ee2ebc60c798938610233186c1e10f5ef6a449cf58ec1": {
         "name": "33t2-mini repeater",
         "last_advert": 1764612392,
@@ -1358,9 +1371,9 @@
         "status": "active",
         "public_key": "fef2dcf0570fdd0d9c9dfed38c35d0e25ce0aeeb98ed6ad5533e51f57c4c05ee"
     },
-    "ff14c65da896f6884da38f805af83190337b4af592668bc064ffaf05d156b28f": {
-        "name": "MMTV - Belfield South",
+    "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff": {
+        "name": "Reserved by MeshCore",
         "status": "active",
-        "public_key": "ff14c65da896f6884da38f805af83190337b4af592668bc064ffaf05d156b28f"
+        "public_key": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
     }
 }
