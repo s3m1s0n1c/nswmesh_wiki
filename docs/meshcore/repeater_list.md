@@ -162,7 +162,7 @@ As of 25 December 2025, Meshcore identifies repeaters and roomservers using the 
 | D4 | 🇦🇺 Ermington RPT | d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c | 2025-12-25T14:58:41+11:00 | ✔ |  |  |
 | D5 | 🌱Light Test🚫 | d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79 | 2025-12-25T09:12:09+11:00 |  |  |  |
 | D6 | 🇦🇺 Ermington RPT2 | d61f71d0ccb08424e0c5aa87f1e22a7eb14419a8f7a2d3a9e43359fc0c3f8a04 |  |  |  |  |
-| D7 | ✝️ | d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78 | 2025-12-25T16:02:04+11:00 | ✔ | ✔ |  |
+| D7 | ✝️ | d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78 | 2025-12-25T19:02:04+11:00 | ✔ | ✔ |  |
 | DB | ☂️ HP Bankstown Rep | db3c00f64c0241827c83ac294dab21173fdb9bebadcdf22c12eb1b38d4cca15e | 2024-05-15T20:52:33+10:00 |  |  |  |
 | DC | MMTV - TBA - Solar | dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7 |  |  |  |  |
 | DE | HiveMesh.au G2 | de728887835917e4148244bf8bd14be7b8f11ba1d4c9daa48cd9ba9dc721e5ab | 2025-11-19T04:28:18+11:00 | ✔ |  |  |
@@ -183,4 +183,4 @@ As of 25 December 2025, Meshcore identifies repeaters and roomservers using the 
 | FA | 🌱Bridge Rd☀️ | fa292f7b7d18241d38c7a1db7ec1fccb4ec9d22201276cc062707e0ef489efad | 2025-12-08T18:32:40+11:00 |  |  |  |
 | FC | 🌱Minogue Cr.☀️ | fc1ae909ec52889f3da27a6c42193e31baba77232a47f39a14c1b8310de558c6 | 2025-11-24T05:50:13+11:00 | ✔ |  |  |
 | FE | RIPPLE-SYD-ILLAWONG-RPT | fef2dcf0570fdd0d9c9dfed38c35d0e25ce0aeeb98ed6ad5533e51f57c4c05ee | 2025-10-30T08:19:05+11:00 | ✔ | ✔ |  |
-| FF | MMTV - TBA - Solar | ff14c65da896f6884da38f805af83190337b4af592668bc064ffaf05d156b28f |  |  |  |  |
+| FF | MMTV - Belfield South | ff14c65da896f6884da38f805af83190337b4af592668bc064ffaf05d156b28f |  |  |  |  |
