@@ -64,8 +64,8 @@
     },
     "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f": {
         "name": "GrazePoint(Maintenance)",
-        "last_advert": 1766809043,
-        "last_seen": "2025-12-27T15:17:23+11:00",
+        "last_advert": 1766819843,
+        "last_seen": "2025-12-27T18:17:23+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -217,8 +217,8 @@
     },
     "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f": {
         "name": "🦘Horsley Park",
-        "last_advert": 1766813647,
-        "last_seen": "2025-12-27T16:34:07+11:00",
+        "last_advert": 1766824447,
+        "last_seen": "2025-12-27T19:34:07+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f"
@@ -267,8 +267,8 @@
     },
     "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2": {
         "name": "GymReps_V4",
-        "last_advert": 1766814003,
-        "last_seen": "2025-12-27T16:40:03+11:00",
+        "last_advert": 1766824803,
+        "last_seen": "2025-12-27T19:40:03+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2"
@@ -318,8 +318,8 @@
     },
     "35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d": {
         "name": "Loftus Heights G2",
-        "last_advert": 1766805280,
-        "last_seen": "2025-12-27T14:14:40+11:00",
+        "last_advert": 1766826880,
+        "last_seen": "2025-12-27T20:14:40+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -444,8 +444,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1766782672,
-        "last_seen": "2025-12-27T07:57:52+11:00",
+        "last_advert": 1766825872,
+        "last_seen": "2025-12-27T19:57:52+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -491,16 +491,16 @@
     },
     "52e9dc94769258068aceae2e3b9e156fbcf9110dd97d5f8293808392947fdb99": {
         "name": "🥽pi repeater",
-        "last_advert": 1766480744,
-        "last_seen": "2025-12-23T20:05:44+11:00",
+        "last_advert": 1766825880,
+        "last_seen": "2025-12-27T19:58:00+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "52e9dc94769258068aceae2e3b9e156fbcf9110dd97d5f8293808392947fdb99"
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1766814008,
-        "last_seen": "2025-12-27T16:40:08+11:00",
+        "last_advert": 1766824808,
+        "last_seen": "2025-12-27T19:40:08+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -508,8 +508,8 @@
     },
     "5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3": {
         "name": "👽West Hoxton",
-        "last_advert": 1766802591,
-        "last_seen": "2025-12-27T13:29:51+11:00",
+        "last_advert": 1766821810,
+        "last_seen": "2025-12-27T18:50:10+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3"
@@ -589,8 +589,8 @@
     },
     "67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a": {
         "name": "HangingRock Repeater",
-        "last_advert": 1766815398,
-        "last_seen": "2025-12-27T17:03:18+11:00",
+        "last_advert": 1766826198,
+        "last_seen": "2025-12-27T20:03:18+11:00",
         "status": "active",
         "public_key": "67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a"
     },
@@ -698,8 +698,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Portable 2",
-        "last_advert": 1766900525,
-        "last_seen": "2025-12-28T16:42:05+11:00",
+        "last_advert": 1766914925,
+        "last_seen": "2025-12-28T20:42:05+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -769,8 +769,8 @@
     },
     "7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93": {
         "name": "👽Abbotsbury 2",
-        "last_advert": 1766814768,
-        "last_seen": "2025-12-27T16:52:48+11:00",
+        "last_advert": 1766825568,
+        "last_seen": "2025-12-27T19:52:48+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -786,8 +786,8 @@
     },
     "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6": {
         "name": "Steven BOS Yellow Rock",
-        "last_advert": 1766779625,
-        "last_seen": "2025-12-27T07:07:05+11:00",
+        "last_advert": 1766822825,
+        "last_seen": "2025-12-27T19:07:05+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6"
@@ -816,8 +816,8 @@
     },
     "871f9012913eaec6bf6da0237e34ccc546e5333ee673eb1c7ce82567dbe4cf1e": {
         "name": "👾Green Point ☀️",
-        "last_advert": 1766791070,
-        "last_seen": "2025-12-27T10:17:50+11:00",
+        "last_advert": 1766822485,
+        "last_seen": "2025-12-27T19:01:25+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -947,6 +947,14 @@
         "status": "active",
         "public_key": "a70565285faeacff0b330779577cb25865d215fcc23664080ba5ab3c8602b89c"
     },
+    "a8c9e1d93f3fb6f66e46ce6b4d9ac1865ef0583b22973da90e75a4989cfe6cd2": {
+        "name": "Kearns Rpt",
+        "last_advert": 1766827170,
+        "last_seen": "2025-12-27T20:19:30+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "a8c9e1d93f3fb6f66e46ce6b4d9ac1865ef0583b22973da90e75a4989cfe6cd2"
+    },
     "a97b453e4f9622cd013acf59bfbf3d0eb510d2d13b3b218ba4c700780ac8e8ea": {
         "name": "☠ Greendale Rpt",
         "last_advert": 1765263608,
@@ -999,8 +1007,8 @@
     },
     "ae836f555cf9c41ced8c758a49400116765d6ba0c1f67d1bc60ee8433c03cd66": {
         "name": "BTQ -  Terry Hills",
-        "last_advert": 1766783701,
-        "last_seen": "2025-12-27T08:15:01+11:00",
+        "last_advert": 1766823301,
+        "last_seen": "2025-12-27T19:15:01+11:00",
         "status": "active",
         "public_key": "ae836f555cf9c41ced8c758a49400116765d6ba0c1f67d1bc60ee8433c03cd66"
     },
@@ -1192,8 +1200,8 @@
     },
     "d284a01b81069fab054ad4355d46c58037618df478e05e64579af5489d1ea569": {
         "name": "🛡️Lakesland 2",
-        "last_advert": 1766282946,
-        "last_seen": "2025-12-21T13:09:06+11:00",
+        "last_advert": 1766826373,
+        "last_seen": "2025-12-27T20:06:13+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
