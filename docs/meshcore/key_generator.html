@@ -982,6 +982,15 @@ permalink: /docs/meshcore/key_generator
                         // Generate a keypair
                         const { publicKey, privateKey } = await this.generateMeshCoreKeypair();
                         const publicKeyHex = this.toHex(publicKey);
+                        const keyPrefix = publicKeyHex.substring(0, 2).toUpperCase();
+
+                        // Check if keypair contains reserved '00' or 'FF' prefix
+                        if (keyPrefix === 'FF' || keyPrefix === '00') {
+                            if (this.attempts % 1000 === 0) {
+                                await new Promise(resolve => setTimeout(resolve, 0));
+                            }
+                            continue;
+                        }
                         
                         // Debug: Log first few keys to verify generation
                         if (this.attempts <= 5) {
@@ -990,7 +999,6 @@ permalink: /docs/meshcore/key_generator
                             console.log(`First ${targetPrefix.length} chars: ${publicKeyHex.substring(0, targetPrefix.length)}`);
                             console.log(`Match: ${this.checkPrefix(publicKeyHex, targetPrefix)}`);
                             if (avoidPrefixes.length > 0) {
-                                const keyPrefix = publicKeyHex.substring(0, 2).toUpperCase();
                                 console.log(`NSW check - Key prefix: ${keyPrefix}, Avoiding: ${avoidPrefixes.includes(keyPrefix)}`);
                             }
                         }
@@ -1208,6 +1216,16 @@ permalink: /docs/meshcore/key_generator
                 updateDifficultyEstimate(prefix);
                 checkReservedPrefix(prefix);
                 checkNSWRepeaterConflict(prefix);
+            } else {
+                // If invalid hex characters, disable button
+                generateBtn.disabled = true;
+                // Also check reserved prefix in case user is typing
+                checkReservedPrefix(prefix);
+            }
+            
+            // If prefix is empty, check if checkbox allows it
+            if (prefix.length === 0) {
+                generateBtn.disabled = !avoidNSWRepeatersCheckbox.checked;
             }
         });
 
@@ -1240,6 +1258,7 @@ permalink: /docs/meshcore/key_generator
                     if (success) {
                         nswRepeaterStatus.innerHTML = `Loaded ${nswRepeaterPrefixes.length} NSW repeater prefixes to avoid. ${256 - nswRepeaterPrefixes.length} unique prefixes remaning.`;
                         checkNSWRepeaterConflict(targetPrefixInput.value.trim().toUpperCase());
+                        generateBtn.disabled = false;
                     } else {
                         nswRepeaterStatus.innerHTML = 'Failed to load NSW repeater data. Will proceed without checking.';
                     }
@@ -1260,8 +1279,9 @@ permalink: /docs/meshcore/key_generator
             
             const firstTwoChars = prefix.substring(0, 2).toUpperCase();
             if (nswRepeaterPrefixes.includes(firstTwoChars)) {
-                nswRepeaterStatus.innerHTML = `Warning: Prefix "${firstTwoChars}" conflicts with an existing NSW repeater`;
+                nswRepeaterStatus.innerHTML = `Prefix "${firstTwoChars}" conflicts with an existing NSW repeater`;
                 nswRepeaterStatus.style.color = '#e74c3c';
+                generateBtn.disabled = true;
             } else {
                 nswRepeaterStatus.innerHTML = `Prefix "${firstTwoChars}" is available (no NSW repeater conflicts)`;
                 nswRepeaterStatus.style.color = '#27ae60';
@@ -1275,7 +1295,10 @@ permalink: /docs/meshcore/key_generator
                 existingWarning.remove();
             }
 
-            if (prefix === '00' || prefix === 'FF') {
+                 // Check if prefix is reserved (starts with 00 or FF)
+                const isReserved = prefix.length >= 2 && (prefix.startsWith('00') || prefix.startsWith('FF'));
+                
+                if (isReserved) {
                 const warningDiv = document.createElement('div');
                 warningDiv.id = 'reservedPrefixWarning';
                 warningDiv.style.cssText = 'background: #fff3cd; border: 1px solid #ffeaa7; border-radius: 8px; padding: 12px; margin-top: 10px; color: #856404; font-size: 14px;';
@@ -1287,6 +1310,18 @@ permalink: /docs/meshcore/key_generator
                 } else {
                     targetPrefixInput.parentNode.appendChild(warningDiv);
                 }
+
+                // Disable the Generate Key button
+                generateBtn.disabled = true;
+                } else {
+                    // Enable the Generate Key button if prefix is valid and not reserved
+                    // Only enable if prefix is not empty, valid hex, and within length limit
+                    if (prefix.length > 0 && /^[0-9A-F]+$/.test(prefix) && prefix.length <= 8) {
+                        generateBtn.disabled = false;
+                    } else if (prefix.length === 0) {
+                        // Disable if empty and avoid NSW is unchecked
+                        generateBtn.disabled = !avoidNSWRepeatersCheckbox.checked;
+                    }
             }
         }
 
@@ -1357,6 +1392,12 @@ permalink: /docs/meshcore/key_generator
 
             if (!/^[0-9A-F]+$/.test(targetPrefix)) {
                 showError('Prefix must contain only hexadecimal characters (0-9, A-F).');
+                return;
+            }
+
+            // Check for reserved prefixes
+            if (targetPrefix.startsWith('00') || targetPrefix.startsWith('FF')) {
+                showError('Prefixes starting with "00" or "FF" are reserved by MeshCore and cannot be used.');
                 return;
             }
 
