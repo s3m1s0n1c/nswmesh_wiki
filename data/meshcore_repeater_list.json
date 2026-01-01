@@ -64,8 +64,8 @@
     },
     "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f": {
         "name": "Test_Rptr(T114)",
-        "last_advert": 1767249380,
-        "last_seen": "2026-01-01T17:36:20+11:00",
+        "last_advert": 1767260180,
+        "last_seen": "2026-01-01T20:36:20+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f"
@@ -232,8 +232,8 @@
     },
     "28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16": {
         "name": "☠️ Mount Annan Rpt",
-        "last_advert": 1767236188,
-        "last_seen": "2026-01-01T13:56:28+11:00",
+        "last_advert": 1767257788,
+        "last_seen": "2026-01-01T19:56:28+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -249,24 +249,24 @@
     },
     "2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154": {
         "name": "🐉Nth Kelllyville (We",
-        "last_advert": 1767219620,
-        "last_seen": "2026-01-01T09:20:20+11:00",
+        "last_advert": 1767262820,
+        "last_seen": "2026-01-01T21:20:20+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154"
     },
     "2b81fee228716d9566b2f38afac6649b7aa5990ae0f071c2fba2b20cab748031": {
         "name": "🌏 2200 Bankstown",
-        "last_advert": 1767216773,
-        "last_seen": "2026-01-01T08:32:53+11:00",
+        "last_advert": 1767259973,
+        "last_seen": "2026-01-01T20:32:53+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2b81fee228716d9566b2f38afac6649b7aa5990ae0f071c2fba2b20cab748031"
     },
     "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2": {
         "name": "GymReps_V4",
-        "last_advert": 1767235204,
-        "last_seen": "2026-01-01T13:40:04+11:00",
+        "last_advert": 1767256804,
+        "last_seen": "2026-01-01T19:40:04+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2"
@@ -324,8 +324,8 @@
     },
     "35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d": {
         "name": "Loftus Heights G2",
-        "last_advert": 1767237280,
-        "last_seen": "2026-01-01T14:14:40+11:00",
+        "last_advert": 1767258880,
+        "last_seen": "2026-01-01T20:14:40+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -348,6 +348,13 @@
         "internet_location": true,
         "status": "active",
         "public_key": "376925ee45a03bffcb6f37b252b6394d45f07ec488993c6c0db60d17438f6a7b"
+    },
+    "37dbf43f5e25fc130b278db0197aaf3b49762715469d3d50ec9ee6517235bd7b": {
+        "name": "MMTV - Belmore",
+        "last_advert": 1767262079,
+        "last_seen": "2026-01-01T21:07:59+11:00",
+        "status": "active",
+        "public_key": "37dbf43f5e25fc130b278db0197aaf3b49762715469d3d50ec9ee6517235bd7b"
     },
     "3737f169fbea4a1dfb300c91a8d9b7efc3c216e377090f925fdbaad41e9b8a96": {
         "name": "Odinsdad reserved",
@@ -450,8 +457,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1767214672,
-        "last_seen": "2026-01-01T07:57:52+11:00",
+        "last_advert": 1767257872,
+        "last_seen": "2026-01-01T19:57:52+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -505,8 +512,8 @@
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1767235208,
-        "last_seen": "2026-01-01T13:40:08+11:00",
+        "last_advert": 1767256808,
+        "last_seen": "2026-01-01T19:40:08+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -687,8 +694,8 @@
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1767239846,
-        "last_seen": "2026-01-01T14:57:26+11:00",
+        "last_advert": 1767261445,
+        "last_seen": "2026-01-01T20:57:25+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -696,8 +703,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Window",
-        "last_advert": 1767243882,
-        "last_seen": "2026-01-01T16:04:42+11:00",
+        "last_advert": 1767258282,
+        "last_seen": "2026-01-01T20:04:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -782,6 +789,14 @@
         "status": "active",
         "public_key": "7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f"
     },
+    "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528": {
+        "name": "MMTV - Belmore",
+        "last_advert": 1767262645,
+        "last_seen": "2026-01-01T21:17:25+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528"
+    },
     "7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93": {
         "name": "👽Abbotsbury 2",
         "last_advert": 1767241778,
@@ -831,8 +846,8 @@
     },
     "871f9012913eaec6bf6da0237e34ccc546e5333ee673eb1c7ce82567dbe4cf1e": {
         "name": "👾Green Point ☀️",
-        "last_advert": 1767223070,
-        "last_seen": "2026-01-01T10:17:50+11:00",
+        "last_advert": 1767255470,
+        "last_seen": "2026-01-01T19:17:50+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -972,8 +987,8 @@
     },
     "a97b453e4f9622cd013acf59bfbf3d0eb510d2d13b3b218ba4c700780ac8e8ea": {
         "name": "☠ Greendale Rpt",
-        "last_advert": 1767210035,
-        "last_seen": "2026-01-01T06:40:35+11:00",
+        "last_advert": 1767253235,
+        "last_seen": "2026-01-01T18:40:35+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -981,8 +996,8 @@
     },
     "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e": {
         "name": "VK2BRM Repeater",
-        "last_advert": 1767228411,
-        "last_seen": "2026-01-01T11:46:51+11:00",
+        "last_advert": 1767260811,
+        "last_seen": "2026-01-01T20:46:51+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e"
@@ -1050,8 +1065,8 @@
     },
     "b745d1254f0639695fd7326c23f3a0bcb92aa4c5e08f6cfc43ba9527db88515d": {
         "name": "☠ Kenny Hill Rpt",
-        "last_advert": 1767238880,
-        "last_seen": "2026-01-01T14:41:20+11:00",
+        "last_advert": 1767260480,
+        "last_seen": "2026-01-01T20:41:20+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1180,8 +1195,8 @@
     },
     "cbbe1b7f417e09b85cb9147a63b83678e1b5e6428eda1ee55de3f912cd38d8f5": {
         "name": "Blakehurst Repeater",
-        "last_advert": 1767078058,
-        "last_seen": "2025-12-30T18:00:58+11:00",
+        "last_advert": 1767250858,
+        "last_seen": "2026-01-01T18:00:58+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "cbbe1b7f417e09b85cb9147a63b83678e1b5e6428eda1ee55de3f912cd38d8f5"
@@ -1264,8 +1279,8 @@
     },
     "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c": {
         "name": "🇦🇺 Ermington RPT",
-        "last_advert": 1767250722,
-        "last_seen": "2026-01-01T17:58:42+11:00",
+        "last_advert": 1767261522,
+        "last_seen": "2026-01-01T20:58:42+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c"
@@ -1284,8 +1299,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1767243725,
-        "last_seen": "2026-01-01T16:02:05+11:00",
+        "last_advert": 1767265325,
+        "last_seen": "2026-01-01T22:02:05+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1390,8 +1405,8 @@
     },
     "ec85e625b9168978b444413e12a24ff83b3d3e29e45a2c2cd9d4ab0771d834d5": {
         "name": "Pfych Repeater",
-        "last_advert": 1767211378,
-        "last_seen": "2026-01-01T07:02:58+11:00",
+        "last_advert": 1767254578,
+        "last_seen": "2026-01-01T19:02:58+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "ec85e625b9168978b444413e12a24ff83b3d3e29e45a2c2cd9d4ab0771d834d5"
