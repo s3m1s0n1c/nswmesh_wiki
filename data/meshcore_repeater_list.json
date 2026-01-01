@@ -349,13 +349,6 @@
         "status": "active",
         "public_key": "376925ee45a03bffcb6f37b252b6394d45f07ec488993c6c0db60d17438f6a7b"
     },
-    "37dbf43f5e25fc130b278db0197aaf3b49762715469d3d50ec9ee6517235bd7b": {
-        "name": "MMTV - Belmore",
-        "last_advert": 1767262079,
-        "last_seen": "2026-01-01T21:07:59+11:00",
-        "status": "active",
-        "public_key": "37dbf43f5e25fc130b278db0197aaf3b49762715469d3d50ec9ee6517235bd7b"
-    },
     "3737f169fbea4a1dfb300c91a8d9b7efc3c216e377090f925fdbaad41e9b8a96": {
         "name": "Odinsdad reserved",
         "status": "parked",
