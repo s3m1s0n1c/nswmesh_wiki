@@ -1,6 +1,6 @@
 Name,Public Key,Antenna Height Above Ground (m),Status
 Reserved by MeshCore,0000000000000000000000000000000000000000000000000000000000000000,,
-☢ Bradbury Repeater,012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab,,
+☢️ Bradbury,012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab,,
 🎩 SI - Alfa,02b09c5b8c55e1d82f4bd95c3741f82b3f7fafc4675749d4ace649b728446f19,,active
 ⚡- Testing,05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436,,active
 ⚡️ - ANSR,05265b086d2548b1eb1d60716f282972fd1451ff2edd124aa832c7b99fc3c3b0,5,delete
@@ -99,6 +99,7 @@ Waratah/Mayfield Room Server,6bb6c2e5ddf46e684cc3da697155fa4e34b8067668832f23c3c
 🛜LUX06 - Kiama,6d4ec1f2204fafe7f778490dbdfcf1f96553a00ca16c33f2e942eaaa022b631c,,
 Cleric 🥾 ✝️,6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5,,
 ☢️ Testing,6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc,,active
+🌱TEcho Lite Bat.test,6f24f27e881c5de2aa718e51e65a771c85be1696225cf62b96ae1371213afcd0,,active
 Condell Park Repeater,70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed,,active
 Breakfast Point Rpt,71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9,,
 BTQ - Hornsby - Window,720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130,1.5,
@@ -191,7 +192,7 @@ Kingsway Repeater,d1393cda9bbdbcb76a4234d9adff7de4e603bc07025c975b859438dac917a1
 🛡️Lakesland 2,d284a01b81069fab054ad4355d46c58037618df478e05e64579af5489d1ea569,3,
 🇦🇺 Rydalmere RPT2,d390a076723d74e679e5fe5aea733d6e9f074c08406cb3fbae583bec0cc8304e,,
 🇦🇺 Ermington RPT,d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c,,
-🌱Light Test☀️,d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79,,
+🌱AV Henry Rsv☀️,d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79,,
 🇦🇺 Ermington RPT2,d61f71d0ccb08424e0c5aa87f1e22a7eb14419a8f7a2d3a9e43359fc0c3f8a04,,
 ✝️,d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78,,
 Holsworthy Repeater,d8ed79b5605fdf7d067dc0c38beb48cd87f28abbdf0eccb1e344e4a4c7730b29,,active
@@ -220,6 +221,6 @@ XiaoS3 Repeater,f93549c8600ee5c7c063b66e7636d237bd49470c61dcb5ec8cc310e85ae9afab
 🎩 SI - Drone,f9ae2afdc00781c2faa399c4125bd6ee3a9c64a4656f1f9e54455a378f5d540e,,active
 🌱Bridge Rd☀️,fa292f7b7d18241d38c7a1db7ec1fccb4ec9d22201276cc062707e0ef489efad,,active
 🌱delete meee,fb6f7eb6aa77fd41435360bce6b201170554a769a247d19b98b0d1f04867c9ce,,delete
-🌱In For Repair☀️,fc1ae909ec52889f3da27a6c42193e31baba77232a47f39a14c1b8310de558c6,,active
+🌱Minogue Cr.☀️,fc1ae909ec52889f3da27a6c42193e31baba77232a47f39a14c1b8310de558c6,,active
 RIPPLE-SYD-ILLAWONG-RPT,fef2dcf0570fdd0d9c9dfed38c35d0e25ce0aeeb98ed6ad5533e51f57c4c05ee,,
 Reserved by MeshCore,ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff,,
