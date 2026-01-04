@@ -64,8 +64,8 @@
     },
     "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f": {
         "name": "Test_Rptr(T114)",
-        "last_advert": 1767497781,
-        "last_seen": "2026-01-04T14:36:21+11:00",
+        "last_advert": 1767519381,
+        "last_seen": "2026-01-04T20:36:21+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f"
@@ -324,8 +324,8 @@
     },
     "35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d": {
         "name": "Loftus Heights G2",
-        "last_advert": 1767496480,
-        "last_seen": "2026-01-04T14:14:40+11:00",
+        "last_advert": 1767518080,
+        "last_seen": "2026-01-04T20:14:40+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -369,16 +369,16 @@
     },
     "3aae8ba3cf3ae81db78579c50e3af18522238fc66342a5d5e5e582ac9e098d43": {
         "name": "🏍️Ashfield Nth",
-        "last_advert": 1767494889,
-        "last_seen": "2026-01-04T13:48:09+11:00",
+        "last_advert": 1767515564,
+        "last_seen": "2026-01-04T19:32:44+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "3aae8ba3cf3ae81db78579c50e3af18522238fc66342a5d5e5e582ac9e098d43"
     },
     "3c732b37f8a046b1c3f60a96aaed9641720f1678704f0dd141a1ac8f4eadce17": {
         "name": "🌱Bridge 433.95🌤",
-        "last_advert": 1767331157,
-        "last_seen": "2026-01-02T16:19:17+11:00",
+        "last_advert": 1767518310,
+        "last_seen": "2026-01-04T20:18:30+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -697,8 +697,8 @@
     },
     "70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed": {
         "name": "Condell Park Repeater",
-        "last_advert": 1767480634,
-        "last_seen": "2026-01-04T09:50:34+11:00",
+        "last_advert": 1767523834,
+        "last_seen": "2026-01-04T21:50:34+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed"
@@ -714,8 +714,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Window",
-        "last_advert": 1767508482,
-        "last_seen": "2026-01-04T17:34:42+11:00",
+        "last_advert": 1767521082,
+        "last_seen": "2026-01-04T21:04:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -755,15 +755,15 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Portable 3",
-        "last_advert": 1767508590,
-        "last_seen": "2026-01-04T17:36:30+11:00",
+        "last_advert": 1767522990,
+        "last_seen": "2026-01-04T21:36:30+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
     "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c": {
         "name": "BTQ Portable 4",
-        "last_advert": 1767508463,
-        "last_seen": "2026-01-04T17:34:23+11:00",
+        "last_advert": 1767522863,
+        "last_seen": "2026-01-04T21:34:23+11:00",
         "status": "parked",
         "public_key": "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c"
     },
@@ -926,8 +926,8 @@
     },
     "95a6ae9f43ff31e8d1541ed017b48e79486bdd4df00c42f9eb34e7f9b415d476": {
         "name": "CarlSagan-G2",
-        "last_advert": 1767473666,
-        "last_seen": "2026-01-04T07:54:26+11:00",
+        "last_advert": 1767516866,
+        "last_seen": "2026-01-04T19:54:26+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "95a6ae9f43ff31e8d1541ed017b48e79486bdd4df00c42f9eb34e7f9b415d476"
@@ -958,6 +958,11 @@
         "last_seen": "2025-12-18T00:12:43+11:00",
         "status": "active",
         "public_key": "9f03c8543973c40ad6c28575e08d2b28f5bac5978322d0cb326840d4905e421c"
+    },
+    "a0fb57dd99dd39c805cd64e0d786259376aeec75bfd5f5616ae0d21810c98b49": {
+        "name": "🦎Ashfield",
+        "status": "active",
+        "public_key": "a0fb57dd99dd39c805cd64e0d786259376aeec75bfd5f5616ae0d21810c98b49"
     },
     "a1144ec0394c8c3ffb635234f22b4cfa5721ebb78b511aed21acf71e00f5035b": {
         "name": "✝️ ESP TEST RPTR_1",
@@ -1008,8 +1013,8 @@
     },
     "a97b453e4f9622cd013acf59bfbf3d0eb510d2d13b3b218ba4c700780ac8e8ea": {
         "name": "☠ Greendale Rpt",
-        "last_advert": 1767490835,
-        "last_seen": "2026-01-04T12:40:35+11:00",
+        "last_advert": 1767512435,
+        "last_seen": "2026-01-04T18:40:35+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1086,8 +1091,8 @@
     },
     "b745d1254f0639695fd7326c23f3a0bcb92aa4c5e08f6cfc43ba9527db88515d": {
         "name": "☠ Kenny Hill Rpt",
-        "last_advert": 1767476480,
-        "last_seen": "2026-01-04T08:41:20+11:00",
+        "last_advert": 1767519680,
+        "last_seen": "2026-01-04T20:41:20+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1300,8 +1305,8 @@
     },
     "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c": {
         "name": "🇦🇺 Ermington RPT",
-        "last_advert": 1767509923,
-        "last_seen": "2026-01-04T17:58:43+11:00",
+        "last_advert": 1767520723,
+        "last_seen": "2026-01-04T20:58:43+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c"
@@ -1321,8 +1326,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1767502926,
-        "last_seen": "2026-01-04T16:02:06+11:00",
+        "last_advert": 1767524526,
+        "last_seen": "2026-01-04T22:02:06+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1350,8 +1355,8 @@
     },
     "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7": {
         "name": "MMTV - TBA - Solar",
-        "last_advert": 1767439210,
-        "last_seen": "2026-01-03T22:20:10+11:00",
+        "last_advert": 1767523042,
+        "last_seen": "2026-01-04T21:37:22+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7"
@@ -1435,8 +1440,8 @@
     },
     "ec85e625b9168978b444413e12a24ff83b3d3e29e45a2c2cd9d4ab0771d834d5": {
         "name": "Pfych Repeater",
-        "last_advert": 1767340978,
-        "last_seen": "2026-01-02T19:02:58+11:00",
+        "last_advert": 1767513778,
+        "last_seen": "2026-01-04T19:02:58+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "ec85e625b9168978b444413e12a24ff83b3d3e29e45a2c2cd9d4ab0771d834d5"
