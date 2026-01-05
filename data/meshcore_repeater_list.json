@@ -64,8 +64,8 @@
     },
     "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f": {
         "name": "Test_Rptr(T114)",
-        "last_advert": 1767540981,
-        "last_seen": "2026-01-05T02:36:21+11:00",
+        "last_advert": 1767584181,
+        "last_seen": "2026-01-05T14:36:21+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f"
@@ -98,8 +98,8 @@
     },
     "113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642": {
         "name": "🌱Chester Street",
-        "last_advert": 1767548671,
-        "last_seen": "2026-01-05T04:44:31+11:00",
+        "last_advert": 1767591871,
+        "last_seen": "2026-01-05T16:44:31+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -621,8 +621,8 @@
     },
     "68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763": {
         "name": "🐄 Marsden Park",
-        "last_advert": 1767451569,
-        "last_seen": "2026-01-04T01:46:09+11:00",
+        "last_advert": 1767581169,
+        "last_seen": "2026-01-05T13:46:09+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -715,8 +715,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Window",
-        "last_advert": 1767573282,
-        "last_seen": "2026-01-05T11:34:42+11:00",
+        "last_advert": 1767587682,
+        "last_seen": "2026-01-05T15:34:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -756,15 +756,15 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Roof",
-        "last_advert": 1767573713,
-        "last_seen": "2026-01-05T11:41:53+11:00",
+        "last_advert": 1767591390,
+        "last_seen": "2026-01-05T16:36:30+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
     "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c": {
         "name": "BTQ Portable 4",
-        "last_advert": 1767562463,
-        "last_seen": "2026-01-05T08:34:23+11:00",
+        "last_advert": 1767589463,
+        "last_seen": "2026-01-05T16:04:23+11:00",
         "status": "parked",
         "public_key": "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c"
     },
@@ -1090,6 +1090,14 @@
         "status": "active",
         "public_key": "b513ebb098245bdf2fd2b4d87b4eebbed155ddcf5c4e741513b0fa64760d7a95"
     },
+    "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f": {
+        "name": "😬-Davidson-RPT",
+        "last_advert": 1767584469,
+        "last_seen": "2026-01-05T14:41:09+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f"
+    },
     "b745d1254f0639695fd7326c23f3a0bcb92aa4c5e08f6cfc43ba9527db88515d": {
         "name": "☠ Kenny Hill Rpt",
         "last_advert": 1767541280,
@@ -1239,8 +1247,8 @@
     },
     "cd6429f4eb38f0f4db86bceb4a450b1cb7f3090ddc63c59e51852959166042bc": {
         "name": "🧿 Wentworth Pt 03",
-        "last_advert": 1767536205,
-        "last_seen": "2026-01-05T01:16:45+11:00",
+        "last_advert": 1767579405,
+        "last_seen": "2026-01-05T13:16:45+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "cd6429f4eb38f0f4db86bceb4a450b1cb7f3090ddc63c59e51852959166042bc"
@@ -1506,6 +1514,11 @@
         "last_seen": "2025-12-08T18:32:40+11:00",
         "status": "active",
         "public_key": "fa292f7b7d18241d38c7a1db7ec1fccb4ec9d22201276cc062707e0ef489efad"
+    },
+    "fb..............................................................": {
+        "name": "Wee Jasper",
+        "status": "active",
+        "public_key": "fb.............................................................."
     },
     "fc1ae909ec52889f3da27a6c42193e31baba77232a47f39a14c1b8310de558c6": {
         "name": "🌱Minogue Cr.☀️",
