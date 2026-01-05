@@ -673,9 +673,10 @@
         "public_key": "6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5"
     },
     "6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc": {
-        "name": "☢️ Testing",
-        "last_advert": 1766209516,
-        "last_seen": "2025-12-20T16:45:16+11:00",
+        "name": "☢ Campbelltown",
+        "last_advert": 1767611397,
+        "last_seen": "2026-01-05T22:09:57+11:00",
+        "advert_location": true,
         "internet_location": true,
         "status": "active",
         "public_key": "6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc"
@@ -748,8 +749,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Roof",
-        "last_advert": 1767605790,
-        "last_seen": "2026-01-05T20:36:30+11:00",
+        "last_advert": 1767609390,
+        "last_seen": "2026-01-05T21:36:30+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1354,6 +1355,11 @@
         "name": "TMC Repeater",
         "status": "active",
         "public_key": "d88f31dd338d4c29e4a9f20a281c0383688b4e7be376ccfe0c800ce00662fc7e"
+    },
+    "da26e5ab39f0136594f2120418fdda6d2b4aaaa8cf7bb4b8742f10100fa23a2f": {
+        "name": "Kearns Rpt 2 testing",
+        "status": "active",
+        "public_key": "da26e5ab39f0136594f2120418fdda6d2b4aaaa8cf7bb4b8742f10100fa23a2f"
     },
     "db3c00f64c0241827c83ac294dab21173fdb9bebadcdf22c12eb1b38d4cca15e": {
         "name": "☂️ HP Bankstown Rep",
