@@ -265,8 +265,8 @@
     },
     "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2": {
         "name": "GymReps_V4",
-        "last_advert": 1767570005,
-        "last_seen": "2026-01-05T10:40:05+11:00",
+        "last_advert": 1767613205,
+        "last_seen": "2026-01-05T22:40:05+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2"
@@ -348,8 +348,8 @@
     },
     "38b0c615ea50ff318a136d88741b886c566ccec2a116c1b0b6bd5f863d2217b7": {
         "name": "MMTV - Belfield",
-        "last_advert": 1767538354,
-        "last_seen": "2026-01-05T01:52:34+11:00",
+        "last_advert": 1767612858,
+        "last_seen": "2026-01-05T22:34:18+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "38b0c615ea50ff318a136d88741b886c566ccec2a116c1b0b6bd5f863d2217b7"
@@ -508,8 +508,8 @@
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1767548408,
-        "last_seen": "2026-01-05T04:40:08+11:00",
+        "last_advert": 1767613209,
+        "last_seen": "2026-01-05T22:40:09+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -708,8 +708,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Window",
-        "last_advert": 1767600282,
-        "last_seen": "2026-01-05T19:04:42+11:00",
+        "last_advert": 1767612882,
+        "last_seen": "2026-01-05T22:34:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -741,16 +741,16 @@
     },
     "751ef72da4781301b88a004950ab41cea8edf74e135a86c2e9aa790f82bafaf6": {
         "name": "🛜LUX11 - Figtree",
-        "last_advert": 1767094928,
-        "last_seen": "2025-12-30T22:42:08+11:00",
+        "last_advert": 1767613328,
+        "last_seen": "2026-01-05T22:42:08+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "751ef72da4781301b88a004950ab41cea8edf74e135a86c2e9aa790f82bafaf6"
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Roof",
-        "last_advert": 1767609390,
-        "last_seen": "2026-01-05T21:36:30+11:00",
+        "last_advert": 1767612990,
+        "last_seen": "2026-01-05T22:36:30+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -805,9 +805,9 @@
         "public_key": "7e6c8656b87781625784c140fb9c47ac57c6095040c0cafee7a4c0367d9f94dc"
     },
     "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528": {
-        "name": "MMTV - Belmore",
-        "last_advert": 1767262645,
-        "last_seen": "2026-01-01T21:17:25+11:00",
+        "name": "MMTV - CBD - TEMP",
+        "last_advert": 1767613074,
+        "last_seen": "2026-01-05T22:37:54+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528"
@@ -1370,8 +1370,8 @@
     },
     "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7": {
         "name": "MMTV - TBA - Solar",
-        "last_advert": 1767603500,
-        "last_seen": "2026-01-05T19:58:20+11:00",
+        "last_advert": 1767612010,
+        "last_seen": "2026-01-05T22:20:10+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7"
