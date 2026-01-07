@@ -6,8 +6,8 @@
     },
     "012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab": {
         "name": "☢️ Bradbury",
-        "last_advert": 1767707916,
-        "last_seen": "2026-01-07T00:58:36+11:00",
+        "last_advert": 1767751116,
+        "last_seen": "2026-01-07T12:58:36+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -64,8 +64,8 @@
     },
     "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f": {
         "name": "Test_Rptr(T114)",
-        "last_advert": 1767713781,
-        "last_seen": "2026-01-07T02:36:21+11:00",
+        "last_advert": 1767767781,
+        "last_seen": "2026-01-07T17:36:21+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f"
@@ -98,8 +98,8 @@
     },
     "113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642": {
         "name": "🌱Chester Street",
-        "last_advert": 1767591871,
-        "last_seen": "2026-01-05T16:44:31+11:00",
+        "last_advert": 1767764671,
+        "last_seen": "2026-01-07T16:44:31+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -120,8 +120,8 @@
     },
     "156020ec5d2ff6bd2e371b8942cf7b4b57c7feec5d21467e05a380dd79d287a1": {
         "name": "Wallys Rpt Thornleigh",
-        "last_advert": 1767503603,
-        "last_seen": "2026-01-04T16:13:23+11:00",
+        "last_advert": 1767762803,
+        "last_seen": "2026-01-07T16:13:23+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -232,8 +232,8 @@
     },
     "28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16": {
         "name": "☠️ Mount Annan Rpt",
-        "last_advert": 1767732988,
-        "last_seen": "2026-01-07T07:56:28+11:00",
+        "last_advert": 1767754588,
+        "last_seen": "2026-01-07T13:56:28+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -265,8 +265,8 @@
     },
     "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2": {
         "name": "GymReps_V4",
-        "last_advert": 1767742805,
-        "last_seen": "2026-01-07T10:40:05+11:00",
+        "last_advert": 1767775205,
+        "last_seen": "2026-01-07T19:40:05+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2d5f94d4379bc6dcff3608510970f276067dde0b2520a84bf97dae1a3e5a8fe2"
@@ -325,8 +325,8 @@
     },
     "36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092": {
         "name": "🌱Camperdown🌤",
-        "last_advert": 1767720843,
-        "last_seen": "2026-01-07T04:34:03+11:00",
+        "last_advert": 1767764043,
+        "last_seen": "2026-01-07T16:34:03+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -651,8 +651,8 @@
     },
     "6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6": {
         "name": "🧿 Wentworth Pt 01",
-        "last_advert": 1767685734,
-        "last_seen": "2026-01-06T18:48:54+11:00",
+        "last_advert": 1767772134,
+        "last_seen": "2026-01-07T18:48:54+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -699,8 +699,8 @@
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1767736621,
-        "last_seen": "2026-01-07T08:57:01+11:00",
+        "last_advert": 1767769020,
+        "last_seen": "2026-01-07T17:57:00+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -708,8 +708,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Window",
-        "last_advert": 1767746082,
-        "last_seen": "2026-01-07T11:34:42+11:00",
+        "last_advert": 1767773082,
+        "last_seen": "2026-01-07T19:04:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -749,15 +749,15 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Roof",
-        "last_advert": 1767746190,
-        "last_seen": "2026-01-07T11:36:30+11:00",
+        "last_advert": 1767774990,
+        "last_seen": "2026-01-07T19:36:30+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
     "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c": {
         "name": "BTQ Portable 4",
-        "last_advert": 1767747863,
-        "last_seen": "2026-01-07T12:04:23+11:00",
+        "last_advert": 1767773063,
+        "last_seen": "2026-01-07T19:04:23+11:00",
         "status": "parked",
         "public_key": "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c"
     },
@@ -791,8 +791,8 @@
     },
     "7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f": {
         "name": "🌱☀️💡433.95",
-        "last_advert": 1767676036,
-        "last_seen": "2026-01-06T16:07:16+11:00",
+        "last_advert": 1767772420,
+        "last_seen": "2026-01-07T18:53:40+11:00",
         "status": "active",
         "public_key": "7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f"
     },
@@ -814,8 +814,8 @@
     },
     "7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93": {
         "name": "👽Abbotsbury 2",
-        "last_advert": 1767673778,
-        "last_seen": "2026-01-06T15:29:38+11:00",
+        "last_advert": 1767760179,
+        "last_seen": "2026-01-07T15:29:39+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -823,16 +823,16 @@
     },
     "8000ca0888e90f75ef93f6a225557c965cb26e3ea50b27b65d6f8b5190aaeeb1": {
         "name": "🌱Piper St Rsv.☀️",
-        "last_advert": 1767718283,
-        "last_seen": "2026-01-07T03:51:23+11:00",
+        "last_advert": 1767761483,
+        "last_seen": "2026-01-07T15:51:23+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "8000ca0888e90f75ef93f6a225557c965cb26e3ea50b27b65d6f8b5190aaeeb1"
     },
     "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6": {
         "name": "Steven BOS Yellow Rock",
-        "last_advert": 1767686825,
-        "last_seen": "2026-01-06T19:07:05+11:00",
+        "last_advert": 1767773225,
+        "last_seen": "2026-01-07T19:07:05+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6"
@@ -955,6 +955,9 @@
     },
     "a0fb57dd99dd39c805cd64e0d786259376aeec75bfd5f5616ae0d21810c98b49": {
         "name": "🦎Ashfield",
+        "last_advert": 1767775491,
+        "last_seen": "2026-01-07T19:44:51+11:00",
+        "advert_location": true,
         "status": "active",
         "public_key": "a0fb57dd99dd39c805cd64e0d786259376aeec75bfd5f5616ae0d21810c98b49"
     },
@@ -1007,8 +1010,8 @@
     },
     "a97b453e4f9622cd013acf59bfbf3d0eb510d2d13b3b218ba4c700780ac8e8ea": {
         "name": "☠ Greendale Rpt",
-        "last_advert": 1767620435,
-        "last_seen": "2026-01-06T00:40:35+11:00",
+        "last_advert": 1767771635,
+        "last_seen": "2026-01-07T18:40:35+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1072,8 +1075,8 @@
     },
     "b1fd61f11933c9c288d48725a5d75462c769da8939ec2804cc7a660a16e89b34": {
         "name": "ATRO - ENFIELD",
-        "last_advert": 1767730671,
-        "last_seen": "2026-01-07T07:17:51+11:00",
+        "last_advert": 1767759471,
+        "last_seen": "2026-01-07T15:17:51+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "b1fd61f11933c9c288d48725a5d75462c769da8939ec2804cc7a660a16e89b34"
@@ -1240,8 +1243,8 @@
     },
     "cb10e4a23c7bd14a641145af1cbe6ffb457e3b81c2149b3c3b2adfcbc14a3f5a": {
         "name": "🧿 Wentworth Pt Brg",
-        "last_advert": 1767622363,
-        "last_seen": "2026-01-06T01:12:43+11:00",
+        "last_advert": 1767751963,
+        "last_seen": "2026-01-07T13:12:43+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1257,8 +1260,8 @@
     },
     "ce43eb701b43da3d53eebc1e26eed92802d216c9af99185745d2cc0afd2f7687": {
         "name": "🌏 2196 Roselands",
-        "last_advert": 1767723344,
-        "last_seen": "2026-01-07T05:15:44+11:00",
+        "last_advert": 1767766544,
+        "last_seen": "2026-01-07T17:15:44+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "ce43eb701b43da3d53eebc1e26eed92802d216c9af99185745d2cc0afd2f7687"
@@ -1274,8 +1277,8 @@
     },
     "d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784": {
         "name": "🧿 Rhodes Brg Rpt",
-        "last_advert": 1767715986,
-        "last_seen": "2026-01-07T03:13:06+11:00",
+        "last_advert": 1767759186,
+        "last_seen": "2026-01-07T15:13:06+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784"
@@ -1316,8 +1319,8 @@
     },
     "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c": {
         "name": "🇦🇺 Ermington RPT",
-        "last_advert": 1767693523,
-        "last_seen": "2026-01-06T20:58:43+11:00",
+        "last_advert": 1767758323,
+        "last_seen": "2026-01-07T14:58:43+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c"
@@ -1337,8 +1340,8 @@
     },
     "d79c7b0b122b8b4a71285245bd13554b8b5afcb41baf7be8897125f3f1a0bf78": {
         "name": "✝️",
-        "last_advert": 1767729726,
-        "last_seen": "2026-01-07T07:02:06+11:00",
+        "last_advert": 1767772926,
+        "last_seen": "2026-01-07T19:02:06+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1371,8 +1374,8 @@
     },
     "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7": {
         "name": "MMTV - TBA - Solar",
-        "last_advert": 1767741074,
-        "last_seen": "2026-01-07T10:11:14+11:00",
+        "last_advert": 1767773472,
+        "last_seen": "2026-01-07T19:11:12+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7"
@@ -1523,15 +1526,9 @@
         "status": "active",
         "public_key": "f9ae2afdc00781c2faa399c4125bd6ee3a9c64a4656f1f9e54455a378f5d540e"
     },
-    "fa292f7b7d18241d38c7a1db7ec1fccb4ec9d22201276cc062707e0ef489efad": {
-        "name": "🌱Bridge Rd☀️",
-        "last_advert": 1765179160,
-        "last_seen": "2025-12-08T18:32:40+11:00",
-        "status": "active",
-        "public_key": "fa292f7b7d18241d38c7a1db7ec1fccb4ec9d22201276cc062707e0ef489efad"
-    },
     "fb94d23b876c30394db8da710d1d6995273c8a7eb69d009582f3d6c88a4b3b1f": {
         "name": "Wee Jasper",
+        "internet_location": true,
         "status": "active",
         "public_key": "fb94d23b876c30394db8da710d1d6995273c8a7eb69d009582f3d6c88a4b3b1f"
     },
