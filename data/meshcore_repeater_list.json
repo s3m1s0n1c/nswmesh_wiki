@@ -1230,6 +1230,14 @@
         "status": "active",
         "public_key": "c5aef8e0bdffdeceb93ab8a813748f4d0194a463263c3f703cea4eb972e91727"
     },
+    "c77a8062554cc78882f5f12b5c8671adc40d3909ad021649a26428e2dc837f94": {
+        "name": "🧿 WWP Pt Bridge",
+        "last_advert": 1767874981,
+        "last_seen": "2026-01-08T23:23:01+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "c77a8062554cc78882f5f12b5c8671adc40d3909ad021649a26428e2dc837f94"
+    },
     "c8c10c188d58d4871b3eb880696efff697d317d7950511594899500a5b5e6a06": {
         "name": "33t2-RPT/mobile",
         "last_advert": 1715770353,
@@ -1270,15 +1278,6 @@
         "advert_location": true,
         "status": "active",
         "public_key": "cbbe1b7f417e09b85cb9147a63b83678e1b5e6428eda1ee55de3f912cd38d8f5"
-    },
-    "cb10e4a23c7bd14a641145af1cbe6ffb457e3b81c2149b3c3b2adfcbc14a3f5a": {
-        "name": "🧿 Wentworth Pt Brg",
-        "last_advert": 1767795163,
-        "last_seen": "2026-01-08T01:12:43+11:00",
-        "advert_location": true,
-        "internet_location": true,
-        "status": "active",
-        "public_key": "cb10e4a23c7bd14a641145af1cbe6ffb457e3b81c2149b3c3b2adfcbc14a3f5a"
     },
     "cd6429f4eb38f0f4db86bceb4a450b1cb7f3090ddc63c59e51852959166042bc": {
         "name": "🧿 Wentworth Pt 03",
@@ -1463,14 +1462,6 @@
         "status": "active",
         "public_key": "e4093953a6408506c962a158b65d07eac37782f4d428d23e6eb11ddc6652e4fd"
     },
-    "e666be86a74c913087175bf824d91b8f7fd710bd7bbfe2cea3071e630f3b6dbe": {
-        "name": "SA - 2190 Greenacre 2",
-        "last_advert": 1767792741,
-        "last_seen": "2026-01-08T00:32:21+11:00",
-        "advert_location": true,
-        "status": "active",
-        "public_key": "e666be86a74c913087175bf824d91b8f7fd710bd7bbfe2cea3071e630f3b6dbe"
-    },
     "e6d5e897850d78e7448e8718100ffa9f6eb58f07b114e26c17bc42847abb3da3": {
         "name": "🌐WoononaRepeater",
         "last_advert": 1767293880,
@@ -1549,6 +1540,14 @@
         "internet_location": true,
         "status": "active",
         "public_key": "f58e1ca5e95ca03d516b80c4839ecd8c76855f63e9e9dea371f3384b24a1b705"
+    },
+    "f7aeb38db6e6410ec8aa363834834276179d1409548be26873f0649a42ca610b": {
+        "name": "SA - 2190 Greenacre 2",
+        "last_advert": 1767792741,
+        "last_seen": "2026-01-08T00:32:21+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "f7aeb38db6e6410ec8aa363834834276179d1409548be26873f0649a42ca610b"
     },
     "f9b87d3ec231b2dd58f0a7ef664eb833b6f474013b1031b081f8d3233e9f47fe": {
         "name": "Mt Hugel near Adelong-Tumut",
