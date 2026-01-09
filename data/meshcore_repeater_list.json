@@ -23,8 +23,8 @@
     },
     "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436": {
         "name": "⚡- Testing",
-        "last_advert": 1767898585,
-        "last_seen": "2026-01-09T05:56:25+11:00",
+        "last_advert": 1767941761,
+        "last_seen": "2026-01-09T17:56:01+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436"
@@ -64,8 +64,8 @@
     },
     "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f": {
         "name": "Test_Rptr(T114)",
-        "last_advert": 1767908182,
-        "last_seen": "2026-01-09T08:36:22+11:00",
+        "last_advert": 1767929782,
+        "last_seen": "2026-01-09T14:36:22+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f"
@@ -178,6 +178,7 @@
         "last_advert": 1767865022,
         "last_seen": "2026-01-08T20:37:02+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "21980d422c1cf3ad05049a46d85b9b68db33049c16cfcec9b0f34a6c097a3d37"
     },
@@ -206,8 +207,8 @@
     },
     "2430ca4c321b88eafd261443710de91130a5921fe0dcb1275e600fc4766f70bd": {
         "name": "🌏 2211 Padstow 02",
-        "last_advert": 1767808602,
-        "last_seen": "2026-01-08T04:56:42+11:00",
+        "last_advert": 1767938202,
+        "last_seen": "2026-01-09T16:56:42+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2430ca4c321b88eafd261443710de91130a5921fe0dcb1275e600fc4766f70bd"
@@ -499,8 +500,8 @@
     },
     "4eddb6db310d70fd821c6783d0e3a8ac6d337b8d5c255f78e3f1bd86d5a0dcda": {
         "name": "⚡️ - Cherrybrook",
-        "last_advert": 1767116512,
-        "last_seen": "2025-12-31T04:41:52+11:00",
+        "last_advert": 1767937228,
+        "last_seen": "2026-01-09T16:40:28+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -724,8 +725,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Window",
-        "last_advert": 1767917082,
-        "last_seen": "2026-01-09T11:04:42+11:00",
+        "last_advert": 1767931482,
+        "last_seen": "2026-01-09T15:04:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -765,15 +766,15 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Roof",
-        "last_advert": 1767926190,
-        "last_seen": "2026-01-09T13:36:30+11:00",
+        "last_advert": 1767940590,
+        "last_seen": "2026-01-09T17:36:30+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
     "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c": {
         "name": "BTQ Portable 4",
-        "last_advert": 1767918863,
-        "last_seen": "2026-01-09T11:34:23+11:00",
+        "last_advert": 1767931463,
+        "last_seen": "2026-01-09T15:04:23+11:00",
         "status": "parked",
         "public_key": "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c"
     },
@@ -822,8 +823,8 @@
     },
     "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528": {
         "name": "MMTV - TEMP",
-        "last_advert": 1767892627,
-        "last_seen": "2026-01-09T04:17:07+11:00",
+        "last_advert": 1767935827,
+        "last_seen": "2026-01-09T16:17:07+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528"
@@ -1049,8 +1050,8 @@
     },
     "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e": {
         "name": "VK2BRM Repeater",
-        "last_advert": 1767887212,
-        "last_seen": "2026-01-09T02:46:52+11:00",
+        "last_advert": 1767930412,
+        "last_seen": "2026-01-09T14:46:52+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e"
@@ -1105,8 +1106,8 @@
     },
     "b1fd61f11933c9c288d48725a5d75462c769da8939ec2804cc7a660a16e89b34": {
         "name": "ATRO - ENFIELD",
-        "last_advert": 1767892230,
-        "last_seen": "2026-01-09T04:10:30+11:00",
+        "last_advert": 1767935430,
+        "last_seen": "2026-01-09T16:10:30+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "b1fd61f11933c9c288d48725a5d75462c769da8939ec2804cc7a660a16e89b34"
@@ -1311,8 +1312,8 @@
     },
     "d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784": {
         "name": "🧿 Rhodes Brg Rpt",
-        "last_advert": 1767888786,
-        "last_seen": "2026-01-09T03:13:06+11:00",
+        "last_advert": 1767931986,
+        "last_seen": "2026-01-09T15:13:06+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784"
@@ -1394,6 +1395,14 @@
         "status": "active",
         "public_key": "d88f31dd338d4c29e4a9f20a281c0383688b4e7be376ccfe0c800ce00662fc7e"
     },
+    "d9f06e7d5afba41ba31426db0adca8b67eaa108cb862de22f24fef6a7068fe3c": {
+        "name": "Glenbrook",
+        "last_advert": 1767937451,
+        "last_seen": "2026-01-09T16:44:11+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "d9f06e7d5afba41ba31426db0adca8b67eaa108cb862de22f24fef6a7068fe3c"
+    },
     "da26e5ab39f0136594f2120418fdda6d2b4aaaa8cf7bb4b8742f10100fa23a2f": {
         "name": "Kearns Rpt 2 testing",
         "status": "active",
@@ -1432,15 +1441,15 @@
     },
     "de4a2a2e304a716eef07e0a5fb4dc4fe5122bda5a64661efd89454c0d1a74699": {
         "name": "⚡- V4 Power Test",
-        "last_advert": 1767892688,
-        "last_seen": "2026-01-09T04:18:08+11:00",
+        "last_advert": 1767935898,
+        "last_seen": "2026-01-09T16:18:18+11:00",
         "status": "active",
         "public_key": "de4a2a2e304a716eef07e0a5fb4dc4fe5122bda5a64661efd89454c0d1a74699"
     },
     "e0ae901ebb6f7f2049076724bb4c67c54f441159d060c0001e6410f03547b734": {
         "name": "✝️In for Repair",
-        "last_advert": 1767990609,
-        "last_seen": "2026-01-10T07:30:09+11:00",
+        "last_advert": 1768033809,
+        "last_seen": "2026-01-10T19:30:09+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "e0ae901ebb6f7f2049076724bb4c67c54f441159d060c0001e6410f03547b734"
