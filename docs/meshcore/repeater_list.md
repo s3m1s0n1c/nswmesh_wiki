@@ -81,7 +81,7 @@ As of 10 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 5C | trublion | 5c66d2077e7e4d8ac60474f84ccfb0338c93f6765b83bdb6ae96e2f2d24239a0 | 2025-11-29T14:18:05+11:00 |  | ✔ |  |
 | 5E | ⚡️ - 🐝croft Ded | 5e25b9d51e5299a7a092f8e9de707219df356b3eab948ee73e9826ad1239f26f | 2025-12-20T20:03:05+11:00 | ✔ | ✔ | 30 |
 | 5F | ESPNow Bridge | 5fd2e6799b61349398c7ef2106e549afcad0515ec82b4d4a77fa57c070af7999 | 2025-11-22T18:24:28+11:00 |  |  |  |
-| 60 | Hornsby dBb repeater | 60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867 | 2026-01-10T19:23:04+11:00 | ✔ |  |  |
+| 60 | Hornsby dbb Repeater | 60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867 | 2026-01-10T21:37:40+11:00 | ✔ |  |  |
 | 61 | 2C-PAC Mac | 6109d1672b9b340f52b1e5d5061ba14995c614baffbaf97502b597d70d8cb74e |  |  |  |  |
 | 62 | 2C-PAC Temp2 | 628574bb5341e808b44d8783b1ce376a866e9a079d447a75f6a59cd5b379e7c4 |  |  |  |  |
 | 63 | 🐄 Spare | 63beefc6559f3411c0d9d2eb7472ed5f0ec22cc1a537dd551f44faf127962441 | 2025-12-29T15:43:28+11:00 |  |  |  |
@@ -106,7 +106,7 @@ As of 10 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 74 | BTQ Bridge 915.8 | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2026-01-04T03:07:36+11:00 |  |  |  |
 | 75 | ⚡️- Normanhurst | 7527b2e76801c60ec119e53a3f892a9e14b6eea1909f365467777e5423c0033c | 2026-01-02T16:55:09+11:00 | ✔ | ✔ | 35 |
 | 75 | 🛜LUX11 - Figtree | 751ef72da4781301b88a004950ab41cea8edf74e135a86c2e9aa790f82bafaf6 | 2026-01-11T03:44:52+11:00 | ✔ |  |  |
-| 76 | BTQ Roof | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 | 2026-01-10T20:36:30+11:00 |  |  |  |
+| 76 | BTQ - Hornsby - Roof | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 | 2026-01-10T21:41:12+11:00 |  |  |  |
 | 77 | BTQ Portable 4 | 77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c | 2026-01-10T20:34:23+11:00 |  |  |  |
 | 78 | BTQ - TBA1 | 780cded5bbb9660725ec6d6be529ec15e52527d3b227ff286da4bc8cf0820621 |  |  |  |  |
 | 79 | BTQ - TBA2 | 799f41451764e9ae739f5b26abfdbb9db5df6e60206b7640c0f2d28c9212a340 |  |  |  |  |
@@ -150,7 +150,7 @@ As of 10 January 2026, Meshcore identifies repeaters and roomservers using the f
 | AD | ✝️Mobile | ad3fcf8452917c3d01cda7834aa8ec63c07311f46f1373ad159819a0b5d850d0 | 2025-11-22T17:07:29+11:00 |  |  |  |
 | AE | BTQ -  Terry Hills | ae836f555cf9c41ced8c758a49400116765d6ba0c1f67d1bc60ee8433c03cd66 | 2026-01-10T02:15:01+11:00 |  |  |  |
 | B0 | 🦖NthKellyville | b00b18ba06f3d21688d477efdc71a15c8177af94cc83751090c6ead7ca56fad2 | 2025-12-28T21:49:06+11:00 | ✔ |  |  |
-| B1 | ATRO - ENFIELD | b1fd61f11933c9c288d48725a5d75462c769da8939ec2804cc7a660a16e89b34 | 2026-01-10T04:10:30+11:00 | ✔ |  |  |
+| B1 | ATRO - ENFIELD | b1fd61f11933c9c288d48725a5d75462c769da8939ec2804cc7a660a16e89b34 | 2026-01-10T22:10:30+11:00 | ✔ |  |  |
 | B3 | Wagra Mountain | b32b2c2f40c49de8d0fe44a130913cbed08e59aef0a7fc83d994932a7a8f6c03 |  |  | ✔ |  |
 | B5 | Plateau RPT | b513ebb098245bdf2fd2b4d87b4eebbed155ddcf5c4e741513b0fa64760d7a95 | 2025-11-30T13:22:00+11:00 | ✔ |  |  |
 | B6 | 😬-Davidson-RPT | b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f | 2026-01-10T00:14:20+11:00 | ✔ |  |  |
@@ -163,6 +163,7 @@ As of 10 January 2026, Meshcore identifies repeaters and roomservers using the f
 | BD | ☎️ Jamberoo | bd00f382f921bbd739cbd277309b104ccb58743aa62a3ea3f9fed681e54fa6a8 | 2025-12-15T23:28:21+11:00 | ✔ |  |  |
 | BE | Bee - Waratah West | bee5120a7a2a4cf17b67fc2ec984c382a90a52944ff9b1e7b47fc52cf6cdea2d |  |  | ✔ |  |
 | BF | SA - @2190 Greenacre 3 | bff18b65ff23ea30915511c905902a636752e14acfcde1028608b972ee931b10 | 2026-01-10T03:31:22+11:00 | ✔ |  |  |
+| C0 | TNZ Mt Colah | c01dbeef........................................................ |  |  |  |  |
 | C1 | Epping Repeater | c1237b61af7d13a9ee02ed377859f17bf941accea3b191c2bfe2b7a610d7b371 |  |  |  |  |
 | C1 | ⚡️ - Roof | c1cc1f7ba116e955fb0552432570ec76a99473b6563ccd6c8231375448d86a98 | 2025-12-24T16:27:45+11:00 | ✔ | ✔ | 5 |
 | C2 | 📟Mosman-Balmoral | c2a73ce3e6924b6e09ae2357fca65a6a1ebdb1245e9aba09327480ee2cf36742 |  |  | ✔ |  |
