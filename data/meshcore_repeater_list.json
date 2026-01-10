@@ -165,14 +165,6 @@
         "status": "active",
         "public_key": "1ba2d6e7d7772cf671298ffe8493f4f209af0b5292bd03b54622d4c8bb332307"
     },
-    "1d1e9c84a1df138d8820fafd6f5b2ceb49f4e8bca1f4da4dcc7ba04214cb6e34": {
-        "name": "Hornsby dBb repeater",
-        "last_advert": 1768033384,
-        "last_seen": "2026-01-10T19:23:04+11:00",
-        "advert_location": true,
-        "status": "active",
-        "public_key": "1d1e9c84a1df138d8820fafd6f5b2ceb49f4e8bca1f4da4dcc7ba04214cb6e34"
-    },
     "202f1356b085c24490c9bacb13c9032b95c6991f8bbf28bb856c40a50b1463e5": {
         "name": "🌏 2211 Padstow",
         "last_advert": 1765597055,
@@ -249,8 +241,8 @@
     },
     "28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16": {
         "name": "☠️ Mount Annan Rpt",
-        "last_advert": 1768013789,
-        "last_seen": "2026-01-10T13:56:29+11:00",
+        "last_advert": 1768035389,
+        "last_seen": "2026-01-10T19:56:29+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -333,8 +325,8 @@
     },
     "35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d": {
         "name": "Loftus Heights G2",
-        "last_advert": 1767971680,
-        "last_seen": "2026-01-10T02:14:40+11:00",
+        "last_advert": 1768036480,
+        "last_seen": "2026-01-10T20:14:40+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -587,6 +579,14 @@
         "status": "active",
         "public_key": "5fd2e6799b61349398c7ef2106e549afcad0515ec82b4d4a77fa57c070af7999"
     },
+    "60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867": {
+        "name": "Hornsby dBb repeater",
+        "last_advert": 1768033384,
+        "last_seen": "2026-01-10T19:23:04+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867"
+    },
     "6109d1672b9b340f52b1e5d5061ba14995c614baffbaf97502b597d70d8cb74e": {
         "name": "2C-PAC Mac",
         "status": "active",
@@ -733,8 +733,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Window",
-        "last_advert": 1768023282,
-        "last_seen": "2026-01-10T16:34:42+11:00",
+        "last_advert": 1768035882,
+        "last_seen": "2026-01-10T20:04:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -774,15 +774,15 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Roof",
-        "last_advert": 1768030590,
-        "last_seen": "2026-01-10T18:36:30+11:00",
+        "last_advert": 1768037790,
+        "last_seen": "2026-01-10T20:36:30+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
     "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c": {
         "name": "BTQ Portable 4",
-        "last_advert": 1768025063,
-        "last_seen": "2026-01-10T17:04:23+11:00",
+        "last_advert": 1768037663,
+        "last_seen": "2026-01-10T20:34:23+11:00",
         "status": "parked",
         "public_key": "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c"
     },
@@ -945,8 +945,8 @@
     },
     "95a6ae9f43ff31e8d1541ed017b48e79486bdd4df00c42f9eb34e7f9b415d476": {
         "name": "CarlSagan-G2",
-        "last_advert": 1768006466,
-        "last_seen": "2026-01-10T11:54:26+11:00",
+        "last_advert": 1768035266,
+        "last_seen": "2026-01-10T19:54:26+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "95a6ae9f43ff31e8d1541ed017b48e79486bdd4df00c42f9eb34e7f9b415d476"
