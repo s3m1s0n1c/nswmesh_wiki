@@ -64,8 +64,8 @@
     },
     "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f": {
         "name": "Test_Rptr(T114)",
-        "last_advert": 1767983782,
-        "last_seen": "2026-01-10T05:36:22+11:00",
+        "last_advert": 1768005382,
+        "last_seen": "2026-01-10T11:36:22+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f"
@@ -88,9 +88,9 @@
         "public_key": "0e94becbbd62c1ca39abdf3f464a505b80f238b8ae8ded05acffe9ffd815b76e"
     },
     "10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7": {
-        "name": "🌱Bridge 915.8🌤",
-        "last_advert": 1767950310,
-        "last_seen": "2026-01-09T20:18:30+11:00",
+        "name": "🌱Bridge 915.8⛅",
+        "last_advert": 1768003649,
+        "last_seen": "2026-01-10T11:07:29+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -517,8 +517,8 @@
     },
     "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c": {
         "name": "ENGADINE REPEATER",
-        "last_advert": 1767969609,
-        "last_seen": "2026-01-10T01:40:09+11:00",
+        "last_advert": 1767991209,
+        "last_seen": "2026-01-10T07:40:09+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -708,16 +708,16 @@
     },
     "70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed": {
         "name": "Condell Park Repeater",
-        "last_advert": 1767955834,
-        "last_seen": "2026-01-09T21:50:34+11:00",
+        "last_advert": 1767999034,
+        "last_seen": "2026-01-10T09:50:34+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed"
     },
     "71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9": {
         "name": "Breakfast Point Rpt",
-        "last_advert": 1767974210,
-        "last_seen": "2026-01-10T02:56:50+11:00",
+        "last_advert": 1767995809,
+        "last_seen": "2026-01-10T08:56:49+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -725,8 +725,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Window",
-        "last_advert": 1767983682,
-        "last_seen": "2026-01-10T05:34:42+11:00",
+        "last_advert": 1767996282,
+        "last_seen": "2026-01-10T09:04:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -766,15 +766,15 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Roof",
-        "last_advert": 1767983790,
-        "last_seen": "2026-01-10T05:36:30+11:00",
+        "last_advert": 1768005390,
+        "last_seen": "2026-01-10T11:36:30+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
     "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c": {
         "name": "BTQ Portable 4",
-        "last_advert": 1767983663,
-        "last_seen": "2026-01-10T05:34:23+11:00",
+        "last_advert": 1767998063,
+        "last_seen": "2026-01-10T09:34:23+11:00",
         "status": "parked",
         "public_key": "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c"
     },
@@ -937,8 +937,8 @@
     },
     "95a6ae9f43ff31e8d1541ed017b48e79486bdd4df00c42f9eb34e7f9b415d476": {
         "name": "CarlSagan-G2",
-        "last_advert": 1767977666,
-        "last_seen": "2026-01-10T03:54:26+11:00",
+        "last_advert": 1768006466,
+        "last_seen": "2026-01-10T11:54:26+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "95a6ae9f43ff31e8d1541ed017b48e79486bdd4df00c42f9eb34e7f9b415d476"
@@ -1358,8 +1358,8 @@
     },
     "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c": {
         "name": "🇦🇺 Ermington RPT",
-        "last_advert": 1768077752,
-        "last_seen": "2026-01-11T07:42:32+11:00",
+        "last_advert": 1768088552,
+        "last_seen": "2026-01-11T10:42:32+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c"
@@ -1522,8 +1522,8 @@
     },
     "ec85e625b9168978b444413e12a24ff83b3d3e29e45a2c2cd9d4ab0771d834d5": {
         "name": "Pfych Repeater",
-        "last_advert": 1767945779,
-        "last_seen": "2026-01-09T19:02:59+11:00",
+        "last_advert": 1767988979,
+        "last_seen": "2026-01-10T07:02:59+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "ec85e625b9168978b444413e12a24ff83b3d3e29e45a2c2cd9d4ab0771d834d5"
