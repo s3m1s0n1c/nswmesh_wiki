@@ -64,8 +64,8 @@
     },
     "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f": {
         "name": "Test_Rptr(T114)",
-        "last_advert": 1768091782,
-        "last_seen": "2026-01-11T11:36:22+11:00",
+        "last_advert": 1768102582,
+        "last_seen": "2026-01-11T14:36:22+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f"
@@ -733,8 +733,8 @@
     },
     "720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130": {
         "name": "BTQ - Hornsby - Window",
-        "last_advert": 1768089882,
-        "last_seen": "2026-01-11T11:04:42+11:00",
+        "last_advert": 1768102482,
+        "last_seen": "2026-01-11T14:34:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -773,15 +773,15 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1768098990,
-        "last_seen": "2026-01-11T13:36:30+11:00",
+        "last_advert": 1768102590,
+        "last_seen": "2026-01-11T14:36:30+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
     "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c": {
         "name": "BTQ Portable 4",
-        "last_advert": 1768089863,
-        "last_seen": "2026-01-11T11:04:23+11:00",
+        "last_advert": 1768102463,
+        "last_seen": "2026-01-11T14:34:23+11:00",
         "status": "parked",
         "public_key": "77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c"
     },
@@ -1159,14 +1159,6 @@
         "name": "Odinsdad reserved",
         "status": "parked",
         "public_key": "b9bb336fae78e1e1d37ada112d82f282ddaf0aacf68d961b16d520c14498a6aa"
-    },
-    "b90b56fe8570fa7889b8cce05ef5fad866812543be6fedeacc62ff344022cd93": {
-        "name": "😬-Davidson-RPT",
-        "last_advert": 1766984069,
-        "last_seen": "2025-12-29T15:54:29+11:00",
-        "advert_location": true,
-        "status": "active",
-        "public_key": "b90b56fe8570fa7889b8cce05ef5fad866812543be6fedeacc62ff344022cd93"
     },
     "bb18fef9928d2582f07bc4cfb77e2d057c0bbfd6873381a64f433961d0da71da": {
         "name": "✝️Nepean River",
