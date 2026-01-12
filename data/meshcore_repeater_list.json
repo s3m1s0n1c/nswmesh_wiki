@@ -89,8 +89,8 @@
     },
     "10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7": {
         "name": "🌱Bridge 915.8⛅",
-        "last_advert": 1768003649,
-        "last_seen": "2026-01-10T11:07:29+11:00",
+        "last_advert": 1768204874,
+        "last_seen": "2026-01-12T19:01:14+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -98,8 +98,8 @@
     },
     "113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642": {
         "name": "🌱Chester Street",
-        "last_advert": 1768067071,
-        "last_seen": "2026-01-11T04:44:31+11:00",
+        "last_advert": 1768217757,
+        "last_seen": "2026-01-12T22:35:57+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -137,6 +137,13 @@
         "last_seen": "2026-01-05T03:39:43+11:00",
         "status": "active",
         "public_key": "172b75d61fba084d2b288688090f8a0fd2e8b937951e419a7c4374ba81997db8"
+    },
+    "1808398943cb12730da5ef4f682b41d55fac7403459d2925ca0a773304c0eaee": {
+        "name": "🌱Test T1000E",
+        "last_advert": 1768205328,
+        "last_seen": "2026-01-12T19:08:48+11:00",
+        "status": "active",
+        "public_key": "1808398943cb12730da5ef4f682b41d55fac7403459d2925ca0a773304c0eaee"
     },
     "1939344650993341aef52069d604c876dce413db7ef6743571b06970a91b8a6c": {
         "name": "✝️ Cleric TEST",
@@ -338,8 +345,8 @@
     },
     "36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092": {
         "name": "🌱Camperdown🌤",
-        "last_advert": 1768088962,
-        "last_seen": "2026-01-11T10:49:22+11:00",
+        "last_advert": 1768217757,
+        "last_seen": "2026-01-12T22:35:57+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -585,14 +592,15 @@
     },
     "60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867": {
         "name": "Hornsby dbb Repeater",
-        "last_advert": 1768131509,
-        "last_seen": "2026-01-11T22:38:29+11:00",
+        "last_advert": 1768211310,
+        "last_seen": "2026-01-12T20:48:30+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867"
     },
     "6109d1672b9b340f52b1e5d5061ba14995c614baffbaf97502b597d70d8cb74e": {
         "name": "2C-PAC Mac",
+        "internet_location": true,
         "status": "active",
         "public_key": "6109d1672b9b340f52b1e5d5061ba14995c614baffbaf97502b597d70d8cb74e"
     },
@@ -703,8 +711,8 @@
     },
     "6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc": {
         "name": "☢ Campbelltown",
-        "last_advert": 1768105776,
-        "last_seen": "2026-01-11T15:29:36+11:00",
+        "last_advert": 1768217135,
+        "last_seen": "2026-01-12T22:25:35+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -753,9 +761,9 @@
         "public_key": "738460c241d09fd9891cb484b316176c929eef2e995e31cbaf77ba6430d7722e"
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
-        "name": "BTQ Bridge 915.8",
-        "last_advert": 1768117457,
-        "last_seen": "2026-01-11T18:44:17+11:00",
+        "name": "BTQ Hornsby Fence V",
+        "last_advert": 1768209601,
+        "last_seen": "2026-01-12T20:20:01+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -776,9 +784,9 @@
         "public_key": "751ef72da4781301b88a004950ab41cea8edf74e135a86c2e9aa790f82bafaf6"
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
-        "name": "BTQ - Hornsby - Roof",
-        "last_advert": 1768181932,
-        "last_seen": "2026-01-12T12:38:52+11:00",
+        "name": "BTQ - Hornsby - Roof V",
+        "last_advert": 1768210674,
+        "last_seen": "2026-01-12T20:37:54+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -833,8 +841,8 @@
     },
     "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528": {
         "name": "MMTV - TEMP",
-        "last_advert": 1768099967,
-        "last_seen": "2026-01-11T13:52:47+11:00",
+        "last_advert": 1768217480,
+        "last_seen": "2026-01-12T22:31:20+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528"
@@ -929,6 +937,13 @@
         "status": "active",
         "public_key": "8bf39183de4df49d14aa3c99b20c14b4a3003935693bbbc96a3325b3f74b70d0"
     },
+    "8c7a99ff9eb28c219d26cbe431b352a1a3a596b73a310a555a0b358834846248": {
+        "name": "〽️ 2190 - S3 Test",
+        "last_advert": 1768213609,
+        "last_seen": "2026-01-12T21:26:49+11:00",
+        "status": "active",
+        "public_key": "8c7a99ff9eb28c219d26cbe431b352a1a3a596b73a310a555a0b358834846248"
+    },
     "8dd83466219fd7763cb0c4372152943b2d63b152403175acd0ce10d7e65eb778": {
         "name": "📡YER NBSYD 01",
         "last_advert": 1763826506,
@@ -962,6 +977,7 @@
     },
     "9c311c5e4b819a0aa8e9c1ce92636c65d092a52545aaaa2b2cb532f97efe1728": {
         "name": "👽Mobile Repeater Vic",
+        "internet_location": true,
         "status": "active",
         "public_key": "9c311c5e4b819a0aa8e9c1ce92636c65d092a52545aaaa2b2cb532f97efe1728"
     },
@@ -1184,9 +1200,9 @@
         "public_key": "bcf36a8c01c7edbde80d208553038d0d5682a964cc8a5d4e8fae4149a21c3eab"
     },
     "bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f": {
-        "name": "SA - 2190 Greenacre",
-        "last_advert": 1768100356,
-        "last_seen": "2026-01-11T13:59:16+11:00",
+        "name": "〽️ - Greenacre PWR",
+        "last_advert": 1768206074,
+        "last_seen": "2026-01-12T19:21:14+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f"
@@ -1503,8 +1519,8 @@
     },
     "e564de87cbd7eb111d754e2a720e8813a4ddc9fb24d9cbaf565c3ac75e025063": {
         "name": "Zak Mobile Tbeam Repeat",
-        "last_advert": 1767923995,
-        "last_seen": "2026-01-09T12:59:55+11:00",
+        "last_advert": 1768215625,
+        "last_seen": "2026-01-12T22:00:25+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
