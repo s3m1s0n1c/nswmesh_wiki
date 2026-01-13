@@ -6,8 +6,8 @@
     },
     "012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab": {
         "name": "☢️ Bradbury",
-        "last_advert": 1768309525,
-        "last_seen": "2026-01-14T00:05:25+11:00",
+        "last_advert": 1768333516,
+        "last_seen": "2026-01-14T06:45:16+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -319,14 +319,6 @@
         "status": "active",
         "public_key": "32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9"
     },
-    "332c6509e0fb450f4a2c137a30519cf2665c1d3970ac5e8bd64f903f983270f5": {
-        "name": "⚡️ - Mt Colah",
-        "last_advert": 1767320324,
-        "last_seen": "2026-01-02T13:18:44+11:00",
-        "advert_location": true,
-        "status": "active",
-        "public_key": "332c6509e0fb450f4a2c137a30519cf2665c1d3970ac5e8bd64f903f983270f5"
-    },
     "3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b": {
         "name": "⚡️ - Mt Colah",
         "last_advert": 1768330838,
@@ -354,8 +346,8 @@
     },
     "36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092": {
         "name": "🌱Camperdown🌤",
-        "last_advert": 1768306045,
-        "last_seen": "2026-01-13T23:07:25+11:00",
+        "last_advert": 1768338734,
+        "last_seen": "2026-01-14T08:12:14+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1170,8 +1162,8 @@
     },
     "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f": {
         "name": "😬-Davidson",
-        "last_advert": 1768307561,
-        "last_seen": "2026-01-13T23:32:41+11:00",
+        "last_advert": 1768337323,
+        "last_seen": "2026-01-14T07:48:43+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f"
@@ -1212,8 +1204,8 @@
     },
     "bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f": {
         "name": "〽️ - Greenacre PWR",
-        "last_advert": 1768314093,
-        "last_seen": "2026-01-14T01:21:33+11:00",
+        "last_advert": 1768335693,
+        "last_seen": "2026-01-14T07:21:33+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f"
@@ -1392,14 +1384,10 @@
         "status": "active",
         "public_key": "d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6"
     },
-    "d284a01b81069fab054ad4355d46c58037618df478e05e64579af5489d1ea569": {
-        "name": "🛡️Lakesland 2",
-        "last_advert": 1767103586,
-        "last_seen": "2025-12-31T01:06:26+11:00",
-        "advert_location": true,
-        "internet_location": true,
+    "d28b337542c0023c19f2fa97b4849f1c7345117b855f098544e2b1b3229eb3a7": {
+        "name": "🛡️Lakesland",
         "status": "active",
-        "public_key": "d284a01b81069fab054ad4355d46c58037618df478e05e64579af5489d1ea569"
+        "public_key": "d28b337542c0023c19f2fa97b4849f1c7345117b855f098544e2b1b3229eb3a7"
     },
     "d390a076723d74e679e5fe5aea733d6e9f074c08406cb3fbae583bec0cc8304e": {
         "name": "🇦🇺 Rydalmere RPT2",
@@ -1475,8 +1463,8 @@
     },
     "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7": {
         "name": "MMTV - Belmore - Solar",
-        "last_advert": 1768314181,
-        "last_seen": "2026-01-14T01:23:01+11:00",
+        "last_advert": 1768335781,
+        "last_seen": "2026-01-14T07:23:01+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7"
