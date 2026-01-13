@@ -89,8 +89,8 @@
     },
     "10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7": {
         "name": "🌱Bridge 915.8⛅",
-        "last_advert": 1768204874,
-        "last_seen": "2026-01-12T19:01:14+11:00",
+        "last_advert": 1768264606,
+        "last_seen": "2026-01-13T11:36:46+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -272,6 +272,7 @@
         "last_advert": 1768083620,
         "last_seen": "2026-01-11T09:20:20+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154"
     },
@@ -389,8 +390,8 @@
     },
     "3c732b37f8a046b1c3f60a96aaed9641720f1678704f0dd141a1ac8f4eadce17": {
         "name": "🌱Bridge 433.95🌤",
-        "last_advert": 1768088984,
-        "last_seen": "2026-01-11T10:49:44+11:00",
+        "last_advert": 1768264539,
+        "last_seen": "2026-01-13T11:35:39+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -441,8 +442,8 @@
     },
     "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280": {
         "name": "🌱Bridge VIC🌤",
-        "last_advert": 1767734308,
-        "last_seen": "2026-01-07T08:18:28+11:00",
+        "last_advert": 1768264578,
+        "last_seen": "2026-01-13T11:36:18+11:00",
         "status": "active",
         "public_key": "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280"
     },
@@ -592,8 +593,8 @@
     },
     "60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867": {
         "name": "Hornsby dbb Repeater",
-        "last_advert": 1768211310,
-        "last_seen": "2026-01-12T20:48:30+11:00",
+        "last_advert": 1768254432,
+        "last_seen": "2026-01-13T08:47:12+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867"
@@ -785,8 +786,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ - Hornsby - Roof V",
-        "last_advert": 1768235757,
-        "last_seen": "2026-01-13T03:35:57+11:00",
+        "last_advert": 1768262757,
+        "last_seen": "2026-01-13T11:05:57+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -841,8 +842,8 @@
     },
     "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528": {
         "name": "MMTV - TEMP",
-        "last_advert": 1768223157,
-        "last_seen": "2026-01-13T00:05:57+11:00",
+        "last_advert": 1768253483,
+        "last_seen": "2026-01-13T08:31:23+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528"
@@ -1159,8 +1160,8 @@
     },
     "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f": {
         "name": "😬-Davidson-RPT",
-        "last_advert": 1768219676,
-        "last_seen": "2026-01-12T23:07:56+11:00",
+        "last_advert": 1768262876,
+        "last_seen": "2026-01-13T11:07:56+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f"
@@ -1201,8 +1202,8 @@
     },
     "bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f": {
         "name": "〽️ - Greenacre PWR",
-        "last_advert": 1768227693,
-        "last_seen": "2026-01-13T01:21:33+11:00",
+        "last_advert": 1768249293,
+        "last_seen": "2026-01-13T07:21:33+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f"
@@ -1222,9 +1223,9 @@
         "public_key": "bee5120a7a2a4cf17b67fc2ec984c382a90a52944ff9b1e7b47fc52cf6cdea2d"
     },
     "bff18b65ff23ea30915511c905902a636752e14acfcde1028608b972ee931b10": {
-        "name": "SA - @2190 Greenacre 3",
-        "last_advert": 1768090260,
-        "last_seen": "2026-01-11T11:11:00+11:00",
+        "name": "〽️ - Greenacre SLR",
+        "last_advert": 1768262853,
+        "last_seen": "2026-01-13T11:07:33+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "bff18b65ff23ea30915511c905902a636752e14acfcde1028608b972ee931b10"
@@ -1458,8 +1459,8 @@
     },
     "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7": {
         "name": "MMTV - Belmore - Solar",
-        "last_advert": 1768227635,
-        "last_seen": "2026-01-13T01:20:35+11:00",
+        "last_advert": 1768249381,
+        "last_seen": "2026-01-13T07:23:01+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7"
@@ -1519,8 +1520,8 @@
     },
     "e564de87cbd7eb111d754e2a720e8813a4ddc9fb24d9cbaf565c3ac75e025063": {
         "name": "Zak Mobile Tbeam Repeat",
-        "last_advert": 1768215625,
-        "last_seen": "2026-01-12T22:00:25+11:00",
+        "last_advert": 1768258782,
+        "last_seen": "2026-01-13T09:59:42+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
