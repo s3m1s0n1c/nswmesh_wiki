@@ -6,8 +6,8 @@
     },
     "012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab": {
         "name": "☢️ Bradbury",
-        "last_advert": 1768291332,
-        "last_seen": "2026-01-13T19:02:12+11:00",
+        "last_advert": 1768309525,
+        "last_seen": "2026-01-14T00:05:25+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -88,9 +88,9 @@
         "public_key": "0e94becbbd62c1ca39abdf3f464a505b80f238b8ae8ded05acffe9ffd815b76e"
     },
     "10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7": {
-        "name": "🌱Bridge 915.8⛅",
-        "last_advert": 1768264606,
-        "last_seen": "2026-01-13T11:36:46+11:00",
+        "name": "🌱We're on VIC Preset",
+        "last_advert": 1768311435,
+        "last_seen": "2026-01-14T00:37:15+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -226,8 +226,8 @@
     },
     "2511afbd5064709ebc08a651aea722da0fb852ccd19e6f3b91f7540de8627ec3": {
         "name": "👽Abbotsbury 1",
-        "last_advert": 1768300279,
-        "last_seen": "2026-01-13T21:31:19+11:00",
+        "last_advert": 1768311854,
+        "last_seen": "2026-01-14T00:44:14+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -327,6 +327,14 @@
         "status": "active",
         "public_key": "332c6509e0fb450f4a2c137a30519cf2665c1d3970ac5e8bd64f903f983270f5"
     },
+    "3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b": {
+        "name": "⚡️ - Mt Colah",
+        "last_advert": 1768330838,
+        "last_seen": "2026-01-14T06:00:38+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b"
+    },
     "3424534bf381d5904e208213a0e592224de3b41a36461b2067249964405ca734": {
         "name": "⛰️ CC Fill",
         "last_advert": 1767223281,
@@ -346,8 +354,8 @@
     },
     "36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092": {
         "name": "🌱Camperdown🌤",
-        "last_advert": 1768301928,
-        "last_seen": "2026-01-13T21:58:48+11:00",
+        "last_advert": 1768306045,
+        "last_seen": "2026-01-13T23:07:25+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -442,8 +450,8 @@
     },
     "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280": {
         "name": "🌱Bridge VIC🌤",
-        "last_advert": 1768264578,
-        "last_seen": "2026-01-13T11:36:18+11:00",
+        "last_advert": 1768311417,
+        "last_seen": "2026-01-14T00:36:57+11:00",
         "status": "active",
         "public_key": "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280"
     },
@@ -473,8 +481,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1768268378,
-        "last_seen": "2026-01-13T12:39:38+11:00",
+        "last_advert": 1768311719,
+        "last_seen": "2026-01-14T00:41:59+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -785,8 +793,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ - Hornsby - Roof V",
-        "last_advert": 1768302357,
-        "last_seen": "2026-01-13T22:05:57+11:00",
+        "last_advert": 1768329357,
+        "last_seen": "2026-01-14T05:35:57+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -809,8 +817,8 @@
     },
     "7a8314cfdfa255363234150ab0511e4020c44d3a296e39ce12ffb2a4c89e4b6b": {
         "name": "⚡- Beecroft",
-        "last_advert": 1768289730,
-        "last_seen": "2026-01-13T18:35:30+11:00",
+        "last_advert": 1768315917,
+        "last_seen": "2026-01-14T01:51:57+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "7a8314cfdfa255363234150ab0511e4020c44d3a296e39ce12ffb2a4c89e4b6b"
@@ -841,8 +849,8 @@
     },
     "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528": {
         "name": "MMTV - TEMP",
-        "last_advert": 1768253483,
-        "last_seen": "2026-01-13T08:31:23+11:00",
+        "last_advert": 1768308216,
+        "last_seen": "2026-01-13T23:43:36+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528"
@@ -976,7 +984,10 @@
         "public_key": "973fd16a3c4629247a80fad186e339019439986966b9d893f8fab3b2ac394494"
     },
     "9c311c5e4b819a0aa8e9c1ce92636c65d092a52545aaaa2b2cb532f97efe1728": {
-        "name": "👽Mobile Repeater Vic",
+        "name": "👽Mobile Repeater",
+        "last_advert": 1768320986,
+        "last_seen": "2026-01-14T03:16:26+11:00",
+        "advert_location": true,
         "internet_location": true,
         "status": "active",
         "public_key": "9c311c5e4b819a0aa8e9c1ce92636c65d092a52545aaaa2b2cb532f97efe1728"
@@ -1158,9 +1169,9 @@
         "public_key": "b513ebb098245bdf2fd2b4d87b4eebbed155ddcf5c4e741513b0fa64760d7a95"
     },
     "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f": {
-        "name": "😬-Davidson-RPT",
-        "last_advert": 1768262876,
-        "last_seen": "2026-01-13T11:07:56+11:00",
+        "name": "😬-Davidson",
+        "last_advert": 1768307561,
+        "last_seen": "2026-01-13T23:32:41+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f"
@@ -1201,8 +1212,8 @@
     },
     "bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f": {
         "name": "〽️ - Greenacre PWR",
-        "last_advert": 1768292493,
-        "last_seen": "2026-01-13T19:21:33+11:00",
+        "last_advert": 1768314093,
+        "last_seen": "2026-01-14T01:21:33+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f"
@@ -1223,8 +1234,8 @@
     },
     "bff18b65ff23ea30915511c905902a636752e14acfcde1028608b972ee931b10": {
         "name": "〽️ - Greenacre SLR",
-        "last_advert": 1768284453,
-        "last_seen": "2026-01-13T17:07:33+11:00",
+        "last_advert": 1768327653,
+        "last_seen": "2026-01-14T05:07:33+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "bff18b65ff23ea30915511c905902a636752e14acfcde1028608b972ee931b10"
@@ -1275,10 +1286,15 @@
         "status": "active",
         "public_key": "c5aef8e0bdffdeceb93ab8a813748f4d0194a463263c3f703cea4eb972e91727"
     },
+    "c6ca0cea78557367e32318e8388935beb50d5f7e3a04f9c4370f0fa8ed093f43": {
+        "name": "🧿 Wentworth Pt TBC",
+        "status": "active",
+        "public_key": "c6ca0cea78557367e32318e8388935beb50d5f7e3a04f9c4370f0fa8ed093f43"
+    },
     "c77a8062554cc78882f5f12b5c8671adc40d3909ad021649a26428e2dc837f94": {
         "name": "🧿 Wentworth Pt Brg",
-        "last_advert": 1768092487,
-        "last_seen": "2026-01-11T11:48:07+11:00",
+        "last_advert": 1768311857,
+        "last_seen": "2026-01-14T00:44:17+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1311,8 +1327,8 @@
     },
     "ca88211afc273668b749bd69f5d98a05cd72268a008c658aeb74f99bbc9ad8ed": {
         "name": "🧿 Wentworth Pt 04",
-        "last_advert": 1768093139,
-        "last_seen": "2026-01-11T11:58:59+11:00",
+        "last_advert": 1768308681,
+        "last_seen": "2026-01-13T23:51:21+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "ca88211afc273668b749bd69f5d98a05cd72268a008c658aeb74f99bbc9ad8ed"
@@ -1327,8 +1343,8 @@
     },
     "cd6429f4eb38f0f4db86bceb4a450b1cb7f3090ddc63c59e51852959166042bc": {
         "name": "🧿 Wentworth Pt 03",
-        "last_advert": 1768097806,
-        "last_seen": "2026-01-11T13:16:46+11:00",
+        "last_advert": 1768308256,
+        "last_seen": "2026-01-13T23:44:16+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "cd6429f4eb38f0f4db86bceb4a450b1cb7f3090ddc63c59e51852959166042bc"
@@ -1343,8 +1359,8 @@
     },
     "cfe09b3776ac57d7acc876316dd95ff8ae6467e3fb7f53542f1b2f95d51a14b1": {
         "name": "🧿 Wentworth Pt South",
-        "last_advert": 1768285797,
-        "last_seen": "2026-01-13T17:29:57+11:00",
+        "last_advert": 1768307595,
+        "last_seen": "2026-01-13T23:33:15+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1352,9 +1368,10 @@
     },
     "d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784": {
         "name": "🧿 Rhodes Brg Rpt",
-        "last_advert": 1768104786,
-        "last_seen": "2026-01-11T15:13:06+11:00",
+        "last_advert": 1768308861,
+        "last_seen": "2026-01-13T23:54:21+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784"
     },
@@ -1458,8 +1475,8 @@
     },
     "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7": {
         "name": "MMTV - Belmore - Solar",
-        "last_advert": 1768293663,
-        "last_seen": "2026-01-13T19:41:03+11:00",
+        "last_advert": 1768314181,
+        "last_seen": "2026-01-14T01:23:01+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7"
@@ -1518,9 +1535,9 @@
         "public_key": "e4093953a6408506c962a158b65d07eac37782f4d428d23e6eb11ddc6652e4fd"
     },
     "e564de87cbd7eb111d754e2a720e8813a4ddc9fb24d9cbaf565c3ac75e025063": {
-        "name": "🤠 Zak Mobile Repeat",
-        "last_advert": 1768296189,
-        "last_seen": "2026-01-13T20:23:09+11:00",
+        "name": "🤠 Zak Mobile",
+        "last_advert": 1768307098,
+        "last_seen": "2026-01-13T23:24:58+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
