@@ -89,8 +89,8 @@
     },
     "10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7": {
         "name": "🌱We're on VIC Preset",
-        "last_advert": 1768311435,
-        "last_seen": "2026-01-14T00:37:15+11:00",
+        "last_advert": 1768354347,
+        "last_seen": "2026-01-14T12:32:27+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -312,8 +312,8 @@
     },
     "32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9": {
         "name": "⚡️ - Staples",
-        "last_advert": 1768107108,
-        "last_seen": "2026-01-11T15:51:48+11:00",
+        "last_advert": 1768366308,
+        "last_seen": "2026-01-14T15:51:48+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -321,8 +321,8 @@
     },
     "3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b": {
         "name": "⚡️ - Mt Colah",
-        "last_advert": 1768345192,
-        "last_seen": "2026-01-14T09:59:52+11:00",
+        "last_advert": 1768374207,
+        "last_seen": "2026-01-14T18:03:27+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b"
@@ -346,8 +346,8 @@
     },
     "36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092": {
         "name": "🌱Camperdown🌤",
-        "last_advert": 1768343197,
-        "last_seen": "2026-01-14T09:26:37+11:00",
+        "last_advert": 1768354701,
+        "last_seen": "2026-01-14T12:38:21+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -369,8 +369,8 @@
     },
     "38b0c615ea50ff318a136d88741b886c566ccec2a116c1b0b6bd5f863d2217b7": {
         "name": "MMTV - Belfield",
-        "last_advert": 1768351574,
-        "last_seen": "2026-01-14T11:46:14+11:00",
+        "last_advert": 1768363285,
+        "last_seen": "2026-01-14T15:01:25+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "38b0c615ea50ff318a136d88741b886c566ccec2a116c1b0b6bd5f863d2217b7"
@@ -457,8 +457,9 @@
     },
     "465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90": {
         "name": "🌱TBA",
-        "last_advert": 1768279925,
-        "last_seen": "2026-01-13T15:52:05+11:00",
+        "last_advert": 1768366951,
+        "last_seen": "2026-01-14T16:02:31+11:00",
+        "advert_location": true,
         "status": "active",
         "public_key": "465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90"
     },
@@ -473,8 +474,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1768311719,
-        "last_seen": "2026-01-14T00:41:59+11:00",
+        "last_advert": 1768354946,
+        "last_seen": "2026-01-14T12:42:26+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -545,8 +546,8 @@
     },
     "5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3": {
         "name": "👽West Hoxton",
-        "last_advert": 1768065138,
-        "last_seen": "2026-01-11T04:12:18+11:00",
+        "last_advert": 1768353763,
+        "last_seen": "2026-01-14T12:22:43+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3"
@@ -848,16 +849,16 @@
     },
     "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528": {
         "name": "MMTV - TEMP",
-        "last_advert": 1768351435,
-        "last_seen": "2026-01-14T11:43:55+11:00",
+        "last_advert": 1768363313,
+        "last_seen": "2026-01-14T15:01:53+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528"
     },
     "7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93": {
-        "name": "👽Abbotsbury 2",
-        "last_advert": 1768105779,
-        "last_seen": "2026-01-11T15:29:39+11:00",
+        "name": "Abbotsbury 2",
+        "last_advert": 1768369879,
+        "last_seen": "2026-01-14T16:51:19+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1233,8 +1234,8 @@
     },
     "bff18b65ff23ea30915511c905902a636752e14acfcde1028608b972ee931b10": {
         "name": "〽️ - Greenacre SLR",
-        "last_advert": 1768349253,
-        "last_seen": "2026-01-14T11:07:33+11:00",
+        "last_advert": 1768370853,
+        "last_seen": "2026-01-14T17:07:33+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "bff18b65ff23ea30915511c905902a636752e14acfcde1028608b972ee931b10"
@@ -1470,8 +1471,8 @@
     },
     "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7": {
         "name": "MMTV - Belmore - Solar",
-        "last_advert": 1768335781,
-        "last_seen": "2026-01-14T07:23:01+11:00",
+        "last_advert": 1768363375,
+        "last_seen": "2026-01-14T15:02:55+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7"
