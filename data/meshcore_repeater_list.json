@@ -53,6 +53,13 @@
         "status": "active",
         "public_key": "08c56aed8e7cb5097659bf839f7b18cc80cde8d7d837cc9c6576021b030d46e2"
     },
+    "09077a5f1e8bb0d288f08710b3f8910444c05f5f1aa3d60d5f8fb2a1777ab5c6": {
+        "name": "⚡️ - Mobile G2",
+        "last_advert": 1768380244,
+        "last_seen": "2026-01-14T19:44:04+11:00",
+        "status": "active",
+        "public_key": "09077a5f1e8bb0d288f08710b3f8910444c05f5f1aa3d60d5f8fb2a1777ab5c6"
+    },
     "0a8b3986485daf3967295341e57355e93c946164fb4fe387cb4535cff9098973": {
         "name": "☢ Alpine",
         "last_advert": 1768050354,
@@ -269,8 +276,8 @@
     },
     "2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154": {
         "name": "🐉Nth Kelllyville (We",
-        "last_advert": 1768083620,
-        "last_seen": "2026-01-11T09:20:20+11:00",
+        "last_advert": 1768391348,
+        "last_seen": "2026-01-14T22:49:08+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -346,8 +353,8 @@
     },
     "36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092": {
         "name": "🌱Camperdown🌤",
-        "last_advert": 1768354701,
-        "last_seen": "2026-01-14T12:38:21+11:00",
+        "last_advert": 1768387647,
+        "last_seen": "2026-01-14T21:47:27+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -387,6 +394,13 @@
         "advert_location": true,
         "status": "active",
         "public_key": "3aae8ba3cf3ae81db78579c50e3af18522238fc66342a5d5e5e582ac9e098d43"
+    },
+    "3bf891315d48b2e936fc55ddebb0f6d389850d257dfa1f93d615e0ba7a93e8b6": {
+        "name": "⚡️ - Mobile G2",
+        "last_advert": 1768379781,
+        "last_seen": "2026-01-14T19:36:21+11:00",
+        "status": "active",
+        "public_key": "3bf891315d48b2e936fc55ddebb0f6d389850d257dfa1f93d615e0ba7a93e8b6"
     },
     "3c732b37f8a046b1c3f60a96aaed9641720f1678704f0dd141a1ac8f4eadce17": {
         "name": "🌱Bridge 433.95🌤",
@@ -712,8 +726,8 @@
     },
     "6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc": {
         "name": "☢ Campbelltown",
-        "last_advert": 1768350774,
-        "last_seen": "2026-01-14T11:32:54+11:00",
+        "last_advert": 1768382199,
+        "last_seen": "2026-01-14T20:16:39+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -762,9 +776,9 @@
         "public_key": "738460c241d09fd9891cb484b316176c929eef2e995e31cbaf77ba6430d7722e"
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
-        "name": "BTQ Hornsby Fence V",
-        "last_advert": 1768209601,
-        "last_seen": "2026-01-12T20:20:01+11:00",
+        "name": "BTQ Hornsby Fence",
+        "last_advert": 1768387535,
+        "last_seen": "2026-01-14T21:45:35+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -1170,8 +1184,8 @@
     },
     "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f": {
         "name": "😬-Davidson",
-        "last_advert": 1768337323,
-        "last_seen": "2026-01-14T07:48:43+11:00",
+        "last_advert": 1768380523,
+        "last_seen": "2026-01-14T19:48:43+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f"
@@ -1327,8 +1341,8 @@
     },
     "ca88211afc273668b749bd69f5d98a05cd72268a008c658aeb74f99bbc9ad8ed": {
         "name": "🧿 Wentworth Pt 04",
-        "last_advert": 1768308681,
-        "last_seen": "2026-01-13T23:51:21+11:00",
+        "last_advert": 1768387041,
+        "last_seen": "2026-01-14T21:37:21+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "ca88211afc273668b749bd69f5d98a05cd72268a008c658aeb74f99bbc9ad8ed"
@@ -1343,8 +1357,8 @@
     },
     "cd6429f4eb38f0f4db86bceb4a450b1cb7f3090ddc63c59e51852959166042bc": {
         "name": "🧿 Wentworth Pt 03",
-        "last_advert": 1768345094,
-        "last_seen": "2026-01-14T09:58:14+11:00",
+        "last_advert": 1768388294,
+        "last_seen": "2026-01-14T21:58:14+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "cd6429f4eb38f0f4db86bceb4a450b1cb7f3090ddc63c59e51852959166042bc"
