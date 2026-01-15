@@ -1,5 +1,7 @@
 ---
 title: New South Wales Meshcore Network & Repeater Configuration Guide
+redirect_from:
+  - /guide
 ---
 
 <style>
@@ -114,6 +116,8 @@ function copyCmd(text, btn) {
   });
 }
 </script>
+
+> 📢 **Join the Community!** Most off-mesh communication happens on our [Discord server](https://discord.gg/Du437Usj3K). Come say hi, ask questions, and connect with other mesh enthusiasts!
 
 ## Table of Contents
 
