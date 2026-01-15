@@ -6,8 +6,8 @@
     },
     "012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab": {
         "name": "☢️ Bradbury",
-        "last_advert": 1768463116,
-        "last_seen": "2026-01-15T18:45:16+11:00",
+        "last_advert": 1768506316,
+        "last_seen": "2026-01-16T06:45:16+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -337,8 +337,8 @@
     },
     "3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b": {
         "name": "⚡️ - Mt Colah",
-        "last_advert": 1768480031,
-        "last_seen": "2026-01-15T23:27:11+11:00",
+        "last_advert": 1768508827,
+        "last_seen": "2026-01-16T07:27:07+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b"
@@ -779,8 +779,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Hornsby Fence",
-        "last_advert": 1768491935,
-        "last_seen": "2026-01-16T02:45:35+11:00",
+        "last_advert": 1768518935,
+        "last_seen": "2026-01-16T10:15:35+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -1203,8 +1203,8 @@
     },
     "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f": {
         "name": "😬-Davidson",
-        "last_advert": 1768466923,
-        "last_seen": "2026-01-15T19:48:43+11:00",
+        "last_advert": 1768510123,
+        "last_seen": "2026-01-16T07:48:43+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f"
@@ -1527,8 +1527,8 @@
     },
     "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7": {
         "name": "MMTV - Belmore - Solar",
-        "last_advert": 1768489111,
-        "last_seen": "2026-01-16T01:58:31+11:00",
+        "last_advert": 1768508581,
+        "last_seen": "2026-01-16T07:23:01+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7"
@@ -1678,10 +1678,10 @@
         "status": "active",
         "public_key": "f3d832d2e33e528a6aa60925933f9ed81f474c702e3a2e4f2143dc84568a6bec"
     },
-    "F4FEED..........................................................": {
+    "f4feed..........................................................": {
         "name": "MMTV - TBA",
         "status": "active",
-        "public_key": "F4FEED.........................................................."
+        "public_key": "f4feed.........................................................."
     },
     "f58e1ca5e95ca03d516b80c4839ecd8c76855f63e9e9dea371f3384b24a1b705": {
         "name": "✝️ St Finbar's",
@@ -1691,10 +1691,10 @@
         "status": "active",
         "public_key": "f58e1ca5e95ca03d516b80c4839ecd8c76855f63e9e9dea371f3384b24a1b705"
     },
-    "F6FEED..........................................................": {
+    "f6feed..........................................................": {
         "name": "MMTV - TBA",
         "status": "active",
-        "public_key": "F6FEED.........................................................."
+        "public_key": "f6feed.........................................................."
     },
     "f7aeb38db6e6410ec8aa363834834276179d1409548be26873f0649a42ca610b": {
         "name": "SA - 2190 Greenacre 2",
@@ -1719,11 +1719,6 @@
         "status": "active",
         "public_key": "f8feedc41a29d932c7895324c0d26e34bd6a273651f9ab5f9666a1276a80b56b"
     },
-    "F8FEED..........................................................": {
-        "name": "MMTV - TBA",
-        "status": "active",
-        "public_key": "F8FEED.........................................................."
-    },
     "f9b87d3ec231b2dd58f0a7ef664eb833b6f474013b1031b081f8d3233e9f47fe": {
         "name": "Mt Hugel near Adelong-Tumut",
         "internet_location": true,
@@ -1738,10 +1733,10 @@
         "status": "active",
         "public_key": "f9ae2afdc00781c2faa399c4125bd6ee3a9c64a4656f1f9e54455a378f5d540e"
     },
-    "FAFEED..........................................................": {
+    "fafeed..........................................................": {
         "name": "MMTV - TBA",
         "status": "active",
-        "public_key": "FAFEED.........................................................."
+        "public_key": "fafeed.........................................................."
     },
     "fb94d23b876c30394db8da710d1d6995273c8a7eb69d009582f3d6c88a4b3b1f": {
         "name": "Wee Jasper",
