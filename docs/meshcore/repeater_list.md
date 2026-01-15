@@ -27,6 +27,7 @@ As of 16 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 13 | 🌱Moore Park | 1362d09c71a15f24d18e26255dfc4c5844c4f87e8f0783907b5401e4fc4fa578 | 2026-01-16T00:54:07+11:00 | ✔ |  |  |
 | 14 | ☂️HP Tallawong W RP | 1420cc930316bc0811f6e144191347507707e76adeeaae0fe0f12a7a86394609 | 2025-12-05T23:54:28+11:00 | ✔ |  |  |
 | 15 | Wallys Rpt Thornleigh | 156020ec5d2ff6bd2e371b8942cf7b4b57c7feec5d21467e05a380dd79d287a1 | 2026-01-11T16:13:23+11:00 | ✔ | ✔ | 3 |
+| 16 | 🌱Nelson St II☀️ | 16395388cd4fc2717d6d6122a2e6670f6dab3af6a5eb187e0b429d86efc6fa7f | 2026-01-13T01:50:34+11:00 | ✔ |  |  |
 | 17 | TBA RAK4631 | 172b75d61fba084d2b288688090f8a0fd2e8b937951e419a7c4374ba81997db8 | 2026-01-05T03:39:43+11:00 |  |  |  |
 | 18 | 🌱Artamon | 1808398943cb12730da5ef4f682b41d55fac7403459d2925ca0a773304c0eaee | 2026-01-16T00:49:09+11:00 | ✔ |  |  |
 | 19 | ✝️ Cleric TEST | 1939344650993341aef52069d604c876dce413db7ef6743571b06970a91b8a6c | 2024-05-18T20:52:33+10:00 | ✔ |  |  |
@@ -66,6 +67,7 @@ As of 16 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 41 | RR2 | 41d3de71e5690239fead4860bd14679f1f284bcbf36f2d8d87f34a491d205ad6 |  |  | ✔ |  |
 | 42 | Heltec Repeater | 42cd4d5314a5ee06702d828638c073e040b739e504309f6efd6f291b582e5c20 | 2025-11-05T02:13:12+11:00 | ✔ |  |  |
 | 42 | RobCo / Platinum Chip | 42b17e605d18948f668cf91e3846a11f7b34e2d03bd6ad862aba9d0ed1a4a635 | 2025-10-31T04:05:28+11:00 | ✔ |  |  |
+| 43 | 🌱Pymble | 4337e2d5be4bdb10f1b1dfb20029d5ca47eac2bad323ce737232acfcc984e3f3 | 2026-01-16T00:38:58+11:00 | ✔ |  |  |
 | 44 | 🌱Bridge Narrow🌤 | 44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280 | 2026-01-15T22:00:17+11:00 |  |  | 10 |
 | 45 | ☠️Elderslie Rpt | 45cb34e93fa2109b6de1ea9b034c90c8ca638fd9e5d86c297a67e4c9f9d8798b | 2026-01-09T04:04:36+11:00 | ✔ |  |  |
 | 46 | 🌱TBA | 465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90 | 2026-01-14T16:02:31+11:00 | ✔ |  | 2 |
