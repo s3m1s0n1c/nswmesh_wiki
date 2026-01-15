@@ -6,8 +6,8 @@
     },
     "012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab": {
         "name": "☢️ Bradbury",
-        "last_advert": 1768393578,
-        "last_seen": "2026-01-14T23:26:18+11:00",
+        "last_advert": 1768419916,
+        "last_seen": "2026-01-15T06:45:16+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -23,8 +23,8 @@
     },
     "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436": {
         "name": "⚡- Testing",
-        "last_advert": 1768071232,
-        "last_seen": "2026-01-11T05:53:52+11:00",
+        "last_advert": 1768417557,
+        "last_seen": "2026-01-15T06:05:57+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436"
@@ -105,8 +105,8 @@
     },
     "113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642": {
         "name": "🌱Chester Street",
-        "last_advert": 1768242940,
-        "last_seen": "2026-01-13T05:35:40+11:00",
+        "last_advert": 1768437240,
+        "last_seen": "2026-01-15T11:34:00+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -353,8 +353,8 @@
     },
     "36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092": {
         "name": "🌱Camperdown🌤",
-        "last_advert": 1768396577,
-        "last_seen": "2026-01-15T00:16:17+11:00",
+        "last_advert": 1768425590,
+        "last_seen": "2026-01-15T08:19:50+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -376,8 +376,8 @@
     },
     "38b0c615ea50ff318a136d88741b886c566ccec2a116c1b0b6bd5f863d2217b7": {
         "name": "MMTV - Belfield",
-        "last_advert": 1768394774,
-        "last_seen": "2026-01-14T23:46:14+11:00",
+        "last_advert": 1768437974,
+        "last_seen": "2026-01-15T11:46:14+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "38b0c615ea50ff318a136d88741b886c566ccec2a116c1b0b6bd5f863d2217b7"
@@ -404,8 +404,8 @@
     },
     "3c732b37f8a046b1c3f60a96aaed9641720f1678704f0dd141a1ac8f4eadce17": {
         "name": "🌱Bridge 433.95🌤",
-        "last_advert": 1768350956,
-        "last_seen": "2026-01-14T11:35:56+11:00",
+        "last_advert": 1768437356,
+        "last_seen": "2026-01-15T11:35:56+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -456,8 +456,8 @@
     },
     "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280": {
         "name": "🌱Bridge VIC🌤",
-        "last_advert": 1768350850,
-        "last_seen": "2026-01-14T11:34:10+11:00",
+        "last_advert": 1768437250,
+        "last_seen": "2026-01-15T11:34:10+11:00",
         "status": "active",
         "public_key": "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280"
     },
@@ -607,8 +607,8 @@
     },
     "60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867": {
         "name": "Hornsby dbb Repeater",
-        "last_advert": 1768254432,
-        "last_seen": "2026-01-13T08:47:12+11:00",
+        "last_advert": 1768419009,
+        "last_seen": "2026-01-15T06:30:09+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867"
@@ -777,8 +777,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Hornsby Fence",
-        "last_advert": 1768412735,
-        "last_seen": "2026-01-15T04:45:35+11:00",
+        "last_advert": 1768427135,
+        "last_seen": "2026-01-15T08:45:35+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -863,8 +863,8 @@
     },
     "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528": {
         "name": "MMTV - TEMP",
-        "last_advert": 1768394635,
-        "last_seen": "2026-01-14T23:43:55+11:00",
+        "last_advert": 1768437835,
+        "last_seen": "2026-01-15T11:43:55+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528"
@@ -991,9 +991,10 @@
         "public_key": "95a6ae9f43ff31e8d1541ed017b48e79486bdd4df00c42f9eb34e7f9b415d476"
     },
     "973fd16a3c4629247a80fad186e339019439986966b9d893f8fab3b2ac394494": {
-        "name": "🌱Mobile Repeater",
-        "last_advert": 1767238861,
-        "last_seen": "2026-01-01T14:41:01+11:00",
+        "name": "🌱Mobile Meshpocket",
+        "last_advert": 1768424894,
+        "last_seen": "2026-01-15T08:08:14+11:00",
+        "advert_location": true,
         "status": "active",
         "public_key": "973fd16a3c4629247a80fad186e339019439986966b9d893f8fab3b2ac394494"
     },
@@ -1162,8 +1163,8 @@
     },
     "b1fd61f11933c9c288d48725a5d75462c769da8939ec2804cc7a660a16e89b34": {
         "name": "ATRO - ENFIELD",
-        "last_advert": 1768352029,
-        "last_seen": "2026-01-14T11:53:49+11:00",
+        "last_advert": 1768438463,
+        "last_seen": "2026-01-15T11:54:23+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "b1fd61f11933c9c288d48725a5d75462c769da8939ec2804cc7a660a16e89b34"
@@ -1184,8 +1185,8 @@
     },
     "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f": {
         "name": "😬-Davidson",
-        "last_advert": 1768380523,
-        "last_seen": "2026-01-14T19:48:43+11:00",
+        "last_advert": 1768423723,
+        "last_seen": "2026-01-15T07:48:43+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f"
@@ -1226,8 +1227,8 @@
     },
     "bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f": {
         "name": "〽️ - Greenacre PWR",
-        "last_advert": 1768400493,
-        "last_seen": "2026-01-15T01:21:33+11:00",
+        "last_advert": 1768422093,
+        "last_seen": "2026-01-15T07:21:33+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f"
@@ -1365,8 +1366,8 @@
     },
     "cd6429f4eb38f0f4db86bceb4a450b1cb7f3090ddc63c59e51852959166042bc": {
         "name": "🧿 Wentworth Pt 03",
-        "last_advert": 1768388294,
-        "last_seen": "2026-01-14T21:58:14+11:00",
+        "last_advert": 1768431494,
+        "last_seen": "2026-01-15T09:58:14+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "cd6429f4eb38f0f4db86bceb4a450b1cb7f3090ddc63c59e51852959166042bc"
@@ -1493,8 +1494,8 @@
     },
     "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7": {
         "name": "MMTV - Belmore - Solar",
-        "last_advert": 1768400581,
-        "last_seen": "2026-01-15T01:23:01+11:00",
+        "last_advert": 1768422181,
+        "last_seen": "2026-01-15T07:23:01+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7"
