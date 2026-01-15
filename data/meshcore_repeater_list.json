@@ -1669,6 +1669,11 @@
         "status": "active",
         "public_key": "f3d832d2e33e528a6aa60925933f9ed81f474c702e3a2e4f2143dc84568a6bec"
     },
+    "F4FEED..........................................................": {
+        "name": "MMTV - TBA",
+        "status": "active",
+        "public_key": "F4FEED.........................................................."
+    },
     "f58e1ca5e95ca03d516b80c4839ecd8c76855f63e9e9dea371f3384b24a1b705": {
         "name": "✝️ St Finbar's",
         "last_advert": 1762085646,
@@ -1676,6 +1681,11 @@
         "internet_location": true,
         "status": "active",
         "public_key": "f58e1ca5e95ca03d516b80c4839ecd8c76855f63e9e9dea371f3384b24a1b705"
+    },
+    "F6FEED..........................................................": {
+        "name": "MMTV - TBA",
+        "status": "active",
+        "public_key": "F6FEED.........................................................."
     },
     "f7aeb38db6e6410ec8aa363834834276179d1409548be26873f0649a42ca610b": {
         "name": "SA - 2190 Greenacre 2",
@@ -1693,6 +1703,11 @@
         "status": "active",
         "public_key": "f72b520247a7ee704c2ad22d9a29d6b95f861faa38e662f90298b91169c47498"
     },
+    "F8FEED..........................................................": {
+        "name": "MMTV - TBA",
+        "status": "active",
+        "public_key": "F8FEED.........................................................."
+    },
     "f9b87d3ec231b2dd58f0a7ef664eb833b6f474013b1031b081f8d3233e9f47fe": {
         "name": "Mt Hugel near Adelong-Tumut",
         "internet_location": true,
@@ -1706,6 +1721,11 @@
         "advert_location": true,
         "status": "active",
         "public_key": "f9ae2afdc00781c2faa399c4125bd6ee3a9c64a4656f1f9e54455a378f5d540e"
+    },
+    "FAFEED..........................................................": {
+        "name": "MMTV - TBA",
+        "status": "active",
+        "public_key": "FAFEED.........................................................."
     },
     "fb94d23b876c30394db8da710d1d6995273c8a7eb69d009582f3d6c88a4b3b1f": {
         "name": "Wee Jasper",
