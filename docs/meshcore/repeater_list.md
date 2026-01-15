@@ -2,16 +2,16 @@
 title: NSW Meshcore Repeater List
 ---
 
-As of 15 January 2026, Meshcore identifies repeaters and roomservers using the first byte (first two characters) of the node's public key. If two repeater nodes share the same first byte, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
+As of 16 January 2026, Meshcore identifies repeaters and roomservers using the first byte (first two characters) of the node's public key. If two repeater nodes share the same first byte, it may cause the node path to not display correctly and cause issues when pinging a zero-hop node. As a result, a list of repeaters and their public keys can be found here so that when meshers create a new node they can confirm whether their node key may need to be updated.
 
 
 | public_key_prefix | name | public_key | last_seen | advert_location | internet_location | antenna height above ground (m) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 00 | Reserved by MeshCore | 0000000000000000000000000000000000000000000000000000000000000000 |  |  |  |  |
-| 01 | ☢️ Bradbury | 012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab | 2026-01-15T18:45:16+11:00 | ✔ | ✔ |  |
+| 01 | ☢️ Bradbury | 012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab | 2026-01-16T06:45:16+11:00 | ✔ | ✔ |  |
 | 02 | 🎩 SI - Alfa | 02b09c5b8c55e1d82f4bd95c3741f82b3f7fafc4675749d4ace649b728446f19 | 2025-12-20T21:46:49+11:00 | ✔ |  |  |
-| 05 | ⚡- Testing | 05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436 | 2026-01-15T06:05:57+11:00 |  | ✔ |  |
-| 06 | 🂎 - Rozelle | 065b3b1ac951fe7655e6eb4b9d9bf07bc68d177d189f3fbbfcaa1daa3b25d647 | 2026-01-15T19:59:54+11:00 | ✔ |  |  |
+| 05 | ⚡- Testing | 05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436 | 2026-01-16T02:59:02+11:00 |  | ✔ |  |
+| 06 | 🂎 - Rozelle | 065b3b1ac951fe7655e6eb4b9d9bf07bc68d177d189f3fbbfcaa1daa3b25d647 | 2026-01-16T05:43:50+11:00 | ✔ |  |  |
 | 07 | 🛜LUX12 - Cringila Hi | 07e350d61983defd89e3a6677c3bf581ec28e83be6a97d1a90757de6974cec6f | 2025-11-26T09:55:44+11:00 | ✔ |  |  |
 | 08 | t1000 ✝️ | 08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8 |  |  |  |  |
 | 08 | Woonona Repeater | 0893fae74bcf5732f1db788970e35a6ddc38283cbba6bba46dc5cfa233403cd4 |  |  |  |  |
@@ -21,13 +21,13 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 0B | Test_Rptr(T114) | 0bd43b5d2064cf8b1f147ce052def49366c26618b24b35eb3466399e5832df1f | 2026-01-11T14:36:22+11:00 |  | ✔ |  |
 | 0C | ✝️Wst Syd Airport | 0cdb20c2f916c35e1479d663b53f9380cb236ca7de0a25195251cb909d60ca6b | 2025-10-30T02:22:03+11:00 | ✔ | ✔ |  |
 | 0E | 🛜LUX02 - Mt Keira St | 0e94becbbd62c1ca39abdf3f464a505b80f238b8ae8ded05acffe9ffd815b76e | 2026-01-10T01:26:01+11:00 | ✔ |  |  |
-| 10 | 🌱Now Narrow Preset | 10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7 | 2026-01-15T15:27:37+11:00 | ✔ | ✔ | 12 |
-| 11 | 🌱Chester Street | 113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642 | 2026-01-15T11:34:00+11:00 | ✔ | ✔ | 10 |
+| 10 | 🌱Now Narrow Preset | 10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7 | 2026-01-16T00:32:27+11:00 | ✔ | ✔ | 12 |
+| 11 | 🌱Chester Street | 113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642 | 2026-01-15T22:02:06+11:00 | ✔ | ✔ | 10 |
 | 12 | 🌱Ultimo II | 1244c5f64e7b65c419bd7f65da2a2416edf1efe84fd04e868ad77af0f131d4f7 | 2026-01-12T12:56:57+11:00 | ✔ | ✔ |  |
 | 14 | ☂️HP Tallawong W RP | 1420cc930316bc0811f6e144191347507707e76adeeaae0fe0f12a7a86394609 | 2025-12-05T23:54:28+11:00 | ✔ |  |  |
 | 15 | Wallys Rpt Thornleigh | 156020ec5d2ff6bd2e371b8942cf7b4b57c7feec5d21467e05a380dd79d287a1 | 2026-01-11T16:13:23+11:00 | ✔ | ✔ | 3 |
 | 17 | TBA RAK4631 | 172b75d61fba084d2b288688090f8a0fd2e8b937951e419a7c4374ba81997db8 | 2026-01-05T03:39:43+11:00 |  |  |  |
-| 18 | 🌱Mobile T1000E Rpt | 1808398943cb12730da5ef4f682b41d55fac7403459d2925ca0a773304c0eaee | 2026-01-15T15:22:12+11:00 |  |  |  |
+| 18 | 🌱Artamon | 1808398943cb12730da5ef4f682b41d55fac7403459d2925ca0a773304c0eaee | 2026-01-16T00:49:09+11:00 | ✔ |  |  |
 | 19 | ✝️ Cleric TEST | 1939344650993341aef52069d604c876dce413db7ef6743571b06970a91b8a6c | 2024-05-18T20:52:33+10:00 | ✔ |  |  |
 | 19 | 🛜LUX10 - Hill 60 | 19f554ccf678ca636139369d1d3a0cbb2e9c8bee9a90d396214d6df86635dd78 | 2025-11-29T09:31:28+11:00 | ✔ |  |  |
 | 1A | Gym_RePortable | 1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8 | 2025-11-27T20:27:07+11:00 |  | ✔ |  |
@@ -38,7 +38,7 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 22 | ✝️ Lapstone | 2236b54323a4d64073ef91fe66bf4231314d7c90a216f12be68f0b1cf053f3f6 | 2026-01-12T15:56:07+11:00 | ✔ | ✔ |  |
 | 23 | Gregory Hills Rpt | 23fc50160778f87caf7af401d786692b74efded66d9bff5b20cf40395341d688 | 2025-10-29T14:59:10+11:00 | ✔ | ✔ |  |
 | 24 | 🌏 2211 Padstow 02 | 2430ca4c321b88eafd261443710de91130a5921fe0dcb1275e600fc4766f70bd | 2026-01-10T16:56:42+11:00 | ✔ |  |  |
-| 25 | 👽Abbotsbury 1 | 2511afbd5064709ebc08a651aea722da0fb852ccd19e6f3b91f7540de8627ec3 | 2026-01-14T23:11:27+11:00 | ✔ | ✔ |  |
+| 25 | 👽Abbotsbury 1 | 2511afbd5064709ebc08a651aea722da0fb852ccd19e6f3b91f7540de8627ec3 | 2026-01-16T01:44:35+11:00 | ✔ | ✔ |  |
 | 26 | 🦘Horsley Park | 26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f | 2025-12-30T10:34:08+11:00 | ✔ |  |  |
 | 27 | 🦘Londonderry | 27b252ad7c106fa10153d49d5ac6a19ed953c39e4977b33c1c70c4afb3df6485 | 2025-12-07T18:23:41+11:00 | ✔ | ✔ |  |
 | 28 | ☠️ Mount Annan Rpt | 28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16 | 2026-01-15T17:52:13+11:00 | ✔ | ✔ |  |
@@ -49,13 +49,13 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 2E | 🛜LUX08 - Knights Hil | 2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05 | 2025-12-19T12:46:47+11:00 | ✔ | ✔ |  |
 | 30 | ⚡️ - Asquith | 30bdc69bc1db4377a17e33044dc61e1d95a33e4dadfeaabd87fe753c8794b224 | 2025-12-24T21:07:18+11:00 | ✔ | ✔ |  |
 | 32 | ⚡️ - Staples | 32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9 | 2026-01-15T15:51:48+11:00 | ✔ | ✔ | 43 |
-| 33 | ⚡️ - Mt Colah | 3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b | 2026-01-15T05:57:39+11:00 | ✔ |  |  |
+| 33 | ⚡️ - Mt Colah | 3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b | 2026-01-16T07:27:07+11:00 | ✔ |  |  |
 | 34 | ⛰️ CC Fill | 3424534bf381d5904e208213a0e592224de3b41a36461b2067249964405ca734 | 2026-01-01T10:21:21+11:00 | ✔ |  |  |
 | 35 | Loftus Heights G2 | 35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d | 2026-01-11T14:14:41+11:00 | ✔ | ✔ |  |
 | 36 | 🌱Camperdown🌤 | 36e2d2f59c5cc149aa7217787dba78ea3d29a85f86d4a40f2c50823bf93eb092 | 2026-01-15T19:51:06+11:00 | ✔ | ✔ | 10 |
 | 37 | Caringbah Repeater | 376925ee45a03bffcb6f37b252b6394d45f07ec488993c6c0db60d17438f6a7b | 2025-11-04T23:12:42+11:00 | ✔ | ✔ |  |
 | 37 | Odinsdad reserved | 3737f169fbea4a1dfb300c91a8d9b7efc3c216e377090f925fdbaad41e9b8a96 |  |  |  |  |
-| 38 | MMTV - Belfield | 38b0c615ea50ff318a136d88741b886c566ccec2a116c1b0b6bd5f863d2217b7 | 2026-01-15T11:46:14+11:00 | ✔ |  |  |
+| 38 | MMTV - Belfield | 38b0c615ea50ff318a136d88741b886c566ccec2a116c1b0b6bd5f863d2217b7 | 2026-01-15T23:46:14+11:00 | ✔ |  |  |
 | 39 | Ch1cken 2220 Repeater | 39c3db1cfdab1123eff16cb8b88fc0e2b9cc1da04e5b6cb94d5f8fb73cf17ed3 |  |  |  |  |
 | 3A | 🏍️Ashfield Nth | 3aae8ba3cf3ae81db78579c50e3af18522238fc66342a5d5e5e582ac9e098d43 | 2026-01-10T13:00:06+11:00 | ✔ |  |  |
 | 3C | 🌱Bridge 433.95🌤 | 3c732b37f8a046b1c3f60a96aaed9641720f1678704f0dd141a1ac8f4eadce17 | 2026-01-15T11:35:56+11:00 | ✔ | ✔ | 10 |
@@ -65,11 +65,11 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 41 | RR2 | 41d3de71e5690239fead4860bd14679f1f284bcbf36f2d8d87f34a491d205ad6 |  |  | ✔ |  |
 | 42 | Heltec Repeater | 42cd4d5314a5ee06702d828638c073e040b739e504309f6efd6f291b582e5c20 | 2025-11-05T02:13:12+11:00 | ✔ |  |  |
 | 42 | RobCo / Platinum Chip | 42b17e605d18948f668cf91e3846a11f7b34e2d03bd6ad862aba9d0ed1a4a635 | 2025-10-31T04:05:28+11:00 | ✔ |  |  |
-| 44 | 🌱Bridge Narrow🌤 | 44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280 | 2026-01-15T15:25:47+11:00 |  |  | 10 |
+| 44 | 🌱Bridge Narrow🌤 | 44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280 | 2026-01-15T22:00:17+11:00 |  |  | 10 |
 | 45 | ☠️Elderslie Rpt | 45cb34e93fa2109b6de1ea9b034c90c8ca638fd9e5d86c297a67e4c9f9d8798b | 2026-01-09T04:04:36+11:00 | ✔ |  |  |
 | 46 | 🌱TBA | 465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90 | 2026-01-14T16:02:31+11:00 | ✔ |  | 2 |
 | 47 | 🍆Haberfield MerrMan | 4703c8e6363830fddc200d6953e5c4b902086bb6cbde2e3de7efb3555494f1e4 | 2025-11-01T23:11:18+11:00 | ✔ | ✔ |  |
-| 49 | ⚡️ - St Leonards | 49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff | 2026-01-15T12:39:24+11:00 | ✔ | ✔ | 60 |
+| 49 | ⚡️ - St Leonards | 49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff | 2026-01-16T00:39:32+11:00 | ✔ | ✔ | 60 |
 | 4B | Dingus repeater | 4ba9c51b34d518ec8f22bf3f93621d1a11b67368818ae228adc63dbff250dd6a | 2025-12-31T05:05:11+11:00 |  |  |  |
 | 4C | Bosco Repeater | 4ce7f924255d56e44b3afc071b6fa64e2fd3ed4c4242a19a9a0abf99973fa7d0 | 2025-12-22T19:13:04+11:00 | ✔ |  |  |
 | 4C | 🛜LUX03 - Keira Nth | 4c05703c81e953185a2d4282827c3e8a3aef846749a32e7b1a215e1edc03911a | 2025-12-11T01:04:40+11:00 | ✔ | ✔ |  |
@@ -78,7 +78,7 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 52 | 🥽pi repeater | 52e9dc94769258068aceae2e3b9e156fbcf9110dd97d5f8293808392947fdb99 | 2026-01-05T03:24:54+11:00 | ✔ |  |  |
 | 53 | ENGADINE REPEATER | 53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c | 2026-01-12T13:40:09+11:00 | ✔ | ✔ |  |
 | 56 | Blaxland Heltec | 563954ae5a649b52e16b013df23e814e214d467f214e4f08be0f35c7914fdf27 | 2026-01-15T03:57:36+11:00 | ✔ |  |  |
-| 57 | 👽West Hoxton | 5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3 | 2026-01-15T00:20:28+11:00 | ✔ |  |  |
+| 57 | 👽West Hoxton | 5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3 | 2026-01-16T00:20:28+11:00 | ✔ |  |  |
 | 59 | oatl-meshcore | 5980a89f75c99b4e1637e0ec6b0089a5401e92a365cde33f3a69c7d6c7ecceef | 2025-11-14T01:03:59+11:00 |  |  |  |
 | 5A | 🐧MeshyRPT *Redfrn_ts | 5ae24e7d3900e968b137fd25e4b58cf95dfab5d62500dc8e24dfb87b6ad36408 | 2025-10-30T18:35:30+11:00 | ✔ |  |  |
 | 5C | trublion | 5c66d2077e7e4d8ac60474f84ccfb0338c93f6765b83bdb6ae96e2f2d24239a0 | 2025-11-29T14:18:05+11:00 |  | ✔ |  |
@@ -88,8 +88,8 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 61 | 2C-PAC Mac | 6109d1672b9b340f52b1e5d5061ba14995c614baffbaf97502b597d70d8cb74e |  |  | ✔ |  |
 | 62 | 2C-PAC Temp2 | 628574bb5341e808b44d8783b1ce376a866e9a079d447a75f6a59cd5b379e7c4 |  |  |  |  |
 | 63 | 🐄 Spare | 63beefc6559f3411c0d9d2eb7472ed5f0ec22cc1a537dd551f44faf127962441 | 2025-12-29T15:43:28+11:00 |  |  |  |
-| 64 | 🐄 Hawkesbury Heights | 64beefb0250ae525979e02f1ebdbce266a1acccff2cbffb24ec9d99236e09d59 | 2026-01-11T14:08:35+11:00 | ✔ | ✔ | 2 |
-| 65 | 🐄 North Sydney | 65beef87abb2539dc4761bab7a2c7b30409b6271ad7707837c51cc2f3d722957 | 2026-01-15T16:35:52+11:00 | ✔ |  | 10 |
+| 64 | 🐄 Hawkesbury Heights | 64beefb0250ae525979e02f1ebdbce266a1acccff2cbffb24ec9d99236e09d59 | 2026-01-15T21:21:57+11:00 | ✔ | ✔ | 2 |
+| 65 | 🐄 North Sydney | 65beef87abb2539dc4761bab7a2c7b30409b6271ad7707837c51cc2f3d722957 | 2026-01-16T03:29:14+11:00 | ✔ |  | 10 |
 | 66 | 33t2-mobile repeater | 66facbbed204c766052803f612edf79032ecbf5b813dedf71ea73cc8710b938b | 2025-12-26T12:34:02+11:00 | ✔ |  |  |
 | 67 | HangingRock Repeater | 67d693ad2bf9d5f5984a1f9ec8fa0dc2c65d774b865cd945f301c0c0db88270a | 2026-01-02T17:03:19+11:00 |  |  |  |
 | 68 | 🐄 Marsden Park | 68beeffb44555e09fc8e5696394352d9eb6e9d6454785cf107d7628d08b5d763 | 2026-01-11T13:46:09+11:00 | ✔ | ✔ | 2 |
@@ -97,25 +97,26 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 69 | ✝️ESP TEST RPTR_2 | 6951b4d07279c64e5e545367ad6cfc893516b6cca8e12e579c86651a23f9eeaf | 2025-11-05T19:08:58+11:00 |  |  |  |
 | 6B | Badgee_Vadgee | 6b2a6449087e16068aacb9e04d95b5eef688aa981552f62649d46b7a01af735e | 2025-12-19T22:01:05+11:00 | ✔ | ✔ |  |
 | 6B | Waratah/Mayfield Room Server | 6bb6c2e5ddf46e684cc3da697155fa4e34b8067668832f23c3c99405e06706a6 |  |  |  |  |
-| 6C | 🧿 Wentworth Pt 01 | 6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6 | 2026-01-15T17:11:30+11:00 | ✔ | ✔ |  |
+| 6C | 🧿 Wentworth Pt 01 | 6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6 | 2026-01-16T05:10:41+11:00 | ✔ | ✔ |  |
 | 6D | 🛜LUX06 - Kiama | 6d4ec1f2204fafe7f778490dbdfcf1f96553a00ca16c33f2e942eaaa022b631c | 2024-06-07T05:52:35+10:00 | ✔ | ✔ |  |
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |  |  |  |  |
-| 6E | ☢ Campbelltown | 6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc | 2026-01-14T23:24:49+11:00 | ✔ | ✔ |  |
+| 6E | ☢ Campbelltown | 6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc | 2026-01-15T23:32:54+11:00 | ✔ | ✔ |  |
 | 6F | 🌱TEcho Lite Bat.test | 6f24f27e881c5de2aa718e51e65a771c85be1696225cf62b96ae1371213afcd0 | 2026-01-04T03:45:37+11:00 | ✔ |  |  |
 | 70 | Condell Park Repeater | 70c8332ed926542cd72b1e5ce851c664c8e205b57c39cb866302b8474a9939ed | 2026-01-11T09:50:34+11:00 | ✔ |  |  |
 | 71 | Breakfast Point Rpt | 71f10c438880eff9bc36317f5a97f83e043f71f14d71b40727137d4fdac570f9 | 2026-01-11T14:56:43+11:00 | ✔ | ✔ |  |
 | 72 | BTQ - Hornsby - Window | 720433ccd90bc25d8bcbd7a8943103670902be5d344ac845a0e0ce83637a6130 | 2026-01-11T22:04:42+11:00 | ✔ | ✔ | 1.5 |
 | 73 | BTQ Portable 1 | 738460c241d09fd9891cb484b316176c929eef2e995e31cbaf77ba6430d7722e | 2025-11-03T11:12:35+11:00 | ✔ |  |  |
-| 74 | BTQ Hornsby Fence | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2026-01-15T19:45:35+11:00 |  |  |  |
-| 75 | ⚡️ - Normanhurst | 75bfd1352a36cb8832a7659e6f94d222dfa23c1689a40add38bbae72d6ba405b | 2026-01-15T01:52:04+11:00 | ✔ |  | 35 |
+| 74 | BTQ Hornsby Fence | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2026-01-16T10:15:35+11:00 |  |  |  |
+| 75 | ⚡️ - Normanhurst | 75bfd1352a36cb8832a7659e6f94d222dfa23c1689a40add38bbae72d6ba405b | 2026-01-16T01:48:58+11:00 | ✔ |  | 35 |
 | 75 | 🛜LUX11 - Figtree | 751ef72da4781301b88a004950ab41cea8edf74e135a86c2e9aa790f82bafaf6 | 2026-01-11T03:44:52+11:00 | ✔ |  |  |
 | 76 | BTQ - Hornsby - Roof V | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 | 2026-01-14T09:05:57+11:00 |  |  |  |
 | 77 | BTQ Portable 4 | 77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c | 2026-01-11T22:04:23+11:00 |  |  |  |
 | 78 | BTQ - TBA1 | 780cded5bbb9660725ec6d6be529ec15e52527d3b227ff286da4bc8cf0820621 |  |  |  |  |
 | 79 | BTQ - TBA2 | 799f41451764e9ae739f5b26abfdbb9db5df6e60206b7640c0f2d28c9212a340 |  |  |  |  |
-| 7A | ⚡- Beecroft | 7a8314cfdfa255363234150ab0511e4020c44d3a296e39ce12ffb2a4c89e4b6b | 2026-01-15T01:47:01+11:00 | ✔ |  |  |
-| 7B | ATR0 2 TBA | 7bd0e90ee3b9d83013478839d724683156a528b575f4a61ab16d90f0adc3a6aa | 2026-01-14T11:41:15+11:00 |  |  |  |
+| 7A | ⚡- Beecroft | 7a8314cfdfa255363234150ab0511e4020c44d3a296e39ce12ffb2a4c89e4b6b | 2026-01-16T01:25:13+11:00 | ✔ |  |  |
+| 7B | ATR0 2 TBA | 7bd0e90ee3b9d83013478839d724683156a528b575f4a61ab16d90f0adc3a6aa | 2026-01-15T23:21:14+11:00 | ✔ |  |  |
 | 7C | CN01 - Circular Quay | 7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4 | 2025-10-28T06:34:00+11:00 | ✔ | ✔ |  |
+| 7C | MMTV - 19007 - TBA | 7c6e431e1ef6f776fe623a9012e8e3ad38b9e627daf685292b332e5a43ac680a | 2026-01-15T22:19:12+11:00 |  |  |  |
 | 7D | 🌱☀️💡433.95 | 7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f | 2026-01-07T18:53:40+11:00 |  |  |  |
 | 7E | Barra Brui RPT | 7e6c8656b87781625784c140fb9c47ac57c6095040c0cafee7a4c0367d9f94dc | 2026-01-02T03:22:21+11:00 | ✔ |  |  |
 | 7E | MMTV - TEMP | 7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528 | 2026-01-15T11:43:55+11:00 | ✔ |  |  |
@@ -124,7 +125,7 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 81 | Steven BOS Yellow Rock | 81b15e8c04cd72e5b218a0b17c342e4fdab2c6c87053a0594421bf29d59e56e6 | 2026-01-08T07:07:05+11:00 | ✔ |  |  |
 | 82 | 🎩 SIR v2.0 | 82fb6b9e0c3563990d7ef653731af07e79f4f26544d56f48522433aab92311b4 | 2025-12-24T15:04:50+11:00 | ✔ |  |  |
 | 85 | Heltec Repeater | 853e5cd165e58030c0cff604c7268580c1d5ae915ad2ea4694a30725c4852fc5 | 2025-11-18T23:51:30+11:00 |  |  |  |
-| 86 | 🌱Mobile Repeater v4 | 8628f2f40736f67b206ae54d1945fb7568de42578c0c1812e98dd8b1e7dd5040 | 2025-12-25T21:42:12+11:00 |  |  |  |
+| 86 | 🌱Waterloo | 8628f2f40736f67b206ae54d1945fb7568de42578c0c1812e98dd8b1e7dd5040 | 2026-01-15T23:36:12+11:00 | ✔ |  |  |
 | 87 | 👾Green Point ☀️ | 871f9012913eaec6bf6da0237e34ccc546e5333ee673eb1c7ce82567dbe4cf1e | 2026-01-11T13:17:52+11:00 | ✔ | ✔ |  |
 | 88 | Isso/Maryville RPT↔ | 8866a6badf93b3a5d1155eb96a95d7d36513a6bd881516215bb43414ac00a8d1 | 2025-12-09T22:35:13+11:00 | ✔ | ✔ |  |
 | 89 | ☂️HP Tallawong S RP | 8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6 | 2025-12-24T21:27:22+11:00 | ✔ | ✔ |  |
@@ -133,10 +134,10 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 8C | 〽️ 2190 - S3 Test | 8c7a99ff9eb28c219d26cbe431b352a1a3a596b73a310a555a0b358834846248 | 2026-01-12T21:26:49+11:00 |  |  |  |
 | 8D | 📡YER NBSYD 01 | 8dd83466219fd7763cb0c4372152943b2d63b152403175acd0ce10d7e65eb778 | 2025-11-23T02:48:26+11:00 | ✔ |  |  |
 | 92 | Blackheath | 92c62c22e5117d957dc53320864c3d7ea4303d7e2d6161b1cd72663fb88d0545 | 2025-12-26T00:07:42+11:00 | ✔ |  |  |
-| 94 | Haberfield 777 | 94debdd1bbdbfffcd1519beb1da95c1878d8eb63888d96310b72a73ce8dad08a | 2026-01-15T18:09:40+11:00 | ✔ |  |  |
+| 94 | Haberfield 777 | 94debdd1bbdbfffcd1519beb1da95c1878d8eb63888d96310b72a73ce8dad08a | 2026-01-15T21:15:41+11:00 | ✔ |  |  |
 | 95 | CarlSagan-G2 | 95a6ae9f43ff31e8d1541ed017b48e79486bdd4df00c42f9eb34e7f9b415d476 | 2026-01-11T15:54:26+11:00 | ✔ |  |  |
-| 97 | 🌱Mobile Meshpocket | 973fd16a3c4629247a80fad186e339019439986966b9d893f8fab3b2ac394494 | 2026-01-15T08:08:14+11:00 | ✔ |  | 0 |
-| 9C | 👽Mobile Repeater | 9c311c5e4b819a0aa8e9c1ce92636c65d092a52545aaaa2b2cb532f97efe1728 | 2026-01-14T03:16:26+11:00 | ✔ | ✔ |  |
+| 97 | 🌱Mobile Meshpocket | 973fd16a3c4629247a80fad186e339019439986966b9d893f8fab3b2ac394494 | 2026-01-16T01:18:56+11:00 |  |  | 0 |
+| 9C | 👽Mobile Repeater | 9c311c5e4b819a0aa8e9c1ce92636c65d092a52545aaaa2b2cb532f97efe1728 | 2026-01-15T21:58:43+11:00 | ✔ | ✔ |  |
 | 9D | Elderslie Repeater | 9da11581c752e3233b73c514e945595aa1f1c36c5062ee9cff50a2dfa196bb33 |  |  |  |  |
 | 9E | 🌱APG Reserve ☀️ | 9ea6f7ac22a2d0f3db17c62ff915ec4eca0b1631d0d735510fdb7b96444b77df | 2026-01-13T19:44:31+11:00 | ✔ |  |  |
 | 9F | VK2MR Field Test | 9f03c8543973c40ad6c28575e08d2b28f5bac5978322d0cb326840d4905e421c | 2025-12-18T00:12:43+11:00 |  |  |  |
@@ -157,25 +158,25 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | AD | ✝️Mobile | ad3fcf8452917c3d01cda7834aa8ec63c07311f46f1373ad159819a0b5d850d0 | 2025-11-22T17:07:29+11:00 |  |  |  |
 | AE | BTQ -  Terry Hills | ae836f555cf9c41ced8c758a49400116765d6ba0c1f67d1bc60ee8433c03cd66 | 2026-01-10T02:15:01+11:00 |  |  |  |
 | B0 | 🦖NthKellyville | b00b18ba06f3d21688d477efdc71a15c8177af94cc83751090c6ead7ca56fad2 | 2025-12-28T21:49:06+11:00 | ✔ |  |  |
-| B1 | ATRO - ENFIELD | b1fd61f11933c9c288d48725a5d75462c769da8939ec2804cc7a660a16e89b34 | 2026-01-15T11:54:23+11:00 | ✔ |  |  |
+| B1 | ATRO - ENFIELD | b1fd61f11933c9c288d48725a5d75462c769da8939ec2804cc7a660a16e89b34 | 2026-01-16T02:00:39+11:00 | ✔ |  |  |
 | B3 | Wagra Mountain | b32b2c2f40c49de8d0fe44a130913cbed08e59aef0a7fc83d994932a7a8f6c03 |  |  | ✔ |  |
 | B5 | Plateau RPT | b513ebb098245bdf2fd2b4d87b4eebbed155ddcf5c4e741513b0fa64760d7a95 | 2025-11-30T13:22:00+11:00 | ✔ |  |  |
-| B6 | 😬-Davidson | b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f | 2026-01-15T19:48:43+11:00 | ✔ |  |  |
+| B6 | 😬-Davidson | b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f | 2026-01-16T07:48:43+11:00 | ✔ |  |  |
 | B7 | ☠ Kenny Hill Rpt | b745d1254f0639695fd7326c23f3a0bcb92aa4c5e08f6cfc43ba9527db88515d | 2026-01-11T14:41:21+11:00 | ✔ | ✔ |  |
 | B8 | JustSean Austinmer R1 | b8f998565f8403ee500e4e98a2cb7058ef1e8101506c21f4fd15524bc433f846 |  |  | ✔ |  |
 | B9 | Odinsdad reserved | b9bb336fae78e1e1d37ada112d82f282ddaf0aacf68d961b16d520c14498a6aa |  |  |  |  |
 | BB | ✝️Nepean River | bb18fef9928d2582f07bc4cfb77e2d057c0bbfd6873381a64f433961d0da71da |  |  | ✔ |  |
 | BC | SA - 2190 Greenacre | bcf36a8c01c7edbde80d208553038d0d5682a964cc8a5d4e8fae4149a21c3eab | 2026-01-10T01:14:28+11:00 | ✔ |  |  |
-| BC | 〽️ - Greenacre PWR | bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f | 2026-01-15T19:21:33+11:00 | ✔ |  |  |
+| BC | 〽️ - Greenacre PWR | bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f | 2026-01-16T01:21:33+11:00 | ✔ |  |  |
 | BD | ☎️ Jamberoo | bd00f382f921bbd739cbd277309b104ccb58743aa62a3ea3f9fed681e54fa6a8 | 2025-12-15T23:28:21+11:00 | ✔ |  |  |
 | BE | Bee - Waratah West | bee5120a7a2a4cf17b67fc2ec984c382a90a52944ff9b1e7b47fc52cf6cdea2d |  |  | ✔ |  |
-| BF | 〽️ - Greenacre SLR | bff18b65ff23ea30915511c905902a636752e14acfcde1028608b972ee931b10 | 2026-01-15T05:07:33+11:00 | ✔ |  |  |
+| BF | 〽️ - Greenacre SLR | bff18b65ff23ea30915511c905902a636752e14acfcde1028608b972ee931b10 | 2026-01-16T05:07:33+11:00 | ✔ |  |  |
 | C0 | TNZ Mt Colah | c01dbeef........................................................ |  |  |  |  |
 | C1 | Epping Repeater | c1237b61af7d13a9ee02ed377859f17bf941accea3b191c2bfe2b7a610d7b371 |  |  |  |  |
 | C1 | ⚡️ - Roof | c1cc1f7ba116e955fb0552432570ec76a99473b6563ccd6c8231375448d86a98 | 2025-12-24T16:27:45+11:00 | ✔ | ✔ | 5 |
 | C2 | 📟Mosman-Balmoral | c2a73ce3e6924b6e09ae2357fca65a6a1ebdb1245e9aba09327480ee2cf36742 |  |  | ✔ |  |
 | C3 | JustSean Repeater 1 | c349ffeb68ed1169be0775af01085e7c0fdabd18e1e327f8b56b4499835c7645 |  |  |  |  |
-| C3 | 🂎 Mobile 1 | c3d46652f52cf5f8bc365713e634258f0f168b883b346ac6e8ff2cdfb645e8ee | 2026-01-15T18:04:26+11:00 |  |  |  |
+| C3 | 🂎 Mobile 1 | c3d46652f52cf5f8bc365713e634258f0f168b883b346ac6e8ff2cdfb645e8ee | 2026-01-15T21:35:38+11:00 |  |  |  |
 | C4 | 🛡️Picton Test | c4549e2aa95457142575f2e255b125bdce258bf0f3c58c776fda949fe6e417ed | 2025-12-03T06:37:13+11:00 | ✔ | ✔ | 2 |
 | C5 | Cleric uConsole | c5aef8e0bdffdeceb93ab8a813748f4d0194a463263c3f703cea4eb972e91727 | 2025-11-16T20:05:11+11:00 |  |  |  |
 | C6 | ⚡ - Hornsby Heights | c6789559dcd194671d258daf16a843e6ebd3b564ef378a1735d34b9f542f6337 | 2026-01-15T00:12:48+11:00 | ✔ |  |  |
@@ -190,9 +191,9 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | CD | 🧿 Wentworth Pt 03 | cd6429f4eb38f0f4db86bceb4a450b1cb7f3090ddc63c59e51852959166042bc | 2026-01-15T14:58:35+11:00 | ✔ |  |  |
 | CE | 🌏 2196 Roselands | ce43eb701b43da3d53eebc1e26eed92802d216c9af99185745d2cc0afd2f7687 | 2026-01-11T05:15:44+11:00 | ✔ |  |  |
 | CF | 🧿 Wentworth Pt South | cfe09b3776ac57d7acc876316dd95ff8ae6467e3fb7f53542f1b2f95d51a14b1 | 2026-01-13T23:33:15+11:00 | ✔ | ✔ |  |
-| D0 | 🧿 Rhodes Brg Rpt | d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784 | 2026-01-15T17:58:43+11:00 | ✔ | ✔ |  |
+| D0 | 🧿 Rhodes Brg Rpt | d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784 | 2026-01-15T21:57:47+11:00 | ✔ | ✔ |  |
 | D1 | Kingsway Repeater | d1393cda9bbdbcb76a4234d9adff7de4e603bc07025c975b859438dac917a19c | 2025-12-31T02:27:29+11:00 | ✔ |  |  |
-| D1 | 🇦🇺 Rydalmere RPT | d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6 | 2026-01-13T14:46:03+11:00 | ✔ | ✔ |  |
+| D1 | 🇦🇺 Rydalmere RPT | d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6 | 2026-01-16T02:46:03+11:00 | ✔ | ✔ |  |
 | D2 | 🛡️Lakesland | d28b337542c0023c19f2fa97b4849f1c7345117b855f098544e2b1b3229eb3a7 |  |  |  |  |
 | D3 | 🇦🇺 Rydalmere RPT2 | d390a076723d74e679e5fe5aea733d6e9f074c08406cb3fbae583bec0cc8304e | 2025-12-04T02:31:46+11:00 | ✔ |  |  |
 | D4 | 🇦🇺 Ermington RPT | d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c | 2026-01-12T19:42:33+11:00 | ✔ |  |  |
@@ -204,7 +205,7 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | D9 | Glenbrook | d9f06e7d5afba41ba31426db0adca8b67eaa108cb862de22f24fef6a7068fe3c | 2026-01-10T04:22:30+11:00 | ✔ |  |  |
 | DA | Kearns Rpt 2 testing | da26e5ab39f0136594f2120418fdda6d2b4aaaa8cf7bb4b8742f10100fa23a2f |  |  |  |  |
 | DB | ☂️ HP Bankstown Rep | db3c00f64c0241827c83ac294dab21173fdb9bebadcdf22c12eb1b38d4cca15e | 2024-05-15T20:52:33+10:00 |  |  |  |
-| DC | MMTV - Belmore - Solar | dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7 | 2026-01-15T19:23:01+11:00 | ✔ |  |  |
+| DC | MMTV - Belmore - Solar | dccc467b2fef1769948e662b70d6e01d2ee7e71e180046dfb85b8cd752426fb7 | 2026-01-16T07:23:01+11:00 | ✔ |  |  |
 | DD | 🇦🇺 TEMP RPT01 | dd1241b62fc4af0f4f807b6092ad62f4175c62b223fe9d8f1d511896e1f5766a | 2026-01-01T15:46:47+11:00 | ✔ |  |  |
 | DE | HiveMesh.au G2 | de728887835917e4148244bf8bd14be7b8f11ba1d4c9daa48cd9ba9dc721e5ab | 2025-11-19T04:28:18+11:00 | ✔ |  |  |
 | DE | ⚡- V4 Power Test | de4a2a2e304a716eef07e0a5fb4dc4fe5122bda5a64661efd89454c0d1a74699 | 2026-01-10T16:23:24+11:00 |  |  |  |
@@ -212,7 +213,7 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | E1 | Cleric v4 ✝️ | e18afe9fca04fb86286e47501a211eb8d19e35a3e9d013b9b67e190278dce15b |  |  |  |  |
 | E3 | nerf to the core 🍏 | e3a36657debfd230b3f0969bc94e64bd96d7609aac640c4bb82467bd981668e4 | 2025-12-07T17:40:09+11:00 | ✔ |  |  |
 | E4 | 🛜LUX04 - Port Kembla | e4093953a6408506c962a158b65d07eac37782f4d428d23e6eb11ddc6652e4fd | 2025-12-13T17:19:56+11:00 | ✔ | ✔ |  |
-| E5 | 🤠 Zak Mobile | e564de87cbd7eb111d754e2a720e8813a4ddc9fb24d9cbaf565c3ac75e025063 | 2026-01-13T23:24:58+11:00 | ✔ | ✔ |  |
+| E5 | 🤠 Zak Mobile | e564de87cbd7eb111d754e2a720e8813a4ddc9fb24d9cbaf565c3ac75e025063 | 2026-01-16T00:57:30+11:00 | ✔ | ✔ |  |
 | E6 | 🌐WoononaRepeater | e6d5e897850d78e7448e8718100ffa9f6eb58f07b114e26c17bc42847abb3da3 | 2026-01-02T05:58:00+11:00 | ✔ |  |  |
 | E7 | 🦖TestRptr | e7240e0cb85fc6e433ca86e91d8e804258bef1113d7cfc248434be5eaab8ad0a | 2025-12-11T23:52:25+11:00 | ✔ |  |  |
 | E9 | ✝️Fairlight | e95170cc52e2d5a39bacc92fb60922bfefff12d553bc56e733533709943dfcab | 2025-11-16T15:55:40+11:00 | ✔ | ✔ |  |
@@ -224,15 +225,15 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | F1 | ✝️ Penrith Station | f1fc699ff05e41738524af480a24ccf5ada1f3248bd23d83f47ae69f44060193 | 2026-01-12T15:03:45+11:00 | ✔ | ✔ |  |
 | F2 | MMTV - 19003 - TBA | f2feedc0a1a6e76181adfe8ad906e325dc3b0e5e5e1db20bf5d8ac753892fda1 |  |  |  |  |
 | F3 | v4_ESPNOW_RPTR | f3d832d2e33e528a6aa60925933f9ed81f474c702e3a2e4f2143dc84568a6bec | 2025-11-16T18:05:07+11:00 |  |  |  |
-| F4 | MMTV - TBA | F4FEED.......................................................... |  |  |  |  |
+| F4 | MMTV - TBA | f4feed.......................................................... |  |  |  |  |
 | F5 | ✝️ St Finbar's | f58e1ca5e95ca03d516b80c4839ecd8c76855f63e9e9dea371f3384b24a1b705 | 2025-11-02T23:14:06+11:00 |  | ✔ |  |
-| F6 | MMTV - TBA | F6FEED.......................................................... |  |  |  |  |
+| F6 | MMTV - TBA | f6feed.......................................................... |  |  |  |  |
 | F7 | SA - 2190 Greenacre 2 | f7aeb38db6e6410ec8aa363834834276179d1409548be26873f0649a42ca610b | 2026-01-08T00:32:21+11:00 | ✔ |  |  |
 | F7 | 〽️ - Greenacre Test | f72b520247a7ee704c2ad22d9a29d6b95f861faa38e662f90298b91169c47498 | 2026-01-15T17:38:51+11:00 | ✔ |  |  |
-| F8 | MMTV - TBA | F8FEED.......................................................... |  |  |  |  |
+| F8 | MMTV - 19007 - TBA | f8feedc41a29d932c7895324c0d26e34bd6a273651f9ab5f9666a1276a80b56b | 2026-01-15T22:55:33+11:00 |  |  |  |
 | F9 | Mt Hugel near Adelong-Tumut | f9b87d3ec231b2dd58f0a7ef664eb833b6f474013b1031b081f8d3233e9f47fe |  |  | ✔ |  |
 | F9 | 🎩 SI - Drone | f9ae2afdc00781c2faa399c4125bd6ee3a9c64a4656f1f9e54455a378f5d540e | 2025-12-03T19:51:34+11:00 | ✔ |  |  |
-| FA | MMTV - TBA | FAFEED.......................................................... |  |  |  |  |
+| FA | MMTV - TBA | fafeed.......................................................... |  |  |  |  |
 | FB | Wee Jasper | fb94d23b876c30394db8da710d1d6995273c8a7eb69d009582f3d6c88a4b3b1f |  |  | ✔ |  |
 | FC | 🌱Minogue Cr.☀️ | fc1ae909ec52889f3da27a6c42193e31baba77232a47f39a14c1b8310de558c6 | 2026-01-04T02:50:06+11:00 | ✔ |  |  |
 | FE | RIPPLE-SYD-ILLAWONG-RPT | fef2dcf0570fdd0d9c9dfed38c35d0e25ce0aeeb98ed6ad5533e51f57c4c05ee | 2025-12-31T08:19:06+11:00 | ✔ | ✔ |  |
