@@ -11,6 +11,7 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 01 | ☢️ Bradbury | 012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab | 2026-01-15T06:45:16+11:00 | ✔ | ✔ |  |
 | 02 | 🎩 SI - Alfa | 02b09c5b8c55e1d82f4bd95c3741f82b3f7fafc4675749d4ace649b728446f19 | 2025-12-20T21:46:49+11:00 | ✔ |  |  |
 | 05 | ⚡- Testing | 05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436 | 2026-01-15T06:05:57+11:00 |  | ✔ |  |
+| 06 | 🂎 - Rozelle | 065b3b1ac951fe7655e6eb4b9d9bf07bc68d177d189f3fbbfcaa1daa3b25d647 | 2026-01-15T17:46:33+11:00 | ✔ |  |  |
 | 07 | 🛜LUX12 - Cringila Hi | 07e350d61983defd89e3a6677c3bf581ec28e83be6a97d1a90757de6974cec6f | 2025-11-26T09:55:44+11:00 | ✔ |  |  |
 | 08 | t1000 ✝️ | 08ac584ac0816b3dce7080d870bb3e73f2939a57a4161c35fbec99043b99c1a8 |  |  |  |  |
 | 08 | Woonona Repeater | 0893fae74bcf5732f1db788970e35a6ddc38283cbba6bba46dc5cfa233403cd4 |  |  |  |  |
@@ -40,7 +41,7 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 25 | 👽Abbotsbury 1 | 2511afbd5064709ebc08a651aea722da0fb852ccd19e6f3b91f7540de8627ec3 | 2026-01-14T23:11:27+11:00 | ✔ | ✔ |  |
 | 26 | 🦘Horsley Park | 26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f | 2025-12-30T10:34:08+11:00 | ✔ |  |  |
 | 27 | 🦘Londonderry | 27b252ad7c106fa10153d49d5ac6a19ed953c39e4977b33c1c70c4afb3df6485 | 2025-12-07T18:23:41+11:00 | ✔ | ✔ |  |
-| 28 | ☠️ Mount Annan Rpt | 28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16 | 2026-01-11T13:56:29+11:00 | ✔ | ✔ |  |
+| 28 | ☠️ Mount Annan Rpt | 28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16 | 2026-01-15T17:52:13+11:00 | ✔ | ✔ |  |
 | 29 | 👽WazMac Field Rep | 29e03bfa6399b389f0d7179393981fb2124b8242e0b7022f457852cdb09245e8 | 2026-01-09T13:32:15+11:00 | ✔ |  |  |
 | 2A | 🐉Nth Kelllyville (We | 2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154 | 2026-01-14T22:49:08+11:00 | ✔ | ✔ |  |
 | 2B | 🌏 2200 Bankstown | 2b81fee228716d9566b2f38afac6649b7aa5990ae0f071c2fba2b20cab748031 | 2026-01-10T14:33:33+11:00 | ✔ |  |  |
@@ -96,7 +97,7 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 69 | ✝️ESP TEST RPTR_2 | 6951b4d07279c64e5e545367ad6cfc893516b6cca8e12e579c86651a23f9eeaf | 2025-11-05T19:08:58+11:00 |  |  |  |
 | 6B | Badgee_Vadgee | 6b2a6449087e16068aacb9e04d95b5eef688aa981552f62649d46b7a01af735e | 2025-12-19T22:01:05+11:00 | ✔ | ✔ |  |
 | 6B | Waratah/Mayfield Room Server | 6bb6c2e5ddf46e684cc3da697155fa4e34b8067668832f23c3c99405e06706a6 |  |  |  |  |
-| 6C | 🧿 Wentworth Pt 01 | 6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6 | 2026-01-07T18:48:54+11:00 | ✔ | ✔ |  |
+| 6C | 🧿 Wentworth Pt 01 | 6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6 | 2026-01-15T17:11:30+11:00 | ✔ | ✔ |  |
 | 6D | 🛜LUX06 - Kiama | 6d4ec1f2204fafe7f778490dbdfcf1f96553a00ca16c33f2e942eaaa022b631c | 2024-06-07T05:52:35+10:00 | ✔ | ✔ |  |
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |  |  |  |  |
 | 6E | ☢ Campbelltown | 6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc | 2026-01-14T23:24:49+11:00 | ✔ | ✔ |  |
@@ -187,7 +188,7 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | CD | 🧿 Wentworth Pt 03 | cd6429f4eb38f0f4db86bceb4a450b1cb7f3090ddc63c59e51852959166042bc | 2026-01-15T14:58:35+11:00 | ✔ |  |  |
 | CE | 🌏 2196 Roselands | ce43eb701b43da3d53eebc1e26eed92802d216c9af99185745d2cc0afd2f7687 | 2026-01-11T05:15:44+11:00 | ✔ |  |  |
 | CF | 🧿 Wentworth Pt South | cfe09b3776ac57d7acc876316dd95ff8ae6467e3fb7f53542f1b2f95d51a14b1 | 2026-01-13T23:33:15+11:00 | ✔ | ✔ |  |
-| D0 | 🧿 Rhodes Brg Rpt | d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784 | 2026-01-15T14:58:51+11:00 | ✔ | ✔ |  |
+| D0 | 🧿 Rhodes Brg Rpt | d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784 | 2026-01-15T17:58:43+11:00 | ✔ | ✔ |  |
 | D1 | Kingsway Repeater | d1393cda9bbdbcb76a4234d9adff7de4e603bc07025c975b859438dac917a19c | 2025-12-31T02:27:29+11:00 | ✔ |  |  |
 | D1 | 🇦🇺 Rydalmere RPT | d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6 | 2026-01-13T14:46:03+11:00 | ✔ | ✔ |  |
 | D2 | 🛡️Lakesland | d28b337542c0023c19f2fa97b4849f1c7345117b855f098544e2b1b3229eb3a7 |  |  |  |  |
@@ -222,7 +223,7 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | F3 | v4_ESPNOW_RPTR | f3d832d2e33e528a6aa60925933f9ed81f474c702e3a2e4f2143dc84568a6bec | 2025-11-16T18:05:07+11:00 |  |  |  |
 | F5 | ✝️ St Finbar's | f58e1ca5e95ca03d516b80c4839ecd8c76855f63e9e9dea371f3384b24a1b705 | 2025-11-02T23:14:06+11:00 |  | ✔ |  |
 | F7 | SA - 2190 Greenacre 2 | f7aeb38db6e6410ec8aa363834834276179d1409548be26873f0649a42ca610b | 2026-01-08T00:32:21+11:00 | ✔ |  |  |
-| F7 | SA - Greenacre Test | f72b520247a7ee704c2ad22d9a29d6b95f861faa38e662f90298b91169c47498 | 2026-01-15T16:14:31+11:00 | ✔ |  |  |
+| F7 | 〽️ - Greenacre Test | f72b520247a7ee704c2ad22d9a29d6b95f861faa38e662f90298b91169c47498 | 2026-01-15T17:38:51+11:00 | ✔ |  |  |
 | F9 | Mt Hugel near Adelong-Tumut | f9b87d3ec231b2dd58f0a7ef664eb833b6f474013b1031b081f8d3233e9f47fe |  |  | ✔ |  |
 | F9 | 🎩 SI - Drone | f9ae2afdc00781c2faa399c4125bd6ee3a9c64a4656f1f9e54455a378f5d540e | 2025-12-03T19:51:34+11:00 | ✔ |  |  |
 | FB | Wee Jasper | fb94d23b876c30394db8da710d1d6995273c8a7eb69d009582f3d6c88a4b3b1f |  |  | ✔ |  |
