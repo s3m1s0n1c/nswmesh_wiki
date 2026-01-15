@@ -29,6 +29,14 @@
         "status": "active",
         "public_key": "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436"
     },
+    "065b3b1ac951fe7655e6eb4b9d9bf07bc68d177d189f3fbbfcaa1daa3b25d647": {
+        "name": "🂎 - Rozelle",
+        "last_advert": 1768459593,
+        "last_seen": "2026-01-15T17:46:33+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "065b3b1ac951fe7655e6eb4b9d9bf07bc68d177d189f3fbbfcaa1daa3b25d647"
+    },
     "07e350d61983defd89e3a6677c3bf581ec28e83be6a97d1a90757de6974cec6f": {
         "name": "🛜LUX12 - Cringila Hi",
         "last_advert": 1764111344,
@@ -259,8 +267,8 @@
     },
     "28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16": {
         "name": "☠️ Mount Annan Rpt",
-        "last_advert": 1768100189,
-        "last_seen": "2026-01-11T13:56:29+11:00",
+        "last_advert": 1768459933,
+        "last_seen": "2026-01-15T17:52:13+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -696,8 +704,8 @@
     },
     "6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6": {
         "name": "🧿 Wentworth Pt 01",
-        "last_advert": 1767772134,
-        "last_seen": "2026-01-07T18:48:54+11:00",
+        "last_advert": 1768457490,
+        "last_seen": "2026-01-15T17:11:30+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1392,8 +1400,8 @@
     },
     "d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784": {
         "name": "🧿 Rhodes Brg Rpt",
-        "last_advert": 1768449531,
-        "last_seen": "2026-01-15T14:58:51+11:00",
+        "last_advert": 1768460323,
+        "last_seen": "2026-01-15T17:58:43+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1658,9 +1666,9 @@
         "public_key": "f7aeb38db6e6410ec8aa363834834276179d1409548be26873f0649a42ca610b"
     },
     "f72b520247a7ee704c2ad22d9a29d6b95f861faa38e662f90298b91169c47498": {
-        "name": "SA - Greenacre Test",
-        "last_advert": 1768454071,
-        "last_seen": "2026-01-15T16:14:31+11:00",
+        "name": "〽️ - Greenacre Test",
+        "last_advert": 1768459131,
+        "last_seen": "2026-01-15T17:38:51+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "f72b520247a7ee704c2ad22d9a29d6b95f861faa38e662f90298b91169c47498"
