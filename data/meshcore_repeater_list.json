@@ -113,8 +113,8 @@
     },
     "113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642": {
         "name": "🌱Chester Street",
-        "last_advert": 1768437240,
-        "last_seen": "2026-01-15T11:34:00+11:00",
+        "last_advert": 1768474926,
+        "last_seen": "2026-01-15T22:02:06+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -384,8 +384,8 @@
     },
     "38b0c615ea50ff318a136d88741b886c566ccec2a116c1b0b6bd5f863d2217b7": {
         "name": "MMTV - Belfield",
-        "last_advert": 1768437974,
-        "last_seen": "2026-01-15T11:46:14+11:00",
+        "last_advert": 1768478239,
+        "last_seen": "2026-01-15T22:57:19+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "38b0c615ea50ff318a136d88741b886c566ccec2a116c1b0b6bd5f863d2217b7"
@@ -457,8 +457,8 @@
     },
     "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280": {
         "name": "🌱Bridge Narrow🌤",
-        "last_advert": 1768451147,
-        "last_seen": "2026-01-15T15:25:47+11:00",
+        "last_advert": 1768474817,
+        "last_seen": "2026-01-15T22:00:17+11:00",
         "status": "active",
         "public_key": "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280"
     },
@@ -634,8 +634,8 @@
     },
     "64beefb0250ae525979e02f1ebdbce266a1acccff2cbffb24ec9d99236e09d59": {
         "name": "🐄 Hawkesbury Heights",
-        "last_advert": 1768100915,
-        "last_seen": "2026-01-11T14:08:35+11:00",
+        "last_advert": 1768472517,
+        "last_seen": "2026-01-15T21:21:57+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -727,8 +727,8 @@
     },
     "6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc": {
         "name": "☢ Campbelltown",
-        "last_advert": 1768393489,
-        "last_seen": "2026-01-14T23:24:49+11:00",
+        "last_advert": 1768472541,
+        "last_seen": "2026-01-15T21:22:21+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -846,6 +846,13 @@
         "internet_location": true,
         "status": "active",
         "public_key": "7c01528294e97c9119b7014acd9d81e3f7783300c973d7c5cb49a998a0362ec4"
+    },
+    "7c6e431e1ef6f776fe623a9012e8e3ad38b9e627daf685292b332e5a43ac680a": {
+        "name": "MMTV - 19007 - TBA",
+        "last_advert": 1768475952,
+        "last_seen": "2026-01-15T22:19:12+11:00",
+        "status": "active",
+        "public_key": "7c6e431e1ef6f776fe623a9012e8e3ad38b9e627daf685292b332e5a43ac680a"
     },
     "7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f": {
         "name": "🌱☀️💡433.95",
@@ -985,8 +992,8 @@
     },
     "94debdd1bbdbfffcd1519beb1da95c1878d8eb63888d96310b72a73ce8dad08a": {
         "name": "Haberfield 777",
-        "last_advert": 1768460980,
-        "last_seen": "2026-01-15T18:09:40+11:00",
+        "last_advert": 1768472141,
+        "last_seen": "2026-01-15T21:15:41+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "94debdd1bbdbfffcd1519beb1da95c1878d8eb63888d96310b72a73ce8dad08a"
@@ -1009,8 +1016,8 @@
     },
     "9c311c5e4b819a0aa8e9c1ce92636c65d092a52545aaaa2b2cb532f97efe1728": {
         "name": "👽Mobile Repeater",
-        "last_advert": 1768320986,
-        "last_seen": "2026-01-14T03:16:26+11:00",
+        "last_advert": 1768474723,
+        "last_seen": "2026-01-15T21:58:43+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1296,8 +1303,8 @@
     },
     "c3d46652f52cf5f8bc365713e634258f0f168b883b346ac6e8ff2cdfb645e8ee": {
         "name": "🂎 Mobile 1",
-        "last_advert": 1768460666,
-        "last_seen": "2026-01-15T18:04:26+11:00",
+        "last_advert": 1768473338,
+        "last_seen": "2026-01-15T21:35:38+11:00",
         "status": "active",
         "public_key": "c3d46652f52cf5f8bc365713e634258f0f168b883b346ac6e8ff2cdfb645e8ee"
     },
@@ -1415,8 +1422,8 @@
     },
     "d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784": {
         "name": "🧿 Rhodes Brg Rpt",
-        "last_advert": 1768460323,
-        "last_seen": "2026-01-15T17:58:43+11:00",
+        "last_advert": 1768474667,
+        "last_seen": "2026-01-15T21:57:47+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1702,6 +1709,13 @@
         "advert_location": true,
         "status": "active",
         "public_key": "f72b520247a7ee704c2ad22d9a29d6b95f861faa38e662f90298b91169c47498"
+    },
+    "f8feedc41a29d932c7895324c0d26e34bd6a273651f9ab5f9666a1276a80b56b": {
+        "name": "MMTV - 19007 - TBA",
+        "last_advert": 1768478133,
+        "last_seen": "2026-01-15T22:55:33+11:00",
+        "status": "active",
+        "public_key": "f8feedc41a29d932c7895324c0d26e34bd6a273651f9ab5f9666a1276a80b56b"
     },
     "F8FEED..........................................................": {
         "name": "MMTV - TBA",
