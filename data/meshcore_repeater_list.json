@@ -154,6 +154,14 @@
         "status": "active",
         "public_key": "156020ec5d2ff6bd2e371b8942cf7b4b57c7feec5d21467e05a380dd79d287a1"
     },
+    "16395388cd4fc2717d6d6122a2e6670f6dab3af6a5eb187e0b429d86efc6fa7f": {
+        "name": "🌱Nelson St II☀️",
+        "last_advert": 1768229434,
+        "last_seen": "2026-01-13T01:50:34+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "16395388cd4fc2717d6d6122a2e6670f6dab3af6a5eb187e0b429d86efc6fa7f"
+    },
     "172b75d61fba084d2b288688090f8a0fd2e8b937951e419a7c4374ba81997db8": {
         "name": "TBA RAK4631",
         "last_advert": 1767544783,
@@ -463,6 +471,14 @@
         "advert_location": true,
         "status": "active",
         "public_key": "42b17e605d18948f668cf91e3846a11f7b34e2d03bd6ad862aba9d0ed1a4a635"
+    },
+    "4337e2d5be4bdb10f1b1dfb20029d5ca47eac2bad323ce737232acfcc984e3f3": {
+        "name": "🌱Pymble",
+        "last_advert": 1768484338,
+        "last_seen": "2026-01-16T00:38:58+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "4337e2d5be4bdb10f1b1dfb20029d5ca47eac2bad323ce737232acfcc984e3f3"
     },
     "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280": {
         "name": "🌱Bridge Narrow🌤",
