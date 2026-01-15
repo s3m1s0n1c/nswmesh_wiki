@@ -395,13 +395,6 @@
         "status": "active",
         "public_key": "3aae8ba3cf3ae81db78579c50e3af18522238fc66342a5d5e5e582ac9e098d43"
     },
-    "3bf891315d48b2e936fc55ddebb0f6d389850d257dfa1f93d615e0ba7a93e8b6": {
-        "name": "⚡️ - Mobile G2",
-        "last_advert": 1768379781,
-        "last_seen": "2026-01-14T19:36:21+11:00",
-        "status": "active",
-        "public_key": "3bf891315d48b2e936fc55ddebb0f6d389850d257dfa1f93d615e0ba7a93e8b6"
-    },
     "3c732b37f8a046b1c3f60a96aaed9641720f1678704f0dd141a1ac8f4eadce17": {
         "name": "🌱Bridge 433.95🌤",
         "last_advert": 1768437356,
@@ -642,8 +635,8 @@
     },
     "65beef87abb2539dc4761bab7a2c7b30409b6271ad7707837c51cc2f3d722957": {
         "name": "🐄 North Sydney",
-        "last_advert": 1768092235,
-        "last_seen": "2026-01-11T11:43:55+11:00",
+        "last_advert": 1768455352,
+        "last_seen": "2026-01-15T16:35:52+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "65beef87abb2539dc4761bab7a2c7b30409b6271ad7707837c51cc2f3d722957"
