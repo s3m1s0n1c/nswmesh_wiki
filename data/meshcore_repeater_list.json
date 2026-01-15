@@ -129,6 +129,14 @@
         "status": "parked",
         "public_key": "1244c5f64e7b65c419bd7f65da2a2416edf1efe84fd04e868ad77af0f131d4f7"
     },
+    "1362d09c71a15f24d18e26255dfc4c5844c4f87e8f0783907b5401e4fc4fa578": {
+        "name": "🌱Moore Park",
+        "last_advert": 1768485247,
+        "last_seen": "2026-01-16T00:54:07+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "1362d09c71a15f24d18e26255dfc4c5844c4f87e8f0783907b5401e4fc4fa578"
+    },
     "1420cc930316bc0811f6e144191347507707e76adeeaae0fe0f12a7a86394609": {
         "name": "☂️HP Tallawong W RP",
         "last_advert": 1764939268,
