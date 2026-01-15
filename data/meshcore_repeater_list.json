@@ -129,6 +129,14 @@
         "status": "parked",
         "public_key": "1244c5f64e7b65c419bd7f65da2a2416edf1efe84fd04e868ad77af0f131d4f7"
     },
+    "1362d09c71a15f24d18e26255dfc4c5844c4f87e8f0783907b5401e4fc4fa578": {
+        "name": "🌱Moore Park",
+        "last_advert": 1768485247,
+        "last_seen": "2026-01-16T00:54:07+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "1362d09c71a15f24d18e26255dfc4c5844c4f87e8f0783907b5401e4fc4fa578"
+    },
     "1420cc930316bc0811f6e144191347507707e76adeeaae0fe0f12a7a86394609": {
         "name": "☂️HP Tallawong W RP",
         "last_advert": 1764939268,
@@ -145,6 +153,14 @@
         "internet_location": true,
         "status": "active",
         "public_key": "156020ec5d2ff6bd2e371b8942cf7b4b57c7feec5d21467e05a380dd79d287a1"
+    },
+    "16395388cd4fc2717d6d6122a2e6670f6dab3af6a5eb187e0b429d86efc6fa7f": {
+        "name": "🌱Nelson St II☀️",
+        "last_advert": 1768229434,
+        "last_seen": "2026-01-13T01:50:34+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "16395388cd4fc2717d6d6122a2e6670f6dab3af6a5eb187e0b429d86efc6fa7f"
     },
     "172b75d61fba084d2b288688090f8a0fd2e8b937951e419a7c4374ba81997db8": {
         "name": "TBA RAK4631",
@@ -455,6 +471,14 @@
         "advert_location": true,
         "status": "active",
         "public_key": "42b17e605d18948f668cf91e3846a11f7b34e2d03bd6ad862aba9d0ed1a4a635"
+    },
+    "4337e2d5be4bdb10f1b1dfb20029d5ca47eac2bad323ce737232acfcc984e3f3": {
+        "name": "🌱Pymble",
+        "last_advert": 1768484338,
+        "last_seen": "2026-01-16T00:38:58+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "4337e2d5be4bdb10f1b1dfb20029d5ca47eac2bad323ce737232acfcc984e3f3"
     },
     "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280": {
         "name": "🌱Bridge Narrow🌤",
