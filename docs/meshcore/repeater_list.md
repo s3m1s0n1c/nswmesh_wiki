@@ -224,11 +224,15 @@ As of 15 January 2026, Meshcore identifies repeaters and roomservers using the f
 | F1 | ✝️ Penrith Station | f1fc699ff05e41738524af480a24ccf5ada1f3248bd23d83f47ae69f44060193 | 2026-01-12T15:03:45+11:00 | ✔ | ✔ |  |
 | F2 | MMTV - 19003 - TBA | f2feedc0a1a6e76181adfe8ad906e325dc3b0e5e5e1db20bf5d8ac753892fda1 |  |  |  |  |
 | F3 | v4_ESPNOW_RPTR | f3d832d2e33e528a6aa60925933f9ed81f474c702e3a2e4f2143dc84568a6bec | 2025-11-16T18:05:07+11:00 |  |  |  |
+| F4 | MMTV - TBA | F4FEED.......................................................... |  |  |  |  |
 | F5 | ✝️ St Finbar's | f58e1ca5e95ca03d516b80c4839ecd8c76855f63e9e9dea371f3384b24a1b705 | 2025-11-02T23:14:06+11:00 |  | ✔ |  |
+| F6 | MMTV - TBA | F6FEED.......................................................... |  |  |  |  |
 | F7 | SA - 2190 Greenacre 2 | f7aeb38db6e6410ec8aa363834834276179d1409548be26873f0649a42ca610b | 2026-01-08T00:32:21+11:00 | ✔ |  |  |
 | F7 | 〽️ - Greenacre Test | f72b520247a7ee704c2ad22d9a29d6b95f861faa38e662f90298b91169c47498 | 2026-01-15T17:38:51+11:00 | ✔ |  |  |
+| F8 | MMTV - TBA | F8FEED.......................................................... |  |  |  |  |
 | F9 | Mt Hugel near Adelong-Tumut | f9b87d3ec231b2dd58f0a7ef664eb833b6f474013b1031b081f8d3233e9f47fe |  |  | ✔ |  |
 | F9 | 🎩 SI - Drone | f9ae2afdc00781c2faa399c4125bd6ee3a9c64a4656f1f9e54455a378f5d540e | 2025-12-03T19:51:34+11:00 | ✔ |  |  |
+| FA | MMTV - TBA | FAFEED.......................................................... |  |  |  |  |
 | FB | Wee Jasper | fb94d23b876c30394db8da710d1d6995273c8a7eb69d009582f3d6c88a4b3b1f |  |  | ✔ |  |
 | FC | 🌱Minogue Cr.☀️ | fc1ae909ec52889f3da27a6c42193e31baba77232a47f39a14c1b8310de558c6 | 2026-01-04T02:50:06+11:00 | ✔ |  |  |
 | FE | RIPPLE-SYD-ILLAWONG-RPT | fef2dcf0570fdd0d9c9dfed38c35d0e25ce0aeeb98ed6ad5533e51f57c4c05ee | 2025-12-31T08:19:06+11:00 | ✔ | ✔ |  |
