@@ -1,5 +1,7 @@
 ---
 title: New South Wales Meshcore Network & Repeater Configuration Guide
+redirect_from:
+  - /guide
 ---
 
 <style>
@@ -114,6 +116,16 @@ function copyCmd(text, btn) {
   });
 }
 </script>
+
+<div style="background: linear-gradient(135deg, #5865F2 0%, #7289DA 100%); color: white; padding: 20px 24px; border-radius: 12px; margin: 20px 0; box-shadow: 0 4px 12px rgba(88, 101, 242, 0.3);">
+  <h3 style="margin: 0 0 10px 0; font-size: 1.4em;">💬 Join the NSW Mesh Discord</h3>
+  <p style="margin: 0 0 12px 0; font-size: 1.05em;">Most off-mesh communication happens on Discord — it's the best place to ask questions, get help setting up your node, and connect with the community!</p>
+  <a href="https://discord.gg/Du437Usj3K" style="display: inline-block; background: white; color: #5865F2; padding: 10px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 1em;">Join Discord Server →</a>
+</div>
+
+<div style="background: #f0f7ff; border: 2px solid #3b82f6; padding: 16px 20px; border-radius: 10px; margin: 0 0 20px 0;">
+  <strong>🗺️ View the Network:</strong> Check out the <a href="https://nswmesh.github.io/NSW-Sydney-Meshcore-Map/" style="color: #2563eb; font-weight: 600;">NSW Meshcore Map</a> to see repeaters near you and check coverage in your area.
+</div>
 
 ## Table of Contents
 
