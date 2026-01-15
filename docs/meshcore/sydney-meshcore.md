@@ -178,7 +178,7 @@ Connect to your companion using your chosen method, then configure:
 
 **Set Name and Radio Settings:**
 1. Tap the `⚙️` icon (top right of the app)
-2. Configure your name and radio settings - Preset `Australia: Victoria`
+2. Configure your name and radio settings - Preset `Australia: Narrow`
 3. Tap `✔️` (top right) to save
 4. Wait for the green success notification
 
@@ -251,9 +251,9 @@ Advertisements are how nodes announce their presence on the mesh. Each advert pa
 
 > ⚠️ **IMPORTANT: Radio Compatibility**
 >
-> All nodes on the NSW mesh use the **Australia: Victoria** preset. This uses a very narrow 62.5 kHz bandwidth with SF7 and CR8 for optimal performance.
+> All nodes on the NSW mesh use the **Australia: Narrow** preset. This uses a very narrow 62.5 kHz bandwidth with SF7 and CR8 for optimal performance.
 >
-> **Why Australia: Victoria?**
+> **Why Australia: Narrow?**
 > - **Narrow bandwidth (62.5 kHz)** provides better receiver sensitivity and noise rejection, allowing signals to be decoded at much lower power levels
 > - **Lower spreading factor (SF7)** means faster transmission times, reducing airtime and collision risk
 > - **Higher coding rate (CR8)** adds maximum forward error correction to compensate for the faster SF, improving reliability
@@ -784,7 +784,7 @@ Sets all LoRa radio parameters in a single command.
 
 **Command Format:** `set radio frequency,bandwidth,spreading_factor,coding_rate`
 
-**NSW Mesh Parameters (Australia: Victoria Preset):**
+**NSW Mesh Parameters (Australia: Narrow Preset):**
 
 | Parameter | NSW Value | Default | Description |
 |-----------|-----------|---------|-------------|
@@ -793,7 +793,7 @@ Sets all LoRa radio parameters in a single command.
 | **Spreading Factor** | **7** | 10 | Chirp spread (lower = faster transmission) |
 | **Coding Rate** | **8** | 5 | Forward error correction (4/8 = maximum) |
 
-> ⚠️ **CRITICAL:** All nodes on the NSW mesh **MUST** use these exact parameters. The Australia: Victoria preset provides optimal performance through the combination of narrow bandwidth (sensitivity), low SF (speed), and high CR (reliability).
+> ⚠️ **CRITICAL:** All nodes on the NSW mesh **MUST** use these exact parameters. The Australia: Narrow preset provides optimal performance through the combination of narrow bandwidth (sensitivity), low SF (speed), and high CR (reliability).
 
 ---
 
@@ -804,7 +804,7 @@ The operating frequency determines which part of the radio spectrum your node tr
 | Aspect | Details |
 |--------|---------|
 | **Australian ISM Band** | 915-928 MHz (license-free for low-power devices) |
-| **Why 916.575 MHz?** | Part of the Australia: Victoria preset, provides separation from other LoRa networks |
+| **Why 916.575 MHz?** | Part of the Australia: Narrow preset, provides separation from other LoRa networks |
 | **Regulatory** | Must comply with ACMA regulations for power and duty cycle |
 
 > **Important:** Using a different frequency means you cannot communicate with the mesh at all.
@@ -927,7 +927,7 @@ Coding Rate (also written as 4/5, 4/6, 4/7, or 4/8) determines the amount of For
 - **Airtime tradeoff is acceptable** — The +60% overhead from CR8 is more than offset by the 8-16x time savings from using SF7 instead of SF11-12
 - **Net result** — Messages are still much shorter than high-SF configurations while maintaining excellent reliability
 
-> 💡 **The Australia: Victoria Formula:** By combining narrow bandwidth (sensitivity), low SF (speed), and high CR (reliability), the preset achieves an optimal balance that outperforms traditional "high SF, wide bandwidth" approaches.
+> 💡 **The Australia: Narrow Formula:** By combining narrow bandwidth (sensitivity), low SF (speed), and high CR (reliability), the preset achieves an optimal balance that outperforms traditional "high SF, wide bandwidth" approaches.
 
 ---
 
@@ -964,7 +964,7 @@ While not explicitly set in the radio string, TX power determines how strong you
 
 #### Combined Effect Summary
 
-The NSW mesh settings (916.575 MHz, 62.5 kHz BW, SF7, CR 4/8) — the **Australia: Victoria** preset — are optimized for:
+The NSW mesh settings (916.575 MHz, 62.5 kHz BW, SF7, CR 4/8) — the **Australia: Narrow** preset — are optimized for:
 
 | Goal | How Settings Achieve It |
 |------|------------------------|
