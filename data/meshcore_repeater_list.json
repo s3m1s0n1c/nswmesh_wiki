@@ -6,8 +6,8 @@
     },
     "012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab": {
         "name": "☢️ Bradbury",
-        "last_advert": 1768506316,
-        "last_seen": "2026-01-16T06:45:16+11:00",
+        "last_advert": 1768549516,
+        "last_seen": "2026-01-16T18:45:16+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -170,9 +170,9 @@
         "public_key": "172b75d61fba084d2b288688090f8a0fd2e8b937951e419a7c4374ba81997db8"
     },
     "1808398943cb12730da5ef4f682b41d55fac7403459d2925ca0a773304c0eaee": {
-        "name": "🌱Artamon",
-        "last_advert": 1768546771,
-        "last_seen": "2026-01-16T17:59:31+11:00",
+        "name": "🌱Artamon I",
+        "last_advert": 1768547421,
+        "last_seen": "2026-01-16T18:10:21+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "1808398943cb12730da5ef4f682b41d55fac7403459d2925ca0a773304c0eaee"
@@ -258,8 +258,8 @@
     },
     "2511afbd5064709ebc08a651aea722da0fb852ccd19e6f3b91f7540de8627ec3": {
         "name": "👽Abbotsbury 1",
-        "last_advert": 1768531475,
-        "last_seen": "2026-01-16T13:44:35+11:00",
+        "last_advert": 1768552992,
+        "last_seen": "2026-01-16T19:43:12+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -353,8 +353,8 @@
     },
     "3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b": {
         "name": "⚡️ - Mt Colah",
-        "last_advert": 1768537665,
-        "last_seen": "2026-01-16T15:27:45+11:00",
+        "last_advert": 1768551955,
+        "last_seen": "2026-01-16T19:25:55+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b"
@@ -594,8 +594,8 @@
     },
     "5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3": {
         "name": "👽West Hoxton",
-        "last_advert": 1768526428,
-        "last_seen": "2026-01-16T12:20:28+11:00",
+        "last_advert": 1768552938,
+        "last_seen": "2026-01-16T19:42:18+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3"
@@ -667,8 +667,8 @@
     },
     "64beefb0250ae525979e02f1ebdbce266a1acccff2cbffb24ec9d99236e09d59": {
         "name": "🐄 Hawkesbury Heights",
-        "last_advert": 1768472517,
-        "last_seen": "2026-01-15T21:21:57+11:00",
+        "last_advert": 1768558917,
+        "last_seen": "2026-01-16T21:21:57+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -811,8 +811,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Hornsby Fence",
-        "last_advert": 1768545935,
-        "last_seen": "2026-01-16T17:45:35+11:00",
+        "last_advert": 1768558535,
+        "last_seen": "2026-01-16T21:15:35+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -905,16 +905,16 @@
     },
     "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528": {
         "name": "MMTV - TEMP",
-        "last_advert": 1768437835,
-        "last_seen": "2026-01-15T11:43:55+11:00",
+        "last_advert": 1768561516,
+        "last_seen": "2026-01-16T22:05:16+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "7e6e18769193fa63378f0085faa71f2e2bd09af7fecec7530e0f1651ce1d9528"
     },
     "7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93": {
-        "name": "Abbotsbury 2",
-        "last_advert": 1768369879,
-        "last_seen": "2026-01-14T16:51:19+11:00",
+        "name": "👽Abbotsbury 2",
+        "last_advert": 1768553293,
+        "last_seen": "2026-01-16T19:48:13+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1050,8 +1050,8 @@
     },
     "9c311c5e4b819a0aa8e9c1ce92636c65d092a52545aaaa2b2cb532f97efe1728": {
         "name": "👽Mobile Repeater",
-        "last_advert": 1768474723,
-        "last_seen": "2026-01-15T21:58:43+11:00",
+        "last_advert": 1768561123,
+        "last_seen": "2026-01-16T21:58:43+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1235,8 +1235,8 @@
     },
     "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f": {
         "name": "😬-Davidson",
-        "last_advert": 1768510123,
-        "last_seen": "2026-01-16T07:48:43+11:00",
+        "last_advert": 1768553323,
+        "last_seen": "2026-01-16T19:48:43+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f"
@@ -1299,8 +1299,8 @@
     },
     "bff18b65ff23ea30915511c905902a636752e14acfcde1028608b972ee931b10": {
         "name": "〽️ - Greenacre SLR",
-        "last_advert": 1768522053,
-        "last_seen": "2026-01-16T11:07:33+11:00",
+        "last_advert": 1768558349,
+        "last_seen": "2026-01-16T21:12:29+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "bff18b65ff23ea30915511c905902a636752e14acfcde1028608b972ee931b10"
