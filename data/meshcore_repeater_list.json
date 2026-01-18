@@ -6,8 +6,8 @@
     },
     "012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab": {
         "name": "☢️ Bradbury",
-        "last_advert": 1768635916,
-        "last_seen": "2026-01-17T18:45:16+11:00",
+        "last_advert": 1768709256,
+        "last_seen": "2026-01-18T15:07:36+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -23,17 +23,18 @@
     },
     "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436": {
         "name": "⚡- Testing",
-        "last_advert": 1768663093,
-        "last_seen": "2026-01-18T02:18:13+11:00",
+        "last_advert": 1768706219,
+        "last_seen": "2026-01-18T14:16:59+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436"
     },
     "065b3b1ac951fe7655e6eb4b9d9bf07bc68d177d189f3fbbfcaa1daa3b25d647": {
         "name": "🂎 - Rozelle",
-        "last_advert": 1768502630,
-        "last_seen": "2026-01-16T05:43:50+11:00",
+        "last_advert": 1768718630,
+        "last_seen": "2026-01-18T17:43:50+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "065b3b1ac951fe7655e6eb4b9d9bf07bc68d177d189f3fbbfcaa1daa3b25d647"
     },
@@ -171,8 +172,8 @@
     },
     "1808398943cb12730da5ef4f682b41d55fac7403459d2925ca0a773304c0eaee": {
         "name": "🌱Artamon I",
-        "last_advert": 1768628272,
-        "last_seen": "2026-01-17T16:37:52+11:00",
+        "last_advert": 1768703157,
+        "last_seen": "2026-01-18T13:25:57+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -259,8 +260,8 @@
     },
     "2511afbd5064709ebc08a651aea722da0fb852ccd19e6f3b91f7540de8627ec3": {
         "name": "👽Abbotsbury 1",
-        "last_advert": 1768661075,
-        "last_seen": "2026-01-18T01:44:35+11:00",
+        "last_advert": 1768704275,
+        "last_seen": "2026-01-18T13:44:35+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -285,8 +286,8 @@
     },
     "28c222747e12122a04b8a4196e82d7f2dd490d8a5789b194bd8d6514845b4b16": {
         "name": "☠️ Mount Annan Rpt",
-        "last_advert": 1768459933,
-        "last_seen": "2026-01-15T17:52:13+11:00",
+        "last_advert": 1768685658,
+        "last_seen": "2026-01-18T08:34:18+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -302,8 +303,8 @@
     },
     "2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154": {
         "name": "🐉Nth Kelllyville (We",
-        "last_advert": 1768391348,
-        "last_seen": "2026-01-14T22:49:08+11:00",
+        "last_advert": 1768693748,
+        "last_seen": "2026-01-18T10:49:08+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -423,9 +424,9 @@
         "public_key": "3aae8ba3cf3ae81db78579c50e3af18522238fc66342a5d5e5e582ac9e098d43"
     },
     "3c732b37f8a046b1c3f60a96aaed9641720f1678704f0dd141a1ac8f4eadce17": {
-        "name": "🌱Bridge 433.95🌤",
-        "last_advert": 1768523756,
-        "last_seen": "2026-01-16T11:35:56+11:00",
+        "name": "🌱Brdg 433.95|62.5|9|",
+        "last_advert": 1768713674,
+        "last_seen": "2026-01-18T16:21:14+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -475,10 +476,9 @@
         "public_key": "42b17e605d18948f668cf91e3846a11f7b34e2d03bd6ad862aba9d0ed1a4a635"
     },
     "4337e2d5be4bdb10f1b1dfb20029d5ca47eac2bad323ce737232acfcc984e3f3": {
-        "name": "🌱Pymble",
-        "last_advert": 1768484338,
-        "last_seen": "2026-01-16T00:38:58+11:00",
-        "advert_location": true,
+        "name": "🌱Testing",
+        "last_advert": 1768717373,
+        "last_seen": "2026-01-18T17:22:53+11:00",
         "status": "active",
         "public_key": "4337e2d5be4bdb10f1b1dfb20029d5ca47eac2bad323ce737232acfcc984e3f3"
     },
@@ -494,6 +494,7 @@
         "last_advert": 1768641380,
         "last_seen": "2026-01-17T20:16:20+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "45cb34e93fa2109b6de1ea9b034c90c8ca638fd9e5d86c297a67e4c9f9d8798b"
     },
@@ -524,8 +525,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1768657175,
-        "last_seen": "2026-01-18T00:39:35+11:00",
+        "last_advert": 1768700375,
+        "last_seen": "2026-01-18T12:39:35+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -771,8 +772,8 @@
     },
     "6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc": {
         "name": "☢ Campbelltown",
-        "last_advert": 1768609974,
-        "last_seen": "2026-01-17T11:32:54+11:00",
+        "last_advert": 1768709437,
+        "last_seen": "2026-01-18T15:10:37+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -822,8 +823,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Hornsby Fence",
-        "last_advert": 1768664735,
-        "last_seen": "2026-01-18T02:45:35+11:00",
+        "last_advert": 1768716935,
+        "last_seen": "2026-01-18T17:15:35+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -902,9 +903,10 @@
         "public_key": "7c6e431e1ef6f776fe623a9012e8e3ad38b9e627daf685292b332e5a43ac680a"
     },
     "7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f": {
-        "name": "🌱☀️💡433.95",
-        "last_advert": 1767772420,
-        "last_seen": "2026-01-07T18:53:40+11:00",
+        "name": "🌱Minogue Cr 433",
+        "last_advert": 1768717695,
+        "last_seen": "2026-01-18T17:28:15+11:00",
+        "advert_location": true,
         "status": "active",
         "public_key": "7d6cf7dd926f334b53975124c46aa2c341a1d1a4f440a0f5cbd7e357bbe4eb4f"
     },
@@ -1040,9 +1042,9 @@
         "public_key": "92c62c22e5117d957dc53320864c3d7ea4303d7e2d6161b1cd72663fb88d0545"
     },
     "94debdd1bbdbfffcd1519beb1da95c1878d8eb63888d96310b72a73ce8dad08a": {
-        "name": "Haberfield 777",
-        "last_advert": 1768654109,
-        "last_seen": "2026-01-17T23:48:29+11:00",
+        "name": "🛥️Haberfield 777",
+        "last_advert": 1768707193,
+        "last_seen": "2026-01-18T14:33:13+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1061,6 +1063,7 @@
         "last_advert": 1768603160,
         "last_seen": "2026-01-17T09:39:20+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "973fd16a3c4629247a80fad186e339019439986966b9d893f8fab3b2ac394494"
     },
@@ -1260,8 +1263,8 @@
     },
     "b745d1254f0639695fd7326c23f3a0bcb92aa4c5e08f6cfc43ba9527db88515d": {
         "name": "☠ Kenny Hill Rpt",
-        "last_advert": 1768606943,
-        "last_seen": "2026-01-17T10:42:23+11:00",
+        "last_advert": 1768693493,
+        "last_seen": "2026-01-18T10:44:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1294,9 +1297,10 @@
     },
     "bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f": {
         "name": "〽️ - Greenacre PWR",
-        "last_advert": 1768638093,
-        "last_seen": "2026-01-17T19:21:33+11:00",
+        "last_advert": 1768704743,
+        "last_seen": "2026-01-18T13:52:23+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "bc2453a8063bce347445b5c1c5c769261a5af5e5916bfab1c1d9cdae28ce5b7f"
     },
@@ -1354,8 +1358,10 @@
     },
     "c3d46652f52cf5f8bc365713e634258f0f168b883b346ac6e8ff2cdfb645e8ee": {
         "name": "🂎 Mobile 1",
-        "last_advert": 1768619554,
-        "last_seen": "2026-01-17T14:12:34+11:00",
+        "last_advert": 1768696425,
+        "last_seen": "2026-01-18T11:33:45+11:00",
+        "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "c3d46652f52cf5f8bc365713e634258f0f168b883b346ac6e8ff2cdfb645e8ee"
     },
@@ -1499,8 +1505,8 @@
     },
     "d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6": {
         "name": "🇦🇺 Rydalmere RPT",
-        "last_advert": 1768653963,
-        "last_seen": "2026-01-17T23:46:03+11:00",
+        "last_advert": 1768671963,
+        "last_seen": "2026-01-18T04:46:03+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1533,6 +1539,7 @@
         "last_advert": 1768207353,
         "last_seen": "2026-01-12T19:42:33+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c"
     },
@@ -1690,9 +1697,9 @@
         "public_key": "e95170cc52e2d5a39bacc92fb60922bfefff12d553bc56e733533709943dfcab"
     },
     "ea953aba011eef0dbe4b35e2f60508f04960a6832cabc0bcee0ecea739dc6bf0": {
-        "name": "〽️ 2190 - S3 Test",
-        "last_advert": 1768453578,
-        "last_seen": "2026-01-15T16:06:18+11:00",
+        "name": "〽️ Greenacre - S3 T",
+        "last_advert": 1768704329,
+        "last_seen": "2026-01-18T13:45:29+11:00",
         "status": "active",
         "public_key": "ea953aba011eef0dbe4b35e2f60508f04960a6832cabc0bcee0ecea739dc6bf0"
     },
