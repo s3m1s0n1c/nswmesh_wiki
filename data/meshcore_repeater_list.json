@@ -71,8 +71,8 @@
     },
     "0a8b3986485daf3967295341e57355e93c946164fb4fe387cb4535cff9098973": {
         "name": "☢ Alpine",
-        "last_advert": 1768050354,
-        "last_seen": "2026-01-11T00:05:54+11:00",
+        "last_advert": 1768737400,
+        "last_seen": "2026-01-18T22:56:40+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -425,8 +425,8 @@
     },
     "3c732b37f8a046b1c3f60a96aaed9641720f1678704f0dd141a1ac8f4eadce17": {
         "name": "🌱Brdg 433.95|62.5|9|",
-        "last_advert": 1768713674,
-        "last_seen": "2026-01-18T16:21:14+11:00",
+        "last_advert": 1768729219,
+        "last_seen": "2026-01-18T20:40:19+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -491,8 +491,8 @@
     },
     "45cb34e93fa2109b6de1ea9b034c90c8ca638fd9e5d86c297a67e4c9f9d8798b": {
         "name": "☠️Elderslie Rpt",
-        "last_advert": 1768641380,
-        "last_seen": "2026-01-17T20:16:20+11:00",
+        "last_advert": 1768727780,
+        "last_seen": "2026-01-18T20:16:20+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -823,8 +823,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Hornsby Fence",
-        "last_advert": 1768716935,
-        "last_seen": "2026-01-18T17:15:35+11:00",
+        "last_advert": 1768729536,
+        "last_seen": "2026-01-18T20:45:36+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -928,18 +928,17 @@
     },
     "7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93": {
         "name": "👽Abbotsbury 2",
-        "last_advert": 1768647484,
-        "last_seen": "2026-01-17T21:58:04+11:00",
+        "last_advert": 1768733884,
+        "last_seen": "2026-01-18T21:58:04+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
         "public_key": "7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93"
     },
     "8000ca0888e90f75ef93f6a225557c965cb26e3ea50b27b65d6f8b5190aaeeb1": {
-        "name": "🌱Piper St Rsv.☀️",
-        "last_advert": 1768063883,
-        "last_seen": "2026-01-11T03:51:23+11:00",
-        "advert_location": true,
+        "name": "🌱TBA",
+        "last_advert": 1768728400,
+        "last_seen": "2026-01-18T20:26:40+11:00",
         "status": "active",
         "public_key": "8000ca0888e90f75ef93f6a225557c965cb26e3ea50b27b65d6f8b5190aaeeb1"
     },
@@ -1069,8 +1068,8 @@
     },
     "9c311c5e4b819a0aa8e9c1ce92636c65d092a52545aaaa2b2cb532f97efe1728": {
         "name": "👽Mobile Repeater",
-        "last_advert": 1768647523,
-        "last_seen": "2026-01-17T21:58:43+11:00",
+        "last_advert": 1768733923,
+        "last_seen": "2026-01-18T21:58:43+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1082,10 +1081,9 @@
         "public_key": "9da11581c752e3233b73c514e945595aa1f1c36c5062ee9cff50a2dfa196bb33"
     },
     "9ea6f7ac22a2d0f3db17c62ff915ec4eca0b1631d0d735510fdb7b96444b77df": {
-        "name": "🌱APG Reserve ☀️",
-        "last_advert": 1768293871,
-        "last_seen": "2026-01-13T19:44:31+11:00",
-        "advert_location": true,
+        "name": "🌱TBA",
+        "last_advert": 1768728791,
+        "last_seen": "2026-01-18T20:33:11+11:00",
         "status": "parked",
         "public_key": "9ea6f7ac22a2d0f3db17c62ff915ec4eca0b1631d0d735510fdb7b96444b77df"
     },
@@ -1254,8 +1252,8 @@
     },
     "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f": {
         "name": "😬-Davidson",
-        "last_advert": 1768639723,
-        "last_seen": "2026-01-17T19:48:43+11:00",
+        "last_advert": 1768726123,
+        "last_seen": "2026-01-18T19:48:43+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1358,8 +1356,8 @@
     },
     "c3d46652f52cf5f8bc365713e634258f0f168b883b346ac6e8ff2cdfb645e8ee": {
         "name": "🂎 Mobile 1",
-        "last_advert": 1768696425,
-        "last_seen": "2026-01-18T11:33:45+11:00",
+        "last_advert": 1768725547,
+        "last_seen": "2026-01-18T19:39:07+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1480,8 +1478,8 @@
     },
     "d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784": {
         "name": "🧿 Rhodes Brg Rpt",
-        "last_advert": 1768474667,
-        "last_seen": "2026-01-15T21:57:47+11:00",
+        "last_advert": 1768733867,
+        "last_seen": "2026-01-18T21:57:47+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1544,11 +1542,9 @@
         "public_key": "d4152c2a16ce25416bc01a885ca15e213d9815515340b3e0fe5ce31f8833180c"
     },
     "d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79": {
-        "name": "🌱AV Henry Rsv☀️",
-        "last_advert": 1767490624,
-        "last_seen": "2026-01-04T12:37:04+11:00",
-        "advert_location": true,
-        "internet_location": true,
+        "name": "🌱TBA",
+        "last_advert": 1768728158,
+        "last_seen": "2026-01-18T20:22:38+11:00",
         "status": "active",
         "public_key": "d510aab48eaada34d42eeaf01b627eb44ff8cf357f6dfa3dc6d06b9afd1e9f79"
     },
@@ -1821,10 +1817,9 @@
         "public_key": "fb94d23b876c30394db8da710d1d6995273c8a7eb69d009582f3d6c88a4b3b1f"
     },
     "fc1ae909ec52889f3da27a6c42193e31baba77232a47f39a14c1b8310de558c6": {
-        "name": "🌱Minogue Cr.☀️",
-        "last_advert": 1767455406,
-        "last_seen": "2026-01-04T02:50:06+11:00",
-        "advert_location": true,
+        "name": "🌱TBA",
+        "last_advert": 1768729007,
+        "last_seen": "2026-01-18T20:36:47+11:00",
         "status": "active",
         "public_key": "fc1ae909ec52889f3da27a6c42193e31baba77232a47f39a14c1b8310de558c6"
     },
