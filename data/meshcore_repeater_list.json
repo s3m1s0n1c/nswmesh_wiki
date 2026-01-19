@@ -23,8 +23,8 @@
     },
     "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436": {
         "name": "⚡- Testing",
-        "last_advert": 1768706219,
-        "last_seen": "2026-01-18T14:16:59+11:00",
+        "last_advert": 1768840281,
+        "last_seen": "2026-01-20T03:31:21+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436"
@@ -105,8 +105,8 @@
     },
     "10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7": {
         "name": "🌱Now Narrow Preset",
-        "last_advert": 1768656748,
-        "last_seen": "2026-01-18T00:32:28+11:00",
+        "last_advert": 1768829548,
+        "last_seen": "2026-01-20T00:32:28+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -211,8 +211,8 @@
     },
     "1dc33f4fb127c19c7da554e57a6c413ca7a0f696707f2105f6fe37a86086d8f8": {
         "name": "Engadine Kingswood",
-        "last_advert": 1768815342,
-        "last_seen": "2026-01-19T20:35:42+11:00",
+        "last_advert": 1768826687,
+        "last_seen": "2026-01-19T23:44:47+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -535,8 +535,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1768786775,
-        "last_seen": "2026-01-19T12:39:35+11:00",
+        "last_advert": 1768829975,
+        "last_seen": "2026-01-20T00:39:35+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -573,8 +573,8 @@
     },
     "4eddb6db310d70fd821c6783d0e3a8ac6d337b8d5c255f78e3f1bd86d5a0dcda": {
         "name": "⚡️ - Cherrybrook",
-        "last_advert": 1768739179,
-        "last_seen": "2026-01-18T23:26:19+11:00",
+        "last_advert": 1768825579,
+        "last_seen": "2026-01-19T23:26:19+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -598,10 +598,11 @@
         "public_key": "53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c"
     },
     "563954ae5a649b52e16b013df23e814e214d467f214e4f08be0f35c7914fdf27": {
-        "name": "Blaxland Heltec",
-        "last_advert": 1768409856,
-        "last_seen": "2026-01-15T03:57:36+11:00",
+        "name": "🛃Blaxland Heltec",
+        "last_advert": 1768841934,
+        "last_seen": "2026-01-20T03:58:54+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "563954ae5a649b52e16b013df23e814e214d467f214e4f08be0f35c7914fdf27"
     },
@@ -733,6 +734,7 @@
         "last_advert": 1763577093,
         "last_seen": "2025-11-20T05:31:33+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "6969be2bd73967a4d26a34c52744ad225d5ce94e9ef28dd8e0a295925c1bdcb8"
     },
@@ -833,15 +835,15 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Hornsby Fence",
-        "last_advert": 1768822064,
-        "last_seen": "2026-01-19T22:27:44+11:00",
+        "last_advert": 1768847264,
+        "last_seen": "2026-01-20T05:27:44+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
     "75bfd1352a36cb8832a7659e6f94d222dfa23c1689a40add38bbae72d6ba405b": {
         "name": "⚡️ - Normanhurst",
-        "last_advert": 1768747457,
-        "last_seen": "2026-01-19T01:44:17+11:00",
+        "last_advert": 1768833700,
+        "last_seen": "2026-01-20T01:41:40+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1201,8 +1203,8 @@
     },
     "ab687e3dbbef93fbba17101f2b81e498c50ca6c1898b941586baf9f15d37d575": {
         "name": "🛜LUX07 - Mt Gibralta",
-        "last_advert": 1768783744,
-        "last_seen": "2026-01-19T11:49:04+11:00",
+        "last_advert": 1768848544,
+        "last_seen": "2026-01-20T05:49:04+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1499,8 +1501,8 @@
     },
     "d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784": {
         "name": "🧿 Rhodes Brg Rpt",
-        "last_advert": 1768742245,
-        "last_seen": "2026-01-19T00:17:25+11:00",
+        "last_advert": 1768828335,
+        "last_seen": "2026-01-20T00:12:15+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1725,6 +1727,14 @@
         "internet_location": true,
         "status": "active",
         "public_key": "eb00c2c51c76eb233a036a75eea562681814cc391cc5cb9d42ca25e94b814181"
+    },
+    "ec86118a46bb33e96bf9607700279837d7d54f6dae707666c59dbe4e11f62eef": {
+        "name": "Mt. Tennent A",
+        "last_advert": 1768825586,
+        "last_seen": "2026-01-19T23:26:26+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "ec86118a46bb33e96bf9607700279837d7d54f6dae707666c59dbe4e11f62eef"
     },
     "ec85e625b9168978b444413e12a24ff83b3d3e29e45a2c2cd9d4ab0771d834d5": {
         "name": "Pfych Repeater",
