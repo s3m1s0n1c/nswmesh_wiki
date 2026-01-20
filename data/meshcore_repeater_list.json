@@ -23,16 +23,16 @@
     },
     "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436": {
         "name": "⚡- Testing",
-        "last_advert": 1768840281,
-        "last_seen": "2026-01-20T03:31:21+11:00",
+        "last_advert": 1768921968,
+        "last_seen": "2026-01-21T02:12:48+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436"
     },
     "065b3b1ac951fe7655e6eb4b9d9bf07bc68d177d189f3fbbfcaa1daa3b25d647": {
         "name": "🂎 - Rozelle",
-        "last_advert": 1768761830,
-        "last_seen": "2026-01-19T05:43:50+11:00",
+        "last_advert": 1768934630,
+        "last_seen": "2026-01-21T05:43:50+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -209,6 +209,14 @@
         "status": "active",
         "public_key": "1ba2d6e7d7772cf671298ffe8493f4f209af0b5292bd03b54622d4c8bb332307"
     },
+    "1c9a26efe50445d8c144e10d02fbc2dad64b81b99037c83401ba4c94689cd97a": {
+        "name": "🂎 - Rozelle 3",
+        "last_advert": 1768918355,
+        "last_seen": "2026-01-21T01:12:35+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "1c9a26efe50445d8c144e10d02fbc2dad64b81b99037c83401ba4c94689cd97a"
+    },
     "1dc33f4fb127c19c7da554e57a6c413ca7a0f696707f2105f6fe37a86086d8f8": {
         "name": "Engadine Kingswood",
         "last_advert": 1768896609,
@@ -311,8 +319,8 @@
     },
     "2ac7a1b2bf36d2b40b06b4d639b2631788c1f1b229fdcd361fe1569a461e9154": {
         "name": "🐉Nth Kelllyville (We",
-        "last_advert": 1768784991,
-        "last_seen": "2026-01-19T12:09:51+11:00",
+        "last_advert": 1768914595,
+        "last_seen": "2026-01-21T00:09:55+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -544,8 +552,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1768829975,
-        "last_seen": "2026-01-20T00:39:35+11:00",
+        "last_advert": 1768916371,
+        "last_seen": "2026-01-21T00:39:31+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -582,8 +590,8 @@
     },
     "4eddb6db310d70fd821c6783d0e3a8ac6d337b8d5c255f78e3f1bd86d5a0dcda": {
         "name": "⚡️ - Cherrybrook",
-        "last_advert": 1768868783,
-        "last_seen": "2026-01-20T11:26:23+11:00",
+        "last_advert": 1768911978,
+        "last_seen": "2026-01-20T23:26:18+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -617,8 +625,8 @@
     },
     "5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3": {
         "name": "👽West Hoxton",
-        "last_advert": 1768888806,
-        "last_seen": "2026-01-20T17:00:06+11:00",
+        "last_advert": 1768931298,
+        "last_seen": "2026-01-21T04:48:18+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -851,8 +859,8 @@
     },
     "75bfd1352a36cb8832a7659e6f94d222dfa23c1689a40add38bbae72d6ba405b": {
         "name": "⚡️ - Normanhurst",
-        "last_advert": 1768833700,
-        "last_seen": "2026-01-20T01:41:40+11:00",
+        "last_advert": 1768920302,
+        "last_seen": "2026-01-21T01:45:02+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -868,8 +876,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1768906798,
-        "last_seen": "2026-01-20T21:59:58+11:00",
+        "last_advert": 1768931998,
+        "last_seen": "2026-01-21T04:59:58+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1016,8 +1024,8 @@
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong S RP",
-        "last_advert": 1766572042,
-        "last_seen": "2025-12-24T21:27:22+11:00",
+        "last_advert": 1768921893,
+        "last_seen": "2026-01-21T02:11:33+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1214,8 +1222,8 @@
     },
     "ab687e3dbbef93fbba17101f2b81e498c50ca6c1898b941586baf9f15d37d575": {
         "name": "🛜LUX07 - Mt Gibralta",
-        "last_advert": 1768870144,
-        "last_seen": "2026-01-20T11:49:04+11:00",
+        "last_advert": 1768934944,
+        "last_seen": "2026-01-21T05:49:04+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1388,8 +1396,8 @@
     },
     "c3d46652f52cf5f8bc365713e634258f0f168b883b346ac6e8ff2cdfb645e8ee": {
         "name": "🂎 Mobile 1",
-        "last_advert": 1768739540,
-        "last_seen": "2026-01-18T23:32:20+11:00",
+        "last_advert": 1768912340,
+        "last_seen": "2026-01-20T23:32:20+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1477,8 +1485,8 @@
     },
     "cca082c919fda5782ff82931650b61108906bd01aac5745ab2d6e746d7b81c2b": {
         "name": "🧿 Wentworth Pt Hill",
-        "last_advert": 1768449235,
-        "last_seen": "2026-01-15T14:53:55+11:00",
+        "last_advert": 1768914319,
+        "last_seen": "2026-01-21T00:05:19+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1513,8 +1521,8 @@
     },
     "d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784": {
         "name": "🧿 Rhodes Brg Rpt",
-        "last_advert": 1768828335,
-        "last_seen": "2026-01-20T00:12:15+11:00",
+        "last_advert": 1768914735,
+        "last_seen": "2026-01-21T00:12:15+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
