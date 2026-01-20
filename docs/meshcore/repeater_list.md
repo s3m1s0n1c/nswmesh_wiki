@@ -52,6 +52,7 @@ As of 20 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 2E | 🛜LUX08 - Knights Hil | 2eabc4c665c7785321aafb5dbd8ae8e07355e64739e78d3fbb5cf790871cca05 | 2025-12-19T12:46:47+11:00 | ✔ | ✔ |  |
 | 30 | ⚡️ - Asquith | 30bdc69bc1db4377a17e33044dc61e1d95a33e4dadfeaabd87fe753c8794b224 | 2025-12-24T21:07:18+11:00 | ✔ | ✔ |  |
 | 32 | ⚡️ - Staples | 32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9 | 2026-01-15T15:51:48+11:00 | ✔ | ✔ | 43 |
+| 33 | ⚡ - Mt Colah Backup | 330d2ff9cff5264b463aedfdb0a7cce7618830f1bd4a54f82960802cfa08977f | 2026-01-20T16:49:39+11:00 | ✔ |  |  |
 | 33 | ⚡️ - Mt Colah | 3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b | 2026-01-20T07:31:30+11:00 | ✔ | ✔ |  |
 | 34 | ⛰️ CC Fill | 3424534bf381d5904e208213a0e592224de3b41a36461b2067249964405ca734 | 2026-01-01T10:21:21+11:00 | ✔ |  |  |
 | 35 | Loftus Heights G2 | 35d60039b97f8048498a40fe4b9c1cb4f7e5aec08ade9f5c845d87211e1a254d | 2026-01-11T14:14:41+11:00 | ✔ | ✔ |  |
@@ -71,7 +72,7 @@ As of 20 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 43 | 🌱Testing | 4337e2d5be4bdb10f1b1dfb20029d5ca47eac2bad323ce737232acfcc984e3f3 | 2026-01-18T17:22:53+11:00 |  |  |  |
 | 44 | 🌱Bridge Narrow🌤 | 44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280 | 2026-01-17T11:34:10+11:00 |  |  | 10 |
 | 45 | ☠️Elderslie Rpt | 45cb34e93fa2109b6de1ea9b034c90c8ca638fd9e5d86c297a67e4c9f9d8798b | 2026-01-18T20:16:20+11:00 | ✔ | ✔ |  |
-| 46 | 🌱TBA | 465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90 | 2026-01-14T16:02:31+11:00 | ✔ |  | 2 |
+| 46 | 🌱Nelson St☀️ | 465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90 | 2026-01-20T17:38:29+11:00 | ✔ | ✔ | 2 |
 | 47 | 🍆Haberfield MerrMan | 4703c8e6363830fddc200d6953e5c4b902086bb6cbde2e3de7efb3555494f1e4 | 2025-11-01T23:11:18+11:00 | ✔ | ✔ |  |
 | 48 | 🤠 Zak Mobile | 4853c66d6d2b3c028dbfc36da22921423ac71aeedddc1c3f43d29cc59dd21b8c | 2026-01-16T16:30:47+11:00 | ✔ |  |  |
 | 49 | ⚡️ - St Leonards | 49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff | 2026-01-20T00:39:35+11:00 | ✔ | ✔ | 60 |
@@ -83,7 +84,7 @@ As of 20 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 52 | 🥽pi repeater | 52e9dc94769258068aceae2e3b9e156fbcf9110dd97d5f8293808392947fdb99 | 2026-01-05T03:24:54+11:00 | ✔ |  |  |
 | 53 | ENGADINE REPEATER | 53eb11e51bae391c09d1aa7869dbbac4e40cfc1064feb2519afd3ba8e0d3024c | 2026-01-12T13:40:09+11:00 | ✔ | ✔ |  |
 | 56 | 🛃Blaxland Heltec | 563954ae5a649b52e16b013df23e814e214d467f214e4f08be0f35c7914fdf27 | 2026-01-20T03:58:54+11:00 | ✔ | ✔ |  |
-| 57 | 👽West Hoxton | 5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3 | 2026-01-19T00:20:28+11:00 | ✔ | ✔ |  |
+| 57 | 👽West Hoxton | 5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3 | 2026-01-20T17:00:06+11:00 | ✔ | ✔ |  |
 | 59 | oatl-meshcore | 5980a89f75c99b4e1637e0ec6b0089a5401e92a365cde33f3a69c7d6c7ecceef | 2025-11-14T01:03:59+11:00 |  |  |  |
 | 5A | 🐧MeshyRPT *Redfrn_ts | 5ae24e7d3900e968b137fd25e4b58cf95dfab5d62500dc8e24dfb87b6ad36408 | 2025-10-30T18:35:30+11:00 | ✔ |  |  |
 | 5C | trublion | 5c66d2077e7e4d8ac60474f84ccfb0338c93f6765b83bdb6ae96e2f2d24239a0 | 2025-11-29T14:18:05+11:00 |  | ✔ |  |
@@ -103,7 +104,7 @@ As of 20 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 69 | ✝️ESP TEST RPTR_2 | 6951b4d07279c64e5e545367ad6cfc893516b6cca8e12e579c86651a23f9eeaf | 2025-11-05T19:08:58+11:00 |  |  |  |
 | 6B | Badgee_Vadgee | 6b2a6449087e16068aacb9e04d95b5eef688aa981552f62649d46b7a01af735e | 2025-12-19T22:01:05+11:00 | ✔ | ✔ |  |
 | 6B | Waratah/Mayfield Room Server | 6bb6c2e5ddf46e684cc3da697155fa4e34b8067668832f23c3c99405e06706a6 |  |  |  |  |
-| 6C | 🧿 Wentworth Pt 01 | 6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6 | 2026-01-17T04:03:27+11:00 | ✔ | ✔ |  |
+| 6C | 🧿 Wentworth Pt 01 | 6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6 | 2026-01-20T15:43:53+11:00 | ✔ | ✔ |  |
 | 6D | 🛜LUX06 - Kiama | 6d4ec1f2204fafe7f778490dbdfcf1f96553a00ca16c33f2e942eaaa022b631c | 2024-06-07T05:52:35+10:00 | ✔ | ✔ |  |
 | 6E | Cleric 🥾 ✝️ | 6e6ee46839fc0f22ac4e15e34af5cba1807301e4ad4b3d31bac3e13c9c0748f5 |  |  |  |  |
 | 6E | ☢ Campbelltown | 6e8117f0edcb51a4c12cbad78a38cf58d1c9e2a45ff367ddee081d62909cbafc | 2026-01-18T15:10:37+11:00 | ✔ | ✔ |  |
@@ -115,7 +116,7 @@ As of 20 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 74 | BTQ Hornsby Fence | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2026-01-20T09:27:44+11:00 |  |  |  |
 | 75 | ⚡️ - Normanhurst | 75bfd1352a36cb8832a7659e6f94d222dfa23c1689a40add38bbae72d6ba405b | 2026-01-20T01:41:40+11:00 | ✔ | ✔ | 35 |
 | 75 | 🛜LUX11 - Figtree | 751ef72da4781301b88a004950ab41cea8edf74e135a86c2e9aa790f82bafaf6 | 2026-01-11T03:44:52+11:00 | ✔ |  |  |
-| 76 | BTQ Hornsby roof | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 | 2026-01-20T10:59:57+11:00 |  |  |  |
+| 76 | BTQ Hornsby roof | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 | 2026-01-20T16:59:57+11:00 |  |  |  |
 | 77 | BTQ Portable 4 | 77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c | 2026-01-11T22:04:23+11:00 |  |  |  |
 | 78 | BTQ - TBA1 | 780cded5bbb9660725ec6d6be529ec15e52527d3b227ff286da4bc8cf0820621 |  |  |  |  |
 | 79 | BTQ - TBA2 | 799f41451764e9ae739f5b26abfdbb9db5df6e60206b7640c0f2d28c9212a340 |  |  |  |  |
@@ -197,7 +198,7 @@ As of 20 January 2026, Meshcore identifies repeaters and roomservers using the f
 | CC | 🧿 Wentworth Pt Hill | cca082c919fda5782ff82931650b61108906bd01aac5745ab2d6e746d7b81c2b | 2026-01-15T14:53:55+11:00 | ✔ | ✔ |  |
 | CD | 🧿 Wentworth Pt 03 | cd6429f4eb38f0f4db86bceb4a450b1cb7f3090ddc63c59e51852959166042bc | 2026-01-19T13:15:51+11:00 | ✔ | ✔ |  |
 | CE | 🌏 2196 Roselands | ce43eb701b43da3d53eebc1e26eed92802d216c9af99185745d2cc0afd2f7687 | 2026-01-20T07:27:28+11:00 | ✔ | ✔ |  |
-| CF | 🧿 Wentworth Pt South | cfe09b3776ac57d7acc876316dd95ff8ae6467e3fb7f53542f1b2f95d51a14b1 | 2026-01-13T23:33:15+11:00 | ✔ | ✔ |  |
+| CF | 🧿 Wentworth Pt South | cfe09b3776ac57d7acc876316dd95ff8ae6467e3fb7f53542f1b2f95d51a14b1 | 2026-01-20T15:24:22+11:00 | ✔ | ✔ |  |
 | D0 | 🧿 Rhodes Brg Rpt | d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784 | 2026-01-20T00:12:15+11:00 | ✔ | ✔ |  |
 | D1 | Kingsway Cronulla Rptr | d1393cda9bbdbcb76a4234d9adff7de4e603bc07025c975b859438dac917a19c | 2026-01-18T01:10:28+11:00 | ✔ |  |  |
 | D1 | Zak Mobile | d1b9fd806c03c44332a3c12bd44b9529aa12b5576c02eadcd9e7bd48c2a620e4 | 2026-01-16T16:13:23+11:00 | ✔ |  |  |
