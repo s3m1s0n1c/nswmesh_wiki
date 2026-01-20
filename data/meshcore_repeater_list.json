@@ -363,8 +363,8 @@
     },
     "3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b": {
         "name": "⚡️ - Mt Colah",
-        "last_advert": 1768672386,
-        "last_seen": "2026-01-18T04:53:06+11:00",
+        "last_advert": 1768854690,
+        "last_seen": "2026-01-20T07:31:30+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -573,8 +573,8 @@
     },
     "4eddb6db310d70fd821c6783d0e3a8ac6d337b8d5c255f78e3f1bd86d5a0dcda": {
         "name": "⚡️ - Cherrybrook",
-        "last_advert": 1768825579,
-        "last_seen": "2026-01-19T23:26:19+11:00",
+        "last_advert": 1768868783,
+        "last_seen": "2026-01-20T11:26:23+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -835,8 +835,8 @@
     },
     "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a": {
         "name": "BTQ Hornsby Fence",
-        "last_advert": 1768847264,
-        "last_seen": "2026-01-20T05:27:44+11:00",
+        "last_advert": 1768861664,
+        "last_seen": "2026-01-20T09:27:44+11:00",
         "status": "active",
         "public_key": "74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a"
     },
@@ -858,9 +858,9 @@
         "public_key": "751ef72da4781301b88a004950ab41cea8edf74e135a86c2e9aa790f82bafaf6"
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
-        "name": "BTQ - Hornsby - Roof V",
-        "last_advert": 1768341957,
-        "last_seen": "2026-01-14T09:05:57+11:00",
+        "name": "BTQ Hornsby roof",
+        "last_advert": 1768867197,
+        "last_seen": "2026-01-20T10:59:57+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -940,8 +940,8 @@
     },
     "7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93": {
         "name": "👽Abbotsbury 2",
-        "last_advert": 1768733884,
-        "last_seen": "2026-01-18T21:58:04+11:00",
+        "last_advert": 1768863484,
+        "last_seen": "2026-01-20T09:58:04+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -968,6 +968,7 @@
         "last_advert": 1766549090,
         "last_seen": "2025-12-24T15:04:50+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "82fb6b9e0c3563990d7ef653731af07e79f4f26544d56f48522433aab92311b4"
     },
@@ -1134,6 +1135,7 @@
         "last_advert": 1768077891,
         "last_seen": "2026-01-11T07:44:51+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "a0fb57dd99dd39c805cd64e0d786259376aeec75bfd5f5616ae0d21810c98b49"
     },
@@ -1203,8 +1205,8 @@
     },
     "ab687e3dbbef93fbba17101f2b81e498c50ca6c1898b941586baf9f15d37d575": {
         "name": "🛜LUX07 - Mt Gibralta",
-        "last_advert": 1768848544,
-        "last_seen": "2026-01-20T05:49:04+11:00",
+        "last_advert": 1768870144,
+        "last_seen": "2026-01-20T11:49:04+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1402,8 +1404,8 @@
     },
     "c6789559dcd194671d258daf16a843e6ebd3b564ef378a1735d34b9f542f6337": {
         "name": "⚡ - Mt Jellore",
-        "last_advert": 1768768196,
-        "last_seen": "2026-01-19T07:29:56+11:00",
+        "last_advert": 1768854320,
+        "last_seen": "2026-01-20T07:25:20+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1484,9 +1486,10 @@
     },
     "ce43eb701b43da3d53eebc1e26eed92802d216c9af99185745d2cc0afd2f7687": {
         "name": "🌏 2196 Roselands",
-        "last_advert": 1768068944,
-        "last_seen": "2026-01-11T05:15:44+11:00",
+        "last_advert": 1768854448,
+        "last_seen": "2026-01-20T07:27:28+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "ce43eb701b43da3d53eebc1e26eed92802d216c9af99185745d2cc0afd2f7687"
     },
