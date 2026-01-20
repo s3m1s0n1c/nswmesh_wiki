@@ -361,6 +361,14 @@
         "status": "active",
         "public_key": "32d8f527e7a40cd2921e17d41d8379c0d49122cf3afe01fef84e9fb776dfe2c9"
     },
+    "330d2ff9cff5264b463aedfdb0a7cce7618830f1bd4a54f82960802cfa08977f": {
+        "name": "⚡ - Mt Colah Backup",
+        "last_advert": 1768888179,
+        "last_seen": "2026-01-20T16:49:39+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "330d2ff9cff5264b463aedfdb0a7cce7618830f1bd4a54f82960802cfa08977f"
+    },
     "3387c548c57be1310eff7250bad5da90872d2951704ffc1b1c81180eb122d48b": {
         "name": "⚡️ - Mt Colah",
         "last_advert": 1768854690,
@@ -509,10 +517,11 @@
         "public_key": "45cb34e93fa2109b6de1ea9b034c90c8ca638fd9e5d86c297a67e4c9f9d8798b"
     },
     "465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90": {
-        "name": "🌱TBA",
-        "last_advert": 1768366951,
-        "last_seen": "2026-01-14T16:02:31+11:00",
+        "name": "🌱Nelson St☀️",
+        "last_advert": 1768891109,
+        "last_seen": "2026-01-20T17:38:29+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90"
     },
@@ -608,8 +617,8 @@
     },
     "5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3": {
         "name": "👽West Hoxton",
-        "last_advert": 1768742428,
-        "last_seen": "2026-01-19T00:20:28+11:00",
+        "last_advert": 1768888806,
+        "last_seen": "2026-01-20T17:00:06+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -761,8 +770,8 @@
     },
     "6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6": {
         "name": "🧿 Wentworth Pt 01",
-        "last_advert": 1768583007,
-        "last_seen": "2026-01-17T04:03:27+11:00",
+        "last_advert": 1768884233,
+        "last_seen": "2026-01-20T15:43:53+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -859,8 +868,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1768867197,
-        "last_seen": "2026-01-20T10:59:57+11:00",
+        "last_advert": 1768888797,
+        "last_seen": "2026-01-20T16:59:57+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1495,8 +1504,8 @@
     },
     "cfe09b3776ac57d7acc876316dd95ff8ae6467e3fb7f53542f1b2f95d51a14b1": {
         "name": "🧿 Wentworth Pt South",
-        "last_advert": 1768307595,
-        "last_seen": "2026-01-13T23:33:15+11:00",
+        "last_advert": 1768883062,
+        "last_seen": "2026-01-20T15:24:22+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
