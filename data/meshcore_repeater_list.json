@@ -104,9 +104,9 @@
         "public_key": "0e94becbbd62c1ca39abdf3f464a505b80f238b8ae8ded05acffe9ffd815b76e"
     },
     "10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7": {
-        "name": "🌱Now Narrow Preset",
-        "last_advert": 1768829548,
-        "last_seen": "2026-01-20T00:32:28+11:00",
+        "name": "🌱Bridge 915.8🌤",
+        "last_advert": 1768895612,
+        "last_seen": "2026-01-20T18:53:32+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -211,8 +211,8 @@
     },
     "1dc33f4fb127c19c7da554e57a6c413ca7a0f696707f2105f6fe37a86086d8f8": {
         "name": "Engadine Kingswood",
-        "last_advert": 1768826687,
-        "last_seen": "2026-01-19T23:44:47+11:00",
+        "last_advert": 1768896609,
+        "last_seen": "2026-01-20T19:10:09+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -518,8 +518,8 @@
     },
     "465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90": {
         "name": "🌱Nelson St☀️",
-        "last_advert": 1768891109,
-        "last_seen": "2026-01-20T17:38:29+11:00",
+        "last_advert": 1768895697,
+        "last_seen": "2026-01-20T18:54:57+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -868,8 +868,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1768888797,
-        "last_seen": "2026-01-20T16:59:57+11:00",
+        "last_advert": 1768906798,
+        "last_seen": "2026-01-20T21:59:58+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -949,8 +949,8 @@
     },
     "7fc5d3017d8e369090daaf9984825369818b684dd68c338f6d7e11a2cac6cd93": {
         "name": "👽Abbotsbury 2",
-        "last_advert": 1768863484,
-        "last_seen": "2026-01-20T09:58:04+11:00",
+        "last_advert": 1768906684,
+        "last_seen": "2026-01-20T21:58:04+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1284,8 +1284,8 @@
     },
     "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f": {
         "name": "😬-Davidson",
-        "last_advert": 1768812523,
-        "last_seen": "2026-01-19T19:48:43+11:00",
+        "last_advert": 1768898923,
+        "last_seen": "2026-01-20T19:48:43+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1427,8 +1427,8 @@
     },
     "c77a8062554cc78882f5f12b5c8671adc40d3909ad021649a26428e2dc837f94": {
         "name": "🧿 Wentworth Pt Brg",
-        "last_advert": 1768646070,
-        "last_seen": "2026-01-17T21:34:30+11:00",
+        "last_advert": 1768903363,
+        "last_seen": "2026-01-20T21:02:43+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1797,6 +1797,14 @@
         "name": "MMTV - TBA",
         "status": "active",
         "public_key": "f4feed.........................................................."
+    },
+    "f5b41c43d5600c89bdf60fd411b94bd734ab1c764a1bc49e92e669a36d3be913": {
+        "name": "Ryde Repeater 🔁",
+        "last_advert": 1768906472,
+        "last_seen": "2026-01-20T21:54:32+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "f5b41c43d5600c89bdf60fd411b94bd734ab1c764a1bc49e92e669a36d3be913"
     },
     "f58e1ca5e95ca03d516b80c4839ecd8c76855f63e9e9dea371f3384b24a1b705": {
         "name": "✝️ St Finbar's",
