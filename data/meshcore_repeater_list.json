@@ -23,16 +23,16 @@
     },
     "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436": {
         "name": "⚡- Testing",
-        "last_advert": 1768921968,
-        "last_seen": "2026-01-21T02:12:48+11:00",
+        "last_advert": 1768965215,
+        "last_seen": "2026-01-21T14:13:35+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436"
     },
     "065b3b1ac951fe7655e6eb4b9d9bf07bc68d177d189f3fbbfcaa1daa3b25d647": {
         "name": "🂎 - Rozelle",
-        "last_advert": 1768934630,
-        "last_seen": "2026-01-21T05:43:50+11:00",
+        "last_advert": 1768976089,
+        "last_seen": "2026-01-21T17:14:49+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -288,6 +288,7 @@
         "last_advert": 1767051248,
         "last_seen": "2025-12-30T10:34:08+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "26ee27ffba58f7ab77b21952881973968fc014f01dfa37a818e3bbaa12623b9f"
     },
@@ -423,6 +424,7 @@
     },
     "3737f169fbea4a1dfb300c91a8d9b7efc3c216e377090f925fdbaad41e9b8a96": {
         "name": "Odinsdad reserved",
+        "internet_location": true,
         "status": "parked",
         "public_key": "3737f169fbea4a1dfb300c91a8d9b7efc3c216e377090f925fdbaad41e9b8a96"
     },
@@ -441,8 +443,8 @@
     },
     "3aae8ba3cf3ae81db78579c50e3af18522238fc66342a5d5e5e582ac9e098d43": {
         "name": "🏍️Ashfield Nth",
-        "last_advert": 1768010406,
-        "last_seen": "2026-01-10T13:00:06+11:00",
+        "last_advert": 1768976707,
+        "last_seen": "2026-01-21T17:25:07+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -526,8 +528,8 @@
     },
     "465fd4bacf9e86fb62135899955497f2f9083f38e8e31ea538c087b0a6f12f90": {
         "name": "🌱Nelson St☀️",
-        "last_advert": 1768895697,
-        "last_seen": "2026-01-20T18:54:57+11:00",
+        "last_advert": 1768982018,
+        "last_seen": "2026-01-21T18:53:38+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -553,8 +555,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1768916371,
-        "last_seen": "2026-01-21T00:39:31+11:00",
+        "last_advert": 1768959571,
+        "last_seen": "2026-01-21T12:39:31+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -877,8 +879,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1768953597,
-        "last_seen": "2026-01-21T10:59:57+11:00",
+        "last_advert": 1768994922,
+        "last_seen": "2026-01-21T22:28:42+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1025,8 +1027,8 @@
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong S RP",
-        "last_advert": 1768921893,
-        "last_seen": "2026-01-21T02:11:33+11:00",
+        "last_advert": 1768965093,
+        "last_seen": "2026-01-21T14:11:33+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1062,6 +1064,14 @@
         "advert_location": true,
         "status": "active",
         "public_key": "8dd83466219fd7763cb0c4372152943b2d63b152403175acd0ce10d7e65eb778"
+    },
+    "8f2e2ae74e765eeaed3325754262f7e762a4787f56348380c5bcacba08e1d5d7": {
+        "name": "🐨 DAN (Mobile)",
+        "last_advert": 1768994566,
+        "last_seen": "2026-01-21T22:22:46+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "8f2e2ae74e765eeaed3325754262f7e762a4787f56348380c5bcacba08e1d5d7"
     },
     "92c62c22e5117d957dc53320864c3d7ea4303d7e2d6161b1cd72663fb88d0545": {
         "name": "Blackheath",
@@ -1431,6 +1441,7 @@
     },
     "c6d0c81dd69443709f5a4bed9ef10209fbcf786d9b5b32f80519e4c314b2060f": {
         "name": "🇦🇺 TEMP RPT02",
+        "internet_location": true,
         "status": "active",
         "public_key": "c6d0c81dd69443709f5a4bed9ef10209fbcf786d9b5b32f80519e4c314b2060f"
     },
@@ -1573,6 +1584,7 @@
         "last_advert": 1764775906,
         "last_seen": "2025-12-04T02:31:46+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "d390a076723d74e679e5fe5aea733d6e9f074c08406cb3fbae583bec0cc8304e"
     },
