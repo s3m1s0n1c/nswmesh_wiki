@@ -23,8 +23,8 @@
     },
     "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436": {
         "name": "⚡- Testing",
-        "last_advert": 1768965215,
-        "last_seen": "2026-01-21T14:13:35+11:00",
+        "last_advert": 1769008329,
+        "last_seen": "2026-01-22T02:12:09+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436"
@@ -105,8 +105,8 @@
     },
     "10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7": {
         "name": "🌱Bridge 915.8🌤",
-        "last_advert": 1768895612,
-        "last_seen": "2026-01-20T18:53:32+11:00",
+        "last_advert": 1769002349,
+        "last_seen": "2026-01-22T00:32:29+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -144,6 +144,15 @@
         "advert_location": true,
         "status": "active",
         "public_key": "1420cc930316bc0811f6e144191347507707e76adeeaae0fe0f12a7a86394609"
+    },
+    "1520eb70934f47f856bb40ea24ba9c719344445322d5a551d94e60ebd8e2e7d3": {
+        "name": "Mt. Tennent",
+        "last_advert": 1769006494,
+        "last_seen": "2026-01-22T01:41:34+11:00",
+        "advert_location": true,
+        "internet_location": true,
+        "status": "active",
+        "public_key": "1520eb70934f47f856bb40ea24ba9c719344445322d5a551d94e60ebd8e2e7d3"
     },
     "156020ec5d2ff6bd2e371b8942cf7b4b57c7feec5d21467e05a380dd79d287a1": {
         "name": "Wallys Rpt Thornleigh",
@@ -210,17 +219,17 @@
         "public_key": "1ba2d6e7d7772cf671298ffe8493f4f209af0b5292bd03b54622d4c8bb332307"
     },
     "1c9a26efe50445d8c144e10d02fbc2dad64b81b99037c83401ba4c94689cd97a": {
-        "name": "🂎 - Rozelle 3",
-        "last_advert": 1768918355,
-        "last_seen": "2026-01-21T01:12:35+11:00",
+        "name": "🂎 - Rozelle B",
+        "last_advert": 1768999103,
+        "last_seen": "2026-01-21T23:38:23+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "1c9a26efe50445d8c144e10d02fbc2dad64b81b99037c83401ba4c94689cd97a"
     },
     "1dc33f4fb127c19c7da554e57a6c413ca7a0f696707f2105f6fe37a86086d8f8": {
         "name": "Engadine Kingswood",
-        "last_advert": 1768948538,
-        "last_seen": "2026-01-21T09:35:38+11:00",
+        "last_advert": 1769013338,
+        "last_seen": "2026-01-22T03:35:38+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -555,8 +564,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️ - St Leonards",
-        "last_advert": 1768959571,
-        "last_seen": "2026-01-21T12:39:31+11:00",
+        "last_advert": 1769002771,
+        "last_seen": "2026-01-22T00:39:31+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -628,8 +637,8 @@
     },
     "5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3": {
         "name": "👽West Hoxton",
-        "last_advert": 1768937152,
-        "last_seen": "2026-01-21T06:25:52+11:00",
+        "last_advert": 1769017698,
+        "last_seen": "2026-01-22T04:48:18+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -879,8 +888,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1768994922,
-        "last_seen": "2026-01-21T22:28:42+11:00",
+        "last_advert": 1769018398,
+        "last_seen": "2026-01-22T04:59:58+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1027,8 +1036,8 @@
     },
     "8903b198269360a64f50f9d47b474590e55a6c048a7b1e84b4c77e1e7283abd6": {
         "name": "☂️HP Tallawong S RP",
-        "last_advert": 1768965093,
-        "last_seen": "2026-01-21T14:11:33+11:00",
+        "last_advert": 1769008293,
+        "last_seen": "2026-01-22T02:11:33+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1070,6 +1079,7 @@
         "last_advert": 1768994566,
         "last_seen": "2026-01-21T22:22:46+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "8f2e2ae74e765eeaed3325754262f7e762a4787f56348380c5bcacba08e1d5d7"
     },
@@ -1233,8 +1243,8 @@
     },
     "ab687e3dbbef93fbba17101f2b81e498c50ca6c1898b941586baf9f15d37d575": {
         "name": "🛜LUX07 - Mt Gibralta",
-        "last_advert": 1768934944,
-        "last_seen": "2026-01-21T05:49:04+11:00",
+        "last_advert": 1769021344,
+        "last_seen": "2026-01-22T05:49:04+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1295,11 +1305,20 @@
     },
     "b513ebb098245bdf2fd2b4d87b4eebbed155ddcf5c4e741513b0fa64760d7a95": {
         "name": "Plateau RPT",
-        "last_advert": 1764469320,
-        "last_seen": "2025-11-30T13:22:00+11:00",
+        "last_advert": 1769014716,
+        "last_seen": "2026-01-22T03:58:36+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "b513ebb098245bdf2fd2b4d87b4eebbed155ddcf5c4e741513b0fa64760d7a95"
+    },
+    "b5233e937c0bfab524b714c072a031c630aa7a6fe8af3d8b2ea845414ecbe532": {
+        "name": "⛰️ CBD Fill",
+        "last_advert": 1769014568,
+        "last_seen": "2026-01-22T03:56:08+11:00",
+        "advert_location": true,
+        "internet_location": true,
+        "status": "active",
+        "public_key": "b5233e937c0bfab524b714c072a031c630aa7a6fe8af3d8b2ea845414ecbe532"
     },
     "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f": {
         "name": "😬-Davidson",
@@ -1558,8 +1577,8 @@
     },
     "d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6": {
         "name": "🇦🇺 Rydalmere RPT",
-        "last_advert": 1768761963,
-        "last_seen": "2026-01-19T05:46:03+11:00",
+        "last_advert": 1769026584,
+        "last_seen": "2026-01-22T07:16:24+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
