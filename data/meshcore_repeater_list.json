@@ -219,8 +219,8 @@
     },
     "1dc33f4fb127c19c7da554e57a6c413ca7a0f696707f2105f6fe37a86086d8f8": {
         "name": "Engadine Kingswood",
-        "last_advert": 1768896609,
-        "last_seen": "2026-01-20T19:10:09+11:00",
+        "last_advert": 1768948538,
+        "last_seen": "2026-01-21T09:35:38+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -268,8 +268,8 @@
     },
     "2430ca4c321b88eafd261443710de91130a5921fe0dcb1275e600fc4766f70bd": {
         "name": "🌏 2211 Padstow 02",
-        "last_advert": 1768024602,
-        "last_seen": "2026-01-10T16:56:42+11:00",
+        "last_advert": 1768936136,
+        "last_seen": "2026-01-21T06:08:56+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "2430ca4c321b88eafd261443710de91130a5921fe0dcb1275e600fc4766f70bd"
@@ -547,6 +547,7 @@
         "last_advert": 1768541447,
         "last_seen": "2026-01-16T16:30:47+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "4853c66d6d2b3c028dbfc36da22921423ac71aeedddc1c3f43d29cc59dd21b8c"
     },
@@ -625,8 +626,8 @@
     },
     "5743cb5018e72a77cb2012b354098fd99b4f84c55ca23f91a9bbbfb989b486d3": {
         "name": "👽West Hoxton",
-        "last_advert": 1768931298,
-        "last_seen": "2026-01-21T04:48:18+11:00",
+        "last_advert": 1768937152,
+        "last_seen": "2026-01-21T06:25:52+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -679,9 +680,9 @@
         "public_key": "5fd2e6799b61349398c7ef2106e549afcad0515ec82b4d4a77fa57c070af7999"
     },
     "60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867": {
-        "name": "Hornsby dbb Repeater",
-        "last_advert": 1768419009,
-        "last_seen": "2026-01-15T06:30:09+11:00",
+        "name": "🎛️Hornsby dbb Repe",
+        "last_advert": 1768937338,
+        "last_seen": "2026-01-21T06:28:58+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867"
@@ -876,8 +877,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1768931998,
-        "last_seen": "2026-01-21T04:59:58+11:00",
+        "last_advert": 1768953597,
+        "last_seen": "2026-01-21T10:59:57+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
