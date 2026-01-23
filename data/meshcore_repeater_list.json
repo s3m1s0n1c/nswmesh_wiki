@@ -228,8 +228,8 @@
     },
     "1dc33f4fb127c19c7da554e57a6c413ca7a0f696707f2105f6fe37a86086d8f8": {
         "name": "Engadine Kingswood",
-        "last_advert": 1769088938,
-        "last_seen": "2026-01-23T00:35:38+11:00",
+        "last_advert": 1769121338,
+        "last_seen": "2026-01-23T09:35:38+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -381,8 +381,8 @@
     },
     "330d2ff9cff5264b463aedfdb0a7cce7618830f1bd4a54f82960802cfa08977f": {
         "name": "⚡ - Mt Colah Backup",
-        "last_advert": 1769085642,
-        "last_seen": "2026-01-22T23:40:42+11:00",
+        "last_advert": 1769128842,
+        "last_seen": "2026-01-23T11:40:42+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "330d2ff9cff5264b463aedfdb0a7cce7618830f1bd4a54f82960802cfa08977f"
@@ -888,8 +888,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1769104798,
-        "last_seen": "2026-01-23T04:59:58+11:00",
+        "last_advert": 1769126397,
+        "last_seen": "2026-01-23T10:59:57+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1427,9 +1427,9 @@
         "public_key": "c349ffeb68ed1169be0775af01085e7c0fdabd18e1e327f8b56b4499835c7645"
     },
     "c3d46652f52cf5f8bc365713e634258f0f168b883b346ac6e8ff2cdfb645e8ee": {
-        "name": "🂎 Mobile 1",
-        "last_advert": 1768912340,
-        "last_seen": "2026-01-20T23:32:20+11:00",
+        "name": "🂎 - Rozelle L",
+        "last_advert": 1769128340,
+        "last_seen": "2026-01-23T11:32:20+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1580,8 +1580,8 @@
     },
     "d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6": {
         "name": "🇦🇺 Rydalmere RPT",
-        "last_advert": 1769044584,
-        "last_seen": "2026-01-22T12:16:24+11:00",
+        "last_advert": 1769116584,
+        "last_seen": "2026-01-23T08:16:24+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
