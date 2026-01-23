@@ -37,7 +37,7 @@ As of 23 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 1A | Gym_RePortable | 1adc8fa347c61f28812c1b20710ad97b0f958daccfa8e0accf3b64fb2303c5e8 | 2025-11-27T20:27:07+11:00 |  | ✔ |  |
 | 1B | ✝️ Portable | 1ba2d6e7d7772cf671298ffe8493f4f209af0b5292bd03b54622d4c8bb332307 | 2025-12-21T23:13:32+11:00 |  |  |  |
 | 1C | 🂎 - Rozelle B | 1c9a26efe50445d8c144e10d02fbc2dad64b81b99037c83401ba4c94689cd97a | 2026-01-23T01:12:00+11:00 | ✔ |  |  |
-| 1D | Engadine Kingswood | 1dc33f4fb127c19c7da554e57a6c413ca7a0f696707f2105f6fe37a86086d8f8 | 2026-01-23T09:35:38+11:00 | ✔ | ✔ |  |
+| 1D | Engadine Kingswood | 1dc33f4fb127c19c7da554e57a6c413ca7a0f696707f2105f6fe37a86086d8f8 | 2026-01-23T12:35:38+11:00 | ✔ | ✔ |  |
 | 20 | 🌏 2211 Padstow | 202f1356b085c24490c9bacb13c9032b95c6991f8bbf28bb856c40a50b1463e5 | 2025-12-13T14:37:35+11:00 | ✔ |  |  |
 | 21 | 🌱Harris Park | 21980d422c1cf3ad05049a46d85b9b68db33049c16cfcec9b0f34a6c097a3d37 | 2026-01-17T11:29:34+11:00 | ✔ | ✔ |  |
 | 22 | ✝️ Cleric Test Repe | 22e3daa55da62589ee5c93fe0313762d9268f7f5243fb20ba1d279ccf4a53524 |  |  |  |  |
@@ -144,6 +144,7 @@ As of 23 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 8C | 〽️ 2190 - S3 Test | 8c7a99ff9eb28c219d26cbe431b352a1a3a596b73a310a555a0b358834846248 | 2026-01-12T21:26:49+11:00 |  |  |  |
 | 8D | 📡YER NBSYD 01 | 8dd83466219fd7763cb0c4372152943b2d63b152403175acd0ce10d7e65eb778 | 2025-11-23T02:48:26+11:00 | ✔ |  |  |
 | 8F | 🐨 DAN (Mobile) | 8f2e2ae74e765eeaed3325754262f7e762a4787f56348380c5bcacba08e1d5d7 | 2026-01-21T22:22:46+11:00 | ✔ | ✔ |  |
+| 91 | VK2CAQ No2 | 919ae38b687a9394041ffab7fc66a2b0120b7bbffefc1b6f038a7cbeb890dd70 |  |  |  |  |
 | 92 | Blackheath | 92c62c22e5117d957dc53320864c3d7ea4303d7e2d6161b1cd72663fb88d0545 | 2025-12-26T00:07:42+11:00 | ✔ |  |  |
 | 94 | 🛥️Haberfield 777 | 94debdd1bbdbfffcd1519beb1da95c1878d8eb63888d96310b72a73ce8dad08a | 2026-01-18T14:33:13+11:00 | ✔ | ✔ |  |
 | 95 | CarlSagan-G2 | 95a6ae9f43ff31e8d1541ed017b48e79486bdd4df00c42f9eb34e7f9b415d476 | 2026-01-11T15:54:26+11:00 | ✔ |  |  |
