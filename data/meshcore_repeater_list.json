@@ -22,7 +22,7 @@
         "public_key": "02b09c5b8c55e1d82f4bd95c3741f82b3f7fafc4675749d4ace649b728446f19"
     },
     "03a78585476b57aadf56d4ab87764aad9e3ddb204907182924edee1a5f9b0e13": {
-        "name": "33T2 TBA",
+        "name": "VK2CAQ No1",
         "status": "active",
         "public_key": "03a78585476b57aadf56d4ab87764aad9e3ddb204907182924edee1a5f9b0e13"
     },
@@ -893,8 +893,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1769129997,
-        "last_seen": "2026-01-23T11:59:57+11:00",
+        "last_advert": 1769133597,
+        "last_seen": "2026-01-23T12:59:57+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1564,8 +1564,8 @@
     },
     "d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784": {
         "name": "🧿 Rhodes Brg Rpt",
-        "last_advert": 1768914735,
-        "last_seen": "2026-01-21T00:12:15+11:00",
+        "last_advert": 1769135001,
+        "last_seen": "2026-01-23T13:23:21+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
