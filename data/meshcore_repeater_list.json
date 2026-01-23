@@ -28,8 +28,8 @@
     },
     "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436": {
         "name": "⚡- Testing",
-        "last_advert": 1769094848,
-        "last_seen": "2026-01-23T02:14:08+11:00",
+        "last_advert": 1769180840,
+        "last_seen": "2026-01-24T02:07:20+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436"
@@ -110,8 +110,8 @@
     },
     "10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7": {
         "name": "🌱Bridge 915.8🌤",
-        "last_advert": 1769002349,
-        "last_seen": "2026-01-22T00:32:29+11:00",
+        "last_advert": 1769175149,
+        "last_seen": "2026-01-24T00:32:29+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -233,8 +233,8 @@
     },
     "1dc33f4fb127c19c7da554e57a6c413ca7a0f696707f2105f6fe37a86086d8f8": {
         "name": "Engadine Kingswood",
-        "last_advert": 1769132138,
-        "last_seen": "2026-01-23T12:35:38+11:00",
+        "last_advert": 1769178925,
+        "last_seen": "2026-01-24T01:35:25+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -386,8 +386,8 @@
     },
     "330d2ff9cff5264b463aedfdb0a7cce7618830f1bd4a54f82960802cfa08977f": {
         "name": "⚡ - Mt Colah Backup",
-        "last_advert": 1769128842,
-        "last_seen": "2026-01-23T11:40:42+11:00",
+        "last_advert": 1769172042,
+        "last_seen": "2026-01-23T23:40:42+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "330d2ff9cff5264b463aedfdb0a7cce7618830f1bd4a54f82960802cfa08977f"
@@ -526,8 +526,8 @@
     },
     "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280": {
         "name": "🌱Bridge Narrow🌤",
-        "last_advert": 1768610050,
-        "last_seen": "2026-01-17T11:34:10+11:00",
+        "last_advert": 1769175256,
+        "last_seen": "2026-01-24T00:34:16+11:00",
         "status": "active",
         "public_key": "44bd5a8a4008317e20d95d485d67483be35c0b08152c87f2cbbedc7eaab2d280"
     },
@@ -568,9 +568,9 @@
         "public_key": "4853c66d6d2b3c028dbfc36da22921423ac71aeedddc1c3f43d29cc59dd21b8c"
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
-        "name": "⚡️ - St Leonards",
-        "last_advert": 1769002771,
-        "last_seen": "2026-01-22T00:39:31+11:00",
+        "name": "⚡️₂ - St Leonards",
+        "last_advert": 1769175579,
+        "last_seen": "2026-01-24T00:39:39+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -893,8 +893,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1769133597,
-        "last_seen": "2026-01-23T12:59:57+11:00",
+        "last_advert": 1769191198,
+        "last_seen": "2026-01-24T04:59:58+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1152,9 +1152,10 @@
         "public_key": "9da11581c752e3233b73c514e945595aa1f1c36c5062ee9cff50a2dfa196bb33"
     },
     "9ea6f7ac22a2d0f3db17c62ff915ec4eca0b1631d0d735510fdb7b96444b77df": {
-        "name": "🌱TBA",
-        "last_advert": 1768728791,
-        "last_seen": "2026-01-18T20:33:11+11:00",
+        "name": "🌱Cahill Street☀️",
+        "last_advert": 1769175736,
+        "last_seen": "2026-01-24T00:42:16+11:00",
+        "advert_location": true,
         "status": "parked",
         "public_key": "9ea6f7ac22a2d0f3db17c62ff915ec4eca0b1631d0d735510fdb7b96444b77df"
     },
@@ -1564,8 +1565,8 @@
     },
     "d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784": {
         "name": "🧿 Rhodes Brg Rpt",
-        "last_advert": 1769135001,
-        "last_seen": "2026-01-23T13:23:21+11:00",
+        "last_advert": 1769172763,
+        "last_seen": "2026-01-23T23:52:43+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
