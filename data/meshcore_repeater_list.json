@@ -21,6 +21,11 @@
         "status": "active",
         "public_key": "02b09c5b8c55e1d82f4bd95c3741f82b3f7fafc4675749d4ace649b728446f19"
     },
+    "03a78585476b57aadf56d4ab87764aad9e3ddb204907182924edee1a5f9b0e13": {
+        "name": "33T2 TBA",
+        "status": "active",
+        "public_key": "03a78585476b57aadf56d4ab87764aad9e3ddb204907182924edee1a5f9b0e13"
+    },
     "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436": {
         "name": "⚡- Testing",
         "last_advert": 1769094848,
@@ -888,8 +893,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1769126397,
-        "last_seen": "2026-01-23T10:59:57+11:00",
+        "last_advert": 1769129997,
+        "last_seen": "2026-01-23T11:59:57+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
