@@ -233,8 +233,8 @@
     },
     "1dc33f4fb127c19c7da554e57a6c413ca7a0f696707f2105f6fe37a86086d8f8": {
         "name": "Engadine Kingswood",
-        "last_advert": 1769121338,
-        "last_seen": "2026-01-23T09:35:38+11:00",
+        "last_advert": 1769132138,
+        "last_seen": "2026-01-23T12:35:38+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1088,6 +1088,11 @@
         "internet_location": true,
         "status": "active",
         "public_key": "8f2e2ae74e765eeaed3325754262f7e762a4787f56348380c5bcacba08e1d5d7"
+    },
+    "919ae38b687a9394041ffab7fc66a2b0120b7bbffefc1b6f038a7cbeb890dd70": {
+        "name": "VK2CAQ No2",
+        "status": "active",
+        "public_key": "919ae38b687a9394041ffab7fc66a2b0120b7bbffefc1b6f038a7cbeb890dd70"
     },
     "92c62c22e5117d957dc53320864c3d7ea4303d7e2d6161b1cd72663fb88d0545": {
         "name": "Blackheath",
