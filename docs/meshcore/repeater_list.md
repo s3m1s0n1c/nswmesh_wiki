@@ -10,7 +10,7 @@ As of 23 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 00 | Reserved by MeshCore | 0000000000000000000000000000000000000000000000000000000000000000 |  |  |  |  |
 | 01 | ☢️ Bradbury | 012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab | 2026-01-18T15:07:36+11:00 | ✔ | ✔ |  |
 | 02 | 🎩 SI - Alfa | 02b09c5b8c55e1d82f4bd95c3741f82b3f7fafc4675749d4ace649b728446f19 | 2025-12-20T21:46:49+11:00 | ✔ |  |  |
-| 03 | 33T2 TBA | 03a78585476b57aadf56d4ab87764aad9e3ddb204907182924edee1a5f9b0e13 |  |  |  |  |
+| 03 | VK2CAQ No1 | 03a78585476b57aadf56d4ab87764aad9e3ddb204907182924edee1a5f9b0e13 |  |  |  |  |
 | 05 | ⚡- Testing | 05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436 | 2026-01-23T02:14:08+11:00 |  | ✔ |  |
 | 06 | 🂎 - Rozelle F | 065b3b1ac951fe7655e6eb4b9d9bf07bc68d177d189f3fbbfcaa1daa3b25d647 | 2026-01-23T03:31:28+11:00 | ✔ | ✔ |  |
 | 07 | 🛜LUX12 - Cringila Hi | 07e350d61983defd89e3a6677c3bf581ec28e83be6a97d1a90757de6974cec6f | 2025-11-26T09:55:44+11:00 | ✔ |  |  |
@@ -119,7 +119,7 @@ As of 23 January 2026, Meshcore identifies repeaters and roomservers using the f
 | 74 | BTQ Hornsby Fence | 74ae7f4d30f0a513196477aea65193f7af40edbf4b5e1a1a0d6b3251da6cfb7a | 2026-01-20T09:27:44+11:00 |  |  |  |
 | 75 | ⚡️ - Normanhurst | 75bfd1352a36cb8832a7659e6f94d222dfa23c1689a40add38bbae72d6ba405b | 2026-01-21T01:45:02+11:00 | ✔ | ✔ | 35 |
 | 75 | 🛜LUX11 - Figtree | 751ef72da4781301b88a004950ab41cea8edf74e135a86c2e9aa790f82bafaf6 | 2026-01-11T03:44:52+11:00 | ✔ |  |  |
-| 76 | BTQ Hornsby roof | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 | 2026-01-23T11:59:57+11:00 |  |  |  |
+| 76 | BTQ Hornsby roof | 76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40 | 2026-01-23T12:59:57+11:00 |  |  |  |
 | 77 | BTQ Portable 4 | 77f5829de4fe5dc4212408f1013d613fa98b6a32b827006aba6e559fbdcdc01c | 2026-01-11T22:04:23+11:00 |  |  |  |
 | 78 | BTQ - TBA1 | 780cded5bbb9660725ec6d6be529ec15e52527d3b227ff286da4bc8cf0820621 |  |  |  |  |
 | 79 | BTQ - TBA2 | 799f41451764e9ae739f5b26abfdbb9db5df6e60206b7640c0f2d28c9212a340 |  |  |  |  |
@@ -205,7 +205,7 @@ As of 23 January 2026, Meshcore identifies repeaters and roomservers using the f
 | CD | 🧿 Wentworth Pt 03 | cd6429f4eb38f0f4db86bceb4a450b1cb7f3090ddc63c59e51852959166042bc | 2026-01-19T13:15:51+11:00 | ✔ | ✔ |  |
 | CE | 🌏 2196 Roselands | ce43eb701b43da3d53eebc1e26eed92802d216c9af99185745d2cc0afd2f7687 | 2026-01-20T07:27:28+11:00 | ✔ | ✔ |  |
 | CF | 🧿 Wentworth Pt South | cfe09b3776ac57d7acc876316dd95ff8ae6467e3fb7f53542f1b2f95d51a14b1 | 2026-01-20T15:24:22+11:00 | ✔ | ✔ |  |
-| D0 | 🧿 Rhodes Brg Rpt | d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784 | 2026-01-21T00:12:15+11:00 | ✔ | ✔ |  |
+| D0 | 🧿 Rhodes Brg Rpt | d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784 | 2026-01-23T13:23:21+11:00 | ✔ | ✔ |  |
 | D1 | Kingsway Cronulla Rptr | d1393cda9bbdbcb76a4234d9adff7de4e603bc07025c975b859438dac917a19c | 2026-01-18T01:10:28+11:00 | ✔ | ✔ |  |
 | D1 | Zak Mobile | d1b9fd806c03c44332a3c12bd44b9529aa12b5576c02eadcd9e7bd48c2a620e4 | 2026-01-16T16:13:23+11:00 | ✔ |  |  |
 | D1 | 🇦🇺 Rydalmere RPT | d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6 | 2026-01-23T08:16:24+11:00 | ✔ | ✔ |  |
