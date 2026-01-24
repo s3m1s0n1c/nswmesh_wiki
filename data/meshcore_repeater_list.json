@@ -28,8 +28,8 @@
     },
     "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436": {
         "name": "⚡- Testing",
-        "last_advert": 1769180840,
-        "last_seen": "2026-01-24T02:07:20+11:00",
+        "last_advert": 1769223985,
+        "last_seen": "2026-01-24T14:06:25+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436"
@@ -119,8 +119,8 @@
     },
     "113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642": {
         "name": "🌱Chester Street",
-        "last_advert": 1768782840,
-        "last_seen": "2026-01-19T11:34:00+11:00",
+        "last_advert": 1769214840,
+        "last_seen": "2026-01-24T11:34:00+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642"
@@ -233,8 +233,8 @@
     },
     "1dc33f4fb127c19c7da554e57a6c413ca7a0f696707f2105f6fe37a86086d8f8": {
         "name": "Engadine Kingswood",
-        "last_advert": 1769178925,
-        "last_seen": "2026-01-24T01:35:25+11:00",
+        "last_advert": 1769222125,
+        "last_seen": "2026-01-24T13:35:25+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -386,8 +386,8 @@
     },
     "330d2ff9cff5264b463aedfdb0a7cce7618830f1bd4a54f82960802cfa08977f": {
         "name": "⚡ - Mt Colah Backup",
-        "last_advert": 1769172042,
-        "last_seen": "2026-01-23T23:40:42+11:00",
+        "last_advert": 1769215238,
+        "last_seen": "2026-01-24T11:40:38+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "330d2ff9cff5264b463aedfdb0a7cce7618830f1bd4a54f82960802cfa08977f"
@@ -569,8 +569,8 @@
     },
     "49296fae69a742e2c7be2092712860320cd2cec80d69bf64b637d4eeda9ebdff": {
         "name": "⚡️₂ - St Leonards",
-        "last_advert": 1769175579,
-        "last_seen": "2026-01-24T00:39:39+11:00",
+        "last_advert": 1769218779,
+        "last_seen": "2026-01-24T12:39:39+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -607,8 +607,8 @@
     },
     "4eddb6db310d70fd821c6783d0e3a8ac6d337b8d5c255f78e3f1bd86d5a0dcda": {
         "name": "⚡️ - Cherrybrook",
-        "last_advert": 1769084778,
-        "last_seen": "2026-01-22T23:26:18+11:00",
+        "last_advert": 1769214389,
+        "last_seen": "2026-01-24T11:26:29+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -795,8 +795,8 @@
     },
     "6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6": {
         "name": "🧿 Wentworth Pt 01",
-        "last_advert": 1769101347,
-        "last_seen": "2026-01-23T04:02:27+11:00",
+        "last_advert": 1769231367,
+        "last_seen": "2026-01-24T16:09:27+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -893,8 +893,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1769191198,
-        "last_seen": "2026-01-24T04:59:58+11:00",
+        "last_advert": 1769234398,
+        "last_seen": "2026-01-24T16:59:58+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1153,8 +1153,8 @@
     },
     "9ea6f7ac22a2d0f3db17c62ff915ec4eca0b1631d0d735510fdb7b96444b77df": {
         "name": "🌱Cahill Street☀️",
-        "last_advert": 1769175736,
-        "last_seen": "2026-01-24T00:42:16+11:00",
+        "last_advert": 1769211729,
+        "last_seen": "2026-01-24T10:42:09+11:00",
         "advert_location": true,
         "status": "parked",
         "public_key": "9ea6f7ac22a2d0f3db17c62ff915ec4eca0b1631d0d735510fdb7b96444b77df"
@@ -1718,6 +1718,14 @@
         "last_seen": "2026-01-10T16:23:24+11:00",
         "status": "active",
         "public_key": "de4a2a2e304a716eef07e0a5fb4dc4fe5122bda5a64661efd89454c0d1a74699"
+    },
+    "de611d189a1717efe56c4fc48cba61c569ef445e76f01533d06e1f4742631aba": {
+        "name": "⚡₂ - Roof",
+        "last_advert": 1769235358,
+        "last_seen": "2026-01-24T17:15:58+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "de611d189a1717efe56c4fc48cba61c569ef445e76f01533d06e1f4742631aba"
     },
     "e0ae901ebb6f7f2049076724bb4c67c54f441159d060c0001e6410f03547b734": {
         "name": "✝️In for Repair",
