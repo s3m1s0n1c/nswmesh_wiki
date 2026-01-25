@@ -28,16 +28,16 @@
     },
     "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436": {
         "name": "⚡- Testing",
-        "last_advert": 1769310625,
-        "last_seen": "2026-01-25T14:10:25+11:00",
+        "last_advert": 1769353586,
+        "last_seen": "2026-01-26T02:06:26+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "05095b197301f0fabe7f57136de9e65d26492822a39daf21c8221c8e69309436"
     },
     "065b3b1ac951fe7655e6eb4b9d9bf07bc68d177d189f3fbbfcaa1daa3b25d647": {
         "name": "🂎 - Rozelle F",
-        "last_advert": 1769099488,
-        "last_seen": "2026-01-23T03:31:28+11:00",
+        "last_advert": 1769358688,
+        "last_seen": "2026-01-26T03:31:28+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -233,8 +233,8 @@
     },
     "1dc33f4fb127c19c7da554e57a6c413ca7a0f696707f2105f6fe37a86086d8f8": {
         "name": "Engadine Kingswood",
-        "last_advert": 1769297725,
-        "last_seen": "2026-01-25T10:35:25+11:00",
+        "last_advert": 1769362697,
+        "last_seen": "2026-01-26T04:38:17+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -584,6 +584,13 @@
         "status": "active",
         "public_key": "4ba9c51b34d518ec8f22bf3f93621d1a11b67368818ae228adc63dbff250dd6a"
     },
+    "4beca7a538a9193af89452bcb4f77ef62315a2f7b63e22816df39f7af77d7e04": {
+        "name": "⚡₂ - Newcastle",
+        "last_advert": 1769347494,
+        "last_seen": "2026-01-26T00:24:54+11:00",
+        "status": "active",
+        "public_key": "4beca7a538a9193af89452bcb4f77ef62315a2f7b63e22816df39f7af77d7e04"
+    },
     "4ce7f924255d56e44b3afc071b6fa64e2fd3ed4c4242a19a9a0abf99973fa7d0": {
         "name": "Bosco Repeater",
         "last_advert": 1766391184,
@@ -901,8 +908,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1769338798,
-        "last_seen": "2026-01-25T21:59:58+11:00",
+        "last_advert": 1769363998,
+        "last_seen": "2026-01-26T04:59:58+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1365,6 +1372,14 @@
         "status": "active",
         "public_key": "b8f998565f8403ee500e4e98a2cb7058ef1e8101506c21f4fd15524bc433f846"
     },
+    "b8796e9c404f7ca0b6250c2ab3901fc4ced893b562ecb285767a13f0a1f1d6ea": {
+        "name": "⚡₂ - Mt Colah",
+        "last_advert": 1769364171,
+        "last_seen": "2026-01-26T05:02:51+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "b8796e9c404f7ca0b6250c2ab3901fc4ced893b562ecb285767a13f0a1f1d6ea"
+    },
     "b9bb336fae78e1e1d37ada112d82f282ddaf0aacf68d961b16d520c14498a6aa": {
         "name": "Odinsdad reserved",
         "status": "parked",
@@ -1599,8 +1614,8 @@
     },
     "d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6": {
         "name": "🇦🇺 Rydalmere RPT",
-        "last_advert": 1769332584,
-        "last_seen": "2026-01-25T20:16:24+11:00",
+        "last_advert": 1769368584,
+        "last_seen": "2026-01-26T06:16:24+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1687,6 +1702,14 @@
         "name": "Kearns Rpt 2 testing",
         "status": "active",
         "public_key": "da26e5ab39f0136594f2120418fdda6d2b4aaaa8cf7bb4b8742f10100fa23a2f"
+    },
+    "da30eaae04b5210f705488190ef07cf4bb2ea63f9a1248083351189bcff56d52": {
+        "name": "⚡₂ - Beecroft",
+        "last_advert": 1769365684,
+        "last_seen": "2026-01-26T05:28:04+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "da30eaae04b5210f705488190ef07cf4bb2ea63f9a1248083351189bcff56d52"
     },
     "db3c00f64c0241827c83ac294dab21173fdb9bebadcdf22c12eb1b38d4cca15e": {
         "name": "☂️ HP Bankstown Rep",
@@ -1790,6 +1813,13 @@
         "status": "active",
         "public_key": "e7240e0cb85fc6e433ca86e91d8e804258bef1113d7cfc248434be5eaab8ad0a"
     },
+    "e832aec88f4710acf16ac4608401076d693d9a3627519fe2401c58498d773bd3": {
+        "name": "⚡₂ - Enfield",
+        "last_advert": 1769347373,
+        "last_seen": "2026-01-26T00:22:53+11:00",
+        "status": "active",
+        "public_key": "e832aec88f4710acf16ac4608401076d693d9a3627519fe2401c58498d773bd3"
+    },
     "e95170cc52e2d5a39bacc92fb60922bfefff12d553bc56e733533709943dfcab": {
         "name": "✝️Fairlight",
         "last_advert": 1763268940,
@@ -1817,6 +1847,7 @@
         "last_advert": 1768825586,
         "last_seen": "2026-01-19T23:26:26+11:00",
         "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "ec86118a46bb33e96bf9607700279837d7d54f6dae707666c59dbe4e11f62eef"
     },
