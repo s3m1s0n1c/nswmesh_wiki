@@ -109,10 +109,9 @@
         "public_key": "0e94becbbd62c1ca39abdf3f464a505b80f238b8ae8ded05acffe9ffd815b76e"
     },
     "10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7": {
-        "name": "🌱Bridge 915.8🌤",
-        "last_advert": 1769175149,
-        "last_seen": "2026-01-24T00:32:29+11:00",
-        "advert_location": true,
+        "name": "🌱TBA",
+        "last_advert": 1769379813,
+        "last_seen": "2026-01-26T09:23:33+11:00",
         "internet_location": true,
         "status": "active",
         "public_key": "10126e49163959fa977e873b3627a0f1c2ac29401696c3c9d140947c0743cdb7"
@@ -233,8 +232,8 @@
     },
     "1dc33f4fb127c19c7da554e57a6c413ca7a0f696707f2105f6fe37a86086d8f8": {
         "name": "Engadine Kingswood",
-        "last_advert": 1769362697,
-        "last_seen": "2026-01-26T04:38:17+11:00",
+        "last_advert": 1769384297,
+        "last_seen": "2026-01-26T10:38:17+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -650,8 +649,8 @@
     },
     "57da904f93611ea0e2d1dcd88988b430935fb0da39915071c4ac80d9a9418a25": {
         "name": "⚡₂ - Normanhurst",
-        "last_advert": 1769341025,
-        "last_seen": "2026-01-25T22:37:05+11:00",
+        "last_advert": 1769384928,
+        "last_seen": "2026-01-26T10:48:48+11:00",
         "status": "active",
         "public_key": "57da904f93611ea0e2d1dcd88988b430935fb0da39915071c4ac80d9a9418a25"
     },
@@ -712,8 +711,8 @@
     },
     "60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867": {
         "name": "🎛️Hornsby dbb Repe",
-        "last_advert": 1768937338,
-        "last_seen": "2026-01-21T06:28:58+11:00",
+        "last_advert": 1769369258,
+        "last_seen": "2026-01-26T06:27:38+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "60a660ebd05bfe4c82c5a83f8ce1d380feb2064ba604e7925954209ff0735867"
@@ -756,8 +755,8 @@
     },
     "66facbbed204c766052803f612edf79032ecbf5b813dedf71ea73cc8710b938b": {
         "name": "33t2-mobile repeater",
-        "last_advert": 1766712842,
-        "last_seen": "2025-12-26T12:34:02+11:00",
+        "last_advert": 1769384433,
+        "last_seen": "2026-01-26T10:40:33+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "66facbbed204c766052803f612edf79032ecbf5b813dedf71ea73cc8710b938b"
@@ -908,8 +907,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1769363998,
-        "last_seen": "2026-01-26T04:59:58+11:00",
+        "last_advert": 1769385597,
+        "last_seen": "2026-01-26T10:59:57+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1570,8 +1569,8 @@
     },
     "ce43eb701b43da3d53eebc1e26eed92802d216c9af99185745d2cc0afd2f7687": {
         "name": "🌏 2196 Roselands",
-        "last_advert": 1768854448,
-        "last_seen": "2026-01-20T07:27:28+11:00",
+        "last_advert": 1769372848,
+        "last_seen": "2026-01-26T07:27:28+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1614,8 +1613,8 @@
     },
     "d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6": {
         "name": "🇦🇺 Rydalmere RPT",
-        "last_advert": 1769368584,
-        "last_seen": "2026-01-26T06:16:24+11:00",
+        "last_advert": 1769386584,
+        "last_seen": "2026-01-26T11:16:24+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1664,6 +1663,9 @@
     },
     "d61f71d0ccb08424e0c5aa87f1e22a7eb14419a8f7a2d3a9e43359fc0c3f8a04": {
         "name": "🇦🇺 Ermington RPT2",
+        "last_advert": 1769383096,
+        "last_seen": "2026-01-26T10:18:16+11:00",
+        "advert_location": true,
         "internet_location": true,
         "status": "active",
         "public_key": "d61f71d0ccb08424e0c5aa87f1e22a7eb14419a8f7a2d3a9e43359fc0c3f8a04"
