@@ -34,7 +34,7 @@ We're experimenters, bushwalkers, emergency‑comms nerds and tinkerers. Jump in
 
 {% for group in grouped_pages %}
   {% assign folder_name = group.name | remove: "/docs/" | remove: "/" | replace: "-", " " | capitalize %}
-  {% unless group.name == "/docs/" or group.name contains "meshcore" or group.name contains "builds" or group.name contains "meshtastic" %}
+  {% unless group.name == "/docs/" or group.name == "/docs/meshcore/" or group.name == "/docs/meshcore" or group.name contains "builds" or group.name contains "meshtastic" %}
 - {{ folder_name }}
 {% for page in group.items %}
     - [{{ page.title | escape }}]({{ page.url | relative_url }})
