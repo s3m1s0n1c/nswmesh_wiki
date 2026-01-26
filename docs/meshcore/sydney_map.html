@@ -2,5 +2,33 @@
 layout: default
 title: Sydney Meshcore Map
 permalink: /docs/meshcore/meshcore_map/
-redirect_to: https://mesh-map.e-l33t.org/
 ---
+
+<style>
+    /* Remove default padding/margins and make iframe fullscreen */
+    body, html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
+    }
+    
+    iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: none;
+    }
+</style>
+
+<iframe src="https://mesh-map.e-l33t.org/" 
+        title="Sydney Meshcore Map"
+        allowfullscreen>
+</iframe>
+
+<noscript>
+    <p>This page requires iframe support. Please visit the map directly at: 
+    <a href="https://mesh-map.e-l33t.org/">https://mesh-map.e-l33t.org/</a></p>
+</noscript>
