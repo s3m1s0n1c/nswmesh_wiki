@@ -585,8 +585,8 @@
     },
     "4beca7a538a9193af89452bcb4f77ef62315a2f7b63e22816df39f7af77d7e04": {
         "name": "⚡₂ - Newcastle",
-        "last_advert": 1769477077,
-        "last_seen": "2026-01-27T12:24:37+11:00",
+        "last_advert": 1769520274,
+        "last_seen": "2026-01-28T00:24:34+11:00",
         "status": "active",
         "public_key": "4beca7a538a9193af89452bcb4f77ef62315a2f7b63e22816df39f7af77d7e04"
     },
@@ -817,8 +817,8 @@
     },
     "6c305622b9596d8b5277406c76fd869b2b11f53e807c868a7775e24e9aaa19e6": {
         "name": "🧿 Wentworth Pt 01",
-        "last_advert": 1769491321,
-        "last_seen": "2026-01-27T16:22:01+11:00",
+        "last_advert": 1769534710,
+        "last_seen": "2026-01-28T04:25:10+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -915,8 +915,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1769511598,
-        "last_seen": "2026-01-27T21:59:58+11:00",
+        "last_advert": 1769536798,
+        "last_seen": "2026-01-28T04:59:58+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1022,8 +1022,8 @@
     },
     "82fb6b9e0c3563990d7ef653731af07e79f4f26544d56f48522433aab92311b4": {
         "name": "🎩 SIR v2.0",
-        "last_advert": 1769506356,
-        "last_seen": "2026-01-27T20:32:36+11:00",
+        "last_advert": 1769527707,
+        "last_seen": "2026-01-28T02:28:27+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1338,14 +1338,6 @@
         "status": "active",
         "public_key": "b32b2c2f40c49de8d0fe44a130913cbed08e59aef0a7fc83d994932a7a8f6c03"
     },
-    "b513ebb098245bdf2fd2b4d87b4eebbed155ddcf5c4e741513b0fa64760d7a95": {
-        "name": "Plateau RPT",
-        "last_advert": 1769014716,
-        "last_seen": "2026-01-22T03:58:36+11:00",
-        "advert_location": true,
-        "status": "active",
-        "public_key": "b513ebb098245bdf2fd2b4d87b4eebbed155ddcf5c4e741513b0fa64760d7a95"
-    },
     "b5233e937c0bfab524b714c072a031c630aa7a6fe8af3d8b2ea845414ecbe532": {
         "name": "⛰️ CBD Fill",
         "last_advert": 1769014568,
@@ -1354,6 +1346,14 @@
         "internet_location": true,
         "status": "active",
         "public_key": "b5233e937c0bfab524b714c072a031c630aa7a6fe8af3d8b2ea845414ecbe532"
+    },
+    "b513ebb098245bdf2fd2b4d87b4eebbed155ddcf5c4e741513b0fa64760d7a95": {
+        "name": "⛰️ Plateau RPT",
+        "last_advert": 1769538511,
+        "last_seen": "2026-01-28T05:28:31+11:00",
+        "advert_location": true,
+        "status": "active",
+        "public_key": "b513ebb098245bdf2fd2b4d87b4eebbed155ddcf5c4e741513b0fa64760d7a95"
     },
     "b61dfc51d85f6ce03e06647d26df2dd9e34f36aed8c6b9d9551438f693ef039f": {
         "name": "😬-Davidson",
@@ -1562,8 +1562,8 @@
     },
     "cca082c919fda5782ff82931650b61108906bd01aac5745ab2d6e746d7b81c2b": {
         "name": "🧿 Wentworth Pt Hill",
-        "last_advert": 1769331628,
-        "last_seen": "2026-01-25T20:00:28+11:00",
+        "last_advert": 1769522591,
+        "last_seen": "2026-01-28T01:03:11+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1828,8 +1828,8 @@
     },
     "e832aec88f4710acf16ac4608401076d693d9a3627519fe2401c58498d773bd3": {
         "name": "⚡₂ - Enfield",
-        "last_advert": 1769476961,
-        "last_seen": "2026-01-27T12:22:41+11:00",
+        "last_advert": 1769520161,
+        "last_seen": "2026-01-28T00:22:41+11:00",
         "status": "active",
         "public_key": "e832aec88f4710acf16ac4608401076d693d9a3627519fe2401c58498d773bd3"
     },
