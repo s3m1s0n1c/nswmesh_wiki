@@ -457,8 +457,8 @@
     },
     "38b0c615ea50ff318a136d88741b886c566ccec2a116c1b0b6bd5f863d2217b7": {
         "name": "♾️ MMTV - Belfield",
-        "last_advert": 1769924460,
-        "last_seen": "2026-02-01T16:41:00+11:00",
+        "last_advert": 1770063284,
+        "last_seen": "2026-02-03T07:14:44+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -677,8 +677,8 @@
     },
     "57da904f93611ea0e2d1dcd88988b430935fb0da39915071c4ac80d9a9418a25": {
         "name": "⚡₂ - Normo TBA",
-        "last_advert": 1770032919,
-        "last_seen": "2026-02-02T22:48:39+11:00",
+        "last_advert": 1770076119,
+        "last_seen": "2026-02-03T10:48:39+11:00",
         "status": "active",
         "public_key": "57da904f93611ea0e2d1dcd88988b430935fb0da39915071c4ac80d9a9418a25"
     },
@@ -942,8 +942,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1770055198,
-        "last_seen": "2026-02-03T04:59:58+11:00",
+        "last_advert": 1770101998,
+        "last_seen": "2026-02-03T17:59:58+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1255,10 +1255,19 @@
         "status": "active",
         "public_key": "a1144ec0394c8c3ffb635234f22b4cfa5721ebb78b511aed21acf71e00f5035b"
     },
+    "a20990423f7084b2724f6c3ff40da67db49952992bf791ff9a3f501775d8a3bf": {
+        "name": "GUILDFORD",
+        "last_advert": 1770061099,
+        "last_seen": "2026-02-03T06:38:19+11:00",
+        "advert_location": true,
+        "internet_location": true,
+        "status": "active",
+        "public_key": "a20990423f7084b2724f6c3ff40da67db49952992bf791ff9a3f501775d8a3bf"
+    },
     "a3f93576f8f463cd1fa8159b8876484ebd99e36c999c64f31b5f9668a367f72f": {
         "name": "VK2NAP V4 Repeater",
-        "last_advert": 1769925491,
-        "last_seen": "2026-02-01T16:58:11+11:00",
+        "last_advert": 1770098291,
+        "last_seen": "2026-02-03T16:58:11+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1459,6 +1468,11 @@
         "status": "parked",
         "public_key": "b9bb336fae78e1e1d37ada112d82f282ddaf0aacf68d961b16d520c14498a6aa"
     },
+    "bae752f552512fcfc97874444931039e79557011e2fc10e5d8895f83603e1487": {
+        "name": "👽Abbotsbury 3",
+        "status": "active",
+        "public_key": "bae752f552512fcfc97874444931039e79557011e2fc10e5d8895f83603e1487"
+    },
     "bb18fef9928d2582f07bc4cfb77e2d057c0bbfd6873381a64f433961d0da71da": {
         "name": "✝️Nepean River",
         "internet_location": true,
@@ -1498,8 +1512,8 @@
     },
     "bff18b65ff23ea30915511c905902a636752e14acfcde1028608b972ee931b10": {
         "name": "〽️ - Wiley Park SLR",
-        "last_advert": 1770009092,
-        "last_seen": "2026-02-02T16:11:32+11:00",
+        "last_advert": 1770073892,
+        "last_seen": "2026-02-03T10:11:32+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1692,8 +1706,8 @@
     },
     "d15122b9c3410b09f310b51a081b9388a3a4b36b9f6cd818f29b578ccf76e5f6": {
         "name": "🇦🇺 Rydalmere RPT",
-        "last_advert": 1769926585,
-        "last_seen": "2026-02-01T17:16:25+11:00",
+        "last_advert": 1770070585,
+        "last_seen": "2026-02-03T09:16:25+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1836,8 +1850,8 @@
     },
     "de611d189a1717efe56c4fc48cba61c569ef445e76f01533d06e1f4742631aba": {
         "name": "⚡₂ - Roof",
-        "last_advert": 1770014797,
-        "last_seen": "2026-02-02T17:46:37+11:00",
+        "last_advert": 1770101197,
+        "last_seen": "2026-02-03T17:46:37+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "de611d189a1717efe56c4fc48cba61c569ef445e76f01533d06e1f4742631aba"
@@ -1911,6 +1925,7 @@
         "name": "⚡₂ - Enfield TBA",
         "last_advert": 1769995356,
         "last_seen": "2026-02-02T12:22:36+11:00",
+        "internet_location": true,
         "status": "active",
         "public_key": "e832aec88f4710acf16ac4608401076d693d9a3627519fe2401c58498d773bd3"
     },
@@ -2076,6 +2091,10 @@
     },
     "fafeed5bf63d9e59d05884a93e9550a23ac8849a2fd659ae79c886a3af88d67e": {
         "name": "♾️ MMTV - V4 - 2",
+        "last_advert": 1770071982,
+        "last_seen": "2026-02-03T09:39:42+11:00",
+        "advert_location": true,
+        "internet_location": true,
         "status": "active",
         "public_key": "fafeed5bf63d9e59d05884a93e9550a23ac8849a2fd659ae79c886a3af88d67e"
     },
