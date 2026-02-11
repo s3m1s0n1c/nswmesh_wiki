@@ -103,8 +103,8 @@
     },
     "0e609a99afedadb93d6c8ba82ca451fb489437b4cf9461af974fb0f3d10e1957": {
         "name": "⚡₂ - Asquith Temp",
-        "last_advert": 1770746091,
-        "last_seen": "2026-02-11T04:54:51+11:00",
+        "last_advert": 1770789291,
+        "last_seen": "2026-02-11T16:54:51+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "0e609a99afedadb93d6c8ba82ca451fb489437b4cf9461af974fb0f3d10e1957"
@@ -617,6 +617,7 @@
     },
     "4aaaaaa50d884b58fa81edf982d1d719b8c6b403e0121ee73b4f3fff12a64022": {
         "name": "☠️ Faulconbridge",
+        "internet_location": true,
         "status": "active",
         "public_key": "4aaaaaa50d884b58fa81edf982d1d719b8c6b403e0121ee73b4f3fff12a64022"
     },
@@ -674,6 +675,11 @@
         "status": "active",
         "public_key": "507268f59df5fb8faa4ef7e691b5204bf5ea9a21ff00f07837c924e1efaf3604"
     },
+    "51b567a8321f2b772c5ca24e874eb96321912da36e81ef9dae81b197b68ac569": {
+        "name": "☢️ Macquarie Fields",
+        "status": "active",
+        "public_key": "51b567a8321f2b772c5ca24e874eb96321912da36e81ef9dae81b197b68ac569"
+    },
     "52e9dc94769258068aceae2e3b9e156fbcf9110dd97d5f8293808392947fdb99": {
         "name": "🥽pi repeater",
         "last_advert": 1767543894,
@@ -708,8 +714,8 @@
     },
     "57da904f93611ea0e2d1dcd88988b430935fb0da39915071c4ac80d9a9418a25": {
         "name": "⚡₂ - Mt Colah Temp",
-        "last_advert": 1770746103,
-        "last_seen": "2026-02-11T04:55:03+11:00",
+        "last_advert": 1770789303,
+        "last_seen": "2026-02-11T16:55:03+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "57da904f93611ea0e2d1dcd88988b430935fb0da39915071c4ac80d9a9418a25"
@@ -982,8 +988,8 @@
     },
     "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40": {
         "name": "BTQ Hornsby roof",
-        "last_advert": 1770785998,
-        "last_seen": "2026-02-11T15:59:58+11:00",
+        "last_advert": 1770793198,
+        "last_seen": "2026-02-11T17:59:58+11:00",
         "status": "active",
         "public_key": "76c3b2e48b2caf54adf2a9256279daf62f8533c6bea8e407e237f3d6d1233b40"
     },
@@ -1238,6 +1244,7 @@
     },
     "99be53e59b294e66efb4aed755ccd6a2d1a592b62e69ee3c38cb68e41b878dad": {
         "name": "🐝 Kelso Repeater",
+        "internet_location": true,
         "status": "active",
         "public_key": "99be53e59b294e66efb4aed755ccd6a2d1a592b62e69ee3c38cb68e41b878dad"
     },
@@ -1469,6 +1476,11 @@
         "status": "active",
         "public_key": "b32b2c2f40c49de8d0fe44a130913cbed08e59aef0a7fc83d994932a7a8f6c03"
     },
+    "b41c02a02b9425d7d4c2d612ef348456f56d47c1a739e2255ff71c28e0cf4924": {
+        "name": "☢️ Raby",
+        "status": "active",
+        "public_key": "b41c02a02b9425d7d4c2d612ef348456f56d47c1a739e2255ff71c28e0cf4924"
+    },
     "b5233e937c0bfab524b714c072a031c630aa7a6fe8af3d8b2ea845414ecbe532": {
         "name": "⛰️ CBD Fill",
         "last_advert": 1769014568,
@@ -1645,8 +1657,8 @@
     },
     "c6d0c81dd69443709f5a4bed9ef10209fbcf786d9b5b32f80519e4c314b2060f": {
         "name": "🇦🇺 TEMP RPT02",
-        "last_advert": 1770268911,
-        "last_seen": "2026-02-05T16:21:51+11:00",
+        "last_advert": 1770787311,
+        "last_seen": "2026-02-11T16:21:51+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1817,8 +1829,8 @@
     },
     "d61f71d0ccb08424e0c5aa87f1e22a7eb14419a8f7a2d3a9e43359fc0c3f8a04": {
         "name": "🇦🇺 Ermington RPT2",
-        "last_advert": 1770657497,
-        "last_seen": "2026-02-10T04:18:17+11:00",
+        "last_advert": 1770787097,
+        "last_seen": "2026-02-11T16:18:17+11:00",
         "advert_location": true,
         "internet_location": true,
         "status": "active",
@@ -1912,8 +1924,8 @@
     },
     "de611d189a1717efe56c4fc48cba61c569ef445e76f01533d06e1f4742631aba": {
         "name": "⚡₂ - Roof",
-        "last_advert": 1770705990,
-        "last_seen": "2026-02-10T17:46:30+11:00",
+        "last_advert": 1770792390,
+        "last_seen": "2026-02-11T17:46:30+11:00",
         "advert_location": true,
         "status": "active",
         "public_key": "de611d189a1717efe56c4fc48cba61c569ef445e76f01533d06e1f4742631aba"
